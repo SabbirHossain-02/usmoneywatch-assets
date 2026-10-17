@@ -107,7 +107,8 @@ const NEWS = {
   jobs: '"jobs report" OR unemployment OR "job market" OR layoffs',
   debt: '"national debt" OR "federal deficit" OR "Treasury yields" OR "debt ceiling"',
 };
-const unesc = s => s.replace(/<!\[CDATA\[|\]\]>/g, '').replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>');
+const unesc = s => s.replace(/<!\[CDATA\[|\]\]>/g, '').replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+  .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16))).replace(/&#(\d+);/g, (_, d) => String.fromCodePoint(+d)).replace(/&nbsp;/g, ' ').replace(/&apos;/g, "'");
 async function news(q) {
   const r = await fetch('https://news.google.com/rss/search?' + new URLSearchParams({ q: q + ' when:2d', hl: 'en-US', gl: 'US', ceid: 'US:en' }));
   const xml = await r.text();
@@ -127,6 +128,66 @@ async function news(q) {
 }
 const TRUSTED = /^(Reuters|AP News|Associated Press|CNBC|Bloomberg|The Wall Street Journal|WSJ|MarketWatch|Yahoo Finance|CNN|CNN Business|NPR|The New York Times|The Washington Post|Fox Business|CBS News|NBC News|ABC News|Axios|Barron's|Forbes|Business Insider|Fortune|USA Today|USA TODAY|The Hill|Politico|POLITICO|Financial Times|The Economist|Bankrate|Investopedia|Kiplinger|Los Angeles Times|The Guardian|BBC|Morningstar|Realtor\.com|Redfin|Zillow|Federal Reserve|U\.S\. Bureau of Labor Statistics|NerdWallet|Time|TIME|Newsweek|Quartz|Marketplace|PBS|The Atlantic|Vox|Semafor)$/i;
 const BLOCKED = /bullion|stocktwits|simply wall|motley fool|norada|benzinga|zacks|seeking alpha|investorplace|gurufocus|marketbeat|tipranks|coincentral|crypto|press release|prnewswire|globenewswire|business wire|accesswire|ein presswire/i;
+
+// ---------- Publisher feeds (with images), sorted into topics ----------
+const FEEDS = [
+  ['MarketWatch', 'https://feeds.content.dowjones.io/public/rss/mw_topstories'],
+  ['The New York Times', 'https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml'],
+  ['NPR', 'https://feeds.npr.org/1017/rss.xml'],
+  ['The Guardian', 'https://www.theguardian.com/us/business/rss'],
+  ['CNBC', 'https://www.cnbc.com/id/20910258/device/rss/rss.html'],
+  ['CNBC', 'https://www.cnbc.com/id/10000115/device/rss/rss.html'],
+  ['CBS News', 'https://www.cbsnews.com/latest/rss/moneywatch'],
+];
+const TOPIC = {
+  housing: /mortgage|housing|home ?price|homebuy|home sales|homeowner|real estate|rent(s|ers|al)?\b|homebuilder|home loan/i,
+  inflation: /inflation|\bcpi\b|consumer prices|price(s)? (rise|jump|fall|increase)|tariff|gas prices|grocer|cost of living|egg prices/i,
+  jobs: /\bjobs?\b|unemploy|labor market|hiring|layoff|payroll|wages?\b|workers|job openings|jobless/i,
+  debt: /national debt|deficit|treasur(y|ies)|bond (market|yields)|yields?\b|budget|debt ceiling|shutdown|federal spending/i,
+};
+const ECON = /econom|fed|federal reserve|stocks?|wall street|markets?|rates?|recession|gdp|spending|consumer|earnings|dollar|tariff|trade|oil|banks?|tax|retire|savings|401\(k\)|social security|wages?|salar|credit|loan|price/i;
+const UA = { 'user-agent': 'Mozilla/5.0 (compatible; USMoneyWatchBot/1.0; +https://usmoneywatch.blogspot.com)' };
+const strip = t => unesc(t).replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+async function feed([source, url]) {
+  const xml = await (await fetch(url, { headers: UA, signal: AbortSignal.timeout(15000) })).text();
+  return xml.split(/<item[\s>]/).slice(1).map(it => {
+    const g = t => (it.match(new RegExp(`<${t}[^>]*>([\\s\\S]*?)</${t}>`)) || [])[1] || '';
+    const imgs = [...it.matchAll(/<(?:media:content|media:thumbnail|enclosure)[^>]*url="([^"]+)"[^>]*>/g)].map(m => m[0])
+      .filter(t => !/type="(audio|video)/.test(t)).map(t => ({ url: unesc(t.match(/url="([^"]+)"/)[1]), w: +(t.match(/width="(\d+)"/) || [0, 0])[1] }));
+    const img = imgs.sort((x, y) => (y.w > 1300 ? 0 : y.w) - (x.w > 1300 ? 0 : x.w))[0];
+    return { title: strip(g('title')), source, link: strip(g('link')) || (it.match(/<link>([^<]+)/) || [])[1], at: new Date(strip(g('pubDate')) || Date.now()).toISOString(), image: img && img.url, desc: strip(g('description')).slice(0, 220) };
+  }).filter(n => n.title && n.link && Date.now() - Date.parse(n.at) < 3 * 864e5);
+}
+async function ogImage(url) {
+  try {
+    const r = await fetch(url, { headers: UA, signal: AbortSignal.timeout(8000) });
+    const html = (await r.text()).slice(0, 300000);
+    const m = html.match(/<meta[^>]+(?:property|name)=["'](?:og:image|twitter:image)["'][^>]*content=["']([^"']+)/i) || html.match(/<meta[^>]+content=["']([^"']+)["'][^>]*(?:property|name)=["'](?:og:image|twitter:image)["']/i);
+    return m ? unesc(m[1]) : null;
+  } catch { return null; }
+}
+async function buildNews() {
+  const pool = [], seen = new Set();
+  for (const f of FEEDS) {
+    try { for (const n of await feed(f)) { const k = n.title.toLowerCase().slice(0, 60); if (!seen.has(k)) { seen.add(k); pool.push(n); } } }
+    catch (e) { log('feed failed', f[1], e.message); }
+  }
+  pool.sort((a, b) => b.at.localeCompare(a.at));
+  // newest first, but take outlets in turn so no single publisher fills a list
+  const mix = list => { const by = {}; for (const n of list) (by[n.source] = by[n.source] || []).push(n); const out = []; for (let i = 0; out.length < list.length; i++) for (const q of Object.values(by)) if (q[i]) out.push(q[i]); return out; };
+  const econ = n => ECON.test(n.title) || Object.values(TOPIC).some(re => re.test(n.title));
+  const out = { top: mix(pool.filter(econ)).slice(0, 12) };
+  for (const [k, re] of Object.entries(TOPIC)) out[k] = mix(pool.filter(n => re.test(n.title))).slice(0, 8);
+  // topics the publisher feeds do not cover well are topped up from Google News (headline only, no image)
+  for (const [k, q] of Object.entries(NEWS)) {
+    if ((out[k] || []).length >= 6) continue;
+    try { const g = await news(q); out[k] = [...(out[k] || []), ...g.filter(n => !(out[k] || []).some(o => o.title == n.title))].slice(0, 8); } catch (e) { log('google news failed', k, e.message); }
+  }
+  // fetch the article's own preview image when the feed had none (direct publisher links only)
+  const need = [...new Set(Object.values(out).flat().filter(n => !n.image && !/news\.google\.com/.test(n.link)))].slice(0, 40);
+  await Promise.all(need.map(async n => { n.image = await ogImage(n.link); }));
+  return out;
+}
 
 // ---------- YouTube (public uploads; Shorts are skipped) ----------
 async function videos() {
@@ -169,13 +230,11 @@ for (const [k, s] of Object.entries(SECTIONS)) {
 }
 
 site.news = site.news || {};
-for (const [k, q] of Object.entries(NEWS)) {
-  try { const n = await news(q); if (n.length) site.news[k] = n; } catch (e) { log(`news ${k} kept:`, e.message); }
-}
+try { const n = await buildNews(); for (const [k, v] of Object.entries(n)) if (v.length) site.news[k] = v; } catch (e) { log('news kept:', e.message); }
 
 try { site.videos = await videos(); } catch (e) { log('videos kept:', e.message); }
 
 fs.writeFileSync(OUT, JSON.stringify(site, null, 1) + '\n');
 log('ticker:', (site.ticker || []).map(t => `${t.name} ${t.value} (${t.when})`).join(' | '));
 for (const [k, s] of Object.entries(site.sections)) log(k + ':', s.cards.map(c => `${c.name} ${c.value} ${c.when} [${c.change}]`).join(' | '));
-log('news:', Object.entries(site.news).map(([k, v]) => `${k} ${v.length}`).join(', '), '| videos:', site.videos?.length);
+log('news:', Object.entries(site.news).map(([k, v]) => `${k} ${v.length} (${v.filter(n => n.image).length} img)`).join(', '), '| videos:', site.videos?.length);

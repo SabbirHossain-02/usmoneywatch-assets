@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T13:41:28.265Z",
+ "updated": "2026-10-17T13:57:34.971Z",
  "ticker": [
   {
    "name": "Mortgage, 30-yr",
@@ -5251,60 +5251,142 @@
  "news": {
   "top": [
    {
-    "title": "Gold Price Slides on Hot Inflation, but Schiff Says It’s a Gift",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQlR6SnFnWE5FUVJlWUk4Rm9VU0NBbzk2TzdXcTZ3OHRWejZ6anZTcnZvWWNzbDJ0bGNOM0tyRWhLNmZVdDMwOVh0VXBzTHltczVac25KaDlscnE5NGlwbF81bHlLR3AyX3lLQjFCSklWZ3JLT1lXZ3EzRjU0MnBRYW1Jd3NxbXNFaE1DeTlPRE9Tb2J3bkduSlJ1QTRPYklHUUZr?oc=5",
-    "at": "2026-10-17T11:13:21.000Z"
-   },
-   {
-    "title": "Fed interest-rate decision this month is a closer call than markets think",
+    "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
     "source": "MarketWatch",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWG1TSFJvUk1SVTFSN1pNX0NvU2ZjSlNrb0E3aHRzNTlRZkJ3Z2FCZUd3aW56bXJEbERUc3ktcXloS3RXQWtoNTlvMDdHTW5wY0REcy1TMUl5clExUnRKeFBVWG0xM2pqbmNLdkNmcENYWUZocU1zNXE4eTI2VlhrZjVwUHlnaGUwZVZZMGsyTmJXd18wUU5laXVrVmpELWFheWZ3dHliSGk4RDh3SVJDNmhJc2ZIMVE?oc=5",
-    "at": "2026-10-17T11:00:00.000Z"
+    "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+    "at": "2026-10-17T13:00:00.000Z",
+    "image": "https://images.mktw.net/im-81504476",
+    "desc": "”I earn $110,000 a year.”"
    },
    {
-    "title": "IMFC chair says global economy resilient; delegates walk out on Russian official",
+    "title": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
     "source": "CNBC",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTmJHemllOXlYR2tLUWtLVnU5NzFIVFNyemV0Zy1COVY3NjQ4VFdWQnF4cjl0NWxseWd4Y0lnOVZkeDlqMlBiTXNLVG9GSjd5aVZ5Z09MbWNBbVhkd1dzc1ZRQWFOV0xoeUdDbDBUN21WdXUyN2JrZElPVkRCbHF3dDcxdTdLQnJncUNaRGY4VDJ4RjUyNk1OWUJtRWw5Mkt0bGVGUVowT0xudmp0MWZvcW9DWHrSAboBQVVfeXFMTldJb3lJNEFxZUpKVkk3TkpiTmcxQW1CV0VxOWZOTVJoNG1lczc2SUZmMklqaTBSWDhNMjlZVVBITGdJWlZSZm9RVzFRVURIM2Z6ZTdLUEtZcHptOU45bUVYYUlwWnZQSTZDeEZRbVNlbDZXVXBXcXFPVDBLbVhiRGpFUGRGNU1lb0J1V1llLUJkZEJJSUh3RlNxb1kwRXN6UTE2WVpSaFpzNHNPbGViVzFWWHRVTFhVRW1n?oc=5",
-    "at": "2026-10-17T10:28:10.000Z"
+    "link": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
+    "at": "2026-10-16T22:34:29.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108351875-1787178100146-gettyimages-2290607138-AFP_C62Z247.jpeg?v=1787178332&w=1920&h=1080",
+    "desc": "The Treasury Department published the U.S. budget deficit for the 2026 fiscal year."
    },
    {
-    "title": "‘Countries are defying gravity’: how much longer can global economy resist chaos?",
+    "title": "Tech stocks tumble as AI debt fears rattle Wall Street",
+    "source": "CBS News",
+    "link": "https://www.cbsnews.com/news/tech-stocks-slide-ai-debt-concerns/",
+    "at": "2026-10-16T20:39:59.000Z",
+    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/16/6ecf9bb0-2958-4286-9fe2-393ec3e58a0f/thumbnail/1200x630/8d27e5035ab6f2268a523c3a20c0e2b7/gettyimages-2299938321.jpg",
+    "desc": "Wall Street is pulling back from chipmakers and other tech companies amid concerns about the debt incurred to build out AI."
+   },
+   {
+    "title": "‘People’s dignity, and democracy, is at stake’: meet the economist ditching ideology for reality",
     "source": "The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTmsxZUpPcVRqVzVvdGRJaWhpcGtzWGV4TzlNMXlyQ2dWNWtyeU9ZMkVmbnA5anYxUk9sOHQwbDVjZEQ5elFsYWZfUnJjRmJOSk9DU1NhUUtNT0VwdWJ0R2JYS0VYeFAxY2g2R1ctRVFFS0dnbFJlYm5YQndxdTlsejlIb0dRekZOWFBrZ1gyaWxjWm5sTngyUmYxZzVUY3lmOE9hOGE1cm0?oc=5",
-    "at": "2026-10-17T10:15:00.000Z"
+    "link": "https://www.theguardian.com/business/2026/oct/16/isabella-weber-anti-fascist-economics",
+    "at": "2026-10-16T04:00:50.000Z",
+    "image": "https://i.guim.co.uk/img/media/3576e8823f74fef373d3674061516c7d38e4743e/259_0_4131_3307/master/4131.jpg?width=700&quality=85&auto=format&fit=max&s=302ccf29f317af53c332e90562f0ba15",
+    "desc": "Exclusive: Isabella Weber prescribes a common-sense solution to poverty, inequality and fascism – making life’s essentials affordable for all The trouble with economists, Isabella Weber believes, is they do not behave li"
    },
    {
-    "title": "The stock market's record-high margin debt is keeping Wall Street pros up at night",
-    "source": "Business Insider",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPanhQa1lQaVR3QTB4Y2J1VGhDeGdXN2lrSjdnby1tRTBzWktpNE03LVAxRDFadzFGeThGUUI4LXFmdEVDTTlKemw5MlVnOHpIbVVyN2R6QzNhZmFmd1pYS1VUdlBIUDZNY0xoU2tyajRHZ3pIdjRlR1hBUmZsX0FHWS05WmlGT1RRa1NpMmthWnY?oc=5",
-    "at": "2026-10-17T09:30:00.000Z"
+    "title": "Homeownership Drifts Further Out of Reach as Mortgage Rates Rise",
+    "source": "The New York Times",
+    "link": "https://www.nytimes.com/2026/10/15/business/economy/housing-market-mortgage-rates.html",
+    "at": "2026-10-15T18:12:20.000Z",
+    "image": "https://static01.nyt.com/images/2026/10/17/multimedia/15biz-rates-econ-hvkw/15biz-rates-econ-hvkw-mediumSquareAt3X.jpg",
+    "desc": "Mortgage rates have pushed above 7 percent and home prices remain elevated, hurting the prospects of would-be buyers."
    },
    {
-    "title": "ECB's Lagarde says bond selloff will slow inflation",
-    "source": "Reuters",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORnNpbWFQTVJFZTQ1NDEzNVA1QlMyNThGdl8tR19Bd0UtQTAyVnBGRFBldDVOMFFnRHR0WkRHaS1CODVMSUFvSTZJdzN5a2NSbHFLbHA2bnZ0ZVBXYUprYS1oeGN6eF9lakVpVmRTSVB6VkpwUzlOVXZCME5ldGVmNmZPTUtuSGVnRTZzbENrQ1pGcFlScVZ1Sl9rQ1pHWUo1c1l4VUJn?oc=5",
-    "at": "2026-10-17T08:01:43.000Z"
+    "title": "Despite bad inflation report, Trump says economy is doing fine",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/10/15/nx-s1-6001707/despite-bad-inflation-report-trump-says-economy-is-doing-fine",
+    "at": "2026-10-15T08:46:33.000Z",
+    "image": null,
+    "desc": "The latest tough inflation report reinforces the challenge for President Trump and GOP candidates ahead into the midterm elections."
    },
    {
-    "title": "BOJ may need to tighten faster if inflation beats forecast, IMF says",
-    "source": "Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdWdXNFVpZFpPVGFROEVHcjFiWGdDU1BQdDlMaTJOLWllcnNNazRiSEx4M0RjZUthU09iQzQ1YTNxckczM0dWYVR0LTJwSFpEU1pzV0EzM0x5X3AzaDJVLTM2VmU1cVZnLUQ1Y1FITGE0aXNZa0N0R2ppMGt3TWUybG15QUZlY2dteFFUemdEbU51M0pIMC05MDQ0X253QXp4bEFOZjJfcW1JaUVkb05KbE1PczdQUTNlcVZR?oc=5",
-    "at": "2026-10-17T04:47:00.000Z"
+    "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
+    "at": "2026-10-17T13:00:00.000Z",
+    "image": "https://images.mktw.net/im-54886096",
+    "desc": "Individual investors and second-home buyers accounted for 1 in 5 home purchases in September — the highest share in a little over a year."
    },
    {
-    "title": "‘Inflation will make people poor’: Airlines brace for years of pain",
-    "source": "Financial Times",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTnJ5RXgtVlFXdjBVa1BDZ1ZuM3p1SDZOZmVWazFwUTVMWXFwWU5qeDVReXZKbEJtRTBraVVtMHdHZkRZTGswc1lyaWxZU0IxajQtLWFiX21yNXdCYnA4ZkJzbFJKckZpSFJucnp6alhsc05XWm9BeW9XOVZQcl9QbnQ5NTM?oc=5",
-    "at": "2026-10-17T04:01:09.000Z"
+    "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+    "at": "2026-10-16T22:33:05.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108364024-17895883942026-09-16t194825z_342271609_rc2iknaojij8_rtrmadp_0_usa-fed.jpeg?v=1789588428&w=1920&h=1080",
+    "desc": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits."
+   },
+   {
+    "title": "More workers are skipping doctor's visits over money worries",
+    "source": "CBS News",
+    "link": "https://www.cbsnews.com/news/us-worker-financial-security-7-year-low/",
+    "at": "2026-10-15T18:59:14.000Z",
+    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/15/feb485d0-ae0f-436d-869c-091a6463428a/thumbnail/1200x630/923e8dd35caa3c2733a69068fd82e651/gettyimages-2218086374.jpg",
+    "desc": "Roughly a third of employees said they put off or skipped medical or dental care in the past year because of financial concerns, a new survey found."
+   },
+   {
+    "title": "People in the US: what is your personal ‘recession indicator’?",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/oct/15/what-is-your-personal-recession-indicator",
+    "at": "2026-10-15T16:55:41.000Z",
+    "image": "https://i.guim.co.uk/img/media/52ff3960d4aa2d7390c5b285301a93bf98ea062b/550_0_2750_2200/master/2750.jpg?width=700&quality=85&auto=format&fit=max&s=b349cff02870359bf666487979ba7ece",
+    "desc": "We’d like to hear about whether you feel like the US is in a recession and what you think signals such a downturn Nearly two-thirds of Americans think the US is experiencing a recession, according to a new Harris Poll co"
+   },
+   {
+    "title": "Mortgage Rates Hover at 7.4%, Highest Since 2023",
+    "source": "The New York Times",
+    "link": "https://www.nytimes.com/2026/10/15/business/economy/mortgage-rates-home-buying.html",
+    "at": "2026-10-15T16:09:19.000Z",
+    "image": "https://static01.nyt.com/images/2026/10/15/multimedia/2026-oct-biz-promos-oct15-mortgage/2026-oct-biz-promos-oct15-mortgage-mediumSquareAt3X.png",
+    "desc": "The average 30-year, fixed-rate mortgage has steadily risen in recent weeks, compounding affordability challenges for many Americans."
+   },
+   {
+    "title": "The Chicago Fed President answers questions on inflation numbers",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/10/14/nx-s1-6000584/the-chicago-fed-president-answers-questions-on-inflation-numbers",
+    "at": "2026-10-14T20:27:56.000Z",
+    "image": null,
+    "desc": "NPR's Scott Detrow speaks with Austan Goolsbee, president of the Federal Reserve Bank of Chicago, about the inflation data that was released on Wednesday."
    }
   ],
   "housing": [
    {
+    "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+    "at": "2026-10-17T13:00:00.000Z",
+    "image": "https://images.mktw.net/im-81504476",
+    "desc": "”I earn $110,000 a year.”"
+   },
+   {
+    "title": "Homeownership Drifts Further Out of Reach as Mortgage Rates Rise",
+    "source": "The New York Times",
+    "link": "https://www.nytimes.com/2026/10/15/business/economy/housing-market-mortgage-rates.html",
+    "at": "2026-10-15T18:12:20.000Z",
+    "image": "https://static01.nyt.com/images/2026/10/17/multimedia/15biz-rates-econ-hvkw/15biz-rates-econ-hvkw-mediumSquareAt3X.jpg",
+    "desc": "Mortgage rates have pushed above 7 percent and home prices remain elevated, hurting the prospects of would-be buyers."
+   },
+   {
+    "title": "Fannie Mae sharply raises mortgage rate forecast for 2027",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/10/14/fannie-mae-sharply-raises-mortgage-rate-forecast-for-2027-.html",
+    "at": "2026-10-14T17:08:07.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108408703-1791985792669-gettyimages-2268964111-260402_to_homes_005.jpeg?v=1791986935&w=1920&h=1080",
+    "desc": "Fannie Mae just put out its latest forecast for mortgage rates, and they are much higher than previous estimates."
+   },
+   {
     "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
     "source": "MarketWatch",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObG5sRnBwLXdCRHpfMC1kZDFseHcyUHk5dVc0ZWtRblNROWdOZWdBcXFKNGlJRVRKVlVNbXk4WUFtY0F3WVdOTlg1Szk4MkpnOVB4QVY5aXVJYzdWZzVwM2VFaTBQODViVEVhcmdYUkZ3clBadnBCQmgzeXdoZEYtRG5QeklzRi10Nzk3MVZ5YnNaazAySEhzVDlWNUV4Y0lq?oc=5",
-    "at": "2026-10-17T13:00:00.000Z"
+    "link": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
+    "at": "2026-10-17T13:00:00.000Z",
+    "image": "https://images.mktw.net/im-54886096",
+    "desc": "Individual investors and second-home buyers accounted for 1 in 5 home purchases in September — the highest share in a little over a year."
+   },
+   {
+    "title": "Mortgage Rates Hover at 7.4%, Highest Since 2023",
+    "source": "The New York Times",
+    "link": "https://www.nytimes.com/2026/10/15/business/economy/mortgage-rates-home-buying.html",
+    "at": "2026-10-15T16:09:19.000Z",
+    "image": "https://static01.nyt.com/images/2026/10/15/multimedia/2026-oct-biz-promos-oct15-mortgage/2026-oct-biz-promos-oct15-mortgage-mediumSquareAt3X.png",
+    "desc": "The average 30-year, fixed-rate mortgage has steadily risen in recent weeks, compounding affordability challenges for many Americans."
    },
    {
     "title": "The US housing market just took a turn: Unusual home sales trigger alarm — and a big lawsuit. Is your nest egg exposed?",
@@ -5323,83 +5405,89 @@
     "source": "Yahoo Finance",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0FCUFZXZ2lkc3czcVdwSlJyZDJ0SnB0T3ZMd2hGd2I2VExQQWhteEhaUElyV1FuY2dGUHZnamxaM25sY2tHRWt0N3dYWGstSDlLakRPbmRrWWplTHB2ZlQ2VUpjMzhVYUJzYlJxdXdVWG9RbEttZUtLTmM0T21aWWhmTU1Lcmd6R0N1X08tNDJzRzctSWRNaFNZSQ?oc=5",
     "at": "2026-10-17T06:09:00.000Z"
-   },
-   {
-    "title": "Mortgage rate predictions for the next 5 years: A base case plus best and worst case scenarios",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZURMcFpHbVF1dTRWN0M1WG4xODF3UU9qbHBGMnFOMzRFNmpYZXdkRDhrbGhPTXc1c2FxWXdLcC1QVXcwNy1TMzRNZ2FmSTZIS1E5RFNZSmo0V0hZd1l1RndqYTFyWERrbVZLY1ZlcnNYZFFZaHhQYmFtTFJmSF9GZEExT3lNSHpTMjk3NC01dWpyMmZKWkQ1Y0RIRzVGbjAxMzB4LURLd1VvN1RVdDFJbHN0ZHhfTDF5ejNOTmlRN21HN3RSZWR1dGQ0bWhSNmE5QXdEWWRmYXI4VklUMkloQUV1dTFtWUdUQ0loYW9fbmREbTE4R0kzODFKbDJXUQ?oc=5",
-    "at": "2026-10-16T18:54:33.000Z"
-   },
-   {
-    "title": "Fannie Mae Raises Mortgage Rate Forecast to 7.5% for 2027",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUF9TYnc3VnVXY3FZNV8ycU9CaE5adTZCZGlHYkE5c1AxQU96NWM4X2ZjcGVQY2tPaTRKcC1DY0x6Q2dpcTBQQWdGSjZwVlNqUDRTbG84RkNUMDkzRHZ5d2xIX2dmLXVXc0FueEtaS3JVN3Y2TU42UHItR2dLTk5pcmNDTW1HMFM3RkE2SEU3anZyYW92NE1icg?oc=5",
-    "at": "2026-10-16T16:30:26.000Z"
-   },
-   {
-    "title": "Mortgage Rates Today: 16 October 2026",
-    "source": "Forbes",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RNjQ3M0x3M1JqQ1BhbVFVRFlhWXpMMHhvVnBjWmdNY1RtdkhJeTBXSlpUOTUydnI2ZU5XMnd1d0RaM3FRX2lGaDV6NkxoX2FvMUtDUnFpRkhWNXFvUTkwSENQZnhxYUU2azFn?oc=5",
-    "at": "2026-10-16T14:49:00.000Z"
-   },
-   {
-    "title": "Mortgage Rates Today, Friday, October 16: A Little Higher",
-    "source": "NerdWallet",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV2FhN3k4cTBPYS12djk2dzZoekp0YjlDY3pHbXJwWGY4ZmlZblZuNHpNUnU5NTBKbExWZEY5THNnZUJ4UUFtUENLZ0diWkk3bG5DSXFyanlpVDhaY2QtWDhTTGtzSTJ6NGRrdW5FZVo2OWtEb0JFV3lvTy0yamF5VUVkOFc5aTZmMk40VFlR?oc=5",
-    "at": "2026-10-16T14:15:49.000Z"
    }
   ],
   "inflation": [
    {
-    "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-    "source": "NBC News",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
-    "at": "2026-10-17T11:42:21.000Z"
+    "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
+    "at": "2026-10-15T16:15:44.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/107089766-1792067872595-107089766-1657925387054-gettyimages-1241044672-05312022_PHH_COSTCO_01.jpg?v=1792067884&w=1920&h=1080",
+    "desc": "September producer prices were expected to increase 0.6% month over month and 5.5% annually, according to the consensus estimate by Dow Jones."
    },
    {
-    "title": "Gold Price Slides on Hot Inflation, but Schiff Says It’s a Gift",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQlR6SnFnWE5FUVJlWUk4Rm9VU0NBbzk2TzdXcTZ3OHRWejZ6anZTcnZvWWNzbDJ0bGNOM0tyRWhLNmZVdDMwOVh0VXBzTHltczVac25KaDlscnE5NGlwbF81bHlLR3AyX3lLQjFCSklWZ3JLT1lXZ3EzRjU0MnBRYW1Jd3NxbXNFaE1DeTlPRE9Tb2J3bkduSlJ1QTRPYklHUUZr?oc=5",
-    "at": "2026-10-17T11:13:21.000Z"
+    "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
+    "at": "2026-10-15T14:33:12.000Z",
+    "image": "https://i.guim.co.uk/img/media/db77d2497ad333f58b03bc024b156cdce2973b96/1166_0_4632_3706/master/4632.jpg?width=700&quality=85&auto=format&fit=max&s=f152fa4fcbefeddf29d4879f770100e4",
+    "desc": "Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook markets Business news – live updates Larry Elliott: the global economy is muddling through. But a storm is coming "
    },
    {
-    "title": "ECB's Lagarde says bond selloff will slow inflation",
-    "source": "Reuters",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORnNpbWFQTVJFZTQ1NDEzNVA1QlMyNThGdl8tR19Bd0UtQTAyVnBGRFBldDVOMFFnRHR0WkRHaS1CODVMSUFvSTZJdzN5a2NSbHFLbHA2bnZ0ZVBXYUprYS1oeGN6eF9lakVpVmRTSVB6VkpwUzlOVXZCME5ldGVmNmZPTUtuSGVnRTZzbENrQ1pGcFlScVZ1Sl9rQ1pHWUo1c1l4VUJn?oc=5",
-    "at": "2026-10-17T08:01:43.000Z"
+    "title": "Unpacking the most recent inflation data",
+    "source": "CBS News",
+    "link": "https://www.cbsnews.com/video/unpacking-the-most-recent-inflation-data/",
+    "at": "2026-10-15T13:19:55.000Z",
+    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/15/78c3a05e-25e0-4ed2-a0e6-c123ea80f50a/thumbnail/1200x630/602e643322603f622275f59183a8a628/cbsn-fusion-unpacking-the-most-recent-inflation-data-thumbnail.jpg",
+    "desc": "CBS News business analyst Jill Schlesinger breaks down the key points on the most recent CPI data and how inflation may continue to impact your wallet."
    },
    {
-    "title": "Big earnings reports, homebuilding and the mood of consumers up front next week",
-    "source": "AP News",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdm1GdW1KNVNQc0VkSG9kLU5ZODhKNXgtQTRIWE9VaTFMbWo4RlUtVkJPcDBlQVA5dmZON0ctaEtwVFJPLS1BaTV0X256NG5jcURvRm8ybjRJY3hkM1VSa1UtcGtYcGtSV3BuUThSUFQ3RnRoM0Fvc09OR0UxM2ZFYkdnTFV6bEFNb0c0Ry0xMnFJb1BuY2dqZ0NkeTlyRnpSM3BRdjdmRUFJQmpn?oc=5",
-    "at": "2026-10-17T08:00:00.000Z"
+    "title": "Despite bad inflation report, Trump says economy is doing fine",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/10/15/nx-s1-6001707/despite-bad-inflation-report-trump-says-economy-is-doing-fine",
+    "at": "2026-10-15T08:46:33.000Z",
+    "image": null,
+    "desc": "The latest tough inflation report reinforces the challenge for President Trump and GOP candidates ahead into the midterm elections."
    },
    {
-    "title": "ECB’s Lagarde urges fiscal discipline as inflation risks rise",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVW1iMHJqX19QSlJJV1FFdk9PLUFiQjdmRDZPaG1pd0Jwd3lVdk1QUllJRzJMeVdtNFdVU0t6ZHNaYXlUUS1jWGZKemtFZ3I5bGhncGhIMEc0OVRQbnBSNWFUZno0cFJsOVVVZlJ3SmswOXJWN3dtS0NwU25ZUndJdTZrTWtQOGlSYkc4RV9YRHB4QUVhc0hEbVp3MlEwRUgtTHc?oc=5",
-    "at": "2026-10-17T07:12:58.000Z"
+    "title": "Higher Energy Prices Pushed U.S. Inflation Up to 3.7% Ahead of Midterm Elections",
+    "source": "The New York Times",
+    "link": "https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html",
+    "at": "2026-10-14T20:22:19.000Z",
+    "image": "https://static01.nyt.com/images/2026/10/14/multimedia/2026-10-14-cpi-promo-index/2026-10-14-cpi-promo-index-mediumSquareAt3X-v3.png",
+    "desc": "September’s Consumer Price Index report will keep pressure on President Trump and the Federal Reserve to tame intensifying price pressures."
    },
    {
-    "title": "BOJ may need to tighten faster if inflation beats forecast, IMF says",
-    "source": "Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdWdXNFVpZFpPVGFROEVHcjFiWGdDU1BQdDlMaTJOLWllcnNNazRiSEx4M0RjZUthU09iQzQ1YTNxckczM0dWYVR0LTJwSFpEU1pzV0EzM0x5X3AzaDJVLTM2VmU1cVZnLUQ1Y1FITGE0aXNZa0N0R2ppMGt3TWUybG15QUZlY2dteFFUemdEbU51M0pIMC05MDQ0X253QXp4bEFOZjJfcW1JaUVkb05KbE1PczdQUTNlcVZR?oc=5",
-    "at": "2026-10-17T04:47:00.000Z"
+    "title": "How high inflation became a 'fact of life' in the U.S.",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/10/14/high-inflation-fed-expectations.html",
+    "at": "2026-10-14T17:20:23.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108295010-1776807990973-gettyimages-2272451874-jr_15888_qsl4bswz.jpeg?v=1776808066&w=1920&h=1080",
+    "desc": "U.S. inflation has stayed elevated for years, raising concern at the Federal Reserve that consumers may come to expect stubbornly high prices."
    },
    {
-    "title": "‘Inflation will make people poor’: Airlines brace for years of pain",
-    "source": "Financial Times",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTnJ5RXgtVlFXdjBVa1BDZ1ZuM3p1SDZOZmVWazFwUTVMWXFwWU5qeDVReXZKbEJtRTBraVVtMHdHZkRZTGswc1lyaWxZU0IxajQtLWFiX21yNXdCYnA4ZkJzbFJKckZpSFJucnp6alhsc05XWm9BeW9XOVZQcl9QbnQ5NTM?oc=5",
-    "at": "2026-10-17T04:01:09.000Z"
+    "title": "US inflation rose to 3.7% in September in blow to Republicans before midterms",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september",
+    "at": "2026-10-14T14:29:42.000Z",
+    "image": "https://i.guim.co.uk/img/media/84db52e3bd4c7e10da78a8eeaa51b4462b587fda/333_0_3334_2667/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=798c5ebb8aa8025fcd77afffc491eeca",
+    "desc": "Final inflation report before voters go to polls comes amid widespread anger over cost of living under Trump Send us your questions on how the US economy is shaping the midterm elections Republicans are entering the midt"
    },
    {
-    "title": "Australian treasurer says he's focused on fighting inflation",
-    "source": "CNN",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUUlLb2lFTXdZZGRKWlk3UUdsVUpYNkdIVUI0UC00RlRibW1GRmx3MC16d0hfN1lfSmp3aFB4aTJGb3FrWllYNVFiYVVNZk5XejkzaUhCQWZFdVBBQ2JJLWdocGlCWGJuQ09RV2U2RmllcEc3ZHpHcVlybTBfZEZTRzhZT2xzRmVhY0Z2WlBFNnptblpyQzVDeWxkejVRcHpGSENGaU1TRWFydkEwOVhyUzREV1VaazA5VGZkRQ?oc=5",
-    "at": "2026-10-16T22:15:25.000Z"
+    "title": "Inflation surged in September as U.S. energy costs jumped",
+    "source": "CBS News",
+    "link": "https://www.cbsnews.com/news/september-cpi-report-inflation-energy-costs/",
+    "at": "2026-10-14T23:54:20.000Z",
+    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/13/ec53f7f4-08e3-43eb-bd31-e7a714fb7de6/thumbnail/1200x630/79c759db82ed21efce9e77e5e3f9caf3/gettyimages-2299509632.jpg",
+    "desc": "Gas prices, which jumped 9.1% in September from August, accounted for more than half the monthly rise in inflation."
    }
   ],
   "jobs": [
+   {
+    "title": "More workers are skipping doctor's visits over money worries",
+    "source": "CBS News",
+    "link": "https://www.cbsnews.com/news/us-worker-financial-security-7-year-low/",
+    "at": "2026-10-15T18:59:14.000Z",
+    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/15/feb485d0-ae0f-436d-869c-091a6463428a/thumbnail/1200x630/923e8dd35caa3c2733a69068fd82e651/gettyimages-2218086374.jpg",
+    "desc": "Roughly a third of employees said they put off or skipped medical or dental care in the past year because of financial concerns, a new survey found."
+   },
+   {
+    "title": "With Layoffs and a Firing, Netflix Hurries to Rewrite Its Narrative",
+    "source": "The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPanZ5YVAxYnBGOGlsZW1jVnhWbkhHU0JnR211RGctX3JHM2Y0QXZHVC1NR3pCR3prc0pudTd4WXZBNnhGZXdiTFlvV2ZDNjVDVzNMeFZTelV0cGVzOElKS1QyV01jbmZibV8tRFkwMXdSU3NMUkZfY3I2eEEyc1djekV0LTg2MmpORmVJ?oc=5",
+    "at": "2026-10-16T23:22:21.000Z"
+   },
    {
     "title": "Anthropic polled 1,334 of its employees. They're more sure than most of us that AI will take over jobs.",
     "source": "Business Insider",
@@ -5407,22 +5495,10 @@
     "at": "2026-10-16T22:48:00.000Z"
    },
    {
-    "title": "With Layoffs and a Firing, Netflix Hurries to Rewrite Its Narrative",
-    "source": "The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPanZ5YVAxYnBGOGlsZW1jVnhWbkhHU0JnR211RGctX3JHM2Y0QXZHVC1NR3pCR3prc0pudTd4WXZBNnhGZXdiTFlvV2ZDNjVDVzNMeFZTelV0cGVzOElKS1QyV01jbmZibV8tRFkwMXdSU3NMUkZfY3I2eEEyc1djekV0LTg2MmpORmVJ?oc=5",
-    "at": "2026-10-16T22:17:29.000Z"
-   },
-   {
     "title": "Cleveland-Cliffs Braces for Fight as Canada Looks to Block Layoffs at Stelco",
     "source": "WSJ",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcmVVYXVfWWNnNHc1aWlOTVQ5TDQwcUJxaVdLM0RDZklRZUllcXJ5YTFDdV9FaDFaUnh3MnE4ZmhRTFJzR01ySl96VU5VdVJ1aURMRXVlN0VmZl9qSFEySEY3cVVoeE96TF9pcWYxV1luUmdUV2JLb3c1SW5EZUxaRmtMZzQ3YW1jTkdIdHNFak5WdHM5S2c4WXpkNkNGWllrak5uN2tOa1EwM0hPOHdrakc5YVhfUzdVc1pPQg?oc=5",
     "at": "2026-10-16T20:01:00.000Z"
-   },
-   {
-    "title": "Hollister cancels town hall meetings amid outcry over layoffs, budget woes",
-    "source": "CBS News",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZnVHTTRaeW5SOExlem0xZW42TEluTGhsaWdoekhTX0ZpYVIyc2VucDNqTjRUTkdzYWNTRW5kMXljVjFwM2JYdHd4RmdTaS1TcEc4MDdDMlZHRjQxbGNpWUdLRGRZVHNwWHlJYjVFNEphRFpSNy1xM0daS2wxcFRKYjdOc3pDaWNBbjF5emN5N3g4RHFWbTJick1rV3VFWXM1TjV6MlFVU3Nka1kwd2ZnLQ?oc=5",
-    "at": "2026-10-16T18:31:28.000Z"
    },
    {
     "title": "California job market gains strength as fall hiring picks up",
@@ -5450,6 +5526,30 @@
    }
   ],
   "debt": [
+   {
+    "title": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
+    "at": "2026-10-16T22:34:29.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108351875-1787178100146-gettyimages-2290607138-AFP_C62Z247.jpeg?v=1787178332&w=1920&h=1080",
+    "desc": "The Treasury Department published the U.S. budget deficit for the 2026 fiscal year."
+   },
+   {
+    "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+    "at": "2026-10-16T22:33:05.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108364024-17895883942026-09-16t194825z_342271609_rc2iknaojij8_rtrmadp_0_usa-fed.jpeg?v=1789588428&w=1920&h=1080",
+    "desc": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits."
+   },
+   {
+    "title": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html",
+    "at": "2026-10-15T13:42:32.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108193937-1792073308894-108193937-17569303332025-09-03t150149z_497087102_rc2ekgaqfpn3_rtrmadp_0_usa-stocks.jpg?v=1792073316&w=1920&h=1080",
+    "desc": "The exchange comes as U.S. debt exceeds $40 trillion and 10-year Treasury yields remain above 5%, intensifying scrutiny of the fiscal outlook."
+   },
    {
     "title": "3 US Dividend Stocks Worth Watching As Treasury Yields Climb",
     "source": "Yahoo Finance",
@@ -5479,24 +5579,6 @@
     "source": "WSJ",
     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaTh2LXo3TUR2cXpfSTI2QlNFNGQwVlNtM0FMQW9EZ1ctdGZmSXd1WFpnTnN2a3VKTHdHdmNaLXlEd21pdnJWdEZOZ0MxV2dnZ29LZ1RoZXlRS2x5V2JLazF1a1puX2NjM1h0ai1fdXRFal9hTDZLMDNBSEk2SHJnc1BR?oc=5",
     "at": "2026-10-16T18:21:00.000Z"
-   },
-   {
-    "title": "Here’s Why Treasury Yields Have Defied Hotter-Than-Expected Inflation",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWmM5WWl3bHBqcVJ0WG11bnNBaEZuNFlaWVVEV2dEYXRpVkFkQXJPcTd4bjFJY2NiR2lfV0N3Z2hzdmludTNLeW93b2pHSGlFZmppNzdPbFZuYWsyYTBSYl9ETnFSTm9GSE5EM281cVhFQ2F1WDY1TVFTUXpsV2RuY3FhRnMzWTNJbnc1SGFPb3I3UlljMUpMRk51Rkh5WW9lWHVSMU9LVmdacl9fdENEcWJPS1B4eGRZUmt0aWZJV01Ia2tIZzVZVWR3aw?oc=5",
-    "at": "2026-10-16T18:17:31.000Z"
-   },
-   {
-    "title": "US equity funds draw renewed inflows as Treasury yields ease",
-    "source": "Reuters",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSnEzLXc5RkdoR3NSRUxDdzZoNGpOUTlsQTM2VmpCRlVTOE04SjRfN214eHpCTnVBUW5Od0pTbnppZXRhTXFlS2lJMlIxOUpab3ZHMDh1Q3JfNFBXbENmUEQzOU5LVkZYWUxhNVFTTmM5SXdPaGlLYVY0N3BEekdhRmZTMnBycE9NWFF3dlJ0ZW1DX0VYbWtqV3ZheG85d0hLbksySw?oc=5",
-    "at": "2026-10-16T12:30:02.000Z"
-   },
-   {
-    "title": "Gold price today, Friday, October 16, 2026: Gold lifts as Treasury yields and dollar fall back",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYTdlYXpVRFE4a0pkTDdONG1yblhsX2RvOXphaHJwUkhVTkJlTUNhWEJXV19WMHpTMTZ5MkJON3dBRFVQcUxMR25ZX0libGpzT3B0bUxiSjd5MFNIUG5pQV9jR2tVTS1ZMmlhdW1vUDFxWDJ3MnVzOEF3eHZnM1dDVEFadUdwcDUtMFc1bU5RckpVVTBJRHhsWWYyUUVXOEp1VHQ4NGU4cXpRZ25ISVVPWFBQdHpEb1pFbTVJbWxVVDgwYTRPY0F3ODBFQjJqM2dGU3k5UjBZNGNFWnZNSlZrMlZUazMtMnF0TzQtVUctejRVQXZzdkZUbFh3?oc=5",
-    "at": "2026-10-16T11:06:51.000Z"
    }
   ]
  }
