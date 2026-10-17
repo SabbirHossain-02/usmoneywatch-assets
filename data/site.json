@@ -1,0 +1,15 @@
+{
+  "updated": "2026-10-17",
+  "ticker": [
+    { "name": "Mortgage, 30-yr", "value": "7.40%", "dir": "up" },
+    { "name": "Gas, regular", "value": "$4.48", "dir": "up" },
+    { "name": "Inflation, CPI", "value": "3.7%", "dir": "up" },
+    { "name": "Unemployment", "value": "4.2%", "dir": "flat" },
+    { "name": "10-yr Treasury", "value": "4.99%", "dir": "up" }
+  ],
+  "videos": [
+    { "id": "CvPY21NZ3Yg", "title": "Your parents paid 12% interest. So why could they still afford a house?", "publishAt": "2026-10-17T14:00:00Z" },
+    { "id": "vMWy54vUBWI", "title": "America now spends more on interest than on its military", "publishAt": "2026-10-24T14:00:00Z" },
+    { "id": "By7jJAiUrkU", "title": "Is America repeating the 1970s? Oil shock, inflation and the Fed", "publishAt": "2026-10-31T14:00:00Z" }
+  ]
+}
