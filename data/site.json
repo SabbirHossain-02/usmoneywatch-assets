@@ -1,15 +1,87 @@
 {
-  "updated": "2026-10-17",
+  "updated": "2026-10-17T12:38:04.987Z",
   "ticker": [
-    { "name": "Mortgage, 30-yr", "value": "7.40%", "dir": "up" },
-    { "name": "Gas, regular", "value": "$4.48", "dir": "up" },
-    { "name": "Inflation, CPI", "value": "3.7%", "dir": "up" },
-    { "name": "Unemployment", "value": "4.2%", "dir": "flat" },
-    { "name": "10-yr Treasury", "value": "4.99%", "dir": "up" }
+    {
+      "name": "Mortgage, 30-yr",
+      "value": "7.40%",
+      "dir": "flat",
+      "asOf": "2026-10-15"
+    },
+    {
+      "name": "Gas, regular",
+      "value": "$4.48",
+      "dir": "up",
+      "asOf": "2026-09-01"
+    },
+    {
+      "name": "Inflation, CPI",
+      "value": "3.7%",
+      "dir": "up",
+      "asOf": "2026-09-01"
+    },
+    {
+      "name": "Unemployment",
+      "value": "4.2%",
+      "dir": "up",
+      "asOf": "2026-09-01"
+    },
+    {
+      "name": "10-yr Treasury",
+      "value": "5.10%",
+      "dir": "down",
+      "asOf": "2026-10-15"
+    }
   ],
   "videos": [
-    { "id": "CvPY21NZ3Yg", "title": "Your parents paid 12% interest. So why could they still afford a house?", "publishAt": "2026-10-17T14:00:00Z" },
-    { "id": "vMWy54vUBWI", "title": "America now spends more on interest than on its military", "publishAt": "2026-10-24T14:00:00Z" },
-    { "id": "By7jJAiUrkU", "title": "Is America repeating the 1970s? Oil shock, inflation and the Fed", "publishAt": "2026-10-31T14:00:00Z" }
+    {
+      "id": "C5jBR6rUgnE",
+      "title": "Why Your Savings Lose Value Every Year",
+      "publishAt": "2026-03-24T00:00:15Z"
+    },
+    {
+      "id": "yal7tsWNmo0",
+      "title": "Why Saving Money Alone Won’t Make You Rich",
+      "publishAt": "2026-03-28T00:00:54Z"
+    },
+    {
+      "id": "UdOqcMz03xg",
+      "title": "Why Rich People Trust Swiss Banks",
+      "publishAt": "2026-03-31T00:00:00Z"
+    },
+    {
+      "id": "Wz-MK3wsdIM",
+      "title": "China's Manufacturing Takeover Explained: The Deal That Changed Everything",
+      "publishAt": "2026-04-02T00:00:32Z"
+    },
+    {
+      "id": "rAxToqQgHjc",
+      "title": "What Killed the American Starter Home?",
+      "publishAt": "2026-04-04T00:00:49Z"
+    },
+    {
+      "id": "dVaKa7DJG5s",
+      "title": "Inflation Is a Hidden Tax (And Most People Don't Know It)",
+      "publishAt": "2026-04-09T00:00:43Z"
+    },
+    {
+      "id": "SV1UD31cv3o",
+      "title": "The Real Reason Rent is Unaffordable (Housing Market Explained)",
+      "publishAt": "2026-04-11T00:00:26Z"
+    },
+    {
+      "id": "CvPY21NZ3Yg",
+      "title": "Your Parents Paid 12% Interest. So Why Could They Afford a House?",
+      "publishAt": "2026-10-17T14:00:00Z"
+    },
+    {
+      "id": "vMWy54vUBWI",
+      "title": "America Now Spends More on Interest Than on Its Military",
+      "publishAt": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "By7jJAiUrkU",
+      "title": "Is America Repeating the 1970s? Oil Shock, Inflation and the Fed",
+      "publishAt": "2026-10-31T14:00:00Z"
+    }
   ]
 }
