@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T04:36:27.090Z",
+ "updated": "2026-10-18T11:08:30.980Z",
  "ticker": [
   {
    "name": "Mortgage, 30-yr",
@@ -5251,6 +5251,14 @@
  "news": {
   "top": [
    {
+    "title": "3 Charts That Explain the Economy as Voters Head to the Polls",
+    "source": "The New York Times",
+    "link": "https://www.nytimes.com/2026/10/18/business/economy/economy-midterm-elections.html",
+    "at": "2026-10-18T09:00:50.000Z",
+    "image": "https://static01.nyt.com/images/2026/10/16/multimedia/2026-10-16-econ-elex-topper-index/2026-10-16-econ-elex-topper-index-mediumSquareAt3X-v5.png",
+    "desc": "Inflation is high, consumer spending is strong and seemingly everything depends on what happens with artificial intelligence."
+   },
+   {
     "title": "Investing, not homeownership, is the No. 1 milestone that makes Gen Z renters feel successful",
     "source": "MarketWatch",
     "link": "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories",
@@ -5289,14 +5297,6 @@
     "at": "2026-10-15T18:12:20.000Z",
     "image": "https://static01.nyt.com/images/2026/10/17/multimedia/15biz-rates-econ-hvkw/15biz-rates-econ-hvkw-mediumSquareAt3X.jpg",
     "desc": "Mortgage rates have pushed above 7 percent and home prices remain elevated, hurting the prospects of would-be buyers."
-   },
-   {
-    "title": "Despite bad inflation report, Trump says economy is doing fine",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/10/15/nx-s1-6001707/despite-bad-inflation-report-trump-says-economy-is-doing-fine",
-    "at": "2026-10-15T08:46:33.000Z",
-    "image": null,
-    "desc": "The latest tough inflation report reinforces the challenge for President Trump and GOP candidates ahead into the midterm elections."
    },
    {
     "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
@@ -5389,6 +5389,12 @@
     "desc": "Individual investors and second-home buyers accounted for 1 in 5 home purchases in September — the highest share in a little over a year."
    },
    {
+    "title": "Manulife Mortgage Rates",
+    "source": "NerdWallet",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wTGc3XzBNMl9QOUF3eUFVWFItdjktdnFCOE5ORGhkb1puWThXajNOTmdoUElCcTAtUjA5UlVvNzFiVEkyWHluTzU3UWRFd0N6VlpySlZTdFQ0bWJRMlh1V01USXVxclhEWmlpWlNCS3o0TFY0Nm5qX1Rn?oc=5",
+    "at": "2026-10-18T07:40:14.000Z"
+   },
+   {
     "title": "Peter Schiff Sees 'Disaster Waiting to Happen' in Housing Market as Fannie Mae, Freddie Mac Shares Tumble, Says Home Prices Will Have to 'Implode'",
     "source": "Yahoo Finance",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVzJSdWhoRkcyQjRNbXJBV0I1T0tTRTZwYlpZNFFfamxtTnBWOTBKUnRXNzg2Zy14bWlPa2YzNEVRSUpfTkJtdEpGSWJKU2s1Q0MxSk1SZVA2WlB6MTNFQ1d6VE5ucjVqT01KMnM2cnB4QTVEM3ROWllzYjFVYi04MDFJSWozLWlsM0x1S3B3WGFFN19mRWJjUWlxX3A?oc=5",
@@ -5399,12 +5405,6 @@
     "source": "NerdWallet",
     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HQ3RLc2FIRmphNkdwUDA5UjFtSUhFeFU4amNYOVo1SWFROGFtdWNwUnExX0ZUa3ZLZEF1VzlxU0syOFdiSVU4cE1NVmZrQU1IR3d2MUwxSHpTN2ZuVFpMQURYenA4bGxOSzIwMHgzQ1BNbnhf?oc=5",
     "at": "2026-10-17T17:31:49.000Z"
-   },
-   {
-    "title": "The US housing market just took a turn: Unusual home sales trigger alarm — and a big lawsuit. Is your nest egg exposed?",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSzRIc0ZFTVpiOXlTRzdTbDV6R2hrZ0VYZlc0dVVveXlNVGhJaGlqTVIwTzN1czNjbzRIVjRVZzljcFBvbG43T3BZeFhDSVVDMDZPcEpxMW1Fb1F1TkxUdVZvLWlvajI0XzI5MUpZd1VWSWY3MXBVS0pwWkU2VERSaW8zXzR4emRZSUZGNlduc2tsYmM?oc=5",
-    "at": "2026-10-17T11:15:00.000Z"
    }
   ],
   "inflation": [
@@ -5433,12 +5433,22 @@
     "desc": "CBS News business analyst Jill Schlesinger breaks down the key points on the most recent CPI data and how inflation may continue to impact your wallet."
    },
    {
-    "title": "Despite bad inflation report, Trump says economy is doing fine",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/10/15/nx-s1-6001707/despite-bad-inflation-report-trump-says-economy-is-doing-fine",
-    "at": "2026-10-15T08:46:33.000Z",
-    "image": null,
-    "desc": "The latest tough inflation report reinforces the challenge for President Trump and GOP candidates ahead into the midterm elections."
+    "title": "Food Pantry Patrons Face ‘Too Much Month at the End of Their Money’",
+    "source": "The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVGhuMTRoQlVMWkpBTEVObTZUZG94amp4UU1UVll2Ri1HdXdnTXZxbzJ6X2VkN05qQk1aZk81TDIzQlotM0YyUS05TlR5bkxwT3RoVE1CQnQ0SV94ajk4V3ktWEJBbndaN2NKX2xGclEyWThlVWIzal93VDlfRDhzU0ZBTS0xVHRoMzdVMEhGRGp0YjZJNUE?oc=5",
+    "at": "2026-10-18T09:00:29.000Z"
+   },
+   {
+    "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+    "source": "NBC News",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
+    "at": "2026-10-18T08:42:22.000Z"
+   },
+   {
+    "title": "Europe Heads Into Winter With Low Gas Reserves, Uncertain Gulf Supplies",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWnlTQ1FGck1iOTVzZGxpSXVJXy03LUJQb056SzNzU3N5eERSRlR6NGRGT1AycjZQT3V6Sll1NWk3cmg4WGE3bzA1OU02UlpUUlYzdDNlT0RUMWoxU0xXQjRPaHhfNzRGMnlkUmczRjdwWTJESFBDajZYTTB1ZnQ4RkJPX2NEVzJHQ0VWd0xGT3VPQjlJSm1aQmlFTl9yS1FmdlJ4NTdVS3hTMjJOcUdpWXI4cUhWSWtMbGVmUTZBZjFaQUdldnc?oc=5",
+    "at": "2026-10-18T08:24:32.000Z"
    },
    {
     "title": "3 U.S. Energy Stocks Investors Are Watching As Oil And Gas Prices Stay High",
@@ -5447,22 +5457,10 @@
     "at": "2026-10-18T03:20:00.000Z"
    },
    {
-    "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-    "source": "NBC News",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
-    "at": "2026-10-18T01:51:53.000Z"
-   },
-   {
-    "title": "Watch: Vance is pressed on gas prices, recognizes they're \"too high\"",
+    "title": "7 highlights from JD Vance's CBS News town hall: Iran, immigration, corruption and 2028 plans",
     "source": "CBS News",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45azdHdzBvSFdkeFlIWGFFcHlqcFhWdTliT19KZjFlbm9SdktJS2g0X21tNTBHckNUMTVHVmtXbUNhX3hOemEwNE5VdWRHeU02c0MxTUJNV2Q2dWgyWEV0aDlpc2ZYeHphOVVuZS15Ung0c2pXajJaRg?oc=5",
-    "at": "2026-10-18T00:04:00.000Z"
-   },
-   {
-    "title": "See How Gas Prices Are Easing Across the U.S.",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVWs2dEhDRlNqdXFYck1MVXJaUnR0LUwyNTVvLUlvYTZTdnI0OE9HSGNiaEduTVdWQjdyTVgwdXJWLVNzRDRIaXpFYXJyQXBGcURJdHZWLVBfSm5TVlJ5ZktIS2pSNVpYSmJIMUJadlhOUzlKbVd1aHF2ZE1KQkEyNzZPSQ?oc=5",
-    "at": "2026-10-17T22:42:29.000Z"
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBuMzVPako0dEhkT1hvejhKY1BaMGRVRWVBakV6emx6Z2JwVzc5THFYbmI3SkpXZmlSQ2lDalBVdk9PSzdaTjBrZ2JheHR0OVJ1SW1aeFZCakNRUjhGTEdHUkhLSEZiOHBxRGppNEdISUlmY2NoazlJRkpZMDk?oc=5",
+    "at": "2026-10-18T01:01:00.000Z"
    }
   ],
   "jobs": [
@@ -5473,6 +5471,24 @@
     "at": "2026-10-15T18:59:14.000Z",
     "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/15/feb485d0-ae0f-436d-869c-091a6463428a/thumbnail/1200x630/923e8dd35caa3c2733a69068fd82e651/gettyimages-2218086374.jpg",
     "desc": "Roughly a third of employees said they put off or skipped medical or dental care in the past year because of financial concerns, a new survey found."
+   },
+   {
+    "title": "Pepsi was a small town’s biggest employer. Layoffs left it blindsided.",
+    "source": "The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPanBhTU1rMy00V3JjVl9fVUhlWGJGUlJLT1VfSnF1MDN5UG5Db1p5TkNVUWs3M01NOTBnMlJvdloxTy1ZYzdiZ2ZCRTdCMVJUbloxU2M1Vm9DOHB2Rjlwb25QUERwQzk0VVhZZ2xuWG9CZkM2RTRhNWFyQnUyZWlXOVhmbkN6QTc3X0VoZjZEdVV2ZnhEY2dQc0RuWXpFM1plSTNyQUVyU0ZueVIxT19qZFpFMA?oc=5",
+    "at": "2026-10-18T10:04:33.000Z"
+   },
+   {
+    "title": "The CEO of syrup brand Torani says layoffs are a choice",
+    "source": "Business Insider",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcnVvZ08yY0FKX25pTXJNbDljdlIzdE1zYTVyRDg1SXN6aV9ZWmhLZC10Q3R0Ym80YkpOUmxuRzlMcTRxcmRqNklzV3BNeEtfOTE5cEFIQWFWcFgwSGtLTW1CcFBRdWMzWXV2UWpsLTIxdm44VU5GVGt2OC1UZ1ZQZThB?oc=5",
+    "at": "2026-10-18T09:47:00.000Z"
+   },
+   {
+    "title": "Tories call for 5-year freeze on minimum wage to tackle youth unemployment",
+    "source": "The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQREFGYzdPMUN1VHp2Tk05cEN4a0pfaVl2b0t3V2ZOdjRNYUpmWG5QRC1wRzFfZFduZDdYTHZha2hXSkRPLWI1N0lFU1J6Qjdid2d2NmxTeWN2RkFOMWMwMG4yRzhPdHUzeUZfVWN3dWpjczBTdXhBRzRSS3F5OU9ZSHFDQk9ONzZEUHkwZ1Z0TmZMNlZzWnowM0dXR2JpZnV0QUhVRkdiVko?oc=5",
+    "at": "2026-10-17T08:45:00.000Z"
    },
    {
     "title": "Anthropic polled 1,334 of its employees. They're more sure than most of us that AI will take over jobs.",
@@ -5497,24 +5513,6 @@
     "source": "Yahoo Finance",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbWI5bUNzcjZLRHotN3MyTmtvV0MyLTVRdVR2LTRUaHBkNlhweUZwYlM4YTFQUEp1dGVfSThFLTVBNHR6c1UwSXBOaW1YeFRGNGxXbnhoLVNTUTJ3SWdCbkVfMXVIWnlXX1ZOQjRJbjBQeU5oaW1rR1NnbkRDclR1bExITUMzMi1ZTEFmZ2Mydk0tRmdDb0tmU2xB?oc=5",
     "at": "2026-10-16T18:28:11.000Z"
-   },
-   {
-    "title": "Companies hint at layoffs, without saying who or when—and employees are left wondering who's on the chopping block",
-    "source": "CNBC",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZS1Zb01qMGItSWYwV2F6VTBsclMwc3BKc01NN2JOQzVOaVpTcWxtZ29Wc2F1N0lQMzhYSnZ0VzZZMXRuSGE2NlRXLVN2dDNIQjZSVkxNV3g0eEd6WWxIRk5xNVd5Sjhsa283NTRzSHZLdmRwMEo1X0ZCOEF3Ql9qTkFrclFweXE00gGOAUFVX3lxTE9XTzFCTlVpdVdtM1l2eDAwUzJqWFZZcjFsdWRpbzhLTlFlMkZTdmQwb0hYQ2YxZFhZS2RSQ2VaTE9zbHdmT3U4eWNSN19jb1UzS1liMFloMFo4OTVBMXYxOEFzMVNyQzdrbnJ6SjN0U3RDSVdtNEYwVmZpYUlmSjZILXBPT0tlUUw2YnBSNlE?oc=5",
-    "at": "2026-10-16T18:20:05.000Z"
-   },
-   {
-    "title": "Former Detroit USPS employee sentenced for unemployment benefits fraud",
-    "source": "CBS News",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS0VMWnIzS3M3SHMtZWJNUjFrMENyTjdSeEluODdiS3dsMHFzTlV2a0pjaVhXc1hSa0dMTnIwOUN3SE5vbjBXQnhJZXNhaGlYM1FZeEZoNGpqTUhRd25ocnJzQllwV3FjZkNHOUp1TEdBTlhlWnpVY3QwaGJsN0FINE8xSUxjMlh6eGdMLXM2TXU5NV90azNhMS0xdw?oc=5",
-    "at": "2026-10-16T16:35:34.000Z"
-   },
-   {
-    "title": "Disney is paying $60 million to hire 66 Character.AI staffers",
-    "source": "Business Insider",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTFJic2dCN2tTWk8yb2Z2clJGZEZmUkhJNENkOWE5Um5YRjRzN2tkenY1VXB1aDdfemZkQjNzenpmNzlIdWZrS0lLd0h5YXczWG9oZWV3VlpZdzNRd0RRbG40MHp5UnplT3lVWjJIV1h5d2NXMnBqSWlsODRNWF9CN1Z0NmtIYTNaWnNTUUUzMFBWOGdBWmdldF9uYWtSam1PeDVEbWlyWjZLdk5wLWVIZFAwRQ?oc=5",
-    "at": "2026-10-16T15:01:00.000Z"
    }
   ],
   "debt": [
@@ -5543,12 +5541,6 @@
     "desc": "The exchange comes as U.S. debt exceeds $40 trillion and 10-year Treasury yields remain above 5%, intensifying scrutiny of the fiscal outlook."
    },
    {
-    "title": "America’s $40 trillion debt is coming for your wallet",
-    "source": "The Hill",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IcjN5NkhhU1VjcE5rRVJaNHlMQ0lFWGNlclM2Tm9tU0tMZkVCRDVjUVd6SnZxOHlreHFMOERBMXM5enk1allrUHd5RWpTMnJUZEFzU3FEU203WEJKSWlaN0RJYUZLNGt5anlqNkRUTElXcWPSAXhBVV95cUxPWUt5LXA3VVhXMUNVNXhCNmtORDlrNkpRY2N0LUEzdFMwZGpxd2lUd2xuTExuUmZ5TXdSUDk4emFzYTBzQjNtRk92VGM4azlPaUlDdFhXanFPMWJLak1qaW5RejFoZHNzdmdxUkd0YmJPekxvRmpoakQ?oc=5",
-    "at": "2026-10-17T17:00:00.000Z"
-   },
-   {
     "title": "US debt interest costs hit $3 billion a day and jumped 8% in 2026—faster than spending, revenue, GDP",
     "source": "Fortune",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRlZDMWxYaGRHUU42b0RMSkwwNDd3Z1VFTGVtTmVMOUZCekhhNnFNRXBXUVIwVTRQWWxkbmdzOXFrQXNSTzQ2c0V2UFgxb2wxaDBrVXhlVHc5dHExR0o1MlBIUlJ3VnExc1djbkdUSDFza08xandLN1YtYTNtS2FUdEtqeTd2SjJSOVNRZnJDWFhTVjFiOWFIQ0N0U05vOXlDNVNSNzVhMHRfdzBDdExLVm95V2gwUXpnRnhLTWZXOFExeGthamxxNzhhZVg?oc=5",
@@ -5571,6 +5563,12 @@
     "source": "NPR",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQmhWNWlILVlJRnM1NFR6bkpSRzRFb05EbVdQeHNZTGZfaUhJWDVyQmFhNnBuVVJSV2xkS0JCYzZEWm9rYnFmZGctWHZwUVh6bFRPQ2tVZ3ZHZzFMMWhDV2l5ZHVuQi1JWFNJZjNTM2ZuODBQaTUwdnhUbVNMcmRJMkdCUE1uZkViQ1hSb3NVb2h4WjY3bkE?oc=5",
     "at": "2026-10-16T20:41:53.000Z"
+   },
+   {
+    "title": "Yields continue to rattle investors. These sectors are most at risk if rates stay elevated",
+    "source": "CNBC",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzRFR1NW9wZXF1dGRrcjRFM1I0cTg4UHpld3BEUFFoRm1TZkN5N2U5dk95ZHZNaHhhajNHNEh2WmxhcHp1cXp5TGw1dGJvX2ZWQ05wV3poTmVPSnAzU3ZSeHg4NUg0aU1KTjlxTWlFWHozclVrWWlETHV3d19BRVE?oc=5",
+    "at": "2026-10-16T18:26:18.000Z"
    }
   ]
  }
