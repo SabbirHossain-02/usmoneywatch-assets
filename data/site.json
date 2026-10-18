@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T11:08:30.980Z",
+ "updated": "2026-10-18T15:53:29.018Z",
  "ticker": [
   {
    "name": "Mortgage, 30-yr",
@@ -5251,20 +5251,28 @@
  "news": {
   "top": [
    {
+    "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+    "at": "2026-10-18T15:00:00.000Z",
+    "image": "https://images.mktw.net/im-90466023",
+    "desc": "“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”"
+   },
+   {
+    "title": "In Michigan, consumer sentiment is pessimistic before midterms",
+    "source": "CBS News",
+    "link": "https://www.cbsnews.com/news/in-michigan-consumer-sentiment-is-pessimistic-before-midterms/",
+    "at": "2026-10-18T14:12:14.000Z",
+    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/17/182da29c-80c3-4e2f-80a5-08672a7de45a/thumbnail/1200x630/ff1cda88eaaa9cf28445b1742120a785/consumer-sentiment-1280.jpg",
+    "desc": "Due to high fuel and housing costs, and wages that aren't keeping pace with inflation, consumer sentiment is lower than at almost any other time in modern history. CBS News spoke with Michiganders to find out how the eco"
+   },
+   {
     "title": "3 Charts That Explain the Economy as Voters Head to the Polls",
     "source": "The New York Times",
     "link": "https://www.nytimes.com/2026/10/18/business/economy/economy-midterm-elections.html",
     "at": "2026-10-18T09:00:50.000Z",
     "image": "https://static01.nyt.com/images/2026/10/16/multimedia/2026-10-16-econ-elex-topper-index/2026-10-16-econ-elex-topper-index-mediumSquareAt3X-v5.png",
     "desc": "Inflation is high, consumer spending is strong and seemingly everything depends on what happens with artificial intelligence."
-   },
-   {
-    "title": "Investing, not homeownership, is the No. 1 milestone that makes Gen Z renters feel successful",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories",
-    "at": "2026-10-17T18:40:00.000Z",
-    "image": "https://images.mktw.net/im-31295352",
-    "desc": "“Instead of focusing on homeownership, many are prioritizing financial freedom and debt-free living.”"
    },
    {
     "title": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
@@ -5275,20 +5283,28 @@
     "desc": "The Treasury Department published the U.S. budget deficit for the 2026 fiscal year."
    },
    {
-    "title": "Tech stocks tumble as AI debt fears rattle Wall Street",
-    "source": "CBS News",
-    "link": "https://www.cbsnews.com/news/tech-stocks-slide-ai-debt-concerns/",
-    "at": "2026-10-16T20:39:59.000Z",
-    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/16/6ecf9bb0-2958-4286-9fe2-393ec3e58a0f/thumbnail/1200x630/8d27e5035ab6f2268a523c3a20c0e2b7/gettyimages-2299938321.jpg",
-    "desc": "Wall Street is pulling back from chipmakers and other tech companies amid concerns about the debt incurred to build out AI."
-   },
-   {
     "title": "‘People’s dignity, and democracy, is at stake’: meet the economist ditching ideology for reality",
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/oct/16/isabella-weber-anti-fascist-economics",
     "at": "2026-10-16T04:00:50.000Z",
     "image": "https://i.guim.co.uk/img/media/3576e8823f74fef373d3674061516c7d38e4743e/259_0_4131_3307/master/4131.jpg?width=700&quality=85&auto=format&fit=max&s=302ccf29f317af53c332e90562f0ba15",
     "desc": "Exclusive: Isabella Weber prescribes a common-sense solution to poverty, inequality and fascism – making life’s essentials affordable for all The trouble with economists, Isabella Weber believes, is they do not behave li"
+   },
+   {
+    "title": "These surprising stocks could be some of the biggest drivers of S&P 500 earnings growth",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/these-surprising-stocks-could-be-some-of-the-biggest-drivers-of-s-p-500-earnings-growth-ea073a07?mod=mw_rss_topstories",
+    "at": "2026-10-18T14:00:00.000Z",
+    "image": "https://images.mktw.net/im-41689629",
+    "desc": "Boeing, Meta and EchoStar recorded steep charges and expenses a year ago, which are expected to make this latest quarter’s results look especially strong by comparison."
+   },
+   {
+    "title": "2026 Midterms: How is consumer sentiment affecting voters?",
+    "source": "CBS News",
+    "link": "https://www.cbsnews.com/video/2026-midterms-how-is-consumer-sentiment-affecting-voters/",
+    "at": "2026-10-18T14:09:20.000Z",
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/18/647f1154-70ca-43d5-a35d-9ee6aec36107/thumbnail/1200x630/24d9539b356a20b65a600923b17fbf76/consumer-sentiment-1920.jpg",
+    "desc": "Due to high fuel and housing costs, and wages that aren't keeping pace with inflation, consumer sentiment is lower than at almost any other time in modern history. With the 2026 midterm elections just weeks away, CBS New"
    },
    {
     "title": "Homeownership Drifts Further Out of Reach as Mortgage Rates Rise",
@@ -5299,28 +5315,12 @@
     "desc": "Mortgage rates have pushed above 7 percent and home prices remain elevated, hurting the prospects of would-be buyers."
    },
    {
-    "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-    "at": "2026-10-17T16:47:00.000Z",
-    "image": "https://images.mktw.net/im-81504476",
-    "desc": "”I earn $110,000 a year.”"
-   },
-   {
     "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
     "source": "CNBC",
     "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
     "at": "2026-10-16T22:33:05.000Z",
     "image": "https://image.cnbcfm.com/api/v1/image/108364024-17895883942026-09-16t194825z_342271609_rc2iknaojij8_rtrmadp_0_usa-fed.jpeg?v=1789588428&w=1920&h=1080",
     "desc": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits."
-   },
-   {
-    "title": "More workers are skipping doctor's visits over money worries",
-    "source": "CBS News",
-    "link": "https://www.cbsnews.com/news/us-worker-financial-security-7-year-low/",
-    "at": "2026-10-15T18:59:14.000Z",
-    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/15/feb485d0-ae0f-436d-869c-091a6463428a/thumbnail/1200x630/923e8dd35caa3c2733a69068fd82e651/gettyimages-2218086374.jpg",
-    "desc": "Roughly a third of employees said they put off or skipped medical or dental care in the past year because of financial concerns, a new survey found."
    },
    {
     "title": "People in the US: what is your personal ‘recession indicator’?",
@@ -5331,20 +5331,20 @@
     "desc": "We’d like to hear about whether you feel like the US is in a recession and what you think signals such a downturn Nearly two-thirds of Americans think the US is experiencing a recession, according to a new Harris Poll co"
    },
    {
-    "title": "Mortgage Rates Hover at 7.4%, Highest Since 2023",
-    "source": "The New York Times",
-    "link": "https://www.nytimes.com/2026/10/15/business/economy/mortgage-rates-home-buying.html",
-    "at": "2026-10-15T16:09:19.000Z",
-    "image": "https://static01.nyt.com/images/2026/10/15/multimedia/2026-oct-biz-promos-oct15-mortgage/2026-oct-biz-promos-oct15-mortgage-mediumSquareAt3X.png",
-    "desc": "The average 30-year, fixed-rate mortgage has steadily risen in recent weeks, compounding affordability challenges for many Americans."
+    "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
+    "at": "2026-10-18T13:00:00.000Z",
+    "image": "https://images.mktw.net/im-83252222",
+    "desc": "The idea that the AI trade has been mostly immune to rising bond yields isn’t quite right, one strategist notes."
    },
    {
-    "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
-    "at": "2026-10-17T13:00:00.000Z",
-    "image": "https://images.mktw.net/im-54886096",
-    "desc": "Individual investors and second-home buyers accounted for 1 in 5 home purchases in September — the highest share in a little over a year."
+    "title": "California's proposed billionaire tax: How does it add up?",
+    "source": "CBS News",
+    "link": "https://www.cbsnews.com/news/proposition-40-californias-proposed-billionaire-tax-how-does-it-add-up/",
+    "at": "2026-10-18T13:27:41.000Z",
+    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/18/d5c27485-53b0-4148-afb1-832efbdc5719/thumbnail/1200x630/65f92de53a2c86be84e5283374bb2146/billionaire-tax.jpg",
+    "desc": "California voters will decide whether to adopt Proposition 40, which would impose a new tax on billionaires' wealth. \"Sunday Morning\" examines whether the measure would deliver the benefits its backers promise — and why "
    }
   ],
   "housing": [
@@ -5381,14 +5381,6 @@
     "desc": "The average 30-year, fixed-rate mortgage has steadily risen in recent weeks, compounding affordability challenges for many Americans."
    },
    {
-    "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
-    "at": "2026-10-17T13:00:00.000Z",
-    "image": "https://images.mktw.net/im-54886096",
-    "desc": "Individual investors and second-home buyers accounted for 1 in 5 home purchases in September — the highest share in a little over a year."
-   },
-   {
     "title": "Manulife Mortgage Rates",
     "source": "NerdWallet",
     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wTGc3XzBNMl9QOUF3eUFVWFItdjktdnFCOE5ORGhkb1puWThXajNOTmdoUElCcTAtUjA5UlVvNzFiVEkyWHluTzU3UWRFd0N6VlpySlZTdFQ0bWJRMlh1V01USXVxclhEWmlpWlNCS3o0TFY0Nm5qX1Rn?oc=5",
@@ -5405,6 +5397,12 @@
     "source": "NerdWallet",
     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HQ3RLc2FIRmphNkdwUDA5UjFtSUhFeFU4amNYOVo1SWFROGFtdWNwUnExX0ZUa3ZLZEF1VzlxU0syOFdiSVU4cE1NVmZrQU1IR3d2MUwxSHpTN2ZuVFpMQURYenA4bGxOSzIwMHgzQ1BNbnhf?oc=5",
     "at": "2026-10-17T17:31:49.000Z"
+   },
+   {
+    "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
+    "source": "MarketWatch",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObG5sRnBwLXdCRHpfMC1kZDFseHcyUHk5dVc0ZWtRblNROWdOZWdBcXFKNGlJRVRKVlVNbXk4WUFtY0F3WVdOTlg1Szk4MkpnOVB4QVY5aXVJYzdWZzVwM2VFaTBQODViVEVhcmdYUkZ3clBadnBCQmgzeXdoZEYtRG5QeklzRi10Nzk3MVZ5YnNaazAySEhzVDlWNUV4Y0lq?oc=5",
+    "at": "2026-10-17T13:00:00.000Z"
    }
   ],
   "inflation": [
@@ -5417,50 +5415,46 @@
     "desc": "September producer prices were expected to increase 0.6% month over month and 5.5% annually, according to the consensus estimate by Dow Jones."
    },
    {
-    "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
-    "at": "2026-10-15T14:33:12.000Z",
-    "image": "https://i.guim.co.uk/img/media/db77d2497ad333f58b03bc024b156cdce2973b96/1166_0_4632_3706/master/4632.jpg?width=700&quality=85&auto=format&fit=max&s=f152fa4fcbefeddf29d4879f770100e4",
-    "desc": "Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook markets Business news – live updates Larry Elliott: the global economy is muddling through. But a storm is coming "
+    "title": "What Netflix’s Layoffs Mean for Other Companies; Inflation Ripple Effects",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNEN5cGFwM2VXLVlfVEpvWGsxSzYtUjR5d1JPRTJCd0ZLdjdJRFl5WlBrS3dEcmRwb19NZTBYSms2emdHYTZqdHZYUk5OWmVRWURxSHJEZkxObDhjdllEOTU5bUJXZ0tiUWxNQkhmclRkYjgzV0Rwb0dCVWpBODhZbzZpMWhFSEY3NVVuSHpCZ0pXZlFRVEpnaHFJbU5TbjBQQlQ3R3VDajlGREdWcmdQNnd3?oc=5",
+    "at": "2026-10-18T15:23:47.000Z"
    },
    {
-    "title": "Unpacking the most recent inflation data",
-    "source": "CBS News",
-    "link": "https://www.cbsnews.com/video/unpacking-the-most-recent-inflation-data/",
-    "at": "2026-10-15T13:19:55.000Z",
-    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/15/78c3a05e-25e0-4ed2-a0e6-c123ea80f50a/thumbnail/1200x630/602e643322603f622275f59183a8a628/cbsn-fusion-unpacking-the-most-recent-inflation-data-thumbnail.jpg",
-    "desc": "CBS News business analyst Jill Schlesinger breaks down the key points on the most recent CPI data and how inflation may continue to impact your wallet."
+    "title": "Bash presses Energy Secretary on high gas prices: 'Has the administration let Americans down?'",
+    "source": "CNN",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNclRwMC15NkZQSkY4cEp2NEtfQzRWNk9sU2RNNEh3dlBRdkNOMEJ5NkhFUFNCM2sxZjFmNkRDUkZKRlVsSlNjUFJjaHFVZVNkeFhHNFI2RVFzWVprMTZKV1NHZjJBaW9mdWZ6UE5pdG1WSEdLcW1iWUo1OWcySjBiUUZhdEY?oc=5",
+    "at": "2026-10-18T14:26:55.000Z"
    },
    {
-    "title": "Food Pantry Patrons Face ‘Too Much Month at the End of Their Money’",
-    "source": "The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVGhuMTRoQlVMWkpBTEVObTZUZG94amp4UU1UVll2Ri1HdXdnTXZxbzJ6X2VkN05qQk1aZk81TDIzQlotM0YyUS05TlR5bkxwT3RoVE1CQnQ0SV94ajk4V3ktWEJBbndaN2NKX2xGclEyWThlVWIzal93VDlfRDhzU0ZBTS0xVHRoMzdVMEhGRGp0YjZJNUE?oc=5",
-    "at": "2026-10-18T09:00:29.000Z"
+    "title": "Why the COLA Is Still the Best Inflation Protection Around",
+    "source": "Barron's",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUUdSYlZ4ekpoSndyYlpUNTBWTkJ0Q1pDX19HM3RFX01sVjRCNGRPRUk5YUtWYlgzNF9COTNqMlJYM3ZHdXFzejktODZjQlo5emFvOTBhSDBCV2d3eFdVa3lvbnBkYzlDbmdEY3VmWENEX0hqbXFzQUJSMXRzVlJuZjN2b1lzODRZOTRPR1NjOVJVUQ?oc=5",
+    "at": "2026-10-18T13:55:00.000Z"
    },
    {
     "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
     "source": "NBC News",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
-    "at": "2026-10-18T08:42:22.000Z"
+    "at": "2026-10-18T13:12:22.000Z"
    },
    {
-    "title": "Europe Heads Into Winter With Low Gas Reserves, Uncertain Gulf Supplies",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWnlTQ1FGck1iOTVzZGxpSXVJXy03LUJQb056SzNzU3N5eERSRlR6NGRGT1AycjZQT3V6Sll1NWk3cmg4WGE3bzA1OU02UlpUUlYzdDNlT0RUMWoxU0xXQjRPaHhfNzRGMnlkUmczRjdwWTJESFBDajZYTTB1ZnQ4RkJPX2NEVzJHQ0VWd0xGT3VPQjlJSm1aQmlFTl9yS1FmdlJ4NTdVS3hTMjJOcUdpWXI4cUhWSWtMbGVmUTZBZjFaQUdldnc?oc=5",
-    "at": "2026-10-18T08:24:32.000Z"
-   },
-   {
-    "title": "3 U.S. Energy Stocks Investors Are Watching As Oil And Gas Prices Stay High",
+    "title": "Inflation is retreating from most of the store — why your biggest bills are the holdouts: Chart of the Day",
     "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSE5ZRHctOEhCSnp6MTVodmh5TzlpTDFtbjVNVHpqeFZwQnE3cU1sZDJpVng2Nm05d05SS084RXJ1UWZVWXhHWlQyWlhyUFktWnFCNG5rTkVpTXZib2ZlY1lwVWh0VHRiNjNKeGMyTk54cHBPUmctNmhXeWt1OTFmbS0xekF5eFVjeHFEOA?oc=5",
-    "at": "2026-10-18T03:20:00.000Z"
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVXBpS0tVNXA0eHd1WjdJSktLZDZXZEs3al9NSlNFTDNFbldZOEpjRmpfUmJrNDdVVWRZUzVDbnM1Um5zRzJfODFjWU1aTFMyY2lmMlF0V3htcVRTZ0ZtTWJjbmRodnRqUUpWQTgtQVRkUW9xTDhsY2Jobk1XS3lmc01zOEp2cFhyVkdWbDVmT2JvYXVCb1VXZXZ0OVlOS0cwd0wzOExaU3lnUVZ5WlYzMVJhT1JxVVFpNWZMYUZQb0xhMDdNYkNsb2ktMGIzREkxM2JuY1VlRU9sendBX05EdzRZRjdQLVJwWHA1b3E4eC02R2s?oc=5",
+    "at": "2026-10-18T11:33:03.000Z"
    },
    {
-    "title": "7 highlights from JD Vance's CBS News town hall: Iran, immigration, corruption and 2028 plans",
-    "source": "CBS News",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBuMzVPako0dEhkT1hvejhKY1BaMGRVRWVBakV6emx6Z2JwVzc5THFYbmI3SkpXZmlSQ2lDalBVdk9PSzdaTjBrZ2JheHR0OVJ1SW1aeFZCakNRUjhGTEdHUkhLSEZiOHBxRGppNEdISUlmY2NoazlJRkpZMDk?oc=5",
-    "at": "2026-10-18T01:01:00.000Z"
+    "title": "How High Are Gas Prices Where You Live?",
+    "source": "The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONFFyMEw4dDc1S2JPR0dWakJ3ZHVweTNnX29SUl9KbUEtTnI1ZjVyME96MFRxdkZEY3pNNl85SDkyVklUdm5nTTBKTUdodmdKaDhXNENnX2V2MUlDZ3Jpcks3RTVRTWV6cHo3SjZfU1hKU0szdzhFRXZ2a0R5LUlCaHBUR0RyNl9tRzcwUlk1WWlwYzZKMXFVanA0aENpNFd1a3cw?oc=5",
+    "at": "2026-10-18T10:25:00.000Z"
+   },
+   {
+    "title": "3 Charts That Explain the Economy as Voters Head to the Polls",
+    "source": "The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa28wWUd5SWRXd3FINE9ybkU5TmI1U3FPVmp6ZGRBc1AxN0hmNnBvc0hJeENhZm0tMXQ1cnNVZUl0V1BGbUFFb0hmVHEteFVNWFVqVkFDUXRLc1RHYkVXTFIwa2hNTDFsR010ZC1nWTJUOVNNXzZRVWpsd0UwQ0h3TFR6VlJIMU5KYmc?oc=5",
+    "at": "2026-10-18T09:00:50.000Z"
    }
   ],
   "jobs": [
@@ -5473,10 +5467,16 @@
     "desc": "Roughly a third of employees said they put off or skipped medical or dental care in the past year because of financial concerns, a new survey found."
    },
    {
+    "title": "What Netflix’s Layoffs Mean for Other Companies; Inflation Ripple Effects",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNEN5cGFwM2VXLVlfVEpvWGsxSzYtUjR5d1JPRTJCd0ZLdjdJRFl5WlBrS3dEcmRwb19NZTBYSms2emdHYTZqdHZYUk5OWmVRWURxSHJEZkxObDhjdllEOTU5bUJXZ0tiUWxNQkhmclRkYjgzV0Rwb0dCVWpBODhZbzZpMWhFSEY3NVVuSHpCZ0pXZlFRVEpnaHFJbU5TbjBQQlQ3R3VDajlGREdWcmdQNnd3?oc=5",
+    "at": "2026-10-18T15:23:47.000Z"
+   },
+   {
     "title": "Pepsi was a small town’s biggest employer. Layoffs left it blindsided.",
     "source": "The Washington Post",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPanBhTU1rMy00V3JjVl9fVUhlWGJGUlJLT1VfSnF1MDN5UG5Db1p5TkNVUWs3M01NOTBnMlJvdloxTy1ZYzdiZ2ZCRTdCMVJUbloxU2M1Vm9DOHB2Rjlwb25QUERwQzk0VVhZZ2xuWG9CZkM2RTRhNWFyQnUyZWlXOVhmbkN6QTc3X0VoZjZEdVV2ZnhEY2dQc0RuWXpFM1plSTNyQUVyU0ZueVIxT19qZFpFMA?oc=5",
-    "at": "2026-10-18T10:04:33.000Z"
+    "at": "2026-10-18T14:32:08.000Z"
    },
    {
     "title": "The CEO of syrup brand Torani says layoffs are a choice",
@@ -5507,12 +5507,6 @@
     "source": "WSJ",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcmVVYXVfWWNnNHc1aWlOTVQ5TDQwcUJxaVdLM0RDZklRZUllcXJ5YTFDdV9FaDFaUnh3MnE4ZmhRTFJzR01ySl96VU5VdVJ1aURMRXVlN0VmZl9qSFEySEY3cVVoeE96TF9pcWYxV1luUmdUV2JLb3c1SW5EZUxaRmtMZzQ3YW1jTkdIdHNFak5WdHM5S2c4WXpkNkNGWllrak5uN2tOa1EwM0hPOHdrakc5YVhfUzdVc1pPQg?oc=5",
     "at": "2026-10-16T20:01:00.000Z"
-   },
-   {
-    "title": "California job market gains strength as fall hiring picks up",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbWI5bUNzcjZLRHotN3MyTmtvV0MyLTVRdVR2LTRUaHBkNlhweUZwYlM4YTFQUEp1dGVfSThFLTVBNHR6c1UwSXBOaW1YeFRGNGxXbnhoLVNTUTJ3SWdCbkVfMXVIWnlXX1ZOQjRJbjBQeU5oaW1rR1NnbkRDclR1bExITUMzMi1ZTEFmZ2Mydk0tRmdDb0tmU2xB?oc=5",
-    "at": "2026-10-16T18:28:11.000Z"
    }
   ],
   "debt": [
@@ -5533,14 +5527,6 @@
     "desc": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits."
    },
    {
-    "title": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html",
-    "at": "2026-10-15T13:42:32.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108193937-1792073308894-108193937-17569303332025-09-03t150149z_497087102_rc2ekgaqfpn3_rtrmadp_0_usa-stocks.jpg?v=1792073316&w=1920&h=1080",
-    "desc": "The exchange comes as U.S. debt exceeds $40 trillion and 10-year Treasury yields remain above 5%, intensifying scrutiny of the fiscal outlook."
-   },
-   {
     "title": "US debt interest costs hit $3 billion a day and jumped 8% in 2026—faster than spending, revenue, GDP",
     "source": "Fortune",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRlZDMWxYaGRHUU42b0RMSkwwNDd3Z1VFTGVtTmVMOUZCekhhNnFNRXBXUVIwVTRQWWxkbmdzOXFrQXNSTzQ2c0V2UFgxb2wxaDBrVXhlVHc5dHExR0o1MlBIUlJ3VnExc1djbkdUSDFza08xandLN1YtYTNtS2FUdEtqeTd2SjJSOVNRZnJDWFhTVjFiOWFIQ0N0U05vOXlDNVNSNzVhMHRfdzBDdExLVm95V2gwUXpnRnhLTWZXOFExeGthamxxNzhhZVg?oc=5",
@@ -5553,22 +5539,28 @@
     "at": "2026-10-17T16:11:08.000Z"
    },
    {
+    "title": "Treasury Yields Hit a 24-Year High This Month. Is Vanguard's High-Dividend ETF Still Worth Buying?",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd3VVYlhNd2tKUUtCbVo3UXZCbks1T2p5S0pEd2Q3ZDF2TEdPZ0VDZWJrVXo3VHIxUmxFdFo4di10b3JVOWliazVLaTdpS193QVItSUo1dW9HZGVLbExlV2pVTVRWTE52MmNEVm9jQ1lKWHBRSHNPLW51elg0MWVwODJuUUZzVzBvR0ZSdmxwaklzeXZpZWs4?oc=5",
+    "at": "2026-10-17T14:29:01.000Z"
+   },
+   {
     "title": "3 US Dividend Stocks Worth Watching As Treasury Yields Climb",
     "source": "Yahoo Finance",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdm5CRnpCYTZ0LTFzOWpWWEM5bkRGM18wdzFvazVoYmFweng1SnUwRGVBa3RaWEVpTWVOMVFqRHNaUUZRdE1vQWFpWll6cG0zclVLWUtiUm4wdHYxWVUyam1zUlozbGhraHVBWjB5NjhseTMtSzZieUFHcTRwa2tqN2g5LWpPZ2pNWjJTb1lESUFtNV9iZHc?oc=5",
     "at": "2026-10-17T00:14:00.000Z"
    },
    {
+    "title": "Watch AI Selloff, Oil & Treasury Yields Pressure Markets",
+    "source": "Bloomberg",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTnpyRzNhemRIbVpkWDdwaU9Cb0xnbXNmdkdJa3Z3aFdYZndZbXU5SVV2d3pMUzQ4TTNyMGFnTVVtMUFUOHMxcjY5b2JNSTA3aEszNmRJY3Z2ZUZ5bjFGX1c0SUxLV1RkemktU25CWEFOZ2dwbmUzN1RXV0o2SFFodQ?oc=5",
+    "at": "2026-10-16T22:29:21.000Z"
+   },
+   {
     "title": "Red ink: Federal deficit hits nearly $2 trillion",
     "source": "NPR",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQmhWNWlILVlJRnM1NFR6bkpSRzRFb05EbVdQeHNZTGZfaUhJWDVyQmFhNnBuVVJSV2xkS0JCYzZEWm9rYnFmZGctWHZwUVh6bFRPQ2tVZ3ZHZzFMMWhDV2l5ZHVuQi1JWFNJZjNTM2ZuODBQaTUwdnhUbVNMcmRJMkdCUE1uZkViQ1hSb3NVb2h4WjY3bkE?oc=5",
     "at": "2026-10-16T20:41:53.000Z"
-   },
-   {
-    "title": "Yields continue to rattle investors. These sectors are most at risk if rates stay elevated",
-    "source": "CNBC",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzRFR1NW9wZXF1dGRrcjRFM1I0cTg4UHpld3BEUFFoRm1TZkN5N2U5dk95ZHZNaHhhajNHNEh2WmxhcHp1cXp5TGw1dGJvX2ZWQ05wV3poTmVPSnAzU3ZSeHg4NUg0aU1KTjlxTWlFWHozclVrWWlETHV3d19BRVE?oc=5",
-    "at": "2026-10-16T18:26:18.000Z"
    }
   ]
  }
