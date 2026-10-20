@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T04:53:20.443Z",
+ "updated": "2026-10-20T11:40:24.670Z",
  "ticker": [
   {
    "name": "Mortgage, 30-yr",
@@ -5251,20 +5251,36 @@
  "news": {
   "top": [
    {
+    "title": "The AI boom is getting all the attention. We’re about to find out how the rest of the economy is holding up.",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/the-ai-boom-is-getting-all-the-attention-were-about-to-find-out-how-the-rest-of-the-economy-is-holding-up-77b2266d?mod=mw_rss_topstories",
+    "at": "2026-10-20T11:30:00.000Z",
+    "image": "https://images.mktw.net/im-01876000",
+    "desc": "Earnings season shifts into higher gear, with fresh clues about consumer spending and the health of corporate America beyond the tech sector."
+   },
+   {
+    "title": "What if an AI bubble bursts — and that accelerates AI job losses?",
+    "source": "NPR",
+    "link": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses",
+    "at": "2026-10-20T10:30:00.000Z",
+    "image": null,
+    "desc": "Research on past recessions suggests downturns can accelerate automation. That raises the specter of a double whammy for workers."
+   },
+   {
+    "title": "Taunting Trump Over Gas Prices, Iran Braces for Aftermath of U.S. Vote",
+    "source": "The New York Times",
+    "link": "https://www.nytimes.com/2026/10/20/us/politics/iran-trump-midterm-elections.html",
+    "at": "2026-10-20T09:01:54.000Z",
+    "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20dc-iran-midterms-03-vczt/20dc-iran-midterms-03-vczt-mediumSquareAt3X.jpg",
+    "desc": "The midterm elections appear to be a factor for both sides in the war as President Trump weighs his next steps."
+   },
+   {
     "title": "California billionaire tax could backfire, Stanford study says",
     "source": "CBS News",
     "link": "https://www.cbsnews.com/news/california-billionaire-tax-stanford-study/",
     "at": "2026-10-20T02:55:14.000Z",
     "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/06/18/cf75ee57-8ef5-460d-8ba2-a51bc399ffbd/thumbnail/1200x630/b2036232c31172a8392462727e6d0fe4/gettyimages-2272919055.jpg",
     "desc": "A new analysis from Stanford economists cautions that enacting a billionaire tax could have unintended consequences."
-   },
-   {
-    "title": "Credit markets have entered uncharted territory as the riskiest junk bonds send a warning to investors",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/credit-markets-have-entered-uncharted-territory-as-the-riskiest-junk-bonds-send-a-warning-to-investors-816a05d5?mod=mw_rss_topstories",
-    "at": "2026-10-19T21:36:00.000Z",
-    "image": "https://images.mktw.net/im-94180621",
-    "desc": "Credit markets are sending unusually mixed messages to investors right now, and it’s making some people nervous."
    },
    {
     "title": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
@@ -5281,6 +5297,22 @@
     "at": "2026-10-19T11:00:55.000Z",
     "image": "https://i.guim.co.uk/img/media/0552c296f7bf3a94eaffdf63946659ebf425abc4/333_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=969b0b208611dd7a62835304f092e416",
     "desc": "The meal kit delivery service denies the allegations, saying it found claims to be ‘entirely without merit’ Workers at a HelloFresh facility in Newark, New Jersey , have claimed in court documents that they were verbally"
+   },
+   {
+    "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+    "at": "2026-10-20T10:00:00.000Z",
+    "image": "https://images.mktw.net/im-04384503",
+    "desc": "“They insist that the details will be provided after they have carried out a soft credit check.”"
+   },
+   {
+    "title": "Why are some food prices up and others down? Here are the stories of 5 items",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation",
+    "at": "2026-10-20T09:00:00.000Z",
+    "image": null,
+    "desc": "Here's what's behind the fluctuating costs of everyday grocery items such as ground beef, eggs and chocolate chip cookies."
    },
    {
     "title": "3 Charts That Explain the Economy as Voters Head to the Polls",
@@ -5299,14 +5331,6 @@
     "desc": "Due to high fuel and housing costs, and wages that aren't keeping pace with inflation, consumer sentiment is lower than at almost any other time in modern history. CBS News spoke with Michiganders to find out how the eco"
    },
    {
-    "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-    "at": "2026-10-19T21:15:00.000Z",
-    "image": "https://images.mktw.net/im-04384503",
-    "desc": "“They insist that the details will be provided after they have carried out a soft credit check.”"
-   },
-   {
     "title": "We must tax the wealth of billionaires, not just income. California can lead the way | Ro Khanna",
     "source": "The Guardian",
     "link": "https://www.theguardian.com/commentisfree/2026/oct/19/tax-wealth-billionaires-income-california",
@@ -5315,139 +5339,129 @@
     "desc": "Will California stand with the working class or the oligarchs in the vote this November? The Democratic party has a choice to make. Are we going to be New Deal Democrats or corporate Democrats? Are we standing with the w"
    },
    {
-    "title": "2026 Midterms: How is consumer sentiment affecting voters?",
-    "source": "CBS News",
-    "link": "https://www.cbsnews.com/video/2026-midterms-how-is-consumer-sentiment-affecting-voters/",
-    "at": "2026-10-18T14:09:20.000Z",
-    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/18/647f1154-70ca-43d5-a35d-9ee6aec36107/thumbnail/1200x630/24d9539b356a20b65a600923b17fbf76/consumer-sentiment-1920.jpg",
-    "desc": "Due to high fuel and housing costs, and wages that aren't keeping pace with inflation, consumer sentiment is lower than at almost any other time in modern history. With the 2026 midterm elections just weeks away, CBS New"
-   },
-   {
-    "title": "SpaceX earnings will be all about AI — for better or for worse",
+    "title": "South Korean IPO flop is the latest in a string of disappointments for the global AI trade",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/spacex-earnings-will-be-all-about-ai-for-better-or-for-worse-89bbc772?mod=mw_rss_topstories",
-    "at": "2026-10-19T21:02:00.000Z",
-    "image": "https://images.mktw.net/im-77817370",
-    "desc": "SpaceX has been renting out access to computing power, which is a big source of revenue growth but also one that comes at a high cost."
-   },
-   {
-    "title": "China’s economy grows faster than forecast after AI boom boosts exports",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports",
-    "at": "2026-10-19T09:27:04.000Z",
-    "image": "https://i.guim.co.uk/img/media/892bb878342a5fcbb68c7a85fb2b553e42c94669/495_0_4953_3962/master/4953.jpg?width=700&quality=85&auto=format&fit=max&s=ecf05897960b0d1f482bcfa1cd2fb648",
-    "desc": "Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demand Roaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much"
-   },
-   {
-    "title": "California's proposed billionaire tax: How does it add up?",
-    "source": "CBS News",
-    "link": "https://www.cbsnews.com/news/proposition-40-californias-proposed-billionaire-tax-how-does-it-add-up/",
-    "at": "2026-10-18T13:27:41.000Z",
-    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/18/d5c27485-53b0-4148-afb1-832efbdc5719/thumbnail/1200x630/65f92de53a2c86be84e5283374bb2146/billionaire-tax.jpg",
-    "desc": "California voters will decide whether to adopt Proposition 40, which would impose a new tax on billionaires' wealth. \"Sunday Morning\" examines whether the measure would deliver the benefits its backers promise — and why "
+    "link": "https://www.marketwatch.com/story/south-korean-ipo-flop-is-the-latest-in-a-string-of-disappointments-for-the-global-ai-trade-fc97748c?mod=mw_rss_topstories",
+    "at": "2026-10-20T09:30:00.000Z",
+    "image": "https://images.mktw.net/im-56180623",
+    "desc": "October alone has witnessed the shelving of three separate flotations planned for data-center providers, backed by AI powerhouses like Nvidia, Blackstone and SoftBank. Investors are not convinced of the sustainability of"
    }
   ],
   "housing": [
    {
-    "title": "The housing market is 'really stuck in the mud', says OnePoint's Peter Boockvar",
-    "source": "CNBC",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaWk2Q1dhel83T3hiVVhLZEhJVVNUN28tWUpIWXFHNVhESHkwTUVWVVJTc1o5UzJIUzYwanVENUt5UzFReURTUXVNMDlLUXV5eGdTUVhLckQ1WU05WTdKZFlfRXcwTnVpcnRteUJxRGFMOGdhZzR6dTJoWnhOVnRxTF9XdEo5QlBwLTAtQkZLNTkxOWxfMHBLRWgzZXZ2TGRyZ1A3S2ozYXNsMGhKYlFncVdjTW0zdHRaSnc?oc=5",
-    "at": "2026-10-19T21:49:00.000Z"
+    "title": "The multi-million dollar real estate portfolio of Buffalo Bills QB Josh Allen and actress Hailee Steinfeld",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/the-multi-million-dollar-real-estate-portfolio-of-buffalo-bills-qb-josh-allen-and-actress-hailee-steinfeld-58a9bd62?mod=mw_rss_topstories",
+    "at": "2026-10-20T09:02:00.000Z",
+    "image": "https://images.mktw.net/im-35525360",
+    "desc": "Josh Allen reached another milestone in his NFL career, but his life away from football is equally impressive—including the real estate portfolio he shares with his actress wife, Hailee Steinfeld."
    },
    {
-    "title": "Mortgage rates are 'noise' for luxury buyers: Expert",
-    "source": "Fox Business",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kMFRqMVhDb0ZNanE5M2h4U003bzk1dkNvdW5rU0E3anFydy1zb196N3pFWUV2TU5PQTZTSWEzd3E3ekJyWDJTU1BiM0dfMG9INjh5c2diVEFPZ1U?oc=5",
-    "at": "2026-10-19T20:51:52.000Z"
+    "title": "It’s a rough housing market. Goldman Sachs expects it to get worse.",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/its-a-rough-housing-market-and-goldman-sachs-expects-it-to-get-worse-be2c5aac?mod=mw_rss_topstories",
+    "at": "2026-10-20T08:13:00.000Z",
+    "image": "https://images.mktw.net/im-61872761",
+    "desc": "As bad as it is for the housing market — starts and transactions flat for the last three years with mortgage rates over 7% — it can still get worse."
    },
    {
-    "title": "Don’t Expect Housing To Get More Affordable Any Time Soon",
-    "source": "Investopedia",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQblRHUzRrTUxCbW0tZGVkaE4zbi1pZWRnVjh5ejdLbEwxS2tGYkNlNXVPeUR4blQzbmhwNUNsY1NqWFRfNkEyd2syc1NDZU1MR3lhTi1OakVOdDBFcXdXanZVQzloZHFscjRpNHdsVjlMaDNWdnN0M3NTN3EwQjdFbjE3TW1YalVYdWdPZWFkNE9adzd0U1UxM1VR?oc=5",
-    "at": "2026-10-19T20:49:27.000Z"
+    "title": "Luxury and Cash Fuel U.S. Housing Market",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUFl3bzZkdnhhSVFtdFhCRGtadUZLTE1sRHFOVU9Cal9NY1VMQVpDSTVZSGMxMVdwWll6RWZyckNUc0k4T0ZoZmI5M01iSVFuNVlCVXFsLTItQ3p6RlNpdlYyTjVqLUx0Y1NkTkZ1dFg4MHJZbFdrMF9oVUt3MkxPVVBrZHFRSFpKZ25LQkRVWQ?oc=5",
+    "at": "2026-10-20T10:29:00.000Z"
    },
    {
-    "title": "As Mortgage Rates Rise, Many Veterans Are Overlooking a Major Benefit",
+    "title": "Mortgage and refinance rates today, Tuesday, October 20, 2026: Mortgage rates rise, as buyers continue to cancel sales",
     "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNFc2TFA0Z0I3TFVaVFVoLU5xR3FzWmF2cnNEXzFEcXFSOUZJUmJBVmx4WS1oVFE5WFJqWEIyZl9vc1Rmdnk3QUd1azNFWHJTbmtqUm9aYWF0RDA2NjQzSzZCSlNPdDBXRHhFcHZNblJjR1pvVV9zb3hGdG1iNUlya2lpVXhIZ2xqOFExaWhNQjJXV0hZ?oc=5",
-    "at": "2026-10-19T18:06:00.000Z"
+    "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOTzViUHRVeXNkUjMyeGgwbkZNZU5VTzdUVFJ2RlctMVVwSUdTTUFfVk9Gd1VKRl96N18zeDNxaTBqV0RIdGVuenBRQmZyRzF3R3FZSlM4dUZld1BMcmYwV2dxTUdHM0swcWNoSW1SWGZwakFaUE4xeUJSUEVOZThvTHY5WEJMV1M3TV8xWEF4VUJwVE5QZHJ5NHJIMHRIR2dkbUc3LVo1SGJfOFc1cW0xWGdOQ3JSTmhsV29JZU5jdTYzOFdNU0pOZ0Fmc0VERXpqR0lQSmdwYkdRbmVZQTJ4MURTMU53Wmw4c1NNV2NxMm9MdFhkOU9sZ05EUGRCQVhPZUdRMWZaWHZZTFZ2ZWM4TVMxZ1F5V2lh?oc=5",
+    "at": "2026-10-20T10:00:00.000Z"
    },
    {
-    "title": "A major housing indicator just flashed its most negative reading in 14 years",
-    "source": "Business Insider",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaUZxN3hmVGJLeXNSWl94RFpIX0d4YkVUMk1IZXNma0hVVERGQlJpUm1aUTFKNnYyTzVqc3pYWEVSMFFfa3ZrU0d5NWVtZzZoc2oyTW5RT0ZEdEF2ckE0cm95M0NCSFZuRE50aGFJT0lFRnZxN2lzYmZPOVBDeUtmWEN1ckJIaU1nbl9qdVhMb1piTEwtQnh0MVNpc3hhUDU3MDdCN0dBWQ?oc=5",
-    "at": "2026-10-19T18:05:00.000Z"
-   },
-   {
-    "title": "Mortgage rates are 'eating up all the good news' on housing, NAHB CEO says",
-    "source": "Fox Business",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wMFNEWXNhZG9ZSklLbTNYZVFUUHdlNWU3Mm1PN1FxZkRkNzFGTTZCd2luZ2U5d1JlRkZzY2lxcU1mRXhFeE5aNml3NU5IQWxsejB5b3ZhdjJQNkk?oc=5",
-    "at": "2026-10-19T17:17:17.000Z"
-   },
-   {
-    "title": "Market Clock 2026 Q3: As Rates Top 7%, Buyers Gain Leverage but Lose Purchasing Power",
+    "title": "Why You Can’t Take Your Low Mortgage Rate to a New Home",
     "source": "Realtor.com",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XQjZYNGlSUWczTlk0MlpzcjFURW5DMUZBakVHM1VOTTBfR1RGeE1rX1o2RE84Z2pfRnF2MG5RWURLcjZPTElRaUM5VWZORFRpZ1hMS3NXS2huckhzUWIyZjlkdUlVc1poaGJiSQ?oc=5",
-    "at": "2026-10-19T16:58:07.000Z"
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc1FtWkFWS3RKcFRiTmVMamdFb1JnYTVQUlFsXzRZc3BkZ3lJS3ZMdUdQdnBZY0tubXNFc0N1dXZrLXdmcE1PWUpCYVNrOVpXX0s1NWRnN01Xd215eTdsWm81S2tCR3RqY01Zb2FGWVlQdjZybTFtVDUxWGZubjBsNE40MHV5dXBETVJhdF9aV0Z3WWxOVXNuSU9KdWx4ZnV5bmtzOA?oc=5",
+    "at": "2026-10-20T09:00:00.000Z"
    },
    {
-    "title": "Mortgage Rates Today: 19 October 2026",
-    "source": "Forbes",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RNjQ3M0x3M1JqQ1BhbVFVRFlhWXpMMHhvVnBjWmdNY1RtdkhJeTBXSlpUOTUydnI2ZU5XMnd1d0RaM3FRX2lGaDV6NkxoX2FvMUtDUnFpRkhWNXFvUTkwSENQZnhxYUU2azFn?oc=5",
-    "at": "2026-10-19T14:56:00.000Z"
+    "title": "Autumn Budget 2026: What Andy Burnham Means for Your Mortgage",
+    "source": "Morningstar",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbm54UzBqbVoxajVMdElITWZrVkJ0eTlQSHdPZ0U1WjdhMWpnOEhRdzZPTFl6bjVBWG53U3FGZXpCUnFkTTBodTVYT3hncDl3WXFWcGh6bDRlaXZvdnplYzRSYm9XOGczMFdVOGhFSXJFanhiWERhNXhzZ090Uk1vMDl2c1gxcHY1OXVoQmZPMUtBUDZ3V0pIZDdVM2g4SnoxOHlXbFlfUldKemFwSUtr?oc=5",
+    "at": "2026-10-20T08:08:12.000Z"
+   },
+   {
+    "title": "Mortgage rates today, Oct. 20, 2026: Rates tick slightly up",
+    "source": "Fortune",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12bXpfa2RlVXRvUWc0c0JTNHkxNXR0cHN3LTZCRi14bE9OVTUtVlExT3RMYnhCZVVCMkN6TWJfT2xNYUo3RGtqYmtpVU9FejdkOG9VeXdxZ2piUVQ0Z2x3T0lFWXlmZ0JXZVFDTW1UYw?oc=5",
+    "at": "2026-10-20T07:01:00.000Z"
+   },
+   {
+    "title": "Current refi mortgage rates report for Oct. 20, 2026",
+    "source": "Fortune",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55eFFPTkprRWJpZnltd2l1dlhVNFBYSXFXUlhCTVdQVHZKZ1ZmbWpLb3I1cElUNU1HVkxXWkVLVlhib3FTbHZnYlNUbGp4UjJ4UXI5aEozOVNwWmtpZ0hXX0lBeGtLam5lMlROWlJad2dLY0xfZlE?oc=5",
+    "at": "2026-10-20T07:01:00.000Z"
    }
   ],
   "inflation": [
    {
-    "title": "3 Canadian Energy Stocks To Screen As Inflation Pushes Oil Prices Higher",
+    "title": "Taunting Trump Over Gas Prices, Iran Braces for Aftermath of U.S. Vote",
+    "source": "The New York Times",
+    "link": "https://www.nytimes.com/2026/10/20/us/politics/iran-trump-midterm-elections.html",
+    "at": "2026-10-20T09:01:54.000Z",
+    "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20dc-iran-midterms-03-vczt/20dc-iran-midterms-03-vczt-mediumSquareAt3X.jpg",
+    "desc": "The midterm elections appear to be a factor for both sides in the war as President Trump weighs his next steps."
+   },
+   {
+    "title": "Do not worry too much about European gas prices",
+    "source": "Financial Times",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeUpHNFdKbkhoVXMzQTJkVm51bXBORzhidEMxdjRKZUl2NHlUZFFvc01LU2Ftb2dTbjAtTXFCLU1Wa3JlOTg1VEhLTUJEZmpEVko4SGUtakpWTVRibWxTVUxCVHg1Y0lnQjVld2Q5X0FIdjVucWRHSU9pZWFxQkVXVmlRRkI?oc=5",
+    "at": "2026-10-20T11:30:02.000Z"
+   },
+   {
+    "title": "Here’s ‘the biggest inflation miscalculation’ retirement savers make — and what financial advisers say to do about it",
+    "source": "MarketWatch",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWExfeVhpdjg3OVhza0xzWlgzZnhPRGJxMkx2bEhCYWNlUE55d0xjNUdCTUs5c1phTmlhQWpUZkRIYVl4dTZpYU1xWlowcGplWkJrN1hmQXNOSXNUZnU1T3VkZmhJOG5GczFXcXhodnlOWFlHd2xiZG9iSl93YzBOdVlPUUhseU83a21qSlNVMTR0M0YtSjZGd0IxTUxsREo1WElWNFZVNzY3Z3RyaURXbmtJVjJ3cVBpb2pqSHRGck1jeUZzemstOFV0MTgyTGFZWUd3NFpIeUR0ZlpOSW8wRTJtdWpKTDIzMlpn?oc=5",
+    "at": "2026-10-20T11:06:00.000Z"
+   },
+   {
+    "title": "Inflation Just Hit 3.7%. Here's Why Walmart and Costco Could Be the Biggest Winners.",
     "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZmtheEhHQktXNXloMUdxOXRLVHM5NU9fZEpDdU9HMXBIcjhUR1h4T1RFZlQ5d21ZcGpJYTJqOTZSUDRBdnJxYU82b1lXWnFuTUdIWkdkdFBvMko2SXZ3aEdGWmpIZWN5VkNrakp1X3Y2WjMxY2IzTmNzdS1kM0p1RjBiYzQ4TmtSUkxnTnBPaF92UQ?oc=5",
-    "at": "2026-10-20T00:17:00.000Z"
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQai0xSGVMWXpUa2NNUkJNcUtjVDRoUDR2bWdlazBkTGhjMU5kUm1pbjREWm9SWWZOU250WWkwS0xEZGl1alJjWjRfamIxeXhmSWtqdmpHMjk3M2JRS3h0aEw0QjhpcXh6ZEUyZm4xd21LSHJpUHkyQW9JM3JOc2ViNjJJZnBKSlk?oc=5",
+    "at": "2026-10-20T11:05:00.000Z"
    },
    {
-    "title": "The affordability question Republicans can't escape",
-    "source": "Axios",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd3AtYTk5MV91ekVyejVieDFCV2dFNFJjWkRGd1FydGxzVW11NGJGWThZVFdsdjA5Z3FvYW5zV2l2akc4MFFCZGhKX3F1SGlzVVZRWEZqdGZlbmxGb2U0V3I1U0lmSlFJVU1tSVQ5OFVuaC1vbG9zTkV4VXk2S0RGSVQzX0I?oc=5",
-    "at": "2026-10-19T23:31:50.000Z"
-   },
-   {
-    "title": "AI is driving inflation. The Fed's fix may hurt everyone else.",
+    "title": "TSX futures dip as inflation expectations, US trade tensions weigh",
     "source": "Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZdVRWYWJEWDBsUmR0bmVCblc1eTZXOENZYVRkejd0aHdSbVBxVURnUGhGcTViOHZ0NE1QTGtNQjNKaUpwWWpPNzJzLUNVV1UyR3hmcG5nQ19DYUxTMy1DTVhHNXJ6R0E?oc=5",
-    "at": "2026-10-19T21:41:17.000Z"
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ3FLY3g1VUNPNmprZ3VyOVZvLXdKQUVDWjVpUEZTYncwTl93dW01bmNmOGMwQVAwS19SWUxjdFA0bk9mLU1oMVFIazRTWTl0cVRSZENmanhfQTVXRkhGQmRibndRa1JhNXNFS1I1alI5bDRrVVFVeUlQMVotWnNpMHplTlhLckJEVDNsR3hTdmFkQjJteGlxTDU1TFlVSVpud2gyZUc0cU1nLXM?oc=5",
+    "at": "2026-10-20T10:27:43.000Z"
    },
    {
-    "title": "Gas prices: Here's how much the 'optimal' US road trip would cost right now",
+    "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+    "source": "NBC News",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
+    "at": "2026-10-20T10:19:13.000Z"
+   },
+   {
+    "title": "Walmart rolls out new bundle combining Walmart+, Sam’s Club Plus",
+    "source": "Fox Business",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNG9rWUJzQnFlbEhOUThHN0I0cnR6QTA4T2l1eXg2Vnd3dlNCbXJoaGpwbFlzS1dpVEk1NXBJNHNsemh0c2dxLVpid3hNT0NBa2FWNDJ6ZlRJdWEzMll6dXZ5OTZfbEE2cnVsTHFRVF9IY2pjMFZQcE9LZ2ZINXZDaHhwQmtCZGllXzUwbjQ3WXhXU1huZmdKWmxIbzDSAaIBQVVfeXFMTTV4M0hDWjRnSWJuUWdQYVVVYW9TWnBBRUFfV3Y5a1pxdXlfTnh5YWRiOURSREpubnVHVEFBamliV3k5SW85bER1YlZuSDd1RE9ObDMtZWZRVnMxdjBlV3V0VGVwdGwyVmo5ZzRDaDZjd0l1ci13QkdJNmRQY19sN2Q1QjZWYjlfSERKRXJRN2RaTUFZN2d0SWNIc0syZUgzQ0xB?oc=5",
+    "at": "2026-10-20T10:01:00.000Z"
+   },
+   {
+    "title": "Gold Prices Fall for Third Session as Oil-Driven Inflation Concerns Shift Focus to Fed Rates",
     "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMXkzVTlxMGtiRExPOGVpQ0JNQkE2ZTlXV2VKTmZDeWQ4RENJUDlQUG1JMVllRi1lWHh0VW4zZ1NSYTk0ekVrNzhRVFdSVTlRUmVFeWY1OVN5ZlROWU5JMS1Bclp1UVJhQ3p2cWhWX0p1UmN3QlFPSHJoclpHbDBFM1FiLVo5MjlzU3pjSGtFY3dXRDlpTVkxa1lPSjF3b0VnU19QTUFTUmJCdGRtMllxa0xvTE5BNHVKemt4VHJXM0VRcHc1NkE?oc=5",
-    "at": "2026-10-19T21:00:12.000Z"
-   },
-   {
-    "title": "Bank of Canada Survey Records Notable Rise in Inflation Expectations",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMDBwUUhTck9tQ3ZiSUlQVXVGRWxMMWExUlJaWDVRTENTVHU0anA4NDZmdWR1NEVjMmQ2ZURVcDZkV0VUeXhBUEhBb1JwemM5czY3X0loRFRSQkFQNHkzZDVpbHcwNHJ6OGFiUE1VZzJlcy1rX0I2WU9Dc2pUWElnUWh2V01GNVJOR3VQSEhYTF9OUVhtcWE5QmdhdGpmMVV0bkJJNFZLN2gwWjRjaGdGSENnX1ZCanMxdGV6dTNn?oc=5",
-    "at": "2026-10-19T20:27:00.000Z"
-   },
-   {
-    "title": "September CPI Ticks Higher While Core Measures Cool. Here’s What It Means for Interest Rates",
-    "source": "Morningstar",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbkRPSy0xb1MwclpWd3AtTGo2engtejc1bEZOSWM5MEZXM3F1MlhxOF9aaE12a1pPYmNWZkRwYmg2b1g4bFREeFpSWVlKa0kxN2VLdzdCUk1wRVNnWW0tUGdBQ0V5bUhRQjFrRE91NVlEajIwWTlaTG5RaGdZZHM2ZHlETUpmU2c3SzNqOUhRRkxndFk5WW9uYmZNWmJYNWlaNm85TDZKeWVlMWNMbHllTlBXOUY4WE5rTm1LYVliYWtPZW00dkZia19TOA?oc=5",
-    "at": "2026-10-19T19:43:53.000Z"
-   },
-   {
-    "title": "France is rioting over surging inflation, skyrocketing national debt and crumbling schools. America is its sleeping twin",
-    "source": "Fortune",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNVdaSFdtanZIQUhCeFMwUWcyekNrMWxsR0Z3dmZIM0tCaWQ3cmZDd0tUOTJ5WW54c3Z5VmJCdmlFSnJFMmZTVDFzYnhXS1RrLUlkdE9kUHNyMnhfcTZmMEhDUG1JMG8zRHk4MldVN1BHUzhhQ295UXR1VVJnSm9mY3FuWjdNU1RFMlhRQzJVM3RZdWd6?oc=5",
-    "at": "2026-10-19T19:31:00.000Z"
-   },
-   {
-    "title": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine",
-    "source": "Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWZLVGpmVmN6M1o1UUJnRXhSMmVWdjY2Mm4tR0IyeXk0OHZzOVRPamx6eEdEVjhEUHVXMlkzeFhoWkg4Qnl0a3lYQ0xJdWNzVHcydDA0NFdVb0ctbEVoMExGek50RHoxWF9TRThVMXRENDhWV2RUbVRGOVhvOEtoTmlTS1NlZGk0UldmSEY4N0tRVVRBeWc5SmJqRGlaVWwzeHRPa1hHZDNHZ3UxUjhwZHBGQXo0YlIw?oc=5",
-    "at": "2026-10-19T18:39:36.000Z"
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb1kzd3RhLXZ2MWc1b3JaaDFhbV9JcWZpdGNDaWVsRUZfdTJDWGlIaWUzbHQ5aHV1T2NWYVduTUF1RXF0eHAyRUExcTRqbGE2Q0Q5U2xJcVJGeFFQejFBMlJuNXFCYWdJWnpHdnpUSVptMXBjNTRGZU9WX1BENUY0ajNSZFNJR2M1SW85RG16aWtaNDNkNlhFYi14ZVRPLVg3NlE?oc=5",
+    "at": "2026-10-20T09:53:52.000Z"
    }
   ],
   "jobs": [
+   {
+    "title": "What if an AI bubble bursts — and that accelerates AI job losses?",
+    "source": "NPR",
+    "link": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses",
+    "at": "2026-10-20T10:30:00.000Z",
+    "image": null,
+    "desc": "Research on past recessions suggests downturns can accelerate automation. That raises the specter of a double whammy for workers."
+   },
    {
     "title": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
     "source": "CNBC",
@@ -5465,10 +5479,22 @@
     "desc": "The meal kit delivery service denies the allegations, saying it found claims to be ‘entirely without merit’ Workers at a HelloFresh facility in Newark, New Jersey , have claimed in court documents that they were verbally"
    },
    {
-    "title": "Black Unemployment Hints at a Job Market in Worse Shape Than It Seems",
-    "source": "The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ1JDbDZpdWxtaktwbWVRY0FIZ2M3Z2FCUndFLUd0c3F3Vm9GeDU1Y2x0MFZMcW5idFR1ZXdZaXYtd1N2ZHNQVEV2VWJ1TDgyNkZEeEVTWmNjaDlYRzdWY2plSnMwTnJIQjFtRXZjS1k3N1dtbS1wRFNjZHZSS1BWcWJLT1k?oc=5",
-    "at": "2026-10-19T22:22:00.000Z"
+    "title": "EXCLUSIVE: Qualcomm to cut jobs worldwide in performance-focused layoffs, internal memo shows",
+    "source": "Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUndSd0N2Um9RWGtEUDU1MHBGUm1LU3RkT2RpRFVDbVNzRHdNTGVGYnk1MU1pSUFCQklWMnZERzc0bEJ0VDVUWUp5N3JHV3M0eVFMaGRFOEdwcjU0WlUxOG55enFWb09Id3AySlhLenVTT0k4Zk51WUhuQ05oVlBSWmg3d3NmLTFzOVBJTHVsc3RSN21WaGdwYjNCa19RSTRGWUhIXzQ1a25mSDhxQ0JwdzNJRUZiaHdXZTREOQ?oc=5",
+    "at": "2026-10-20T11:10:27.000Z"
+   },
+   {
+    "title": "U.K. Wage Growth Picks Up, Jobless Rate Falls Ahead of Bank of England Meeting",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa0dMQVFQV0xuSGVCemloM0RpcGMyeW13Z1NBZDdZSDFobURoWXA0UXdtcVYtOUxWME84ZWxuYjEwemNTeGs1MTF2SmYzeW1PWUExZnZkdUM1WVg5OUthRWJPY3NXenRidXpJdTdpWkxWd0hHMlRhZlZWS29kTW05VlJHc2llUUpiV01TdjBqYVFycFlQTXl4bk01VQ?oc=5",
+    "at": "2026-10-20T07:33:00.000Z"
+   },
+   {
+    "title": "Surprise drop in UK unemployment to 4.7% as John Healey’s first budget looms",
+    "source": "The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa1VoYlk5QkdndjdKSm1lbFItTU9KRlRiRU1ZNWRWbFA5OGM2Z3VuLTA0S1FKdUltb1VQeGhKSkIxbDlzbVZuTEVDdHpqUHN1a0FDZDBnMmVVZWdDVHlSenNYelhLNnNOVGViNW5XblV4RTcyRGZ3WWNLMGhvZGg0WGJBSEZDbkgwN0xV?oc=5",
+    "at": "2026-10-20T06:29:00.000Z"
    },
    {
     "title": "EYPT Stock Layoffs: What to Know About the Latest EyePoint Job Cuts",
@@ -5481,27 +5507,21 @@
     "source": "CBS News",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY2VidHU4bkg4VmhUSC1HaExvZVpHZnhGU0hyNXVjWTJzUjdZV05DQU1mUTczbFVyTmVvbGxqTDhMNF9yUzdhRTE0Q25sNnB6eWdHSFBkR1dGdFRiSzVMaUpnZ1g2dE9EcUNaYkZ4ZEtlVmJQTHVFbXowVXpkbkVmZ1lYS24tQjVZbFBfNlpmbWlMclUwOWJxdWV6NUlYd0xKWENmc2xpUQ?oc=5",
     "at": "2026-10-19T19:30:00.000Z"
-   },
-   {
-    "title": "Former Illinois subcontractor charged in $4.7 million COVID-19 unemployment benefits fraud scheme",
-    "source": "CBS News",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUTZkcGMtNTVoNWppVG1rX3Z5ckE1YXNoSzNCYnhDT3RvYzJlWXVaclhLbU5wUlZxYzJ5UnIxUWNYMDVzSjBhVHNVLTBobDhrVlFfREZCZnlfTDJEUE5idTdPQVJhUjRjNnNoaWFFSi1BV21DRk5hbHRWa1BHT0Vtb0NRTjhUakFKWEpqYTZEVmFyYkJwaWNnTmo3UTMyU0JRVHpkN0JhWQ?oc=5",
-    "at": "2026-10-19T18:57:09.000Z"
-   },
-   {
-    "title": "In-Demand Bachelor’s Degrees in Today’s Job Market: Here’s What Employers Want",
-    "source": "Investopedia",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcEE4cERld1p1Z19sQVNVS1VMaWVZZmNKSU5jSEF3d1gzWHd5UTE2SjZfNDdFYnN4dHRjdEZfTlRiRklyX3VyUURfWWRXMGhCS1ltelU3MjNOMWtBLTg1T3RWdUk1STNvVVVsNzEyc1UxVFdHVEpQMk5hbDQ0Y0xlTGU1WTZwWHFJMUF4THdhckRreDU4SjBVeUcwTDl6QVdfc1ZrVDlhUVpzTnhfUFJpRA?oc=5",
-    "at": "2026-10-19T11:05:00.000Z"
-   },
-   {
-    "title": "Netflix stock faces a growth test after its chief content officer shakeup and fresh layoffs",
-    "source": "Business Insider",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSnp0QWZxMExDVlVxSktWZ2pMV2I2LVR6dkhjU3M5eGZ4RXVKaTIzc3FLWDl6Z2lOZ0VLMEdCT3VIbUp6OFZDUkVpR3NGQThqYVZtWjR0WXY0ZHh4NDhsbEN3YWtVWk1Id3NiRzZRSmMxZFdlM0NtZW1MVXRvdUc4dXc4cHNocGdJaG9YdmdiOGt5aU5aYlEtLXRQUnAyZzQ5WkhWb1g5Q3RFZWJIUVNUUktGZGVGcU0?oc=5",
-    "at": "2026-10-19T09:50:00.000Z"
    }
   ],
   "debt": [
+   {
+    "title": "U.S. Treasury yields move lower as investors await housing data",
+    "source": "CNBC",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaM2dEaXY3djRjLTk3Zm56azJQeFVocnVEQmwzb0wwbWpvMFRxTkdINFNMdkNMS1RSZUNfajNDSjBQRGZ6V210U1NERGI1UTNCMDZDUjJmU0k1RF9vUV9WSFhGdG9CeGNZblhWVlFGU0hsdjhFZkhfZzFMVlJ4Z9IBgwFBVV95cUxPWWdOVGZuSDZKX1ZBTEczSzAwREw2SldJTmY2VmtTSUNIM0d1aVFJb2lEbXdEWHZRWE1yaldhb0ZKRWVMamxIUkstN1ZMMzJCNjBJR0RJRnEtUG54am1uMnEwT09kSTRUU3V5WC1Fb19leWlHVnI5OFdJOW9nQ3Q0dmVUWQ?oc=5",
+    "at": "2026-10-20T07:43:14.000Z"
+   },
+   {
+    "title": "The gamble of trying to inflate away debt : The Indicator from Planet Money",
+    "source": "NPR",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeUVJNnlUbGZycEdHLW9aRFRKQ3F2ZXdkbFo3N3l0dXV5RGpQcExvZUJYUTBTeU9jMWY5aFdjWEVFM3VZN05EY2Jpd0VmSTRKMXBsUGUtcUdCQnNjaDdUel80WmptbXlkbUZpR3ZvR1BDYXpFODF1Q3dmMlpOemM1aGZLZjEzTUhQYUNhbGNjSQ?oc=5",
+    "at": "2026-10-20T07:00:00.000Z"
+   },
    {
     "title": "Update: Technology, Consumer Discretionary Lift US Equity Indexes While Treasury Yields Climb",
     "source": "Yahoo Finance",
@@ -5521,12 +5541,6 @@
     "at": "2026-10-19T19:27:00.000Z"
    },
    {
-    "title": "One of this year’s most important relationships in global financial markets is falling apart",
-    "source": "MarketWatch",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNN3QwRTctaVBMNHBFYmlkSmUyeDlUbmJEd1JDTGl4UXdkcDVWYnhrMDJOb3I3N01MUWQwMjZkUHdBNk8xeG9XLVNiV3dZVG93Wldudk5lbHUxdktGWE4wN0JOTjhBcllWYW9rOEM2LVk4S3FLV2w3ZVkxSkZ1QV9uZXdqMkxvVkxDY2Ryd1laSmI2ai1GRzdhcThsMlF2ZDZPbFpleDk4bnRwN21OTG1XWnRRRFEwWkctRGhtNXdTSExCYVhIUm9RSk1NaTZqNk0?oc=5",
-    "at": "2026-10-19T17:43:00.000Z"
-   },
-   {
     "title": "Why the era of easy-to-ignore bonds might be over",
     "source": "CNBC",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTGtjdzNqSmZwb05TelFOV2lWVjhhVjBjLUx3Q3Z4OFhPeE4tb2xUSHlHZWxCRUxFZDZCMlZPZ2xTMi1JZTQtNDVGQmFUY1FPeWREd3hMeXJ2amJJcV9lQzVnVVVtS1c1TE9tU05QLVVZY0FOVE1wdnJqekF1aTM2cWhaVXFMR3V1TWhKaS1fT3g0U0I0ODZveFltclE?oc=5",
@@ -5543,12 +5557,6 @@
     "source": "Yahoo Finance",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUmdyVjhRZ0J4dHM0aEJ1WEljUzZUZzRoRm44RFNaRktFaFFMTlhqcTk5cDBZTk5ySHVyQmNXZWpVdkpMSGVySUtJWTl5angyc29CNUI2dTRJWFBCWk5pLVlXRmZpbnVoQ1F2bGw2bHNDWFN1VkdiS3VLZ1diLURvbXRycG9XR19va0JOc3F3VkVOVmIxZWhsd2R6c3lmdw?oc=5",
     "at": "2026-10-19T10:14:27.000Z"
-   },
-   {
-    "title": "French Government-Bond Yields Rise on Protests, Budget Concerns; Treasury Yields Fall",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb0VoM1dlVlZIVy1xRUhkZTVjdHdZX2NkY0pkdU1xYWhENmtPelB0Vi1ZSFhaQ3ZXek5Lb0VQLTAwYUg2cTdQZ0w3NDNRWWtVZThwTVdSQnpUeXFNeC1PMEc4dnVQc0RHckQxbkFYVWhBU3ptbzV0UEhGeDB2V0lkbmVOQTAzdjkxUVNuWVZMZE1BT3RMUWJyT0xmUFBzSHpM?oc=5",
-    "at": "2026-10-19T09:21:00.000Z"
    }
   ]
  }
