@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T04:51:20.864Z",
+ "updated": "2026-10-21T11:52:10.221Z",
  "ticker": [
   {
    "name": "Mortgage, 30-yr",
@@ -5251,20 +5251,20 @@
  "news": {
   "top": [
    {
-    "title": "Car buyers are demanding lower prices and better tech. Automakers must deliver both",
+    "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/10/20/car-buyers-china-tech-price-europe.html",
-    "at": "2026-10-21T01:01:01.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108435362-1792464829404-gettyimages-2291414326-vcg111661264779.jpeg?v=1792464843&w=1920&h=1080",
-    "desc": "Bain says tech leads purchase considerations in China while price remains No. 1 in the U.S. and Europe, as pressure mounts on Western carmakers."
+    "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+    "at": "2026-10-21T11:20:58.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108327067-1792519521637-108327067-1782417101819-gettyimages-2283316440-_24a0872_jiglfdso.jpeg?v=1792519640&w=1920&h=1080",
+    "desc": "Housing data deteriorated further in September, according to separate reports Tuesday."
    },
    {
-    "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
+    "title": "I receive 10 calls a day promising me $15,000 loans at 8% interest. Are these legitimate offers?",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-    "at": "2026-10-20T22:30:00.000Z",
-    "image": "https://images.mktw.net/im-70454413",
-    "desc": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”"
+    "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+    "at": "2026-10-21T11:00:00.000Z",
+    "image": "https://images.mktw.net/im-04384503",
+    "desc": "“They insist that the details will be provided after they have carried out a soft credit check.”"
    },
    {
     "title": "United Airlines CEO faces rightwing backlash after calling for US wealth tax",
@@ -5299,20 +5299,20 @@
     "desc": "The midterm elections appear to be a factor for both sides in the war as President Trump weighs his next steps."
    },
    {
-    "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+    "title": "Mortgage rates drop for the first time in 2 months, but demand still falls further",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
-    "at": "2026-10-20T19:28:43.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108327067-1792519521637-108327067-1782417101819-gettyimages-2283316440-_24a0872_jiglfdso.jpeg?v=1792519640&w=1920&h=1080",
-    "desc": "Housing data deteriorated further in September, according to separate reports Tuesday."
+    "link": "https://www.cnbc.com/2026/10/21/mortgage-rates-drop-for-the-first-time-in-2-months-but-demand-falls.html",
+    "at": "2026-10-21T11:00:01.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108316056-1780500381320-gettyimages-2276694303-US_MORTGAGE_APPLICATIONS.jpeg?v=1780500427&w=1920&h=1080",
+    "desc": "Mortgage rates finally came down a little, but borrowers are still having trouble getting into the housing market."
    },
    {
-    "title": "It’s no secret what the best financial advice for retirement is — but most people ignore it anyway",
+    "title": "Opposition to data centers will drive up inflation, says BlackRock’s Larry Fink",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/its-no-secret-what-the-best-financial-advice-for-retirement-is-but-most-people-ignore-it-anyway-7c9075c8?mod=mw_rss_topstories",
-    "at": "2026-10-20T20:57:00.000Z",
-    "image": "https://images.mktw.net/im-00601261",
-    "desc": "Research can prove a lot of facts, but that doesn’t mean it changes how people act."
+    "link": "https://www.marketwatch.com/story/opposition-to-data-centers-will-drive-up-inflation-says-blackrocks-larry-fink-831c25b9?mod=mw_rss_topstories",
+    "at": "2026-10-21T10:59:00.000Z",
+    "image": "https://images.mktw.net/im-66460569",
+    "desc": "Fight the data centers at your economic peril, says BlackRock CEO Larry Fink."
    },
    {
     "title": "HelloFresh workers claim physical abuse and denied bathroom breaks in class-action suit",
@@ -5339,12 +5339,12 @@
     "desc": "Here's what's behind the fluctuating costs of everyday grocery items such as ground beef, eggs and chocolate chip cookies."
    },
    {
-    "title": "3 Charts That Explain the Economy as Voters Head to the Polls",
-    "source": "The New York Times",
-    "link": "https://www.nytimes.com/2026/10/18/business/economy/economy-midterm-elections.html",
-    "at": "2026-10-18T09:00:50.000Z",
-    "image": "https://static01.nyt.com/images/2026/10/16/multimedia/2026-10-16-econ-elex-topper-index/2026-10-16-econ-elex-topper-index-mediumSquareAt3X-v5.png",
-    "desc": "Inflation is high, consumer spending is strong and seemingly everything depends on what happens with artificial intelligence."
+    "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
+    "at": "2026-10-21T07:50:10.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108243682-17660765522025-12-18t164547z_2096923420_rc23jiae5pf5_rtrmadp_0_britain-boe.jpeg?v=1766076616&w=1920&h=1080",
+    "desc": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels."
    }
   ],
   "housing": [
@@ -5352,9 +5352,25 @@
     "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
     "source": "CNBC",
     "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
-    "at": "2026-10-20T19:28:43.000Z",
+    "at": "2026-10-21T11:20:58.000Z",
     "image": "https://image.cnbcfm.com/api/v1/image/108327067-1792519521637-108327067-1782417101819-gettyimages-2283316440-_24a0872_jiglfdso.jpeg?v=1792519640&w=1920&h=1080",
     "desc": "Housing data deteriorated further in September, according to separate reports Tuesday."
+   },
+   {
+    "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+    "at": "2026-10-21T09:15:00.000Z",
+    "image": "https://images.mktw.net/im-37061158",
+    "desc": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”"
+   },
+   {
+    "title": "Mortgage rates drop for the first time in 2 months, but demand still falls further",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/10/21/mortgage-rates-drop-for-the-first-time-in-2-months-but-demand-falls.html",
+    "at": "2026-10-21T11:00:01.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108316056-1780500381320-gettyimages-2276694303-US_MORTGAGE_APPLICATIONS.jpeg?v=1780500427&w=1920&h=1080",
+    "desc": "Mortgage rates finally came down a little, but borrowers are still having trouble getting into the housing market."
    },
    {
     "title": "September data shows housing market in a deep freeze",
@@ -5365,43 +5381,47 @@
     "desc": "New data on the housing market's performance in September is bleak, with sales, construction and sentiment all falling more than expected."
    },
    {
-    "title": "Housing Market Gets Hit as Mortgage Rates Skyrocket Ahead of Midterm",
-    "source": "Newsweek",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZzU5ZzdIWnozVXN6OE50UzdmREpoZlhDN0tCdFpuUVR4S0d6QUhhemVPc2tHZ0tBaTJZdXJINWNpbkJDS3BNOEhic2VwbDdFeEZGbnUwanRhX2k3TXBLdmJETnhNbXdiRDhkb2ZnR2VINGdQSndxVXh3eGlsOUhacThLWXBvNmJnMzZGM3lFM3ZobkpmMzd2N2p6SWMxX21zQ3c4ZA?oc=5",
-    "at": "2026-10-20T21:57:00.000Z"
-   },
-   {
-    "title": "Homebuyers get an advantage in dozens of US cities — but pay a steep price",
-    "source": "Fox Business",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUXRvaVpxQmdpdVVMUW1LX0w0WGhwVUo2QW1TQVl5TzlzMHpIZlZncXR0MjJWVng0ZmtSMnI4dEdVaUsxWXVWT2ZKUEItNnJ4Q2JNNTI4RlQxRlEzZS1Dd29xN0J3My12UVNqclJfamxrRHFWV0VINkdEYWtxU1BGSmQzU29aNVdrcTJQMk5GOWpBQWNSSlBFSNIBngFBVV95cUxOMGVZdGV5azNwb1R4QjNfTjZJLWZLRndJWVdYYXVuN2JmLVJ2U015TGRjRC16X3h4SktkUFo3SFBpcGswc01DQ29UemtxblNlZ2lqZ0hqeEdyQnkwZkE4ckNnNWVQLU5oVFVlRU5FZi0tMG01Q1FxQ2xTSW5PVU5WVFU2cU40akFVeHJmQTI3OWdWRklGWm5vWEFHUGc0UQ?oc=5",
-    "at": "2026-10-20T18:54:00.000Z"
-   },
-   {
-    "title": "Home Prices Edge Up, But The Housing Market Is Dismal",
+    "title": "Forbes Daily: The Housing Market Is Sluggish, But Prices Are Stuck",
     "source": "Forbes",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORFhaaVNOT2xRQmwydzB5SUVKZ2czRVlQaXFPb2pmbVlGZDNzdk8wNXBWTWdQWjVobFpXazdLbHItUTNzNXVtSnpCbkJvNThCcDlUWDNYVHZXazRSekdhSmFSTm5lT2NLalc2dkpYdXJHMFZGUGRVUHZOa3lOejVfY0poRktRZjZhQUpUQl82b1VsUGMtRkI5bjVGNXJuODNpNEZfZXlfaWNRRDBvclo3X1hjTWw?oc=5",
-    "at": "2026-10-20T18:24:29.000Z"
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY0pYUW9rVXNDdHctSTNkY0hKRUFMbDNlZFVhbHFhQ0ZINURNUWQyTGQtV0JBRS1UbXBDamstVVZLa3VkMG5IWHZIbkdNdFAyYWxGZHZLLTBkVXNLalQ0aXFYNG0wdDJobVJUNXVhTWxTSWNuYUpJNTNILS1IV0hxYUVxSGtfcE92RE5CemgzYXBoSmhoMkM1eUplaXhGSk10aFpFOHRwUy15anFQNHFkbTZGYnY3V3U0QmFCZ0xB?oc=5",
+    "at": "2026-10-21T11:35:03.000Z"
    },
    {
-    "title": "US housing market divide deepens as high mortgage rates squeeze buyers",
-    "source": "Fox Business",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Hek1QNFpLQXR5aWVMa1hVcF9Zc3l2SEx4dVZoSU1OQ2V1U25UaXZ6Z1ZwNkx6MGoxc3pERlhPeVdZSFZQZGdNX3VZdWtMb1dkaEZIemVIY1NDTUk?oc=5",
-    "at": "2026-10-20T17:03:00.000Z"
+    "title": "Mortgage and refinance interest rates today, Wednesday, October 21, 2026: Mortgage rates edge lower",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNYUNvNzNCcFNSRzdWbDVhRVRZaGVBN0N1OUJRZTFXUjFIN1JCMVNUNDNxZTBucE96TmVlSkRnWUc2S01xSHVDTDhNY2ItNEw5Ui1sY3M3MFBBZ3N2cGJKS3ZaWTB3UEh3MjFvcHROTjRKN2UteU1keUIxTktuc1RZSF9oUmFqLWRXaFktcnpCMFh5OGt3UGlqNExJOXBVTnB4d2kzUGJUR3pERk8tSXk5Yl9zRjE1dDBTU1I3SDhMSkJzOHMyVmhXR0dHdWZ5N3hURUtGcFJMeDB3WXVhZkhNMG10XzBpcFRWUDQ5WjExOWZKZFNJeDQ2cWtoZEw4cWZE?oc=5",
+    "at": "2026-10-21T10:00:00.000Z"
    },
    {
-    "title": "U.S. pending home sales fell 7.3% in September as rates climbed",
-    "source": "Quartz",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOenFvVzM1NTV5YjJ4eFdoUUZJUVlwWGZ0OExMLW1mVG1hdTBEeldHbHQ5b0ZLV0F3VmlMeWFmc3BCcnlzS0s2amRoS0JLWExlYjZxNkU4MnZkcjg5cEduM0pPTGFUYk5BV3B5d0lqUWNZTmEwRFZvMDVXNElFbjN6dw?oc=5",
-    "at": "2026-10-20T16:31:34.000Z"
+    "title": "Small Investors Made Gains in Housing Market This Year as Congress Limited Big Institutions",
+    "source": "Realtor.com",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTm1vSS1DRm1YOTdFU2VIQVdVa05MV0dFenM5aS1yZ0xRVF9YVEdmZHlVTnk5RHBUamQ5eVNfQVRsX3l5MXR4V2hWblozMWwxRDJZbnlsZnZrT19XdEJSUFJ1czRlYjlmTVNpWFVFMnF1ZHhNbWJZV3VISnhQd3dmSXFFQzAwQTJUOUV1dU96aTJvTk4tWm5VVDdwa1FabERnV1RCS28ya09mekRm?oc=5",
+    "at": "2026-10-21T09:00:00.000Z"
    },
    {
-    "title": "US single-family housing starts plunge; building permits hit 3-1/2-year low",
-    "source": "Reuters",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY2htS1FUS3p1M0dBYTAxbU9HY1ViSVBFQ1JpU3NERnNQSkVTWFBTS1R4ekZVb0NEajZtM3RwTnlGVi1VZmxQdms4cHVqVGgyVWdvbERHc0ZLdUNvTFRCNVowOFR6OTFmUml2cmtsdzdfRE9sRHdDYnVXS3dtTEFqUmdjZ2tUSlNranZGNklxNzhWcmd0dHdFUElxRlA1cm9JXzcxNzhmeXphenFCUHJz?oc=5",
-    "at": "2026-10-20T16:29:15.000Z"
+    "title": "Mortgage rates today, Oct. 21, 2026: Rates still elevated",
+    "source": "Fortune",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHU1Q1LXBMU0c4elhwMWd4R3hZOVdBVGs2QkJfWHZxLUZKR19KVjhVbWdnTFZxZkRPT21qX1A4eFd6VzJuUDdxNHYzNk9SN3BYUGlxcXcxS2xMZzlZSVZFaXBBWmxCSjJJRXh0VnZiSQ?oc=5",
+    "at": "2026-10-21T07:01:00.000Z"
    }
   ],
   "inflation": [
+   {
+    "title": "Opposition to data centers will drive up inflation, says BlackRock’s Larry Fink",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/opposition-to-data-centers-will-drive-up-inflation-says-blackrocks-larry-fink-831c25b9?mod=mw_rss_topstories",
+    "at": "2026-10-21T10:59:00.000Z",
+    "image": "https://images.mktw.net/im-66460569",
+    "desc": "Fight the data centers at your economic peril, says BlackRock CEO Larry Fink."
+   },
+   {
+    "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
+    "at": "2026-10-21T07:50:10.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108243682-17660765522025-12-18t164547z_2096923420_rc23jiae5pf5_rtrmadp_0_britain-boe.jpeg?v=1766076616&w=1920&h=1080",
+    "desc": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels."
+   },
    {
     "title": "Iran, Taunting Trump Over Gas Prices, Braces for Aftermath of Midterm Elections",
     "source": "The New York Times",
@@ -5419,40 +5439,28 @@
     "desc": "Here's what's behind the fluctuating costs of everyday grocery items such as ground beef, eggs and chocolate chip cookies."
    },
    {
-    "title": "Gold dips for fourth session as oil rally fans inflation concerns",
+    "title": "U.K. inflation rose to 3.5% in September, topping forecasts as fuel costs climbed",
+    "source": "Quartz",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdGx6aWJ0QlI4MlRkaWliMHVYd2RBU0l0d3BGUFQybVJaV3BmbjdmVlZ1aGN4N0ZBdlBmTGdlRHVjMUVRQnlsUEZPMEdaRGN1alQ1SUJSTUxWZGlET184S3Brb3ZDMl9mbWtlc1c0MDVOdk1yWm1uR0M1TW5FVDNUa3lTQkk?oc=5",
+    "at": "2026-10-21T11:32:38.000Z"
+   },
+   {
+    "title": "The Fed didn't lose control of inflation; they never had it",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMTFxV2Q1T3BEeG9mQmd5bk80VEh2Zkg2QnAzcDU2cVl4ZDVWZXZKd3dIblI5S2Y4cU13QkNiYjR2TWhtQThTZXBzeU1xalhRa0g1SGpUck8wRG1qU2ZLMjY0SHdrZ1dDeDN1ck9scmdtcnQ5MFdkUF9VdXRZNEoxbkVVUjYzdw?oc=5",
+    "at": "2026-10-21T11:00:00.000Z"
+   },
+   {
+    "title": "UK's FTSE 100 pauses as hot inflation report outweighs energy boost",
     "source": "Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2dJZXdfdnptbDVvajUtNHBONy13T1Z5aEtVc3d2d2VDYUNpUEpTM1JxNGVZRFhiQmh1b1U2RWpOaW0zVndyQk9uSFZ6b0pQXzVvNUhRMFVXeEMzS3BrU1FkdE9tNEYxY21PdDFEWGplNkkwMkJ2Rkk5VVg2VUVDcXFIUmp4cUR4SnhqQ2h6b3hYTExtTkhCNGtqZWt6WUtUYURrc3owUUptdw?oc=5",
-    "at": "2026-10-21T03:45:00.000Z"
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMG9KdWFSdV90N2s0bHM3d0xsTVlOMGduRE1RZ1FvSi1SbnU4MFlRQUIteDlZTC03TmNHVFl3Z2lhV2FrN1NwQjV5Wk1rU096X1pUNXB4M2c2bS1MdXlSeEZHaTJobmFsQzlvYTN6WHpyd2FkRzFqOFdkbzZUdjZoNzJCa1B6c2RxMzBmemg3RnBWdldpM0x0VEtCR0F0YXE3N3V2YXppNnN6ejBs?oc=5",
+    "at": "2026-10-21T10:40:09.000Z"
    },
    {
-    "title": "China’s competitive exports are a global stabilizing force against rising inflation: Economist",
-    "source": "CNBC",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX05WbVU1LTkwR1BFWHdyMGJzTnVkZTh4TG9XMjVpQ013YVBuSmNpTEMwVEY3VWtLRTczMkNrVkEwNDBCUXRDRmxsdjVsdW5TbHg1Nko3VWxydEdCWFgwU1JsREd6c3pSalZTR2h0aHl3OU5DYTB5VTVwREN3S19VNzM2dXY0NXd5WXN2b1J2dnp2cFFYeW5SVFo4S19JNXdkRmpaNFJHeHpyOWc?oc=5",
-    "at": "2026-10-21T02:31:01.000Z"
-   },
-   {
-    "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-    "source": "NBC News",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
-    "at": "2026-10-21T02:21:56.000Z"
-   },
-   {
-    "title": "Japan shifting to wage-driven inflation phase, finance minister says",
+    "title": "South African inflation rises modestly but bigger fuel-driven jump seen in October",
     "source": "Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM0Fielo1REtWUHdnb2xnMDZvaHhmc1BWQjg4NS1YYlZJYWJLelVpTUQ1a2xuRk8yNkw2R1RiSE5kbVVEMW84ZjZMQmlxalZ3WG02ODJBb1BsSXR3b2tiUlNVc3dGV1ZWZF8yM2Z4SUhqRURzTGNqcC1BcHdacG1fV1NLQnpVOXZFTVRQWVdlWUdyV1k2Zmh2ZDlKWlNHZU03MDA0RjhZeDBwWnF6bFpQS1dzWmJYdEx0NTJJ?oc=5",
-    "at": "2026-10-21T00:54:00.000Z"
-   },
-   {
-    "title": "Australia’s Inflation Outlook Materially Worse, RBA Says",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZjByZk9JU1NLcmp4dlVWRUVoazdoOTkwdzFzeW5wNDRGRXRiX1NYWFF6ZWZmSmpzLVBSYzFTbnNLWF9jZ1FodDdsMzB5YlZaekVsbG95NjZmYTlzY2l0R2lsR3U3d3hWS0NXUDRWYmlDLXg5Yk14eEhBeTVSVXNDSkxsTGlaek1kZHlMVHAyMDUxaWNHdmU2UVBZQ25jVmVsSEZFOUdlZXdJV0k?oc=5",
-    "at": "2026-10-20T23:43:00.000Z"
-   },
-   {
-    "title": "Odds of fifth interest rate hike this year shorten as RBA deputy warns inflation outlook ‘worsening’",
-    "source": "The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZ1NxcUI2MGluQlNEa0R1bnlERGp6LUZYLXJ5OVl4c0ZtbEFHeExNTmxJTVAxVnZlSlFvOFViNy1hZ3BfWWI5RHh5V25JQWxXVmhCYlczTEhEdzRsbzFLdkh1MmVrNFJtT3VEdURPQW5Vc1lINW4teEpGQWFMdHlBR21vWE1OcTZWZWxSWk0xQjUtaUhxVXRtVW1Bb0pvVGJTdFBjc3NiRmJEQ0xNMEs0LWJWVWV2cHljRHJwME9kSHEteVdBVmN0MDAyVzA3UXdVVjRacktxc1hyZjg1SVR6b1lIUWxhbDFwRElhcVd1Y2kyTGdvNGc?oc=5",
-    "at": "2026-10-20T23:19:00.000Z"
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOampUMVFEMmRCN2JXOXg1dTR6aGdjaFVmRF9IeGF4Q3J4a05MQ2hpdmk3ZU04MU01dTFVQzZ6dGoxUGxTRktfbUpURUxtZmdMdWdid054OFJHWGVYVmI4eTdvWUlCak1LM0JZNjJTRDB5NWllNlI0TUZfOTZEMlhUbV9PMW1nWE5hNTV5ZUVHQjNnVkw5UU5oTUkzNVZPSWhNVkZPMV9fcTc?oc=5",
+    "at": "2026-10-21T10:21:00.000Z"
    }
   ],
   "jobs": [
@@ -5489,6 +5497,18 @@
     "desc": "The meal kit delivery service denies the allegations, saying it found claims to be ‘entirely without merit’ Workers at a HelloFresh facility in Newark, New Jersey , have claimed in court documents that they were verbally"
    },
    {
+    "title": "Black unemployment recently spiked. It that a warning for the economy?",
+    "source": "USA Today",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMzNYWUZFUkZjLVRhOUNlckgydDJJZHVHTTFNT3NNMDlOaEF4bFRXTTd2WHJ1eWNUVWljektWTDhDcjliaHpPdmRQVGxENkNJN0pTTnhES0duZGh1ZHp0TXk1d0RWZmxSTU9RaTNJcmhYdmJzYXdjMlBCWmtxaXFUbFhiMUNQUlZrdkl1MkJ3NjJBb2NoRTBPNU93ZElCODA2YTF0WW1ZbEdQUlQtSzJVbzdhZ3JPQXFudXVDQVo2eU9ZelRDZ1Z3MVJSWG4tZw?oc=5",
+    "at": "2026-10-21T09:02:00.000Z"
+   },
+   {
+    "title": "Netflix holds quarterly earnings call following leadership shakeup and layoffs",
+    "source": "NPR",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVzVMWkpndU1TbExLcmtxQTE5UXBmaE1pVWwxa3VUeUJHNzROTFpOS1NnT2w5VFVPaFN6S2kxNXg0MDA3Wi1QOUJpZlNObmtZRzRmd1B2TXdqUnV3bmxtRkFVd0dkQmhFUHExbDFOVDA0dVBHV08xMjFOVkVpSlRkU093dUhfaDhueEtXRXdFd1RxMFFNekVZdGg2MXA5MmlwTFFkdU5xMnhLQWVTa1FqdmprSWhyelVwNWotdUtzaHM?oc=5",
+    "at": "2026-10-21T08:42:52.000Z"
+   },
+   {
     "title": "Netflix doesn’t want investors to worry, despite recent shake-ups, layoffs",
     "source": "NBC News",
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRmVwSjROSG9YUUJzbDQ0c2hLSk1WZVoteFpfTWVzeEExNUVFR3FLWUhHUlkweXhGQnE5cE5CVWhiaUlrbXVhb0JtSFdhUDR6RmZTR1UzQ1l5QkhVTGFCQ0xOMmtVMTB4MWUxWS0tMHZTWW9KMTJmUG9lSmpfc0k0V2sxUkpaTkwtcEhWcEI1dG42dw?oc=5",
@@ -5499,21 +5519,33 @@
     "source": "Yahoo Finance",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVW0zdUhiakRudmZLOTFaSnU0YXMxamRLMVlRY2UyUHhud0xDaHo0N1g0bGUtMl9vMmVUUTk2cXE1OW1aTGNJaFFBc1M0WTlLRzZiZHRIZ0I3MW51dkxEdDYtbTJoVWg1Uk1nWXlwZzlFUnl4TWlqTDN1aW1YV3dCTWJlbW1QSjlBRjRySzZZMGxOV24zZVZUZy1icEFzTFhP?oc=5",
     "at": "2026-10-20T22:11:20.000Z"
-   },
-   {
-    "title": "MIT economist warns AI could triple unemployment",
-    "source": "Fox Business",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEeFI4UDBJeEpyaWhlYWEwSTNnYkRfSTR3bVNHMkZ4YlBheXB4U29GNkdrZmxETXNmaVFJU2RTY0pnSi1tNC1wSUhVTi02NFp5LVVDTV9HRUE4dDQ?oc=5",
-    "at": "2026-10-20T21:29:25.000Z"
-   },
-   {
-    "title": "EXCLUSIVE: Qualcomm to cut jobs worldwide in performance-focused layoffs, internal memo shows",
-    "source": "Reuters",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUndSd0N2Um9RWGtEUDU1MHBGUm1LU3RkT2RpRFVDbVNzRHdNTGVGYnk1MU1pSUFCQklWMnZERzc0bEJ0VDVUWUp5N3JHV3M0eVFMaGRFOEdwcjU0WlUxOG55enFWb09Id3AySlhLenVTT0k4Zk51WUhuQ05oVlBSWmg3d3NmLTFzOVBJTHVsc3RSN21WaGdwYjNCa19RSTRGWUhIXzQ1a25mSDhxQ0JwdzNJRUZiaHdXZTREOQ?oc=5",
-    "at": "2026-10-20T16:29:10.000Z"
    }
   ],
   "debt": [
+   {
+    "title": "Eurozone Bond Yields Rise, U.S. Treasury Yields Steady",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUUVqY01YZEVBNGdnSkZQSllpNnZmNFNUUm5ab0VxODNVWXVUdm5VYW1GcGRjSXJvTE9lSjlITEZZYmR6MUJiQ1ZtaFhNb3JDQkJoQ09JdlJUdlFsTXRfeEVKM0s1em51dUR0Z3h2WW9hRS1BdVVDSWhGSXNZZ1NIRTlzSnk4ZzZianQ0bnRheEEwRGpXTmY0SA?oc=5",
+    "at": "2026-10-21T09:14:00.000Z"
+   },
+   {
+    "title": "Treasury yields steady as investors await jobless claims, mortgage data",
+    "source": "CNBC",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ELWVaZUY4dlY2R29keXVKQURiRkhEajBGeDhnZlc0cVA2b2lkeDIyTGc0cXRQMFExeDhDVWZ1RHZmNTNOT0R3Q2t1NHExLVR0QndhYmNCTWRubEdpaDlLb2JxTzdzaGNzWWxhUWtWb9IBdEFVX3lxTE83MEdDTnFFbnpkaHRNQ0w3cGNNLVFGd1drb0dvcnpUNmVCdmNuNEUxaThGX1I0cGNKMmtfZnVKUDJyY3RfcVJ0QWpHLWxNbHBySmV2RkdSZ0tyaG1pNGpUdzNOd2F3WTJmbVE0SF9LejN2TkR0?oc=5",
+    "at": "2026-10-21T08:57:33.000Z"
+   },
+   {
+    "title": "Stocks Gain as Treasury Yields Give Back Some Recent Gains",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMzlYZElEckt4bFB3TXNMTUZBYnV4Z3MxVkJ2cFB0VldmQk5xajFmU0tzeDBMTVZhT2lFOUV1c1cyVFF2em5FU21sb1BLT3p5SEo4Q2huMWdvbmNubG11WnVaLWxlVWtkbHF6bVZWWTNKb1QxUlFtZ3dvWl9VRHAzWnF5VlVtWENIbzNoVjA0YmFybDQyUHVLa2RVQ3hSQ2R0VVRDTA?oc=5",
+    "at": "2026-10-21T08:54:22.000Z"
+   },
+   {
+    "title": "Britain’s national debt tops £3tn",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZmhDYjN6M2NINVN1VDFGZFh1ME5pS3hxdmdISWI0SjlRV2V4MG9wS0pQbml1OG1SSDdmZml5bWFmN3RvaHJ4cHNxSzM5WHN2elhJV09WWmtKbjBwU0FScGV2dWFEZUJqbF9yTHRxLUlIclhTajlKLVZSaU1iM0NKQ3F5WXF5TWVwZFlXQjlKamlDRjRJUHRQMThPUQ?oc=5",
+    "at": "2026-10-21T06:27:00.000Z"
+   },
    {
     "title": "Treasury Yields Fall on String of Weak Housing Data",
     "source": "WSJ",
@@ -5527,7 +5559,7 @@
     "at": "2026-10-20T17:05:41.000Z"
    },
    {
-    "title": "Bank of America says 1% increase to interest rate would add $95 billion in national debt costs",
+    "title": "No wonder the White House wants Warsh to cut: A 1% Fed rate hike costs the Treasury an extra $95 billion a year in national debt interest, says BofA",
     "source": "Fortune",
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWDk4ZC1wYS13eklDXzVoTC1MLTBiMVdjbFE5ZG5UVFlpRVQ4WXllalJ4aFNPcmVmSzhkR25nMVF1VlRSU29uQ1hEb2dETkVHU3VSN3RuMkpSelp5cjA4OGNJa1h4ZGdQbVlrOHo4eklqSlZ6OGlvNG1SMFpBWTRHNXlHMkhNaWtwZFYyRUlIaw?oc=5",
     "at": "2026-10-20T13:04:00.000Z"
@@ -5537,30 +5569,6 @@
     "source": "CNBC",
     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaM2dEaXY3djRjLTk3Zm56azJQeFVocnVEQmwzb0wwbWpvMFRxTkdINFNMdkNMS1RSZUNfajNDSjBQRGZ6V210U1NERGI1UTNCMDZDUjJmU0k1RF9vUV9WSFhGdG9CeGNZblhWVlFGU0hsdjhFZkhfZzFMVlJ4Z9IBgwFBVV95cUxPWWdOVGZuSDZKX1ZBTEczSzAwREw2SldJTmY2VmtTSUNIM0d1aVFJb2lEbXdEWHZRWE1yaldhb0ZKRWVMamxIUkstN1ZMMzJCNjBJR0RJRnEtUG54am1uMnEwT09kSTRUU3V5WC1Fb19leWlHVnI5OFdJOW9nQ3Q0dmVUWQ?oc=5",
     "at": "2026-10-20T07:43:14.000Z"
-   },
-   {
-    "title": "The gamble of trying to inflate away debt : The Indicator from Planet Money",
-    "source": "NPR",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeUVJNnlUbGZycEdHLW9aRFRKQ3F2ZXdkbFo3N3l0dXV5RGpQcExvZUJYUTBTeU9jMWY5aFdjWEVFM3VZN05EY2Jpd0VmSTRKMXBsUGUtcUdCQnNjaDdUel80WmptbXlkbUZpR3ZvR1BDYXpFODF1Q3dmMlpOemM1aGZLZjEzTUhQYUNhbGNjSQ?oc=5",
-    "at": "2026-10-20T07:00:00.000Z"
-   },
-   {
-    "title": "Update: Technology, Consumer Discretionary Lift US Equity Indexes While Treasury Yields Climb",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZmFpbXlKTUdyeWJWeUMxS2pudGxYVkNSWGdxS3FJYms0NW9WMVhQRk1rNUNRRlotc2xGZUNmSTlsLXdxeVFCM3pVLV94MUZpckNoWG0yS1lCTnRldUI2UmI2U3VHcUxMNFpzSzFFRzBEMEw0NlpFV2o2Z2lkNTlaU2JOQXBYb3hqZ25CbG9rUThRMUNyNjFBN2xRd2pXYUdXeEpQT2FYanZTZw?oc=5",
-    "at": "2026-10-19T19:51:56.000Z"
-   },
-   {
-    "title": "France is rioting over surging inflation, skyrocketing national debt and crumbling schools. America is its sleeping twin",
-    "source": "Fortune",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNVdaSFdtanZIQUhCeFMwUWcyekNrMWxsR0Z3dmZIM0tCaWQ3cmZDd0tUOTJ5WW54c3Z5VmJCdmlFSnJFMmZTVDFzYnhXS1RrLUlkdE9kUHNyMnhfcTZmMEhDUG1JMG8zRHk4MldVN1BHUzhhQ295UXR1VVJnSm9mY3FuWjdNU1RFMlhRQzJVM3RZdWd6?oc=5",
-    "at": "2026-10-19T19:31:00.000Z"
-   },
-   {
-    "title": "U.S. Treasury Yields Turn Higher With Oil; French Bond Yields Rise on Protests",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSk1wWWp6WG1vZjdfYjZXX1hRU0lPVEl6WnVGbkozSXB5eTU5UHN2aG9nRHRpc1VMNlI5eF92YXNZNTFUOGFBMnk1anY0cUxFcG5YTTF0NFRhaGZ0VjkwbjNETmpiWkVXUHlNMmZJV014MlJ2LXRKZWlmS3E1N21wZHdnUXZybnJBRzlVSmdwUQ?oc=5",
-    "at": "2026-10-19T19:27:00.000Z"
    }
   ]
  }
