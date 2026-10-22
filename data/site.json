@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-22T11:55:37.073Z",
+ "updated": "2026-10-22T17:12:42.038Z",
  "ticker": [
   {
    "name": "Mortgage, 30-yr",
-   "value": "7.40%",
-   "dir": "flat",
-   "asOf": "2026-10-15",
-   "when": "Oct 15"
+   "value": "7.32%",
+   "dir": "down",
+   "asOf": "2026-10-22",
+   "when": "Oct 22"
   },
   {
    "name": "Gas, regular",
@@ -94,14 +94,13 @@
    "cards": [
     {
      "name": "30-year mortgage rate",
-     "value": "7.40%",
-     "when": "Oct 15",
-     "asOf": "2026-10-15",
+     "value": "7.32%",
+     "when": "Oct 22",
+     "asOf": "2026-10-22",
      "change": "+1.13 pts vs. a year ago",
      "dir": "up",
      "tone": "bad",
      "spark": [
-      6.54,
       6.72,
       6.79,
       6.78,
@@ -204,7 +203,8 @@
       7.03,
       7.28,
       7.4,
-      7.4
+      7.4,
+      7.32
      ],
      "source": "Freddie Mac"
     },
@@ -2594,6 +2594,10 @@
      [
       "2026-10-15",
       7.4
+     ],
+     [
+      "2026-10-22",
+      7.32
      ]
     ]
    }
@@ -5251,34 +5255,34 @@
  "news": {
   "top": [
    {
-    "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
-    "at": "2026-10-22T11:40:01.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108370343-1790783062486-gettyimages-2297724134-kbd14743_rhxmkc0e.jpeg?v=1790803464&w=1920&h=1080",
-    "desc": "Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles."
-   },
-   {
-    "title": "Mideast oil exports are recovering. Fresh attacks in Saudi Arabia show risks remain.",
+    "title": "Zuckerberg’s California tax move is a win for Meta — and for him",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/mideast-oil-exports-are-recovering-fresh-attacks-in-saudi-arabia-show-risks-remain-1473391a?mod=mw_rss_topstories",
-    "at": "2026-10-22T11:35:00.000Z",
-    "image": "https://images.mktw.net/im-97344316",
-    "desc": "More oil is flowing out of the Persian Gulf again, with exports approaching prewar levels. So why are prices so stubbornly high?"
+    "link": "https://www.marketwatch.com/story/zuckerbergs-california-tax-move-is-a-win-for-meta-and-for-him-aa049c94?mod=mw_rss_topstories",
+    "at": "2026-10-22T16:48:00.000Z",
+    "image": "https://images.mktw.net/im-21638670",
+    "desc": "He has bought some good PR and gets to live and work where he wants."
    },
    {
-    "title": "Too little, too late: Trump takes on gas prices as fuel costs hamper his midterm hopes",
+    "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
+    "at": "2026-10-22T16:40:09.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108368225-1790357106706-gettyimages-2297110253-jr_19003_zvh8bkkg.jpeg?v=1790357497&w=1920&h=1080",
+    "desc": "Initial filings for unemployment insurance slipped to a seasonally adjusted 194,000."
+   },
+   {
+    "title": "Meta strikes deal with Mark Zuckerberg to help him foot billionaire tax bill",
     "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/oct/22/trump-high-gas-prices-midterms-cycle",
-    "at": "2026-10-22T11:00:40.000Z",
-    "image": "https://i.guim.co.uk/img/media/48409507b97b27256278d0fc1d3d4df39035668a/646_0_6475_5181/master/6475.jpg?width=700&quality=85&auto=format&fit=max&s=0f1b34edcbec4f7d17c65c848c72186a",
-    "desc": "Polls show US voters are deeply upset by high gas prices and are likely to punish Republicans in the midterms as a result With fewer than two weeks until the midterm s, US voters are unlikely to see relief on one of this"
+    "link": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
+    "at": "2026-10-22T15:40:03.000Z",
+    "image": "https://i.guim.co.uk/img/media/2e6040371e8498c68a3ec60ae6efac595ffa4c7a/209_3_4321_3459/master/4321.jpg?width=700&quality=85&auto=format&fit=max&s=49dd9f4a1aaf9e9190c8a8199080169e",
+    "desc": "Chief executive agrees to remain in California for eight years even if state brings in one-off 5% wealth tax Meta has struck a deal with Mark Zuckerberg to help him foot a possible California wealth tax targeting billion"
    },
    {
     "title": "Childcare costs are growing faster than rent in the U.S.",
     "source": "CBS News",
     "link": "https://www.cbsnews.com/news/childcare-costs-growing-faster-than-rent/",
-    "at": "2026-10-21T19:51:22.000Z",
+    "at": "2026-10-22T14:46:12.000Z",
     "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/20/5696d5e8-9439-4f38-84cf-411888f63bf3/thumbnail/1200x630/a962fa8fef12e0c1038c1e556a6e8bd6/gettyimages-2229128788.jpg",
     "desc": "A growing share of American families are having to shell out more than $2,000 a month for childcare services, new data shows."
    },
@@ -5299,36 +5303,36 @@
     "desc": "The midterm elections appear to be a factor for both sides in the war as President Trump weighs his next steps."
    },
    {
-    "title": "Mortgage rates drop for the first time in 2 months, but demand still falls further",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/10/21/mortgage-rates-drop-for-the-first-time-in-2-months-but-demand-falls.html",
-    "at": "2026-10-21T13:13:48.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108316056-1780500381320-gettyimages-2276694303-US_MORTGAGE_APPLICATIONS.jpeg?v=1780500427&w=1920&h=1080",
-    "desc": "Mortgage rates finally came down a little, but borrowers are still having trouble getting into the housing market."
-   },
-   {
-    "title": "Football legend Peyton Manning has invested millions in real estate, including 2 Denver homes",
+    "title": "‘AI is on trial’: Bond yields sink below 5% as investors look for safety",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/football-legend-peyton-manning-has-invested-millions-in-real-estate-including-2-denver-homes-2c4e355f?mod=mw_rss_topstories",
-    "at": "2026-10-22T09:03:00.000Z",
-    "image": "https://images.mktw.net/im-69256223",
-    "desc": "NFL legend Peyton Manning has traded his days on the football field for a quieter life with his family, and has amassed an impressive real estate portfolio along the way."
+    "link": "https://www.marketwatch.com/story/ai-is-on-trial-bond-yields-sink-below-5-as-investors-look-for-safety-dbc86ee9?mod=mw_rss_topstories",
+    "at": "2026-10-22T16:35:00.000Z",
+    "image": "https://images.mktw.net/im-65999588",
+    "desc": "Investors are flooding back into Treasurys for safety to hedge the risks of more AI fallout in stock and credit markets."
    },
    {
-    "title": "Meta strikes deal with Zuckerberg to protect him from California wealth tax",
+    "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
+    "at": "2026-10-22T13:18:36.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108370343-1790783062486-gettyimages-2297724134-kbd14743_rhxmkc0e.jpeg?v=1790803464&w=1920&h=1080",
+    "desc": "Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles."
+   },
+   {
+    "title": "Barclays to cut 5,000 jobs as bank’s bosses hail AI productivity advances",
     "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
-    "at": "2026-10-22T10:10:03.000Z",
-    "image": "https://i.guim.co.uk/img/media/0bd6c2aa77aaa503245e7564ad9c884f2244ffdc/840_0_4229_3383/master/4229.jpg?width=700&quality=85&auto=format&fit=max&s=41846d9aa3371f78780ebf1ce000e6a2",
-    "desc": "Company says deal will keep its chief executive living in California even if state brings in one-off billionaire tax Business live – latest updates Meta has struck a deal with Mark Zuckerberg to protect him from the thre"
+    "link": "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",
+    "at": "2026-10-22T14:39:29.000Z",
+    "image": "https://i.guim.co.uk/img/media/42ebdcc562c64f3843def3a9641e7ab414a3974a/218_632_4806_3847/master/4806.jpg?width=700&quality=85&auto=format&fit=max&s=67c05de83497c2fd34224bb2f4a3cf51",
+    "desc": "Equating to the loss of 5% of its 93,000 global staff, job cuts come as bank announces jump in quarterly profits Barclays is cutting 5,000 jobs as part of wider cost-saving plans that its bosses say are being driven by a"
    },
    {
-    "title": "Amazon to hire 300,000 workers for seasonal jobs this year",
+    "title": "Mark Zuckerberg threatened to leave California over wealth tax",
     "source": "CBS News",
-    "link": "https://www.cbsnews.com/news/amazon-seasonal-jobs-holiday-hiring-pay/",
-    "at": "2026-10-20T18:28:11.000Z",
-    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/20/a6b9f751-80b1-4dca-8b72-a3ea45ce76c5/thumbnail/1200x630/891372e69c3dd9bb24ae4883b10238ae/gettyimages-2233395669.jpg",
-    "desc": "The online retailer plans to sharply boost its hiring for the holiday season this year. Here's what kind of positions they're looking to fill and how much they pay."
+    "link": "https://www.cbsnews.com/news/mark-zuckerberg-california-billionaire-wealth-tax/",
+    "at": "2026-10-22T14:28:38.000Z",
+    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/11/745f5bc1-2eca-4dfd-9332-e77ed375ac43/thumbnail/1200x630/2b9ff2a757c4ceeaf7e297fd3b762ee8/cbsn-fusion-mark-zuckerbergs-vision-for-superintelligent-ai-for-everyone-thumbnail.jpg",
+    "desc": "Zuckerberg has agreed to remain in California for eight years as part of a board-approved plan to create new shares he can sell to pay a proposed wealth tax."
    },
    {
     "title": "Why these 5 everyday items fluctuate in price at the grocery store",
@@ -5339,30 +5343,30 @@
     "desc": "Here's what's behind the fluctuating costs of everyday grocery items such as ground beef, eggs and chocolate chip cookies."
    },
    {
-    "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
-    "at": "2026-10-21T11:20:58.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108327067-1792519521637-108327067-1782417101819-gettyimages-2283316440-_24a0872_jiglfdso.jpeg?v=1792519640&w=1920&h=1080",
-    "desc": "Housing data deteriorated further in September, according to separate reports Tuesday."
+    "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+    "at": "2026-10-22T14:30:00.000Z",
+    "image": "https://images.mktw.net/im-37061158",
+    "desc": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”"
    }
   ],
   "housing": [
    {
-    "title": "Football legend Peyton Manning has invested millions in real estate, including 2 Denver homes",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/football-legend-peyton-manning-has-invested-millions-in-real-estate-including-2-denver-homes-2c4e355f?mod=mw_rss_topstories",
-    "at": "2026-10-22T09:03:00.000Z",
-    "image": "https://images.mktw.net/im-69256223",
-    "desc": "NFL legend Peyton Manning has traded his days on the football field for a quieter life with his family, and has amassed an impressive real estate portfolio along the way."
-   },
-   {
     "title": "Childcare costs are growing faster than rent in the U.S.",
     "source": "CBS News",
     "link": "https://www.cbsnews.com/news/childcare-costs-growing-faster-than-rent/",
-    "at": "2026-10-21T19:51:22.000Z",
+    "at": "2026-10-22T14:46:12.000Z",
     "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/20/5696d5e8-9439-4f38-84cf-411888f63bf3/thumbnail/1200x630/a962fa8fef12e0c1038c1e556a6e8bd6/gettyimages-2229128788.jpg",
     "desc": "A growing share of American families are having to shell out more than $2,000 a month for childcare services, new data shows."
+   },
+   {
+    "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+    "at": "2026-10-22T14:30:00.000Z",
+    "image": "https://images.mktw.net/im-37061158",
+    "desc": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”"
    },
    {
     "title": "Mortgage rates drop for the first time in 2 months, but demand still falls further",
@@ -5389,22 +5393,22 @@
     "desc": "New data on the housing market's performance in September is bleak, with sales, construction and sentiment all falling more than expected."
    },
    {
-    "title": "PulteGroup Net Down as Mortgage Rates Weigh on Home Sales",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU3NWb1MwczladzlTQ25fa2hCR3dTSUkzNmlxS09XUVdjNUhBMnRETVhDeW1PSkVtMHl0eHc1ZTVGckpvNWVmb05NVE9lRGVPOG1hUEVOREozTDlNeHluSDB4b1laLUNhVGtJU2NMV3FXbGk1c0FadWNEMGd5c1ZZdE5kaEU4ZVJudzBhMUcxSG55Xzh2MW9OOS1kRzFCalhLYUwzSnFDOA?oc=5",
-    "at": "2026-10-22T10:59:00.000Z"
+    "title": "PulteGroup’s Earnings Fall Short of Expectations. Profit Margins were in Line.",
+    "source": "Barron's",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwNTZWQWprNGtUUjF2LWRzNW9QNVJkQ1RJT0JnTXFXdUtzNTgxRE41TDhyczNYbTVDd2pRc1lFYkxWN1NWRTl3Z3htSTJWdDlER1VUY0lZWVRBMXk5QVB3VFRERFd4U19sM0VBOEhGX0JVbzhJaGVxTkV4ZEhTZw?oc=5",
+    "at": "2026-10-22T16:10:00.000Z"
    },
    {
-    "title": "Mortgage Rates Today: October 22, 2026 – Rates Move Lower",
-    "source": "Forbes",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pT2hGMjloWHBqaHVaUTU5LXVmNFFVYWlST200QzNXeWoxQ2dSb0l3Z3NGbWIxcGJsZmRoTWc0VUFYTTJFRkVIT0hCS1g5OFhiQ1BFRmhXd2xaMXZqX041a25vTWs5TDBWUlFXcXVYb0JpWXM?oc=5",
-    "at": "2026-10-22T10:46:12.000Z"
+    "title": "Mortgage rates dropped for the first time in months",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0J0OFZ3UWdhZThTdzRvUHhDLTVyRThybEhEYTZqY2JycS1SUDVnbUR1NEZsREhYNXpKc2pFcVpHMDRZZHU4cC1xMXp4RFNja04yYUV2dkVaZzAtSWxnY1RaZmQ2Tm5MazhlOXpXZExYcExyeEVCZ2JhWW00emw2ZWhuUnpFbXlCeUNvcFIzMExzUWswdkhvd0VzWEJSQnRzYTQ5ZFZGamM2d3E4?oc=5",
+    "at": "2026-10-22T16:08:10.000Z"
    },
    {
-    "title": "Mortgage rates today, Oct. 22, 2026: Rates mostly hold steady",
-    "source": "Fortune",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ScWhBa0dBTzJWeHA4M0ZWbVQ2T3VaNVFaYXU1VWc1c3o4eUh3MW54OGpYczJiTFlMUjVtQVkwSExIdzNnbXI5Z3dfU2hPbnV2ckRoZm1FLXIyNDBLaGVWMHZQTUttUmd5QUN5WkJKNA?oc=5",
-    "at": "2026-10-22T07:01:00.000Z"
+    "title": "Mortgage Rates Remain Above 7%, Pushing Home Prices Lower in Some Areas",
+    "source": "The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbk1TSEw5RHNPZmVFSW5vaWM4YlB4U1VQY1FXVWNRdmlIeWRWblctTzN4Zm1DSkpheUNCV0h6WVRMZGVKdXFwSlRlT2R3UW8ydkVXdWVHUWhzYmpiOW0wd1NyQWt1ZXZaeWREMzZhamVYdjVpLTJOd20tWUhzWnUza3FxWQ?oc=5",
+    "at": "2026-10-22T16:03:29.000Z"
    }
   ],
   "inflation": [
@@ -5414,7 +5418,7 @@
     "link": "https://www.theguardian.com/us-news/2026/oct/22/trump-high-gas-prices-midterms-cycle",
     "at": "2026-10-22T11:00:40.000Z",
     "image": "https://i.guim.co.uk/img/media/48409507b97b27256278d0fc1d3d4df39035668a/646_0_6475_5181/master/6475.jpg?width=700&quality=85&auto=format&fit=max&s=0f1b34edcbec4f7d17c65c848c72186a",
-    "desc": "Polls show US voters are deeply upset by high gas prices and are likely to punish Republicans in the midterms as a result With fewer than two weeks until the midterm s, US voters are unlikely to see relief on one of this"
+    "desc": "Polls show US voters are deeply upset by high gas prices and are likely to punish Republicans in the midterms as a result How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer your"
    },
    {
     "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
@@ -5441,38 +5445,46 @@
     "desc": "Here's what's behind the fluctuating costs of everyday grocery items such as ground beef, eggs and chocolate chip cookies."
    },
    {
-    "title": "High gas prices strain Detroit's hungry and food banks ahead of midterm elections",
-    "source": "Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPalI1d3h2S01ZZldtUm5iMWRlcVVkUFpFSkUzaW9xa2s4Vld3eUxSZGFMbDRsb2ZkbkFSRjRKZld1eXlOS2MzMWlOZWRHZHJBWDdJTE1kbmMxeGlLS0g5MGlVanR4M0JPVnRIaG01ZklkSUtYakJuQUhTazNycEtiUU5RWDlGQVFxZ2taWUxYSVM1UjkwOGg3VFpucHAtWWhiLW9TN19DSVBQd25VMXRkaVc4ZzhHeXhELVh3ZTVLZWtRLWM?oc=5",
-    "at": "2026-10-22T11:39:53.000Z"
+    "title": "Eurozone consumer confidence sinks to 5-month low amid inflation fears",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOREZEdExCMWdVaXNONWtXd2E0U1lJLXhDd2JDb3pSdkV1OWtHSWRQZjlhU0VmTVdPSU1WbWg3Z2FoRmY1MXV4ZnlVZUNlZ1VTV2hJQkswcjNFdEVhZFdSbmFpMld4QnA4NHlNS3RGYWI2R2dXNFJKcDZ3dEVMQnpwdzJldkhMdFJyVHhfNjVxaXR4Y0huN0dJbEN3?oc=5",
+    "at": "2026-10-22T16:03:33.000Z"
    },
    {
-    "title": "Economy set to worsen, with higher unemployment and weaker growth on the way, Jim Chalmers reveals",
-    "source": "The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOXBYWFdVMnB2dXFVNFdDVDN4X0ZXSGJ2eUVfSFZDM0JVbF9tV2VkS1NpYi00QXdXU1BKLXh1djl2SzIyOXRJMVRkY2VTRUp2RkZiZVRrX1hUWm1mRmFvanMwS1FaSTlYdVFkTG5Ba0I2M1RoQjdZbDc2M1NsaUNsNVU4U0tMWFFWOUplTDdFZG13aGhRZDNwaHd1bVQ4VDlubF9QVDhiRG5MUQ?oc=5",
-    "at": "2026-10-22T11:30:00.000Z"
+    "title": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
+    "source": "CNBC",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSkM4ZDNfWEtZdVpoS0tlNTZLRWlRUzNIUkozU0Y4eUc4V1N2cHpjTmhnbzFuem9nbXZKbGRpRGpIN3ZEWmlieHM4T013UzE0WDhjcTFsdm9YQzB4T1RhV193TGZXa2lVcU15RDFNVENKd3BuSWp0dm1RMVpuYWI3VW91UkJEWUtycFJIaHRESU1PMFVPWTNFUVIzMl96dmpR?oc=5",
+    "at": "2026-10-22T16:02:42.000Z"
+   },
+   {
+    "title": "‘Affordability’ Isn’t an Impossibility",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORTRJamFjRUF0aHVjVWdQLUdxdXZCdWluWjlrNG5QYnVmaXBlSlR1R1M1TjJQdUE1UkU2ZmhhcHpveDR2Ynh3ZWtrZWVBQUJjWUdBc1kwZE5sRTBwNHF0TXZBTmJvTXJ0NWp6TS1pVzM1bUxvN2xTcjEwVlJXeWdQdUhZclFsZS1TZFhaTmdKOTNvQQ?oc=5",
+    "at": "2026-10-22T15:25:49.000Z"
    },
    {
     "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
     "source": "NBC News",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
-    "at": "2026-10-22T10:53:47.000Z"
-   },
-   {
-    "title": "The Fed’s Dilemma: Can Markets Damp Inflation or Is Another Rate Hike Necessary?",
-    "source": "Barron's",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdWN5TzJiNG5XMFJvcTdNbUxMTHd2MllzY05iR0V4UklVV20wRTYtMlZ1YzVSQkwyZ2p5OFkxNFNTM19DVjhFZTI3UkdESFJkMm5CSFV5cXVqR0VkYk5jZzdiZ2c4VUEtcVJ2eFZHTjdDUVhnSVRzMVBodGQ2YkZmcF9vZXJfQQ?oc=5",
-    "at": "2026-10-22T10:30:00.000Z"
+    "at": "2026-10-22T15:23:48.000Z"
    }
   ],
   "jobs": [
    {
-    "title": "Why a global bank is slashing thousands of jobs — and what the Fed says about AI replacing workers",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/why-a-global-bank-is-slashing-thousands-of-jobs-and-what-the-fed-says-about-ai-replacing-workers-9529b6ca?mod=mw_rss_topstories",
-    "at": "2026-10-22T08:47:00.000Z",
-    "image": "https://images.mktw.net/im-15140400",
-    "desc": "Barclays on Thursday said it’s cutting 5,000 jobs — about 5% of its workforce, as the bank relies on artificial intelligence to perform back-office tasks."
+    "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
+    "at": "2026-10-22T16:40:09.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108368225-1790357106706-gettyimages-2297110253-jr_19003_zvh8bkkg.jpeg?v=1790357497&w=1920&h=1080",
+    "desc": "Initial filings for unemployment insurance slipped to a seasonally adjusted 194,000."
+   },
+   {
+    "title": "Barclays to cut 5,000 jobs as bank’s bosses hail AI productivity advances",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",
+    "at": "2026-10-22T14:39:29.000Z",
+    "image": "https://i.guim.co.uk/img/media/42ebdcc562c64f3843def3a9641e7ab414a3974a/218_632_4806_3847/master/4806.jpg?width=700&quality=85&auto=format&fit=max&s=67c05de83497c2fd34224bb2f4a3cf51",
+    "desc": "Equating to the loss of 5% of its 93,000 global staff, job cuts come as bank announces jump in quarterly profits Barclays is cutting 5,000 jobs as part of wider cost-saving plans that its bosses say are being driven by a"
    },
    {
     "title": "Amazon to hire 300,000 workers for seasonal jobs this year",
@@ -5499,31 +5511,41 @@
     "desc": "The history of technological progress suggests that as AI spreads, the employment impact will hit women more than men."
    },
    {
-    "title": "Australia's treasurer warns of softer growth, higher unemployment",
-    "source": "Reuters",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcGxzcU9wZHpsMXVHNXNiTkhMaTcxQTZGdlZva0ZXWWE2dmJ4S3NNRnZOZElMYVA2ckkwZ3RiUDJ1c0N5MTVTLU4ydkEycmNVcmNIRGVqWUF6R2VmbGtycmRQVXA5VXduSkpWNFpOcHF6THZ5ajVUX1Z3Nk5GQkFxM292Nm94QW9pZjByYVlaZHhTaExUYlZjRTF3STA5MFBudWY2LWJWdGlUbWJ1ejV3bV9fNFhPQQ?oc=5",
-    "at": "2026-10-22T11:33:43.000Z"
-   },
-   {
-    "title": "Economy set to worsen, with higher unemployment and weaker growth on the way, Jim Chalmers reveals",
-    "source": "The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOXBYWFdVMnB2dXFVNFdDVDN4X0ZXSGJ2eUVfSFZDM0JVbF9tV2VkS1NpYi00QXdXU1BKLXh1djl2SzIyOXRJMVRkY2VTRUp2RkZiZVRrX1hUWm1mRmFvanMwS1FaSTlYdVFkTG5Ba0I2M1RoQjdZbDc2M1NsaUNsNVU4U0tMWFFWOUplTDdFZG13aGhRZDNwaHd1bVQ4VDlubF9QVDhiRG5MUQ?oc=5",
-    "at": "2026-10-22T11:30:00.000Z"
-   },
-   {
-    "title": "NIKE (NKE) Faces A Tougher Reset Story After Sales Weakness And Layoffs",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR2ZyVkl4RVZWQ0RFODlfNDhpQVdXYmFqa3hZel95SzZyTGhxOGFZS0phNDQ0ZE9PeWVkVFRhd2FYU2R3cDRtMzJOY2haR3R5VjE1MVZJcVRJS1MxVkd3Rm4wSHRTWnU2Qk1GUDRCUTRxbWpVNkV1bk5EU0tTY09ZekJmcDU2WHpib1U3WDZhUVBfdUtmc2pwRQ?oc=5",
-    "at": "2026-10-22T11:17:19.000Z"
-   },
-   {
-    "title": "Cleveland-Cliffs Braces for Fight as Canada Looks to Block Layoffs at Stelco",
+    "title": "Opinion | U.S. Workers Suffer Fewest Layoffs Since 1969",
     "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcmVVYXVfWWNnNHc1aWlOTVQ5TDQwcUJxaVdLM0RDZklRZUllcXJ5YTFDdV9FaDFaUnh3MnE4ZmhRTFJzR01ySl96VU5VdVJ1aURMRXVlN0VmZl9qSFEySEY3cVVoeE96TF9pcWYxV1luUmdUV2JLb3c1SW5EZUxaRmtMZzQ3YW1jTkdIdHNFak5WdHM5S2c4WXpkNkNGWllrak5uN2tOa1EwM0hPOHdrakc5YVhfUzdVc1pPQg?oc=5",
-    "at": "2026-10-22T09:33:31.000Z"
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdkxfTlFqZzV6RXlReV9SNV9MOUs2NHl0MnJ5djIwbmxiUEJCUWJ1allSSjZjbkJTS1laeVBUX1ZteWhsdmdNemlTdG1HWTJvVzZ0dHllclBKMkdKOTZWWVZpUTZwcnlPdGk4MTYySEZFSXdnUmdEWldEQUNiZGMySXpwQVg5LWhX?oc=5",
+    "at": "2026-10-22T16:53:08.000Z"
+   },
+   {
+    "title": "Slight Improvement in Q3 Wages, September Functional Unemployment, Says Ludwig Institute",
+    "source": "Morningstar",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYmw5M0ctLTNnc1dyRGFoSDBJLTBRZ1g4b213VVFCYkg3Tmx5QnJhdVZRS2UzQmQzMG04WVR3RTNmdFFDR1JLUzFDcDVzNzFvdjloV3lYdUlFR01CLVhlVDczSUF6dHEyZWdFcEFmZVp0ME9LNjhNclZMOWdwdGgwX1dSaUgtNldvUnJ5Nk5sZVlqWnJzZUR4TmR4LTlwVVprUVVrODdOanlCdF9BaGNwWDZ6NHdrRG80YjlVd2pVblVYMkhoZC1tV2dzdElHSmhySldEZ18tOUZzMXhZb1BSWA?oc=5",
+    "at": "2026-10-22T16:32:00.000Z"
+   },
+   {
+    "title": "US weekly jobless claims near 57-year lows, underscore labor market stability",
+    "source": "Reuters",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY1lNaWxpcFZmNGx5cEFsQ25QUUNuM0ZkVzJXaGdxdDRFdXNpNGVyYlhhV3JLcnpoMHJKLTZhMWduY0hQYXFPM2xBRjl5TF8xaXAyNU40UUtnTl94TDl3eUVjSHlleXBtenZHVDNpUmw5LUxRMDJNNzF2VVlxYmVodVpWUE5PWEdtVHRSZmdzR2w?oc=5",
+    "at": "2026-10-22T15:50:55.000Z"
    }
   ],
   "debt": [
+   {
+    "title": "‘AI is on trial’: Bond yields sink below 5% as investors look for safety",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/ai-is-on-trial-bond-yields-sink-below-5-as-investors-look-for-safety-dbc86ee9?mod=mw_rss_topstories",
+    "at": "2026-10-22T16:35:00.000Z",
+    "image": "https://images.mktw.net/im-65999588",
+    "desc": "Investors are flooding back into Treasurys for safety to hedge the risks of more AI fallout in stock and credit markets."
+   },
+   {
+    "title": "French borrowing costs overtake US amid budget turmoil",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/oct/22/french-borrowing-costs-overtake-us-amid-budget-turmoil",
+    "at": "2026-10-22T08:40:36.000Z",
+    "image": "https://i.guim.co.uk/img/media/75bedd6d2c81e2f2be23f61588ee0e589a2a9d70/1090_0_4382_3508/master/4382.jpg?width=700&quality=85&auto=format&fit=max&s=7260cd48d34a2da168716868d5085275",
+    "desc": "France’s bond market hit by another bout of selling as country recovers from weekend protests French borrowing costs continued to rise on Thursday, as investors fret that France’s government is struggling to pass a feder"
+   },
    {
     "title": "French borrowing costs hit 24-year high as civil unrest and budget fears spook markets",
     "source": "The Guardian",
@@ -5533,13 +5555,25 @@
     "desc": "Yield on 10-year government bonds passes 5% amid failure to pass budget and fallout from violent street protests France’s borrowing costs have climbed above 5% for the first time in 24 years as political concerns and the"
    },
    {
+    "title": "A veteran Wall Street strategist unpacks why bond yields may be nearing a peak",
+    "source": "Business Insider",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbGtqbDlBME5lOWVpcVQ3VTlwb21kMFZlTWpmVlBCU3AwdlVRTmJkYkNjWU53Slk4UWpVd1lINTJkVzlzb3dha0QwS2piUE5sSTF1WXhYbWp3UUZPZVlTblBjOXQtandic0xaOF82WmRvVmcyVVI4RXpHd3BfRi1JRzZJelU1TnNiWWpfNUt1NDk2RkdFdkoyTQ?oc=5",
+    "at": "2026-10-22T16:29:00.000Z"
+   },
+   {
+    "title": "The debt blob will destroy America",
+    "source": "The Hill",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb2c3ZVVQYWxCRDFGeEVmYk50NWdoSWcySE1STTBfT29kZ3E0cFljZ3lFNXd3bHFUQm1YWTVNZVB1bllndHlwTmxnSWVKQkJvc2czRXVvRktLTWloU1ZNSjBsVWZjVG41bW9OQWlCZVZraENHMW9BaFZyQ3pzYUQ4UXlCUzJFZkF1OXVrS2dKa1NNSC0xS2dBb2xtVVM1YWs0M0xQdHVR0gGrAUFVX3lxTFBDYllXSE5fbmhuZi02SHNvNHQ0TkxEcm04b1haRTdfOHFzcnVrSFNvMEc5VXlWVV90VFJyWFpOTkNJUTBJN3FLMWxRRmtOOHZGQVpaMHF3OWwwb2o3RHZFZmlId2I3TnJIQlU3Zmg2MTJtMXVEMGVnTE9nMzhPMTdoOUNBUG40YlB0ZWc2S3prcUM3Rjk5N2pKQk81ZkxSZld6cU1acjlxQUttbw?oc=5",
+    "at": "2026-10-22T16:00:00.000Z"
+   },
+   {
     "title": "French Government-Bond Yields Jump, Spread Widens as Treasury Yields Fall",
     "source": "WSJ",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaG1kb1dxekJabUk3czhacmlCWC1GV1N5WlkyaFZVekxHaUhsbUVIU0lLMXFHRk91ZnVBRUZCMkNWWmVMZGppbDJ1QXZTX05OdkJpNy1nVlQ0MzVyb3dONjNQcjVoU1ZsdDVwc1BuVnpUTk9TX1dMNnBJdVNtVHpkbjZCSDBrZTZlOEo5MFo5QV9WTnAxV2JySkVpWGh5alBYVTNBRlBJTUVYVjJ1Q2hwdDlyY2tJUmFJYjg4?oc=5",
     "at": "2026-10-22T10:48:00.000Z"
    },
    {
-    "title": "Treasury yields fall as investors weigh Middle East tensions and await fresh jobs data",
+    "title": "Treasury yields fall sharply as traders seek safety from stock market sell-off",
     "source": "CNBC",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44R0JKdU52c2ZGdTBUaTlIellnNmxmdjZSYklzT3VmZU84azN5T0J0eWRZWGQ4RmZFMEVkYm1zaEVRVXNIWVdUSUlCRU9ob2ZZQzdSWVhEeXVJZWxZejF1VVhhMXFFb04wZjU0UG5VSdIBdEFVX3lxTE5PR2VqMmdvZjZNcXNnNWJ0ajhTSG9qbjVXdDVhZ295N2VhdzRfeGN3WlRJQTJEb21GVDBYdE16SWlnOTg2V1ZkMGI2UG5ENGctUGRZTkRRZ3pmYlVxRE00bjZpWHA3TGw5dHg3TzdBenIzZG1H?oc=5",
     "at": "2026-10-22T09:31:06.000Z"
@@ -5549,30 +5583,6 @@
     "source": "CNBC",
     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lbGJYZXRXMEZYcGp3ZTUxMU5nbmNtNzdXM213VWpCaUtUMFhnVjFKVXQ1ZGNPaXJMQjNzczluWEhZWDR6TFBKUmgyZGNudTFXZVlMRzA1NEE0REQ4bC1qSVpTUk1ZSzZGNmJXSjJ3ejFUS3NOSjNscmF3cDFlQQ?oc=5",
     "at": "2026-10-22T06:11:40.000Z"
-   },
-   {
-    "title": "Treasury Yields Are Climbing. Her Inflation-Protected Bonds Could Make Social Security Taxable Before She Collects the Cash",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQnZ4clVTMG5QZzVOQmpJdFpHZHAzdTFQamJxZFBueXcxZnRnNW1UVGhxdFg0dk44UGN1REZBNjZnRjN1R2NWM0EzaXh2UXhNdzkwZTE2azJESXdWdjJxWnBHQ0s1WURGc2pXQmhvWlJHX21pR09FeEZZNWV5Wm1ETVZhU0F1YXphaGh1SW15WjJ2N25PZy01bU5kVEFhSm5MdU9yb3JR?oc=5",
-    "at": "2026-10-22T01:00:00.000Z"
-   },
-   {
-    "title": "French Bond Yields Hit Multiyear Highs, U.S. Treasury Yields Edge Higher",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUUVqY01YZEVBNGdnSkZQSllpNnZmNFNUUm5ab0VxODNVWXVUdm5VYW1GcGRjSXJvTE9lSjlITEZZYmR6MUJiQ1ZtaFhNb3JDQkJoQ09JdlJUdlFsTXRfeEVKM0s1em51dUR0Z3h2WW9hRS1BdVVDSWhGSXNZZ1NIRTlzSnk4ZzZianQ0bnRheEEwRGpXTmY0SA?oc=5",
-    "at": "2026-10-21T20:30:00.000Z"
-   },
-   {
-    "title": "AI bubble fears, rising treasury yields put tech stocks to the test",
-    "source": "Fox Business",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tX29UX1ZxVnFQZkNOM2dycmE1b3dBY1l3ZFpsSjkzUnM3UDNKREtza0NtRVdfbkFDQVg0R3ZPeDk3NnEzbXB4MUVXNUNMcl9nY0Q1emdPa0VRMkk?oc=5",
-    "at": "2026-10-21T18:00:53.000Z"
-   },
-   {
-    "title": "‘Grow the damn economy’: Billionaire Ken Griffin warns Trump made a mistake cutting taxes as the national debt tops past $40 trillion",
-    "source": "Fortune",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPaTRCV1MwdjZDYmNabEZyQWFzc0lHT1BhWkJQVFJVc1FFc2hfdXJXQzdVUllZUEdjZWRxeVEzSVo1RzBRVVR3QjJfWmJDcFBKQkZvLXVrdUpvT3RNTnBOcGhsdFNWYklLVjdjRG1icGdYV1N2TVJzeEEtTWU?oc=5",
-    "at": "2026-10-21T17:07:00.000Z"
    }
   ]
  }
