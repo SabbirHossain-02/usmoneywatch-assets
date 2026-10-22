@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T21:44:43.422Z",
+ "updated": "2026-10-22T04:50:16.453Z",
  "ticker": [
   {
    "name": "Mortgage, 30-yr",
@@ -31,10 +31,10 @@
   },
   {
    "name": "10-yr Treasury",
-   "value": "5.15%",
-   "dir": "up",
-   "asOf": "2026-10-19",
-   "when": "Oct 19"
+   "value": "5.12%",
+   "dir": "down",
+   "asOf": "2026-10-20",
+   "when": "Oct 20"
   }
  ],
  "videos": [
@@ -4706,114 +4706,114 @@
     },
     {
      "name": "10-year Treasury yield",
-     "value": "5.15%",
-     "when": "Oct 19",
-     "asOf": "2026-10-19",
-     "change": "+1.15 pts vs. a year ago",
+     "value": "5.12%",
+     "when": "Oct 20",
+     "asOf": "2026-10-20",
+     "change": "+1.12 pts vs. a year ago",
      "dir": "up",
      "tone": "bad",
      "spark": [
-      4.09,
-      4.21,
-      4.28,
+      4.08,
+      4.25,
+      4.37,
+      4.3,
+      4.42,
+      4.27,
+      4.23,
+      4.22,
+      4.4,
+      4.59,
+      4.57,
+      4.68,
+      4.61,
+      4.63,
+      4.58,
+      4.49,
+      4.47,
+      4.4,
+      4.16,
+      4.22,
       4.31,
-      4.43,
+      4.34,
+      4.23,
+      4.15,
+      4.38,
       4.41,
       4.19,
-      4.2,
-      4.39,
-      4.59,
-      4.58,
-      4.67,
-      4.66,
-      4.65,
-      4.52,
-      4.45,
-      4.52,
-      4.42,
-      4.24,
-      4.32,
-      4.31,
-      4.25,
-      4.27,
-      4.01,
+      4.3,
+      4.49,
       4.48,
-      4.42,
-      4.23,
-      4.36,
-      4.45,
-      4.46,
-      4.43,
-      4.46,
       4.47,
-      4.39,
-      4.29,
-      4.3,
-      4.35,
-      4.47,
-      4.43,
       4.37,
+      4.41,
+      4.38,
+      4.26,
+      4.35,
+      4.43,
+      4.44,
+      4.4,
       4.23,
-      4.29,
-      4.33,
-      4.22,
-      4.1,
-      4.06,
-      4.14,
-      4.2,
-      4.13,
-      4.05,
-      4,
-      4.01,
-      4.13,
-      4.13,
-      4.12,
-      4.01,
-      4.06,
-      4.13,
-      4.16,
-      4.15,
-      4.19,
-      4.18,
-      4.24,
-      4.22,
-      4.29,
-      4.22,
-      4.05,
-      4.04,
-      4.06,
-      4.15,
-      4.2,
-      4.39,
-      4.3,
+      4.27,
       4.33,
       4.26,
+      4.23,
+      4.05,
+      4.05,
+      4.15,
+      4.15,
+      4.18,
+      4.03,
+      3.98,
+      3.99,
+      4.1,
+      4.08,
+      4.13,
+      4,
+      4.11,
+      4.14,
+      4.12,
+      4.14,
+      4.17,
+      4.19,
       4.3,
+      4.24,
+      4.28,
+      4.16,
+      4.09,
+      4.05,
+      4.09,
+      4.21,
+      4.26,
+      4.33,
+      4.33,
+      4.29,
+      4.29,
+      4.3,
+      4.42,
       4.36,
-      4.43,
       4.46,
-      4.67,
+      4.57,
+      4.45,
+      4.47,
+      4.45,
+      4.46,
+      4.38,
       4.48,
-      4.49,
-      4.55,
-      4.49,
-      4.4,
-      4.49,
-      4.56,
-      4.55,
-      4.69,
-      4.75,
+      4.62,
+      4.6,
       4.65,
-      4.68,
-      4.74,
-      4.73,
-      4.78,
-      4.97,
+      4.7,
+      4.72,
+      4.72,
+      4.7,
+      4.75,
+      4.8,
+      5,
       4.96,
-      5.24,
-      5.31,
-      5.21,
-      5.15
+      5.26,
+      5.27,
+      5.19,
+      5.12
      ],
      "source": "Federal Reserve"
     }
@@ -5251,12 +5251,12 @@
  "news": {
   "top": [
    {
-    "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
+    "title": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
-    "at": "2026-10-21T21:14:00.000Z",
-    "image": "https://images.mktw.net/im-89005397",
-    "desc": "Oil flows out of the Persian Gulf in October nearly returned to levels seen before the start of the Iran war, but traders remain wary about a fragile recovery."
+    "link": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
+    "at": "2026-10-22T01:50:00.000Z",
+    "image": "https://images.mktw.net/im-00292967",
+    "desc": "Social Security is looking to reverse an initially slow uptake on Trump accounts"
    },
    {
     "title": "Childcare costs are growing faster than rent in the U.S.",
@@ -5299,12 +5299,12 @@
     "desc": "The midterm elections appear to be a factor for both sides in the war as President Trump weighs his next steps."
    },
    {
-    "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
+    "title": "This wonky maneuver kept Mark Zuckerberg from fleeing a California billionaire tax",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
-    "at": "2026-10-21T20:15:00.000Z",
-    "image": "https://images.mktw.net/im-37061158",
-    "desc": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”"
+    "link": "https://www.marketwatch.com/story/this-wonky-maneuver-kept-mark-zuckerberg-from-fleeing-a-california-billionaire-tax-1de34562?mod=mw_rss_topstories",
+    "at": "2026-10-22T00:48:00.000Z",
+    "image": "https://images.mktw.net/im-07733981",
+    "desc": "Facing a potentially giant tax bill that could threaten his voting power, Zuckerberg was days away from listing his Palo Alto home when Meta agreed to create a new class of stock."
    },
    {
     "title": "Amazon to hire 300,000 workers for seasonal jobs this year",
@@ -5339,23 +5339,15 @@
     "desc": "Here's what's behind the fluctuating costs of everyday grocery items such as ground beef, eggs and chocolate chip cookies."
    },
    {
-    "title": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
+    "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
-    "at": "2026-10-21T20:01:00.000Z",
-    "image": "https://images.mktw.net/im-00292967",
-    "desc": "Social Security is looking to reverse an initially slow uptake on Trump accounts"
+    "link": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
+    "at": "2026-10-21T21:14:00.000Z",
+    "image": "https://images.mktw.net/im-89005397",
+    "desc": "Oil flows out of the Persian Gulf in October nearly returned to levels seen before the start of the Iran war, but traders remain wary about a fragile recovery."
    }
   ],
   "housing": [
-   {
-    "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
-    "at": "2026-10-21T20:15:00.000Z",
-    "image": "https://images.mktw.net/im-37061158",
-    "desc": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”"
-   },
    {
     "title": "Childcare costs are growing faster than rent in the U.S.",
     "source": "CBS News",
@@ -5389,22 +5381,28 @@
     "desc": "New data on the housing market's performance in September is bleak, with sales, construction and sentiment all falling more than expected."
    },
    {
-    "title": "1970s Mortgage Rates Were Much Higher Than Today’s 7.4%, And The Housing Market Still Boomed. So Why Is It Frozen Now?",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSjlfOEtYN2J1bnZiZVlVTm1nbTlkeHY5bkhvMl9HblZaX3FRVkEwTko3RXdyeWZfLW9ZNmtpZEYtRnYwRlBMak5TaXUxaEM2MU9pcXhpZzR6dG1IYnFwNl9wUUNyUnBMSEZ1TE5zUFdwZXYyZ2xuUi1kenhOQXpBamx6T2NvSUREUzgxTmtuN2t0ODF4QVZZ?oc=5",
-    "at": "2026-10-21T21:17:06.000Z"
-   },
-   {
-    "title": "Mortgage Rates Fall Further Below 7.5%",
+    "title": "Mortgage rates fall well below 7.5%",
     "source": "Bankrate",
     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQamVrZlcwaFRjY0NDSVZld1p3NFNNMEhQZUIySDVlSThrTXh5ZGNQdUotcTJ4TTVUb1ZhOTBsdmc4SThIR3l6YUsyOGJkakdINTB1ZU5IY0lxUmVMRzQ2SlRobF93d2Q0Y29PTGhPLXhGUlF0WlpGYWFQdkZZeDVxag?oc=5",
-    "at": "2026-10-21T20:24:11.000Z"
+    "at": "2026-10-21T20:25:31.000Z"
    },
    {
-    "title": "Top Housing Economist Issues Grim Forecast Revision as Higher Rates Slam the Market",
-    "source": "Realtor.com",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbDhEbFZydDMzc3AyTzJNeFh4VjNvS1B4cWpEZ3ExZXNBMXpkZU53MUxIakstRE9Hb1lKd2tkU2dJaVBTdE12MXRuc0hFVENKQm90Q1VRd001TTJQV29UNVczXzBhay1hLUluaDFtdEdraGZfbEY4MzdWS0RkV2ZJQ0FOUlNUcVBMR1RlWVcxdGNVQWdmbEln?oc=5",
-    "at": "2026-10-21T20:09:51.000Z"
+    "title": "Home Prices Log Fastest Annual Growth Since June 2025 in Quarter Through September, Redfin Says",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV3VyUWZwRzRMUnpjZWcwcUctMW5fcldlSGZnVXNXc29TZmpQb3hEeFhqdm5QUnR1ajlkemQtVElsemJHWXRvQ01Ka3daelByYTBDREVqZVRldjRGbzhZbW8yWG45TUhESGdhS05BcUhZQ2Npem45UTNFeTRpOEpvTUJhUlAxYWx6Wkk3MXVYSXRNOVU5OFVZ?oc=5",
+    "at": "2026-10-21T19:52:18.000Z"
+   },
+   {
+    "title": "Mortgage Rates Are ‘Eating Up All the Good News’ on Housing, Says NAHB CEO — Peter Schiff Warns of ‘Worst Housing Market in US History’",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUG4xZlJfMFpvMzY2aUxSUzdMT1I3QlZBaVRQdGVLY3B5eUlaX2pPYVltSTNLdERrYzBTTW4xTU51dzJXUHR4cjdESnpYNWNybi03M3ZVWVBOZ1BWZWpleVRUTi1aMHAtOHNPbGM1aVZjOUxqb0NCYXZfZXdkU1dGSHhhREpCS1o4bVhlYXNzczZLZnZRcFVuUw?oc=5",
+    "at": "2026-10-21T19:30:06.000Z"
+   },
+   {
+    "title": "Pending Home Sales Fall 7.3% as Mortgage Rates Hit 7.6%",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLTk4TnJvN0J4V3BwNG95ZHFCdC12LVpocDVUQll3Wl80QWZ6VHMtU1Vmb3huc1hQVGlCMFliMVlZaVJ6c1B6TWl3VWgydUlRQUVNUzIzZ3N5NWxoWWhFbThUY3BBZEdjMEJ4QTRVYXZ3bUF6SVBWaVhYWFRuR2NFZkpNcWpFQzRpalVTX0xaQVo?oc=5",
+    "at": "2026-10-21T16:50:19.000Z"
    }
   ],
   "inflation": [
@@ -5433,34 +5431,34 @@
     "desc": "Here's what's behind the fluctuating costs of everyday grocery items such as ground beef, eggs and chocolate chip cookies."
    },
    {
-    "title": "Treasury Counselor David Zervos: Energy shock, not sticky inflation, driving yields",
-    "source": "CNBC",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSGstdUNUcVhGZHpWa0Z1RHVYRlRGX0I3OXUwNDI4RGdPbTBHMGdrQ0ZlSUxwcDhaQXhlOG54SkhrUlYwaHVIbDc2YlJHYXo1NDNtLW82NkZMZ3J2MUVGS0p6YnRlTDZEazZxZWVsZ0IyQ3NJS0M1T2hRaFJMazJkRFBwSl9iWEJTV04wX3J6UE45dUtUbnYxaWdZUW5vRFpyTE9vaUdEUllsOEZTZGM2NnF2YlJnNlBHaFVZS084SGg?oc=5",
-    "at": "2026-10-21T21:33:31.000Z"
+    "title": "No wars and no inflation: Has Trump delivered on his big promises?",
+    "source": "Financial Times",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX2txX2JhRDEtN1hwUTJ2X1JKUDlQNmhLRmdxNFAyN2dTTkNkUVVtN3Mxd1RFd3Nla3lqMUw2c0ZfdHZzQTF6aHFockJMMzRoRVVpUmp2OUNFWUlpRXVXYktDTWZHTUlKVjNnVm95SzJkTjhWbjk3OVU0bGk5d2oyLVhoODc?oc=5",
+    "at": "2026-10-22T04:01:12.000Z"
    },
    {
-    "title": "Trump Faces Supermajority Disapproval on Gas Prices 2 Weeks Before Midterms",
-    "source": "Newsweek",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNczhwekZnR0tNSldtOC1WWnAxY3ZxeUo5V1BRMGdzRnJpelBoRXVrNm5nQzZ1WmdWZk56VGpwRE5ZemRUWVlIbG9TaG9xWTBlQmRGQ25wcjdReFhHSElqdGFpUlZXbGg2dUw1Wm12a0pHMzR4MHBaZ3B0SW11cnFsUFRCYzlMc2JGRWpYNFh5eVlMY3BSaXRqMjY0ZjFGYkJNZFVjVHZDdWhFMTFNN2c?oc=5",
-    "at": "2026-10-21T19:55:00.000Z"
+    "title": "AI and inflation: how worried should central bankers be?",
+    "source": "Financial Times",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOakdRMHZqNGZmX0JldFA5SzR2b0ZoYXZUZFBkNkJPTUZNSG5jUEpKbGQ5YUVab3BGXzczRUstSXNCNDRIQjI5YW9BLVZleVV0TXBXQXpCUERCeE12UjBIbV8wSzhuVFF0Z1lmR0FacktFYWxWQXVxampYQ0d6aW96Q1luNlg?oc=5",
+    "at": "2026-10-22T04:00:11.000Z"
    },
    {
-    "title": "Gas, groceries, electricity: Where prices stand as midterms approach",
-    "source": "The Hill",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLU9GZFN0cng0MVM5OWRWVzYyWmFaYWhYUkFUMFh3QjJpS25jYk8zdXVZZ0h1dmZjRmFHT1UxelRqTFp1eDhpLWt2LVN6NDI2RllJcUpKQVVESTZLeW9nZm1LaFhTY2RCdFJtejJuMTlVWnhNNGxhWjNvb3Z6eDZfdWQ1cVEtY2fSAYwBQVVfeXFMTlpVbnRDUEZTaGZTRVpUeC1Ha3RSMjIydGZDNWU3YWIyTVRFTEdIc1ZXNzFtbTZSXzFqRXR2VmNsVE5KTHNUOVhXYUg5a0p5Zm9QWV9QRUItMlRNRktpUTMwQXQybEphRWF3blZqX2d2dmpRWGZERFdhblRNeHotSUt2eklfLWFweTZPQnQ?oc=5",
-    "at": "2026-10-21T19:51:00.000Z"
+    "title": "Indian shares slip at open as high oil prices fuel inflation worries",
+    "source": "Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZDhVMWdGc0J2bURPNnV2YnBaRXlMSkVqcXRGX1FBZ2lUOXQ4eVJyd3RsTE1CckJ4cjRuVEdPQVJLaGVXaVA5clJIZ0lQSTBsMm1iQ0xfeTZkNXhqWUtoX2ExQkNlRFVfSVhKckRtenZfWW41bDlxWWc0WVFuRTVTTHlIdEtPcEI2Z2hWR2pyd2NGOGRiNXNMUkM3OE5qcFV5VUxQUkVDem1HdXN4X0pKY3RrejhKeHcxRjdV?oc=5",
+    "at": "2026-10-22T02:33:00.000Z"
    },
    {
-    "title": "Winnebago Busts Out of Its Rut Even as High Gas Prices and Loan Rates Drive Away Buyers",
-    "source": "Barron's",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUEhqb2EtZ2NEQ0VSemdPUHZCbFVmYV9pWDM2dkt6ZE9xejdsT1VFVElWYTVab0p2SEFsOUVLVC1DRTNuWVNGUm5OZThrZkE1SzF3VDlVX0syTlJ2Y3F6RWc3RlA4WDFUZjVidjlSZnN6YVpMenR4MFlHZjdsSC12MTdwbENfQjYzenhLaw?oc=5",
-    "at": "2026-10-21T19:16:00.000Z"
+    "title": "US High School Economics class: Eurozone inflation hits three-year high of 3.8%",
+    "source": "Financial Times",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKajJpbG1nRy1HcmhPazF5WjRBemNJU3JZYzVlYVpadzZSTjgzWmFLX3ZrM244dzVQWm1NTS1LWWF4TFdKT2ctRlloRTlaWC0xZ2pCWVN4Tm5obUdLemppWWF3dUNBc201TUZyNnNpYTQ?oc=5",
+    "at": "2026-10-22T01:41:08.000Z"
    },
    {
-    "title": "Trump's midterm economic message on gas prices analyzed on 'The Big Money Show'",
-    "source": "Fox Business",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lbDhzaVNLb3UzLUJqdmg5aDBZZ1NEMk1UNktZeHlnbHdUaU03R0VGRFk0UDlENDh2eGtXZ1lJdjdzMV9Yb1RjcktXal9pS3A4MjdKWkZxVF81b1E?oc=5",
-    "at": "2026-10-21T18:00:36.000Z"
+    "title": "Life Feeling Too Expensive? Here's How Prices Have Risen For Homes, College and Health Care.",
+    "source": "The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQekRjczJOdDJNZEZCdmRINHVxRmhIeXoyejBRN1otUGlEemZWRV9oYTEzNmd3X19CckV6Q21ETmFVemtTdFRVMk1kRlhyRmxRaHhPTUJZc21oWHJKQVBTVmJFTGRCWkN1Q1lVa0xuTEVoMUU2NHZnYkVmdzFjU1Y2eG8tWFNCcnFiSlAza1dTMWhuQlduTFppbk5xSllZYVNzb2RCeDFPRmdLams?oc=5",
+    "at": "2026-10-22T01:09:12.000Z"
    }
   ],
   "jobs": [
@@ -5497,16 +5495,16 @@
     "desc": "The meal kit delivery service denies the allegations, saying it found claims to be ‘entirely without merit’ Workers at a HelloFresh facility in Newark, New Jersey , have claimed in court documents that they were verbally"
    },
    {
+    "title": "EBay’s Stock Rises. Its Latest Round of Layoffs Shows It’s Serious About a Turnaround.",
+    "source": "Barron's",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1FV202VTkzU2xjRjdENHp2eWZnOHNnU2l1QVpsSUJnSDN2cXFEVlp3dWxTd2F2XzZvSGRJQTBPNk9VNE80a1diMmdCNjVIa2JNY1JRUE5xbzhrU250azZ4UG5FaEtJaHJKMzhUZUJYZm1BbkJwc055UHBOeHY?oc=5",
+    "at": "2026-10-21T21:48:00.000Z"
+   },
+   {
     "title": "Unemployment rates: These 5 states had unemployment rate decreases",
     "source": "Newsweek",
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV3BRZk15dGR4bHBQTnlVXzI4R1ZoSWxXVm9ZTXhnZWlKMDBhbTRndzFrRUxkTnM3d204Vmo5cVBZVkRrZy1FeWJxZ2p1emZCUXFaamhkcTA1NGNtamxNN1hJeWtPNWMxc3dfNG42QTF3UDlZYjA1WlJFcXZvb0M3cU96SEtDQ2k0TFBudA?oc=5",
     "at": "2026-10-21T21:32:00.000Z"
-   },
-   {
-    "title": "EBay’s Stock Rises. Its Latest Round of Layoffs Shows It’s Serious About a Turnaround.",
-    "source": "Barron's",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1FV202VTkzU2xjRjdENHp2eWZnOHNnU2l1QVpsSUJnSDN2cXFEVlp3dWxTd2F2XzZvSGRJQTBPNk9VNE80a1diMmdCNjVIa2JNY1JRUE5xbzhrU250azZ4UG5FaEtJaHJKMzhUZUJYZm1BbkJwc055UHBOeHY?oc=5",
-    "at": "2026-10-21T19:31:00.000Z"
    },
    {
     "title": "Mass layoffs rock California gaming giant as boss’ memo released",
@@ -5529,6 +5527,12 @@
     "at": "2026-10-21T13:17:32.000Z",
     "image": "https://i.guim.co.uk/img/media/f6bb8d4864e05b4447547f7813c2a697dc28b29a/432_0_4320_3456/master/4320.jpg?width=700&quality=85&auto=format&fit=max&s=117bdee1f2a1c53b36d30ebb80e2e015",
     "desc": "Yield on 10-year government bonds passes 5% amid failure to pass budget and fallout from violent street protests France’s borrowing costs have climbed above 5% for the first time in 24 years as political concerns and the"
+   },
+   {
+    "title": "French Bond Yields Hit Multiyear Highs, U.S. Treasury Yields Edge Higher",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUUVqY01YZEVBNGdnSkZQSllpNnZmNFNUUm5ab0VxODNVWXVUdm5VYW1GcGRjSXJvTE9lSjlITEZZYmR6MUJiQ1ZtaFhNb3JDQkJoQ09JdlJUdlFsTXRfeEVKM0s1em51dUR0Z3h2WW9hRS1BdVVDSWhGSXNZZ1NIRTlzSnk4ZzZianQ0bnRheEEwRGpXTmY0SA?oc=5",
+    "at": "2026-10-21T20:30:00.000Z"
    },
    {
     "title": "AI bubble fears, rising treasury yields put tech stocks to the test",
@@ -5556,8 +5560,8 @@
    },
    {
     "title": "Eurozone Bond Yields Rise, U.S. Treasury Yields Steady",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUUVqY01YZEVBNGdnSkZQSllpNnZmNFNUUm5ab0VxODNVWXVUdm5VYW1GcGRjSXJvTE9lSjlITEZZYmR6MUJiQ1ZtaFhNb3JDQkJoQ09JdlJUdlFsTXRfeEVKM0s1em51dUR0Z3h2WW9hRS1BdVVDSWhGSXNZZ1NIRTlzSnk4ZzZianQ0bnRheEEwRGpXTmY0SA?oc=5",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMjZaQ0ppejRjOTV4RjRkcGw0MEJ5ampIZktRVWExSzh3Wk9IdDlGeTlNOTFSQWxDV1ZpaS1FZUZhd3N2QVpBc2dNcjJKdWFldlpsTW41LXJJTy1oM1ZRQVBJeXhhYXFUYVpqZkNDWlVaQmRpSlFrS04zcTU0ZUk5dDZiendGaVJubWp2Nm40T3lhWklfSUl3?oc=5",
     "at": "2026-10-21T09:14:00.000Z"
    },
    {
@@ -5565,12 +5569,6 @@
     "source": "CNBC",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ELWVaZUY4dlY2R29keXVKQURiRkhEajBGeDhnZlc0cVA2b2lkeDIyTGc0cXRQMFExeDhDVWZ1RHZmNTNOT0R3Q2t1NHExLVR0QndhYmNCTWRubEdpaDlLb2JxTzdzaGNzWWxhUWtWb9IBdEFVX3lxTE83MEdDTnFFbnpkaHRNQ0w3cGNNLVFGd1drb0dvcnpUNmVCdmNuNEUxaThGX1I0cGNKMmtfZnVKUDJyY3RfcVJ0QWpHLWxNbHBySmV2RkdSZ0tyaG1pNGpUdzNOd2F3WTJmbVE0SF9LejN2TkR0?oc=5",
     "at": "2026-10-21T08:57:33.000Z"
-   },
-   {
-    "title": "Britain’s national debt tops £3tn",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZmhDYjN6M2NINVN1VDFGZFh1ME5pS3hxdmdISWI0SjlRV2V4MG9wS0pQbml1OG1SSDdmZml5bWFmN3RvaHJ4cHNxSzM5WHN2elhJV09WWmtKbjBwU0FScGV2dWFEZUJqbF9yTHRxLUlIclhTajlKLVZSaU1iM0NKQ3F5WXF5TWVwZFlXQjlKamlDRjRJUHRQMThPUQ?oc=5",
-    "at": "2026-10-21T06:27:00.000Z"
    }
   ]
  }
