@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T11:41:51.707Z",
+ "updated": "2026-10-23T17:09:59.762Z",
  "ticker": [
   {
    "name": "Mortgage, 30-yr",
@@ -5255,20 +5255,28 @@
  "news": {
   "top": [
    {
-    "title": "Treasury yields log biggest drop since the 2023 banking crisis. Here’s what’s going on.",
+    "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories",
-    "at": "2026-10-23T11:01:00.000Z",
-    "image": "https://images.mktw.net/im-46225712",
-    "desc": "‘It’s a take-back trade,’ says PGIM’s Tipp. ‘Not an all-out fear of recession type of situation.’"
+    "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+    "at": "2026-10-23T17:00:00.000Z",
+    "image": "https://images.mktw.net/im-81504476",
+    "desc": "”I earn $110,000 a year.”"
    },
    {
-    "title": "Public Service Loan Forgiveness overhaul dropped, filing shows",
+    "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+    "at": "2026-10-23T16:48:28.000Z",
+    "image": "https://i.guim.co.uk/img/media/c0f302e34e0b51e7da8489af30c4f6d217592b8a/424_0_4520_3616/master/4520.jpg?width=700&quality=85&auto=format&fit=max&s=2332037b020bf1cf0409c256058c3e75",
+    "desc": "Brent crude increase follows Tehran threatening retaliatory attacks on Gulf refineries and datacentres Oil has hit its highest level in more than six months as fears of fresh escalation in the Middle East conflict grip t"
+   },
+   {
+    "title": "Trump says new fuel supply push will lower prices. Will it work?",
     "source": "CBS News",
-    "link": "https://www.cbsnews.com/news/trump-drops-public-service-loan-forgiveness-overhaul/",
-    "at": "2026-10-22T21:09:39.000Z",
-    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/06/09/1925e274-db1a-4d99-9ee2-25e286315cb0/thumbnail/1200x630/e5836e6289a6c9be58a3769b09997604/gettyimages-2278935437.jpg",
-    "desc": "Advocates for student loan borrowers said the move will benefit workers who dedicate themselves to public service."
+    "link": "https://www.cbsnews.com/news/trump-defense-production-act-gas-diesel-prices/",
+    "at": "2026-10-23T15:24:45.000Z",
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/23/ecccc2c0-d09a-4beb-968c-8aafeddf45ba/thumbnail/1200x630/55179f7c21bec385a693d76616b54347/gettyimages-2300839577.jpg",
+    "desc": "The Trump administration said using the DPA funding will increase refining output and lower fuel prices for Americans. Experts are skeptical."
    },
    {
     "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
@@ -5279,6 +5287,14 @@
     "desc": "Initial filings for unemployment insurance slipped to a seasonally adjusted 194,000."
    },
    {
+    "title": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories",
+    "at": "2026-10-23T16:41:00.000Z",
+    "image": "https://images.mktw.net/im-37834610",
+    "desc": "Store aisles are getting a digital makeover."
+   },
+   {
     "title": "Cyprus police investigate financial and tax affairs of ex-Chelsea owner Roman Abramovich",
     "source": "The Guardian",
     "link": "https://www.theguardian.com/world/2026/oct/22/cyprus-police-investigate-financial-tax-affairs-roman-abramovich-chelsea",
@@ -5287,20 +5303,12 @@
     "desc": "Inquiry follows report by Guardian and partners that aides of Russian oligarch appeared to have falsified paperwork mapping his businesses Police in Cyprus have opened an investigation into the financial and tax affairs "
    },
    {
-    "title": "France is getting its credit rating reviewed. What to expect as French debt turmoil has helped turn U.S. Treasury yields around.",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/france-is-getting-its-credit-rating-reviewed-by-moodys-what-to-expect-as-french-debt-turmoil-spills-overseas-e39de111?mod=mw_rss_topstories",
-    "at": "2026-10-23T10:45:00.000Z",
-    "image": "https://images.mktw.net/im-15578398",
-    "desc": "Moody’s is set to update its rating on France’s debt after U.S. markets close on Friday."
-   },
-   {
-    "title": "Nasdaq dives 750 points as investors reassess AI spending",
+    "title": "Public Service Loan Forgiveness overhaul dropped, filing shows",
     "source": "CBS News",
-    "link": "https://www.cbsnews.com/news/nasdaq-ai-spending-debt-investors-concerns-stocks/",
-    "at": "2026-10-22T20:32:43.000Z",
-    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/22/4ce53f60-2c8e-4cd2-931c-3c9dce7b2832/thumbnail/1200x630/2dffe26dd922fc86798d96c2b1db6b4b/gettyimages-2300487265.jpg",
-    "desc": "Investors are fretting over the massive debt AI companies are relying on to finance data center and chip spending, Wall Street analysts say."
+    "link": "https://www.cbsnews.com/news/trump-drops-public-service-loan-forgiveness-overhaul/",
+    "at": "2026-10-22T21:09:39.000Z",
+    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/06/09/1925e274-db1a-4d99-9ee2-25e286315cb0/thumbnail/1200x630/e5836e6289a6c9be58a3769b09997604/gettyimages-2278935437.jpg",
+    "desc": "Advocates for student loan borrowers said the move will benefit workers who dedicate themselves to public service."
    },
    {
     "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
@@ -5311,6 +5319,14 @@
     "desc": "Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles."
    },
    {
+    "title": "Retire on 8% a year with little or no risk? How to use annuities the right way.",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/retire-on-8-a-year-with-little-or-no-risk-how-to-use-annuities-the-right-way-06ababc5?mod=mw_rss_topstories",
+    "at": "2026-10-23T15:56:00.000Z",
+    "image": "https://images.mktw.net/im-45881566",
+    "desc": "Market turmoil has created a remarkable opportunity in recent weeks for retirees and those seeking secure, stable income for life."
+   },
+   {
     "title": "Meta strikes deal with Mark Zuckerberg to help him foot billionaire tax bill",
     "source": "The Guardian",
     "link": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
@@ -5319,20 +5335,12 @@
     "desc": "Chief executive agrees to remain in California for eight years even if state brings in one-off 5% wealth tax Meta has struck a deal with Mark Zuckerberg to help him foot a possible California wealth tax targeting billion"
    },
    {
-    "title": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
-    "at": "2026-10-23T09:19:00.000Z",
-    "image": "https://images.mktw.net/im-50517059",
-    "desc": "A company beating earnings expectations by 36% and revenue expectations by 15% would usually see a postresults bump. But not for Bloom Energy, the fuel-cell maker that has flourished due to data-center demand."
-   },
-   {
-    "title": "Childcare costs are growing faster than rent in the U.S.",
+    "title": "Nasdaq dives 750 points as investors reassess AI spending",
     "source": "CBS News",
-    "link": "https://www.cbsnews.com/news/childcare-costs-growing-faster-than-rent/",
-    "at": "2026-10-22T14:46:12.000Z",
-    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/20/5696d5e8-9439-4f38-84cf-411888f63bf3/thumbnail/1200x630/a962fa8fef12e0c1038c1e556a6e8bd6/gettyimages-2229128788.jpg",
-    "desc": "A growing share of American families are having to shell out more than $2,000 a month for childcare services, new data shows."
+    "link": "https://www.cbsnews.com/news/nasdaq-ai-spending-debt-investors-concerns-stocks/",
+    "at": "2026-10-22T20:32:43.000Z",
+    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/22/4ce53f60-2c8e-4cd2-931c-3c9dce7b2832/thumbnail/1200x630/2dffe26dd922fc86798d96c2b1db6b4b/gettyimages-2300487265.jpg",
+    "desc": "Investors are fretting over the massive debt AI companies are relying on to finance data center and chip spending, Wall Street analysts say."
    },
    {
     "title": "Mortgage rates drop for the first time in 2 months, but demand still falls further",
@@ -5341,18 +5349,18 @@
     "at": "2026-10-21T13:13:48.000Z",
     "image": "https://image.cnbcfm.com/api/v1/image/108316056-1780500381320-gettyimages-2276694303-US_MORTGAGE_APPLICATIONS.jpeg?v=1780500427&w=1920&h=1080",
     "desc": "Mortgage rates finally came down a little, but borrowers are still having trouble getting into the housing market."
-   },
-   {
-    "title": "Barclays to cut 5,000 jobs as bank’s bosses hail AI productivity advances",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",
-    "at": "2026-10-22T14:39:29.000Z",
-    "image": "https://i.guim.co.uk/img/media/42ebdcc562c64f3843def3a9641e7ab414a3974a/218_632_4806_3847/master/4806.jpg?width=700&quality=85&auto=format&fit=max&s=67c05de83497c2fd34224bb2f4a3cf51",
-    "desc": "Equating to the loss of 5% of its 93,000 global staff, job cuts come as bank announces jump in quarterly profits Barclays is cutting 5,000 jobs as part of wider cost-saving plans that its bosses say are being driven by a"
    }
   ],
   "housing": [
    {
+    "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+    "at": "2026-10-23T17:00:00.000Z",
+    "image": "https://images.mktw.net/im-81504476",
+    "desc": "”I earn $110,000 a year.”"
+   },
+   {
     "title": "Childcare costs are growing faster than rent in the U.S.",
     "source": "CBS News",
     "link": "https://www.cbsnews.com/news/childcare-costs-growing-faster-than-rent/",
@@ -5367,6 +5375,14 @@
     "at": "2026-10-21T13:13:48.000Z",
     "image": "https://image.cnbcfm.com/api/v1/image/108316056-1780500381320-gettyimages-2276694303-US_MORTGAGE_APPLICATIONS.jpeg?v=1780500427&w=1920&h=1080",
     "desc": "Mortgage rates finally came down a little, but borrowers are still having trouble getting into the housing market."
+   },
+   {
+    "title": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories",
+    "at": "2026-10-23T16:41:00.000Z",
+    "image": "https://images.mktw.net/im-37834610",
+    "desc": "Store aisles are getting a digital makeover."
    },
    {
     "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
@@ -5377,46 +5393,32 @@
     "desc": "Housing data deteriorated further in September, according to separate reports Tuesday."
    },
    {
-    "title": "September data shows housing market in a deep freeze",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/10/20/september-data-shows-housing-market-in-a-deep-freeze.html",
-    "at": "2026-10-20T14:18:58.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108316060-1780500478814-gettyimages-2277390306-260523_tohomes_110.jpeg?v=1792504243&w=1920&h=1080",
-    "desc": "New data on the housing market's performance in September is bleak, with sales, construction and sentiment all falling more than expected."
+    "title": "Millionaire renter households jumped 229% since 2020 as mortgage rates hit 7.32% — and they're not looking back",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFBYTmpfRFRqODhsbTNqQUtlZjlieWxyNWVJSUFpcHV2ai1YZVpmVWVxTVRoaUZneC1qZ1JoTmFvajJVejBtYlZhY2Vwcnl1MGhBTEZMTjVjb08yYzcwZWstbkFrZndGT0ZBaEZEbEZ4S0FtWUsyWFVtYjBLTktTTFJucGJIaXVQM01XcDBPMWlZZGhDSmhkT1dVemlHY0YwS2NEVw?oc=5",
+    "at": "2026-10-23T17:00:00.000Z"
    },
    {
     "title": "The financial divide reshaping life for millennials",
     "source": "The Washington Post",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQODI2ai1NWEVCR2RVaVlSV1pOd185Z21iQ050OTVZTGZKRlJjaTZvWUlZUDJHeEJLdWFtT0FHZ0U1RUxzZ3BCYnJ4SDlEWFVibW1BTUFoQzJ3dXVnN24xUlNoTnhwT3JDLUU3TU9mblNVQi14RFNib1Rkakx3RThyV2NjMkM2bEJVUS1IUU0xNUVDU3ZHaWx6cGZxeDMxazJHMFFHYVd3?oc=5",
-    "at": "2026-10-23T11:32:11.000Z"
+    "at": "2026-10-23T16:43:45.000Z"
    },
    {
-    "title": "Mortgage Rates Are Above 7%. Is It Better to Rent or Buy a Home Right Now?",
-    "source": "Morningstar",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWkFiU2h0cHRuTjRRYTVIdi00eVkwY0gyZTR0WFFYLUpmNV95NDhSd0s1ekZ3d0h3bkQ3aFRGWmFrdjAtdWxSci1IY25VV0Jrdk12RFFsTll2YTRpeVN4R1hOSV9lUWUydU51LWFET1VNZ2VWTzljTGZZVlN6dUdZNDgtb25kQVRnZllhemd6Ni02dWhZV29iSjNOMUtuX0pkRGpjMGN4NHlqdlh5T040TlBwZV9mX1VkVXdlRkdSZw?oc=5",
-    "at": "2026-10-23T10:01:17.000Z"
-   },
-   {
-    "title": "Mortgage and refinance interest rates today, Friday, October 23, 2026: Mortgage rates mixed leading up to the weekend",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNNDF3TThEelVxeGJoNlY0dThMaG1tT3dCS1V5N3hEVjB0RGRyYWpPYTd5SUNxZDZOb2tXNXVNWE5JeC1UcWJLend6OURkcjliYnVEMDgyNzlUV1ZjUTU3YVJPQ2V4SFVnYmVGZ0F5MmQ5enRmUlpacUxFLXVQSWpYdEdYVXM5RzRUWk1PSHcwSU9QZ0w5QzZrNHdMX191VjlzY01vMWhCQ1I3TXNzWnEtSGhvVnB2V2hCeXBndFJmamNGTFRyVkFGaDN1cURicEhyQkduVFNSRXVlem1TOFEzOGpfQnd5UGJBWjNKcllpMURkU2FLYTFyaUJHVzlvV2J6RG9vakxlMkUxX0tmbmg3MDBLeW5mNmw5?oc=5",
-    "at": "2026-10-23T10:00:00.000Z"
-   },
-   {
-    "title": "Mortgage rates today, Oct. 23, 2026: Rates show slight downward movement",
-    "source": "Fortune",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUbXhOU0JyY1pfM3hCREsxazIxTVRNbnhLSEJCMDFWRnQ5ZjlPSGJDb1NWeFkxeGRmUFBjMXhaaVlQcnV3Mi1oTkk5OFpidVowZXVua3V1S0pBWTk3WGtKbTAwLTZpRUhzZ0JWY1RsZw?oc=5",
-    "at": "2026-10-23T07:01:00.000Z"
+    "title": "Luxury and Cash Fuel U.S. Housing Market",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUFl3bzZkdnhhSVFtdFhCRGtadUZLTE1sRHFOVU9Cal9NY1VMQVpDSTVZSGMxMVdwWll6RWZyckNUc0k4T0ZoZmI5M01iSVFuNVlCVXFsLTItQ3p6RlNpdlYyTjVqLUx0Y1NkTkZ1dFg4MHJZbFdrMF9oVUt3MkxPVVBrZHFRSFpKZ25LQkRVWQ?oc=5",
+    "at": "2026-10-23T15:35:28.000Z"
    }
   ],
   "inflation": [
    {
-    "title": "Too little, too late: Trump takes on gas prices as fuel costs hamper his midterm hopes",
+    "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
     "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/oct/22/trump-high-gas-prices-midterms-cycle",
-    "at": "2026-10-22T11:00:40.000Z",
-    "image": "https://i.guim.co.uk/img/media/48409507b97b27256278d0fc1d3d4df39035668a/646_0_6475_5181/master/6475.jpg?width=700&quality=85&auto=format&fit=max&s=0f1b34edcbec4f7d17c65c848c72186a",
-    "desc": "Polls show US voters are deeply upset by high gas prices and are likely to punish Republicans in the midterms as a result How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer your"
+    "link": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+    "at": "2026-10-23T16:48:28.000Z",
+    "image": "https://i.guim.co.uk/img/media/c0f302e34e0b51e7da8489af30c4f6d217592b8a/424_0_4520_3616/master/4520.jpg?width=700&quality=85&auto=format&fit=max&s=2332037b020bf1cf0409c256058c3e75",
+    "desc": "Brent crude increase follows Tehran threatening retaliatory attacks on Gulf refineries and datacentres Oil has hit its highest level in more than six months as fears of fresh escalation in the Middle East conflict grip t"
    },
    {
     "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
@@ -5427,40 +5429,42 @@
     "desc": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels."
    },
    {
-    "title": "Russia’s Central Bank Sees Only Modest Further Drop in Key Rate",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTBua2dpZkdVZVpzX1IzMFRqbEg1ZG5jRkpBcWNBcmtCckNubkh3UlpsRDhTamE2bTh4WHZtOXFYdHNiUUFZVGs2LUxkajhJY2JKUkYxbzdrTG93N3hzOUhsdHNINUVOSkduUF9PVGxpSzBPYUE5SVFfNFU4ZWZMMGdKRWE5MnpVSW9Gb1QzZmdtWmpndkgzQWx6cU1nOTkwZ21odktpdUhpRmF5bHZMNQ?oc=5",
-    "at": "2026-10-23T11:07:00.000Z"
+    "title": "Too little, too late: Trump takes on gas prices as fuel costs hamper his midterm hopes",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/oct/22/trump-high-gas-prices-midterms-cycle",
+    "at": "2026-10-22T11:00:40.000Z",
+    "image": "https://i.guim.co.uk/img/media/48409507b97b27256278d0fc1d3d4df39035668a/646_0_6475_5181/master/6475.jpg?width=700&quality=85&auto=format&fit=max&s=0f1b34edcbec4f7d17c65c848c72186a",
+    "desc": "Polls show US voters are deeply upset by high gas prices and are likely to punish Republicans in the midterms as a result How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer your"
    },
    {
-    "title": "September inflation keeps BoJ on tightening course",
-    "source": "Financial Times",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ua2NvSktsa3dPRFlQNUgzUWdyN28wNGI0WXduRFg2bnJRQnF4RHpfc1dMVmZ1d0JDelZoeVpfRjBDQU9GU0x2Y3lQUi0xeEJPTzhLQXltdk00R2gyc1N1UFFEYS11UzNqWEliWVlWTnU?oc=5",
-    "at": "2026-10-23T08:48:57.000Z"
+    "title": "Consumer sentiment has fallen to a five-month low on inflation fears",
+    "source": "Quartz",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFWFl5WHZNNEdiN2pQZFVJNHdBUUNlWTQxVFhPeEtGT0JiTXMyeV9PZktqMTZpZjRiVUFzcHRNZ0F0eThncnhRaUNfMUY4V3h6dExUenYtNnY0aTJtb0l6ZC1pSFZxTDNITGxWVzRvdGVyYktlbGF0Nl9ubw?oc=5",
+    "at": "2026-10-23T16:49:28.000Z"
    },
    {
-    "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-    "source": "NBC News",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
-    "at": "2026-10-23T08:35:38.000Z"
+    "title": "Russian central bank keeps key rate on hold at 14%, raises 2026 inflation forecast",
+    "source": "Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ1lYMHE1UVNEa0dXTWVkQjZ0OUJIOVNQRm5laTJuRlZpakY2R012ekNrRmZ6LTdNYmNqLVBCOFBJekpQWXFrejA0Y0xjZ2UwVjR1d2QtZ1NxYi1GUFBFa3NSNy12anA5WE84amszX2t4Z1JoZXRndDVBcS1NTDluU2NuODd1b25GSWNpNjNSdFc3cF9sQlp2RUx1VTI3U3piNkstRGdZN0ZHTkwxLVhaNFRTM0szQjdKT2lN?oc=5",
+    "at": "2026-10-23T15:52:09.000Z"
    },
    {
-    "title": "Eurozone Consumer Inflation Expectations Edged Higher in September",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRk1YZU52amp4cDNRa3A5cm11eDd6NUhJYVFIVkFtbXBhU2JpZXlDYlVZU0ZNY1JBNm1NdHdxbTlLc2NSYW9hdkl1RmRqSFNzbEdCMXd6NGZ2VlNCdWZoRFNROGNGUmpLQ2RCWHM3WUo1WDVaM0pLT0psWExQdjgyYTUzRnJwTlMtak5uajJSTk45a1FCR0x3RkplT0lkUHZadFQxZ1Z5cUlsWmcydmF2aEFJa2huNkdxNlE4?oc=5",
-    "at": "2026-10-23T08:22:00.000Z"
+    "title": "Consumer confidence holds steady from September amid persistent inflation",
+    "source": "The Hill",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZGdmb082VUpqempvREFlSzZTWWd1STNNRllIdjEyUUZ6YVZ3RjhxWS1waTR4d2pLNEZkSEt5MDJ4ZEZpaGc3TkVVRHltRWdYUHJEcUc4SlRIQzcyVll4V0tyWS1NdHBkQkk4Ym0tWUQ5MG1HSG5JMElnbTFjNGVQSzhuT0lsZ9IBiwFBVV95cUxQZWZxdkZobjV2TGtfaG9DcTVVVGxNVWt2SFBYc0JkbnZuNDBuUzJyb2hWMU5Ub3lXaVdjb2xsMHRxemFCdFYyaHlBMFRRRURvTmZDUlNickg2bE9hZ09adi1PODNBaUxpajkzSnNxTzRCUW1Qci1CRG1TZjhtNk1Yb1VSTVZzSlpSam9N?oc=5",
+    "at": "2026-10-23T15:37:00.000Z"
    },
    {
-    "title": "Asia Flash PMIs Diverge as Rates, Inflation Shape Private-Sector Activity",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTFNBNmpHc1VJWWlQOGRjM2hEbjc4RG1nci03QW9ISkMtcFphLVdOUU9Vc2xidVM3NnpnWGFBSVlFWUFVX3hSa2ZoaHZWclBCVDRpRmdNWUM5S2NJNi1FY004b2sxdUN2dzVSdVh6ODZSMDgwYXc5TlFFOGNPQ0RHZHg4ZUZiYWRaSmxMUEZDd1ZEYVNmZjJYbFRRemNQOHdtSWNPTzQyNzN3YmE5bWc?oc=5",
-    "at": "2026-10-23T06:55:00.000Z"
-   },
-   {
-    "title": "UK Stock Market Today: FTSE 100 Futures Edge Up On Sticky Inflation Test",
+    "title": "VC Q3 deep dive: warranty charges and cost inflation offset strong product launches",
     "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ3BNNVhERFBKUWk0R2FDYTM0MVd5SWxZV2VCZGpsR2FTblh5bEJpRzFNU0k1NVc0VW9EcDZMTWtwd0VwWHIxOTNvS1lnUURmNHFDTzQ5b0xFLVkzc0ZVZXgtZUY1WWtnVHo0VGM3QlBHbVAwV3JWSjhNdE9ZM2ZEQjYyczBQcWxrX2g0bXFMb0k5c3BuX3lHemVyR3RMNU0?oc=5",
-    "at": "2026-10-23T06:11:00.000Z"
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUXQ0dllhczZHdW1CR1dYWnVLTkFCRjlxbnN6NTJPTHUzMnA3VmVHelpaUGFBSWxRSEJldGR5Q3hDR3R5VFJ1bHNSSmZOc214eTY5VjFQQzByU2czVFJrRXB0OWRKQjdMZ01DM3U1SnBidnF5YUsxcVRwX2dnaW5Sak5oQURjaEtNUm5IUjZhU24wb0k?oc=5",
+    "at": "2026-10-23T14:56:39.000Z"
+   },
+   {
+    "title": "3 European Utility Stocks With Pricing Power as Gas Prices Rise",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRVRlZHc0MHpNUGV5d0ptamFKZUZXSjFLTmNOUnd4QnFZUWlUeTZ4Tm9Sb1I0Q0V2ejk0cXNpeTR0dHo5SFZZWWxORGkyX3dQVGRxUURWZ1EtZ2NhMGIxS0xHSzcyVVBvTEtJR3hvWXpwTXdFcFhDeS05R2t6NEtwdVVLVE83VFhkbnhybDZHOFg3YnFB?oc=5",
+    "at": "2026-10-23T14:20:40.000Z"
    }
   ],
   "jobs": [
@@ -5489,45 +5493,37 @@
     "desc": "The online retailer plans to sharply boost its hiring for the holiday season this year. Here's what kind of positions they're looking to fill and how much they pay."
    },
    {
-    "title": "Could the Job Market Change After the 2026 Midterms? 4 Possible Scenarios",
-    "source": "Newsweek",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRDJLNlczeHo2QWFxSzdkTFlzY0tubkpuQjl2OUlxMUtoVzV3b1lIYldHbmFJTmtnWk9uVmlYbE9RM05rOFU1UzM4NnRZX0ZTb0xOZTIwaUpKV0ZKcG9laXgxbG1JZEwxUFE1dWJfLVkzWllDaS14QlVjcGxZZjMzWjY0RVRMR3ZhU1BoS0dBN3NFQQ?oc=5",
-    "at": "2026-10-23T11:00:00.000Z"
+    "title": "Uber doubles down on ChatGPT for workers after last month's layoffs",
+    "source": "Business Insider",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZUFlN2E4a0F3eV9hNGFodm5aalRzcW1yYVMwRm1CbFdUaG9UVFJURHE0Mko3NTFpLXVDZkVlQnNJZGNubktybkdOYUhVVGFjZFhHNzVBMGNRak0xQnk4S25iR2p3X2NGOEZmM2xVM3Q2dU12UGhFOUUyY2U4MXZ2QmFOT2lqUEdCemd0cjQ5ajFmcWdr?oc=5",
+    "at": "2026-10-23T17:02:00.000Z"
    },
    {
-    "title": "Is a job guarantee the solution to mass AI unemployment?",
-    "source": "The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ0xuWEoxc1JYYU5nTXB0dHJCakpfVFZRTm11enoxMWY0V0dONlk4Q01OSWpKd0piNlNRbmZ0VEstSWwybkhzRkxqTnU3YzZaOHVEeE12Rm1xZDEteUNBT2ZHN3pVNXRKYkktUnFDX1QtOURRb0l5WHNBdXJackluNXhoaUdSMEs5dHM3RVFR?oc=5",
-    "at": "2026-10-23T10:00:00.000Z"
+    "title": "As 570,000 workers watched their jobs get culled this year, Torani CEO says ‘layoffs are a choice’",
+    "source": "Fortune",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTmZ3RTU5Uy1kRm9Na2M0RkY5T29yVjB5QUNqRGNlckFwMzgwbmZ6eWZRMGl2LUM3aXMwNkpZcVBEZDlMWFZPYlVMemVFZE9iTXZDZXppN2tYRmhqbG8tVUJtVlpmU1cyZ1hTQXVLcUhKSzBrUVBfZzVnOUstVjd0ZnJJQ1FlOVpWY3RacFdVZi1BN3FUdDlNTllSTHF1V0NOVjhDRnJVYUV5cV82RWhxaVA2OHlUVFh5Nm15SmNpVC0zUGFNVENkOF9vSGpIUEpUd0dTbzFjT1hnVUlXOFlKc2poVktVenVMN1E?oc=5",
+    "at": "2026-10-23T16:00:00.000Z"
    },
    {
     "title": "Fearing Mass A.I. Layoffs, Some in Congress Eye Ways to Aid Workers",
     "source": "The New York Times",
     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPdy03ZnVhWkpzUVlCa1U0b2Mxb21KNVJhcXBYejJ2R3drZFczNmRCdXZCWGhsYUZEZkoxNlpCc05WRlV4TEtUY0ZmQ0pyRGlpR3ZlNE5PYmQ5RXJCTjltS3NsYzBfOURlalBrMXZONURnakpRRlBVTXZpcjBpdw?oc=5",
-    "at": "2026-10-23T09:03:00.000Z"
+    "at": "2026-10-23T14:23:35.000Z"
    },
    {
-    "title": "Goldman Sachs: Next Recession Could Trigger AI Layoffs",
+    "title": "American Express Becomes the Latest Company To Announce Massive Layoffs Over the AI Boom",
     "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd0UwMi1wSGFHRGxBY0YxMklNdmZrdWg1aVlQQW1kNkIxSlEzemVTc0E0RmtveGNaWW9JQlNVLWk2bzVBNG9KQktQZjFVSVA1aWFGUTNwVW5SNFBkUy1wR0F1QVdZZVVNZk9LX1VUbWJVdndsQ0c5MHNLTWY0NzlJYnUzLVZWUURSYWlFc1dlaHdncEhzTjlZaU16N1Rtai1C?oc=5",
-    "at": "2026-10-22T21:51:22.000Z"
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYjF2NFhMN2FpTDZPM0dqN0lJT2xtNDhFWWkzWXpaa3k1SDNqMDh1dGMtNUtkNW1QOHJXa0xadGR6MVVOUkpsVlFRaXp1VkR0YXJsVUJoalVpb3oxSlZmMndzVHc4YVAwRWVrQzB4Z1V4TkRXSERRb1hfT0pjRkgxb0otOWNGdHFxQUxRZG4waF9uTjNPUmJ2YzdqLUNvcXFoc2JXVVJR?oc=5",
+    "at": "2026-10-23T14:13:59.000Z"
    },
    {
-    "title": "Layoffs Fueled Spike in Unemployment Claims in Three Key Senate Race States",
-    "source": "Newsweek",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQODZ2Y2Rtdzl6UVo0NXNlWGFSR3dGUFZjLUdFSVhZVVRoWmtXNHdFcVp5RUFoMXF2eDVtVFdDdkhIRUZFVWFiYk9xOUJXcWx4elEzTGw0REotMjNQNkg5SFRyN2FTV1pjWXBsOTdRR2hlNG45Z0ViOHVNckc1Ui1RYUlIU1FpSE1TNDY5U3Z5ZWpMX3c5VGd2SVo5cw?oc=5",
-    "at": "2026-10-22T21:38:00.000Z"
+    "title": "Africa’s job market fails to provide decent work for youth, think tank says",
+    "source": "Semafor",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVVNSYUtIVXJUMmI2ajZrSVQyLUpLaHdLTWg5Qm1SSm1ma21uTWowOGFQaHlzY3J2QnZqZzRmUXBhMlNrcWw0ZFpJRVhRdklYbFl6NUZVYm9fWW5PaVNwMlNKd1dmdzluVThMYURSNjR6SjRMWFVMVmRoLVk4YkpnQ1hXdmwyMUUza25sLTZ3YnIwNGstZnVjc0RpUG82cGQ4dkF5Y2tnS3dPWlJmdm5uYjFESmVJWDJF?oc=5",
+    "at": "2026-10-23T14:03:00.000Z"
    }
   ],
   "debt": [
-   {
-    "title": "Treasury yields log biggest drop since the 2023 banking crisis. Here’s what’s going on.",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories",
-    "at": "2026-10-23T11:01:00.000Z",
-    "image": "https://images.mktw.net/im-46225712",
-    "desc": "‘It’s a take-back trade,’ says PGIM’s Tipp. ‘Not an all-out fear of recession type of situation.’"
-   },
    {
     "title": "French borrowing costs overtake US amid budget turmoil",
     "source": "The Guardian",
@@ -5535,14 +5531,6 @@
     "at": "2026-10-22T08:40:36.000Z",
     "image": "https://i.guim.co.uk/img/media/75bedd6d2c81e2f2be23f61588ee0e589a2a9d70/1090_0_4382_3508/master/4382.jpg?width=700&quality=85&auto=format&fit=max&s=7260cd48d34a2da168716868d5085275",
     "desc": "France’s bond market hit by another bout of selling as country recovers from weekend protests French borrowing costs continued to rise on Thursday, as investors fret that France’s government is struggling to pass a feder"
-   },
-   {
-    "title": "France is getting its credit rating reviewed. What to expect as French debt turmoil has helped turn U.S. Treasury yields around.",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/france-is-getting-its-credit-rating-reviewed-by-moodys-what-to-expect-as-french-debt-turmoil-spills-overseas-e39de111?mod=mw_rss_topstories",
-    "at": "2026-10-23T10:45:00.000Z",
-    "image": "https://images.mktw.net/im-15578398",
-    "desc": "Moody’s is set to update its rating on France’s debt after U.S. markets close on Friday."
    },
    {
     "title": "French borrowing costs hit 24-year high as civil unrest and budget fears spook markets",
@@ -5553,13 +5541,31 @@
     "desc": "Yield on 10-year government bonds passes 5% amid failure to pass budget and fallout from violent street protests France’s borrowing costs have climbed above 5% for the first time in 24 years as political concerns and the"
    },
    {
+    "title": "U.S. Treasury Yields Turn Higher With Oil; French Bond Yields Rise on Protests",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSk1wWWp6WG1vZjdfYjZXX1hRU0lPVEl6WnVGbkozSXB5eTU5UHN2aG9nRHRpc1VMNlI5eF92YXNZNTFUOGFBMnk1anY0cUxFcG5YTTF0NFRhaGZ0VjkwbjNETmpiWkVXUHlNMmZJV014MlJ2LXRKZWlmS3E1N21wZHdnUXZybnJBRzlVSmdwUQ?oc=5",
+    "at": "2026-10-23T11:03:54.000Z"
+   },
+   {
+    "title": "Treasury yields log biggest drop since the 2023 banking crisis. Here’s what’s going on.",
+    "source": "MarketWatch",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdDNHQlIxQkRfeVl2bWtrX2lzYTZsX0JYazZRaGdkclU5aHAwWlppV05YSTdvS0kwQXNVa0p6N0tseXVpcDZPRFBhdV9fbTExaXZZSTJJT1RXQmVXR3ZpTE5aZXp5cXFHRnB0WGxJNjVubU14LUs0eFV0SDVHWnJpYVkwYlNxZEhvZDVPa1U1MXlsYi15a2czRGJiOER5RjQ5M0toakZZbWV5S245WkM3QVNhZw?oc=5",
+    "at": "2026-10-23T11:01:00.000Z"
+   },
+   {
+    "title": "France is getting its credit rating reviewed. The French debt turmoil has helped turn U.S. Treasury yields around. What comes next?",
+    "source": "MarketWatch",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNFZqaDdNOGV0ZE9QamJuMmRLOUtHSXg0Q3QydGxnb3U1NjBOLXJPV0J5UlgtZ0pXdDNjaTVNYjBxWFNTTXR0eXluT05SMkhVeWIyczlQVG9sdjVsekFXZXQteWJGMDFiYVFkdzMxWWE3UUlkaE1BVTZUcTdnNzVIUkdOUWdQSjdwUmRjYVVTZmZoUFZRRHl5bDlyOFR0UV9waGl1aWVmekVoTkMzVF90NFpESWpzYWlrR1BrNTFvc1hzWVBsVHhGUGYxNFdqZk9Jel9KTmJFRDhHNlk4RVN4VTdiOTg3QQ?oc=5",
+    "at": "2026-10-23T10:45:00.000Z"
+   },
+   {
     "title": "Treasury Yields Rise, Eurozone Bond Yields Fall, Focus Stays on France",
     "source": "WSJ",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQUh5anllcENIVlhXM0xrczNZWEVERVdFSE5lRzVkUFY1STBRUUtSZmdHbkRXX2pqNDY1TGxWdDJxTFZKRkc3cFhmUzBjTGUtdmlZaFYybG9tOFVaNk5IZTVpd1FVOW9mZUlRY2I1MFJwblJ3S1hqNVNkSVIyVmg0VzcyTEpncGhaWmUyYnFibVZqUUN2aU41MWxyc1QxYmJpSHVGVG1Jb2RGY1doTWln?oc=5",
     "at": "2026-10-23T09:21:00.000Z"
    },
    {
-    "title": "Treasury yields rise as traders await more economic data ahead of Fed decision",
+    "title": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
     "source": "CNBC",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fUFhkR0R0cmxYeWNRb2Y2LXEyNUlGQnozcWxNUW1jaWRDcUdpYnBTWVZGR3p4OWwydEdicWRMMEozdXpxUl9td1V6SVVZM2JOT25hOWU3TUFLU1h4aHk0VC1VcjQ2bkhyMGJSVzduZ9IBdEFVX3lxTE1KUjZzM3JxQnUxN2Y0LVlocU52STl2ZUIwSlNOMFNnY3hyUlJ5TGJpZjJlc3VRaS1LdDh1ZlNvSDNCYWlmdnpIMHk4ZWFTT1E3UmplVjAwRm5MNnM5V2FsSWVpZ0Z3aWVhMjNVeWhrX1lRWWtk?oc=5",
     "at": "2026-10-23T09:11:42.000Z"
@@ -5569,12 +5575,6 @@
     "source": "WSJ",
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUUVqY01YZEVBNGdnSkZQSllpNnZmNFNUUm5ab0VxODNVWXVUdm5VYW1GcGRjSXJvTE9lSjlITEZZYmR6MUJiQ1ZtaFhNb3JDQkJoQ09JdlJUdlFsTXRfeEVKM0s1em51dUR0Z3h2WW9hRS1BdVVDSWhGSXNZZ1NIRTlzSnk4ZzZianQ0bnRheEEwRGpXTmY0SA?oc=5",
     "at": "2026-10-23T08:27:07.000Z"
-   },
-   {
-    "title": "U.S. 10-Year Treasury Yield Falls Under 5% as French Turmoil Fuels Flight for Safety",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaG1kb1dxekJabUk3czhacmlCWC1GV1N5WlkyaFZVekxHaUhsbUVIU0lLMXFHRk91ZnVBRUZCMkNWWmVMZGppbDJ1QXZTX05OdkJpNy1nVlQ0MzVyb3dONjNQcjVoU1ZsdDVwc1BuVnpUTk9TX1dMNnBJdVNtVHpkbjZCSDBrZTZlOEo5MFo5QV9WTnAxV2JySkVpWGh5alBYVTNBRlBJTUVYVjJ1Q2hwdDlyY2tJUmFJYjg4?oc=5",
-    "at": "2026-10-22T20:41:22.000Z"
    }
   ]
  }
