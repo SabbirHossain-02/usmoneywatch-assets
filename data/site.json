@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T11:33:19.531Z",
+ "updated": "2026-10-25T16:23:45.099Z",
  "ticker": [
   {
    "name": "Mortgage, 30-yr",
@@ -5255,20 +5255,28 @@
  "news": {
   "top": [
    {
+    "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
+    "at": "2026-10-25T14:30:00.000Z",
+    "image": "https://images.mktw.net/im-78876477",
+    "desc": "“I retired in 2020 and subsequently went through a divorce a few years later.”"
+   },
+   {
+    "title": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
+    "at": "2026-10-25T13:43:19.000Z",
+    "image": "https://i.guim.co.uk/img/media/3505a53736aa93c5c0c6865e0b06b5c8b49159c8/292_0_2917_2333/master/2917.jpg?width=700&quality=85&auto=format&fit=max&s=d45b1c380c8323510f9e2ee712e78c4a",
+    "desc": "VW investment, creating 4,500 jobs in Georgia, comes amid Trump’s damaging tariffs, intense Chinese competition and costly shift towards EVs Audi has said it will spend $4bn (£3bn) to build its first factory in the US, a"
+   },
+   {
     "title": "Trade tariffs cause whiplash at Port Milwaukee",
     "source": "NPR",
     "link": "https://www.npr.org/2026/10/24/nx-s1-6011193/trade-tariffs-cause-whiplash-at-port-milwaukee",
     "at": "2026-10-24T21:20:55.000Z",
     "image": null,
     "desc": "Sacha Pfeiffer visits Port Milwaukee to see how President Trump's tariffs have affected the flow of goods and impacted the regional economy."
-   },
-   {
-    "title": "I’m 58 and hate annuities. How can I get dependable income in retirement?",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/im-58-and-hate-annuities-how-can-i-get-dependable-income-in-retirement-cd6040f4?mod=mw_rss_topstories",
-    "at": "2026-10-24T18:03:00.000Z",
-    "image": "https://images.mktw.net/im-99346979",
-    "desc": "For a person looking to make their portfolio more conservative, a TIPS ladder may achieve the same effect"
    },
    {
     "title": "Trump's executive order targets mortgage insurance, refinance costs. What it means for borrowers",
@@ -5279,14 +5287,6 @@
     "desc": "Trump's executive order on housing aims to lower mortgage costs. Here's what it means for homeowners and buyers."
    },
    {
-    "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
-    "at": "2026-10-23T22:03:07.000Z",
-    "image": "https://i.guim.co.uk/img/media/a656adaa305948099a0698f8410031bd96ebf2ff/261_0_2655_2125/master/2655.jpg?width=700&quality=85&auto=format&fit=max&s=bc92a2ee13be75ad2335c6e613f01a42",
-    "desc": "Republican senator faces critical re-election battle in state where president’s trade war has outraged voters Donald Trump dropped some of the US’s tariffs on Canada on Friday to “better serve the public interest” the Wh"
-   },
-   {
     "title": "AI could take your job. Here's how Congress wants to help workers.",
     "source": "CBS News",
     "link": "https://www.cbsnews.com/news/ai-layoffs-congress-bills-unemployment-benefits-tax/",
@@ -5295,12 +5295,20 @@
     "desc": "Sen. Ron Wyden on Friday introduced a bill that would double unemployment benefits to 52 weeks if the jobless rate jumps."
    },
    {
-    "title": "I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?",
+    "title": "More than a third of S&P 500 companies are about to report earnings as market confidence cracks",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/i-want-to-pay-off-4-500-in-credit-card-debt-in-2-months-is-this-possible-059d9a21?mod=mw_rss_topstories",
-    "at": "2026-10-24T17:39:00.000Z",
-    "image": "https://images.mktw.net/im-36620363",
-    "desc": "“I’m 32 years old and feel like I should know how to do this stuff by now.”"
+    "link": "https://www.marketwatch.com/story/more-than-a-third-of-s-p-500-companies-are-about-to-report-earnings-as-market-confidence-cracks-03b7a8f1?mod=mw_rss_topstories",
+    "at": "2026-10-25T14:00:00.000Z",
+    "image": "https://images.mktw.net/im-16577626",
+    "desc": "“With cautious to negative market sentiment, it could be a tricky week,” one strategist says."
+   },
+   {
+    "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
+    "at": "2026-10-23T22:03:07.000Z",
+    "image": "https://i.guim.co.uk/img/media/a656adaa305948099a0698f8410031bd96ebf2ff/261_0_2655_2125/master/2655.jpg?width=700&quality=85&auto=format&fit=max&s=bc92a2ee13be75ad2335c6e613f01a42",
+    "desc": "Republican senator faces critical re-election battle in state where president’s trade war has outraged voters Donald Trump dropped some of the US’s tariffs on Canada on Friday to “better serve the public interest” the Wh"
    },
    {
     "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
@@ -5311,14 +5319,6 @@
     "desc": "Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles."
    },
    {
-    "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
-    "at": "2026-10-23T16:48:28.000Z",
-    "image": "https://i.guim.co.uk/img/media/c0f302e34e0b51e7da8489af30c4f6d217592b8a/424_0_4520_3616/master/4520.jpg?width=700&quality=85&auto=format&fit=max&s=2332037b020bf1cf0409c256058c3e75",
-    "desc": "Brent crude increase follows Tehran threatening retaliatory attacks on Gulf refineries and datacentres Oil has hit its highest level in more than six months as fears of fresh escalation in the Middle East conflict grip t"
-   },
-   {
     "title": "Trump says new fuel supply push will lower prices. Will it work?",
     "source": "CBS News",
     "link": "https://www.cbsnews.com/news/trump-defense-production-act-gas-diesel-prices/",
@@ -5327,12 +5327,20 @@
     "desc": "The Trump administration said using the DPA funding will increase refining output and lower fuel prices for Americans. Experts are skeptical."
    },
    {
-    "title": "Over 40% of Americans are heading toward retirement ‘blind’ — with no plan",
+    "title": "Why economic health no longer dictates stock-market returns",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories",
-    "at": "2026-10-24T17:23:00.000Z",
-    "image": "https://images.mktw.net/im-73908727",
-    "desc": "Nearly half of Americans haven’t calculated what they’ll need in retirement."
+    "link": "https://www.marketwatch.com/story/why-economic-health-no-longer-dictates-stock-market-returns-c44b88f2?mod=mw_rss_topstories",
+    "at": "2026-10-25T12:00:00.000Z",
+    "image": "https://images.mktw.net/im-16022613",
+    "desc": "There is a wide disconnect between Wall Street and Main Street, and AI could drive them even further apart"
+   },
+   {
+    "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+    "at": "2026-10-23T16:48:28.000Z",
+    "image": "https://i.guim.co.uk/img/media/c0f302e34e0b51e7da8489af30c4f6d217592b8a/424_0_4520_3616/master/4520.jpg?width=700&quality=85&auto=format&fit=max&s=2332037b020bf1cf0409c256058c3e75",
+    "desc": "Brent crude increase follows Tehran threatening retaliatory attacks on Gulf refineries and datacentres Oil has hit its highest level in more than six months as fears of fresh escalation in the Middle East conflict grip t"
    },
    {
     "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
@@ -5341,14 +5349,6 @@
     "at": "2026-10-22T16:40:09.000Z",
     "image": "https://image.cnbcfm.com/api/v1/image/108368225-1790357106706-gettyimages-2297110253-jr_19003_zvh8bkkg.jpeg?v=1790357497&w=1920&h=1080",
     "desc": "Initial filings for unemployment insurance slipped to a seasonally adjusted 194,000."
-   },
-   {
-    "title": "Cyprus police investigate financial and tax affairs of ex-Chelsea owner Roman Abramovich",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/world/2026/oct/22/cyprus-police-investigate-financial-tax-affairs-roman-abramovich-chelsea",
-    "at": "2026-10-22T15:53:22.000Z",
-    "image": "https://i.guim.co.uk/img/media/106f5d356377299feb847c2223975b086e6a7097/376_0_2083_1667/master/2083.jpg?width=700&quality=85&auto=format&fit=max&s=f8d3cb20837cbcd223a103ef68903b0a",
-    "desc": "Inquiry follows report by Guardian and partners that aides of Russian oligarch appeared to have falsified paperwork mapping his businesses Police in Cyprus have opened an investigation into the financial and tax affairs "
    }
   ],
   "housing": [
@@ -5361,18 +5361,34 @@
     "desc": "Trump's executive order on housing aims to lower mortgage costs. Here's what it means for homeowners and buyers."
    },
    {
-    "title": "Childcare costs are growing faster than rent in the U.S.",
-    "source": "CBS News",
-    "link": "https://www.cbsnews.com/news/childcare-costs-growing-faster-than-rent/",
-    "at": "2026-10-22T14:46:12.000Z",
-    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/20/5696d5e8-9439-4f38-84cf-411888f63bf3/thumbnail/1200x630/a962fa8fef12e0c1038c1e556a6e8bd6/gettyimages-2229128788.jpg",
-    "desc": "A growing share of American families are having to shell out more than $2,000 a month for childcare services, new data shows."
+    "title": "Meet the homeowners who have been forced to slash their asking prices in a stagnant market",
+    "source": "Fortune",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbjNYSzhUeEhGWnRLLVVUdkJ4b3hSMlYzSEI3RGJ6OGhTd1RmV1FTTUtCT3cyLS0xdWhKSDFaSHNlWkJHSzdseHh4U3FxbERGY0FycTF3OE1WWHNSd1M5ellSXzA4eTE3LXVhcG5La1FvTFEwREYweDYyYThiSFd4MVczQVMxdFBPQ3lRRC0yM3VJM1ZfNG1val9iVQ?oc=5",
+    "at": "2026-10-25T15:16:00.000Z"
    },
    {
     "title": "Mortgage and refinance interest rates today, Sunday, October 25, 2026: Mortgage rates lower than last week",
     "source": "Yahoo Finance",
     "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNMWRQODFyWDA3QzNlTEhjWXJzd2l3RE5IT19FYkpxVk9EQjhqUXk0WXF0QXdrLTNTTzlmeER5R0g3d2xrOUFlTElXNDBxcDhtRVUwNnQ5X2x6Y2FvVUlZVVFlV1JWZDE5REpLY0VwWlIyZU16T0RLbVlsNjZfUDhJcjJSdjBQdUQ4dW5XSzY5dENiOVdyS2Y0cE1SdmRwS0JLSXNhUmRwVWN2ZGQ0amlOMVJxZGZnR3N0N0VYNEZGaWloODVJdDhMVEUtU3BzN0ZROWRUeElKNDY4eTFhSDBvNDRKSHlfTWp6bC00Nk9UWVR2WUxCZnhRTURKdmpwdVNHbUdKWnlKUkFRZw?oc=5",
     "at": "2026-10-25T10:00:00.000Z"
+   },
+   {
+    "title": "Manulife Mortgage Rates",
+    "source": "NerdWallet",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wTGc3XzBNMl9QOUF3eUFVWFItdjktdnFCOE5ORGhkb1puWThXajNOTmdoUElCcTAtUjA5UlVvNzFiVEkyWHluTzU3UWRFd0N6VlpySlZTdFQ0bWJRMlh1V01USXVxclhEWmlpWlNCS3o0TFY0Nm5qX1Rn?oc=5",
+    "at": "2026-10-25T07:18:37.000Z"
+   },
+   {
+    "title": "CIBC Mortgage Rates",
+    "source": "NerdWallet",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HQ3RLc2FIRmphNkdwUDA5UjFtSUhFeFU4amNYOVo1SWFROGFtdWNwUnExX0ZUa3ZLZEF1VzlxU0syOFdiSVU4cE1NVmZrQU1IR3d2MUwxSHpTN2ZuVFpMQURYenA4bGxOSzIwMHgzQ1BNbnhf?oc=5",
+    "at": "2026-10-24T23:43:02.000Z"
+   },
+   {
+    "title": "Home Trust Mortgage Review 2026",
+    "source": "NerdWallet",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5UWszeU16S3RibFF2NFF1cHVlLWczUHBwWm9qdmVRUVNzd2FhZEJwNUZfajVKY0NyMUFFZldubGpJbHcyODJ1M2IwZnZJcHlrRlRrbkZ5UldQT3lDbEdoSjVPYjRpYzRkUnZmdg?oc=5",
+    "at": "2026-10-24T23:32:10.000Z"
    },
    {
     "title": "German mortgage rates climb to highest since 2009 as Iran war stokes inflation fears",
@@ -5385,24 +5401,6 @@
     "source": "USA Today",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc21SUms4X0ZIRzFwaUdOTEJsOXZjMkp6UVIydDBnZFotYXFlOWl2YTJzQkwyaXN4Y1dWWU1FaWw5MkI2NDVtNnhTUllRalRmdmxBeVpTQWVlWjJTNUE5R2FXTUc4LXRmSUc0cmFmaDA2MmhKa2hxZDlsRW9OQmhUem1XanZ3bUlCX2dFNUViTzJ2QXNNeHc?oc=5",
     "at": "2026-10-24T16:29:00.000Z"
-   },
-   {
-    "title": "Mortgage and refinance interest rates today, Saturday, October 24, 2026: Shorter-term mortgage rates falling the most",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPZTdFdUM4Tm52TDNqOXBBemIydGRRLUpQRGhfZWpOX2Y5M0lwQVdJX0pyanI4dWZRN0lwTUNhV2F1ZHNkZHp5NE04eHlsSXk5OXBVZVNoMEtxMEpCZVdUZFotX3BGMlVLZkpUUDRqcEZDZlNSQTFISGZuSkI3RXFtcmFmci1TaUU1NC1zODRnUUxnVjlEeExvamwzZXpPcWp4TkY1d3dmWkRERXlrYjhUQmJ6SjFDM19neEhvc0lMRGduOXI4b0duRDJuLWNfNEpyUWxYM00zR2plRUdqbnRMbDBVWUx6NjkzOFd2UjNhVHg4ZVgzdE53MDBGNlJ0b2JPNkd3UGFMNnh2WlRBYWRYMHRxb09nNVNC?oc=5",
-    "at": "2026-10-24T10:00:00.000Z"
-   },
-   {
-    "title": "Mortgage Rates Ease But Has The Bull Case Changed For Freddie Mac Stock",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX3BudzJfUnV5Z1o5ajd2bTdrbkg5cHp6dFV0aU9vUmk2cXcySGhEUlU3b1EwRHpKamRlQlZILXVLaTl4b3lSNWNpak1jQ2ZPZEZVSXAxNVAzLVl5QVRZMEY0Y1QyQUlGVG1wVUp3R1U0NnVyQUZQZHU5aHN1NFFuSG5ZOTl0TXdPVWNMVkxHVVF2b2FmX1E?oc=5",
-    "at": "2026-10-24T08:13:03.000Z"
-   },
-   {
-    "title": "Mortgage Rates Finally Drop to 7.32%. A Retiree Who Sells Now Could Still Face a Social Security Tax Surprise",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNGgzQ1dUYnBsM3NTR25zWEhmUkx5bDM2MFJHNXpibW9nRWthVWlscC0zbzIxQ3B0MzA0ZWRIR3k2RWJYdWQxUU9LZFpFTWpjX2ZKdXFzN2FtS1VLNlpZY1lwUDg1TGdZNjNCRWt5TGNCOHhQeU9KdmEyaDM2ZXNNSG5uNWd5bmloVFpVSTFoZDk3bkdnc2c?oc=5",
-    "at": "2026-10-24T01:00:00.000Z"
    }
   ],
   "inflation": [
@@ -5431,6 +5429,18 @@
     "desc": "Brent crude increase follows Tehran threatening retaliatory attacks on Gulf refineries and datacentres Oil has hit its highest level in more than six months as fears of fresh escalation in the Middle East conflict grip t"
    },
    {
+    "title": "Trump Says He Doesn’t ‘Give A Damn’ About Gas Prices As US Making ‘Fortune’",
+    "source": "Newsweek",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcHhiTTI4MEFJdVFURE4tb3hxSU9CSFl6MVZ2WVd6WU1wUlFxRWJxUFR6UXYwT05VVEJCZmxNMENJcldLREltR0lTU21VbDVRdXNXVEh0MU9fcEQtSlllX2tuNTVYRE1acGlTUWxRTExIdG0wZHVlSEo1cU9qdDNjN1F3QUphaUFHUEVCSVFBbEFvdlk0Sy1sMUR5dnZ1d05CZ1lZUjQ0dw?oc=5",
+    "at": "2026-10-25T13:10:00.000Z"
+   },
+   {
+    "title": "Inflation under Trump is only about half the rate under Biden. Voters are still just as mad.",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdnBPejdqejdJRVZfSFhLa2thLXF5dFdTYTRyY2E5SEcwV0R3QnI4ZHFqeGFvcUZudkh5ejZBV2RfSEhxTTFreG9Ic21ydHdQQWFJXzU2SXJ5bkgwbU5lUjFoNmhYSU5EaUNGamVHcFZvMTJmLW5KeEF6Mll6b0RDV3BoNGItdUhyR2I3Nm83RVVMX0w5djJfMnl2NUxMcjhHWXRXMzVBaVhXVnloaGpza0I0Y2NHNVNxR0FpcUs1bF9ickNWU3dXOC1YUWFjTnAwSTRpODNfN0lyejBqdmpoZnVsNlh6WERPRVE?oc=5",
+    "at": "2026-10-25T12:00:43.000Z"
+   },
+   {
     "title": "President Donald Trump Just Proclaimed, \"Tariffs Don't Cause Inflation, They Cause Wealth,\" but Data From Federal Reserve Economists Show Otherwise",
     "source": "Yahoo Finance",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTkxLNVhEY2o3MVhmdGxiNHhzQ0VLbmJoOTJ2NzdPOGt4UHhNMGF2c3pnbXlMRUFydTRjZzVaVDRobEV1c1JxTHJKaEd6QVoyLUVKdE51bmdUeXRQY0Q1WHJMNmh0bDVjY28xekNvUmZ5Wkw3WmswRi1Odm9IMDJSQU1NOWhhVzMxMHhKVF83LU84M1Z3Yzl3M2p4NEN1eGZ1a1FOYXZ3?oc=5",
@@ -5447,21 +5457,17 @@
     "source": "CBS News",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVdrS3lkN3dlSDJJZXBEVzM4Rk9DaHVwUml6dm1teXVxQW5HUnBXelVSTDdXc294c2xIOGlMeG53ZmM5SjE1ZzdfSVFvM21HTHFiTlhQMElUb1UzUGtyVldYckhMaGlaSDVKcGw5bHR3UkVRNDhnVDkyZjhVcnY2Vk1aS0tsQzlGSDJGNVR5akxKX2dSbGNZM0xSa1VOdTNfYzA3T0NZaS1PdnJHV2lJ?oc=5",
     "at": "2026-10-24T22:09:00.000Z"
-   },
-   {
-    "title": "3 Gold Mining Stocks Retail Investors May Watch as Inflation Heats Up",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONXlLQ19Eb0FSRTdjdU5faDRobTMxdGVlYW1SREZ4S3hfWWFHREkwOVd1cEJWdktWM3Q4TmVRcFliS2hBcXAtYWlqLThJMEstRWFLSUZIdG14MmlpaXJ1c2FRamxHZVc0V0pPeFRoenJQQ1dHb0xpcnowTXo1akF5VzJzMXVJbFAyTnFwUnlUUkVZS2FmMUZhdGZLbVNwZw?oc=5",
-    "at": "2026-10-24T21:07:48.000Z"
-   },
-   {
-    "title": "Inflation Is Running Hotter Than Expected. That Could Be Bullish for Bitcoin.",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX0lBTW5NUUdGY2FiaWF4WFNHMFJsdUdwM1cxdTJ0c1hmZENqa3BtNXAxWEE3bWxkVE45X0F6NHJUN1FwOU9abWN3VjdxaHcwdU1oUUM5YXBHN2drcGwtRV9vZDktN3djLWRjc2pES21BaGhwN2Z1ZkQ2V0tDUDcyM25HYU1XcjFlS01vcmpkV1VkN2xkTWJXclJjWG5YZkVmbkRXTHdzVQ?oc=5",
-    "at": "2026-10-24T17:28:00.000Z"
    }
   ],
   "jobs": [
+   {
+    "title": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
+    "at": "2026-10-25T13:43:19.000Z",
+    "image": "https://i.guim.co.uk/img/media/3505a53736aa93c5c0c6865e0b06b5c8b49159c8/292_0_2917_2333/master/2917.jpg?width=700&quality=85&auto=format&fit=max&s=d45b1c380c8323510f9e2ee712e78c4a",
+    "desc": "VW investment, creating 4,500 jobs in Georgia, comes amid Trump’s damaging tariffs, intense Chinese competition and costly shift towards EVs Audi has said it will spend $4bn (£3bn) to build its first factory in the US, a"
+   },
    {
     "title": "AI could take your job. Here's how Congress wants to help workers.",
     "source": "CBS News",
@@ -5479,42 +5485,34 @@
     "desc": "Initial filings for unemployment insurance slipped to a seasonally adjusted 194,000."
    },
    {
-    "title": "Barclays to cut 5,000 jobs as bank’s bosses hail AI productivity advances",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",
-    "at": "2026-10-22T14:39:29.000Z",
-    "image": "https://i.guim.co.uk/img/media/42ebdcc562c64f3843def3a9641e7ab414a3974a/218_632_4806_3847/master/4806.jpg?width=700&quality=85&auto=format&fit=max&s=67c05de83497c2fd34224bb2f4a3cf51",
-    "desc": "Equating to the loss of 5% of its 93,000 global staff, job cuts come as bank announces jump in quarterly profits Barclays is cutting 5,000 jobs as part of wider cost-saving plans that its bosses say are being driven by a"
+    "title": "'I need a job to save my life': Inside the desperate hunt for work in America",
+    "source": "USA Today",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2xIaEdjUFhhSENxSS1lS0xvSDF4X2Y5b3VBZFozMU5zWk1GeF9ybVVkbUNJYjdLTGZOTmlOeUNEWTZxd3p5ZkVZZzBLUDNhcXlUM3hXRXIwVEJkUjkzT0hRN2FfVDBMRTZDRXpkWW5rYnluQ1JXTmg0bXctOEU5SWo5MEtaMm9LV2hLRDdZVnQ2ZmpjQmtGc0F4TWEzNXVYanZnRkctRWFvM0xRM0U0S0gtSHBlUQ?oc=5",
+    "at": "2026-10-25T14:21:00.000Z"
    },
    {
-    "title": "AmEx Raised Its Profit Forecast and Announced Layoffs on the Same Day",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZTNmRXBuemw5RFVDc2hsN3JRbm9PSTdSUXFrajRaM1lRdFhsbm1SUGZiQ0xhaC1hb2ZSaUVBbW1qTzNaYmtWbHVsX1FndDBxUlQ3a1oxUmpiYlZMZEdQUjVLNWFacWQ4YW5WTktWa1lObkFqdVFPS0xRYlRfbEFJMzFKWmwyazEtdk9CVTJya3BCS1JPOERrdHNLR2VVbGo4Ui04WQ?oc=5",
-    "at": "2026-10-24T14:10:49.000Z"
+    "title": "500 applications. Still no job.",
+    "source": "Times Herald",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbmxEeElKZWZCcS01ek1MX0trMm1WQk9MMDJjSFJKZWp3V2gxSnFXZGRBS29JT1V5YzlWQlZyUnYxYTIydkV5Y0lLUTRHak5aWXIwS1JORTlXVU5PV1VwamczUEN3ZU1VZmpya0FKb0FEY252TkFHUGFtajdkQkJHUFZERGxUbmw2cmUtWEpVWVMwalA3ZURpcERJV0hBNHVwRDdlZmdTS1AzX29MV0pod0w1Mk9CQnRFVVhNbWhlaw?oc=5",
+    "at": "2026-10-25T14:12:31.000Z"
    },
    {
-    "title": "Job Search Website Traffic Surges Amid Declining Job Market Confidence",
-    "source": "Forbes",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb1hnb3Qxd1VHc19BYU1vNm5Mc3dObHpqdTJvbXR0VFptNFh0Rm5uWktNZmV2ZThpTHd0S3dLMjVzbldKZzVVRnhLSFAwSV9wYkRsaUI5TnB5UThoNVVkZnEzSVZscHFZcEtLVUVJTkdnVU1mVmluY1BDQWpWVGZTUTNXMTVtdUhCVEU2anZiZjlFbGI0NFJZWGF5N0pEQ256bXVOMGo0d3ZwYmh3UEVFSXJyRWlEMzUyMmROa2N4NnhxSDJqMktJ?oc=5",
-    "at": "2026-10-24T14:00:00.000Z"
+    "title": "Layoffs Are Near a 57-Year Low — So Why Is America’s Job Market Freezing Up?",
+    "source": "24/7 Wall St.",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNGFqSV9JeExOR05yUnkwaFdkTV9UQ1JtZU0tUEd4T3VmaEJIaWtRRXVFMGJvUWs5TWYtVnpLRlV4X0E2WjRGcl91TVVCUjA3aWtsZlBiT01MbXlOeVI0ZDZpUmxPTmoyZ3V1b19CWmxNVXJFb2x5VEtVRHFnalpDRXkwM1pkUWRVRXp4ODhKT3YySFJDc0dudThuY1RkQThlLXZhbzB0VExZUm1sU2tkUFlHYkJUeFE?oc=5",
+    "at": "2026-10-25T13:31:56.000Z"
    },
    {
-    "title": "Mass General Brigham layoffs reportedly underway, along with Home Hospital program cuts",
-    "source": "CBS News",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON2VDR1VVQlhhWHBIVkpfWXZPYVJPajJmYmRmSHpVa2RweURYTWFQTjh4WUl4WEJPUUZzR0dxYVpjT0NHTTBYbmxFemZ1THk2cWQ0X002WWNrZDYzSmZHWDdybkJ1ZlJmbHZiLVZWVWhKSjVtVkVUb2ZrQnZmcXN4RHRNOC1oQQ?oc=5",
-    "at": "2026-10-23T20:18:43.000Z"
+    "title": "Layoffs and Slow Hiring Push US Job Seekers to Financial Edge",
+    "source": "Demokratis.co.id",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HM0NwZFBxZ1M5S0tFTTFyVmt3N0dON3hvb0RlNXhqLWF1ZGRrMF95aHpTZUhhU0dnZ1UyRGUzNExyaW1RYWRvXzRtaXZEUDk5UlROVHEyYjNDc0JsM1pucnJVM2JleG8xbW0tN3FB?oc=5",
+    "at": "2026-10-25T13:17:06.000Z"
    },
    {
-    "title": "As AI layoff fears mount, lawmakers weigh a bigger safety net for workers",
-    "source": "CBS News",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaEdjNWtjeTFNOFFyTzhjMW0zRDZuSl9WVlpJVzktbmJhaEZBQ19JNGhlc3N0aWFHdkdKTHFMNEJlM3B3VUZDUTZyZXhiWC1tTnVlS0dxRUVQcjVDaTI0V3FITEdPSFZSRmVtQThrSHJIY0xDak02ZkZKM3dxaVBNMF9PMU1BQldl?oc=5",
-    "at": "2026-10-23T20:05:00.000Z"
-   },
-   {
-    "title": "A Slow Job Market Isn’t Holding This Staffing Firm Back as Its Stock Soars",
-    "source": "Barron's",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZckJId1lYUVRJQVp1V3lmbjNjVzllaGZOMWQ3VWprV2dVblR4d0tvR1FuN1R0eTdoZUh4bTVHMFlCbTZPQUFUS0NVTjF1RERTS2tST1gzeElXLVhmakxDM2NqOU9ydFhCQW9VX0gwWUtYUUdwNE4yV1dvU2ZXRmM?oc=5",
-    "at": "2026-10-23T19:13:00.000Z"
+    "title": "Fractyl's Weight Maintenance Device Meets Clinical Goal, but Shares Nosedive, Layoffs Follow",
+    "source": "MedCity News",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdEMzdmVRZWt2Tzg1clVMRDBXMDZ1M2tkVU1CN2xMbXpYc25wczctbGlnXzhiRWQ5QUlQMENTdG1vOE5sRWtHZUFtSEI1S3NFTzhJbkw0cFlCWVhhZ3o4dEdOVDhFYVo3U2cyX0ZsUkJ0WGFkaE8tMURySGlMT1JEbmpGSXY4ZUxxdU5VT1AwSzBTUW82SHp2YmVWVWdOeVc0NThJ?oc=5",
+    "at": "2026-10-25T12:35:06.000Z"
    }
   ],
   "debt": [
