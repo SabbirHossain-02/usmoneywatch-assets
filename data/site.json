@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T20:52:02.823Z",
+ "updated": "2026-10-25T04:44:04.724Z",
  "ticker": [
   {
    "name": "Mortgage, 30-yr",
@@ -5255,6 +5255,14 @@
  "news": {
   "top": [
    {
+    "title": "Trade tariffs cause whiplash at Port Milwaukee",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/10/24/nx-s1-6011193/trade-tariffs-cause-whiplash-at-port-milwaukee",
+    "at": "2026-10-24T21:20:55.000Z",
+    "image": null,
+    "desc": "Sacha Pfeiffer visits Port Milwaukee to see how President Trump's tariffs have affected the flow of goods and impacted the regional economy."
+   },
+   {
     "title": "I’m 58 and hate annuities. How can I get dependable income in retirement?",
     "source": "MarketWatch",
     "link": "https://www.marketwatch.com/story/im-58-and-hate-annuities-how-can-i-get-dependable-income-in-retirement-cd6040f4?mod=mw_rss_topstories",
@@ -5341,14 +5349,6 @@
     "at": "2026-10-22T15:53:22.000Z",
     "image": "https://i.guim.co.uk/img/media/106f5d356377299feb847c2223975b086e6a7097/376_0_2083_1667/master/2083.jpg?width=700&quality=85&auto=format&fit=max&s=f8d3cb20837cbcd223a103ef68903b0a",
     "desc": "Inquiry follows report by Guardian and partners that aides of Russian oligarch appeared to have falsified paperwork mapping his businesses Police in Cyprus have opened an investigation into the financial and tax affairs "
-   },
-   {
-    "title": "Public Service Loan Forgiveness overhaul dropped, filing shows",
-    "source": "CBS News",
-    "link": "https://www.cbsnews.com/news/trump-drops-public-service-loan-forgiveness-overhaul/",
-    "at": "2026-10-22T21:09:39.000Z",
-    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/06/09/1925e274-db1a-4d99-9ee2-25e286315cb0/thumbnail/1200x630/e5836e6289a6c9be58a3769b09997604/gettyimages-2278935437.jpg",
-    "desc": "Advocates for student loan borrowers said the move will benefit workers who dedicate themselves to public service."
    }
   ],
   "housing": [
@@ -5377,6 +5377,18 @@
     "desc": "A growing share of American families are having to shell out more than $2,000 a month for childcare services, new data shows."
    },
    {
+    "title": "CIBC Mortgage Rates",
+    "source": "NerdWallet",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HQ3RLc2FIRmphNkdwUDA5UjFtSUhFeFU4amNYOVo1SWFROGFtdWNwUnExX0ZUa3ZLZEF1VzlxU0syOFdiSVU4cE1NVmZrQU1IR3d2MUwxSHpTN2ZuVFpMQURYenA4bGxOSzIwMHgzQ1BNbnhf?oc=5",
+    "at": "2026-10-24T23:43:02.000Z"
+   },
+   {
+    "title": "Home Trust Mortgage Review 2026",
+    "source": "NerdWallet",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5UWszeU16S3RibFF2NFF1cHVlLWczUHBwWm9qdmVRUVNzd2FhZEJwNUZfajVKY0NyMUFFZldubGpJbHcyODJ1M2IwZnZJcHlrRlRrbkZ5UldQT3lDbEdoSjVPYjRpYzRkUnZmdg?oc=5",
+    "at": "2026-10-24T23:32:10.000Z"
+   },
+   {
     "title": "OwnUp review: Can this mortgage marketplace help you save?",
     "source": "USA Today",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc21SUms4X0ZIRzFwaUdOTEJsOXZjMkp6UVIydDBnZFotYXFlOWl2YTJzQkwyaXN4Y1dWWU1FaWw5MkI2NDVtNnhTUllRalRmdmxBeVpTQWVlWjJTNUE5R2FXTUc4LXRmSUc0cmFmaDA2MmhKa2hxZDlsRW9OQmhUem1XanZ3bUlCX2dFNUViTzJ2QXNNeHc?oc=5",
@@ -5389,25 +5401,21 @@
     "at": "2026-10-24T15:16:24.000Z"
    },
    {
-    "title": "PulteGroup Net Down as Mortgage Rates Weigh on Home Sales",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU3NWb1MwczladzlTQ25fa2hCR3dTSUkzNmlxS09XUVdjNUhBMnRETVhDeW1PSkVtMHl0eHc1ZTVGckpvNWVmb05NVE9lRGVPOG1hUEVOREozTDlNeHluSDB4b1laLUNhVGtJU2NMV3FXbGk1c0FadWNEMGd5c1ZZdE5kaEU4ZVJudzBhMUcxSG55Xzh2MW9OOS1kRzFCalhLYUwzSnFDOA?oc=5",
-    "at": "2026-10-24T10:44:01.000Z"
-   },
-   {
     "title": "Mortgage and refinance interest rates today, Saturday, October 24, 2026: Shorter-term mortgage rates falling the most",
     "source": "Yahoo Finance",
     "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPZTdFdUM4Tm52TDNqOXBBemIydGRRLUpQRGhfZWpOX2Y5M0lwQVdJX0pyanI4dWZRN0lwTUNhV2F1ZHNkZHp5NE04eHlsSXk5OXBVZVNoMEtxMEpCZVdUZFotX3BGMlVLZkpUUDRqcEZDZlNSQTFISGZuSkI3RXFtcmFmci1TaUU1NC1zODRnUUxnVjlEeExvamwzZXpPcWp4TkY1d3dmWkRERXlrYjhUQmJ6SjFDM19neEhvc0lMRGduOXI4b0duRDJuLWNfNEpyUWxYM00zR2plRUdqbnRMbDBVWUx6NjkzOFd2UjNhVHg4ZVgzdE53MDBGNlJ0b2JPNkd3UGFMNnh2WlRBYWRYMHRxb09nNVNC?oc=5",
     "at": "2026-10-24T10:00:00.000Z"
-   },
-   {
-    "title": "Mortgage Rates Finally Drop to 7.32%. A Retiree Who Sells Now Could Still Face a Social Security Tax Surprise",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNGgzQ1dUYnBsM3NTR25zWEhmUkx5bDM2MFJHNXpibW9nRWthVWlscC0zbzIxQ3B0MzA0ZWRIR3k2RWJYdWQxUU9LZFpFTWpjX2ZKdXFzN2FtS1VLNlpZY1lwUDg1TGdZNjNCRWt5TGNCOHhQeU9KdmEyaDM2ZXNNSG5uNWd5bmloVFpVSTFoZDk3bkdnc2c?oc=5",
-    "at": "2026-10-24T01:00:00.000Z"
    }
   ],
   "inflation": [
+   {
+    "title": "Trade tariffs cause whiplash at Port Milwaukee",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/10/24/nx-s1-6011193/trade-tariffs-cause-whiplash-at-port-milwaukee",
+    "at": "2026-10-24T21:20:55.000Z",
+    "image": null,
+    "desc": "Sacha Pfeiffer visits Port Milwaukee to see how President Trump's tariffs have affected the flow of goods and impacted the regional economy."
+   },
    {
     "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
     "source": "The Guardian",
@@ -5433,34 +5441,28 @@
     "desc": "Polls show US voters are deeply upset by high gas prices and are likely to punish Republicans in the midterms as a result How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer your"
    },
    {
-    "title": "Opinion | How I budget",
-    "source": "The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNay1ETFpkS1BKSmFDRGh2NmNlVDA3ZmR0VDRYcnowTHFfR1M2SmhBS2V3N3JnSF9fZzhnaDNhY1B1RlUxQUFYSDNHMHVuQ1U3QUwtT3hVR2E4UkxzLU9lOHB4MmNHQjhoUnNZRFJ3N1NIdHVyTU9mQ3FaWE5xTS1fRGxUTXN0R3F0OHo0S1NFeEo4V1l2UWlLNEtSTktOeG1kZHhvYg?oc=5",
-    "at": "2026-10-24T17:30:00.000Z"
+    "title": "U.K. Inflation Jumps Again, Strengthening Case for Rate Hike",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTlp1R2VXaXJ1WWU4am5yYVpMeFFab0FLbzdfemR2RWpGTWx5ZnY4MEthdmFCbHF0X2xfcWNKUXRfT3QzeURpZkxicFBab2Z4bFhLY09Td1ZOaHpPanlPQ2dWM29peDVVSE5MMklrVllqOGlUV2UyV01nelpSNHhOX3hpZ3BocFhOaDUwNzVQdkUtSmJjRlVScnBB?oc=5",
+    "at": "2026-10-25T01:49:56.000Z"
    },
    {
-    "title": "Inflation Is Running Hotter Than Expected. That Could Be Bullish for Bitcoin.",
+    "title": "Rising gas prices, cost of living weigh on voters ahead of midterms",
+    "source": "CBS News",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU2l4aElPU05RY19halZFdHpibkpqc1BuampJQlE1VldQMjV6QTRTUjEzT2EzdTZBNlRITDI4NmxvMHJjenB4bUotWlVOVUlCMnhyNlVDME1waV9oZGVDczByMGcwNjNEODl4YlRCeVdtaDY0dVI5WlJ3OWJDTnZYN3g5NzFtbnhibUluZEttOUNtY1d1cEN3aUZqckZZYjZiUjc0Szl3?oc=5",
+    "at": "2026-10-25T01:03:00.000Z"
+   },
+   {
+    "title": "Small businesses struggling with inflation amid Trump tariffs ahead of midterms",
+    "source": "CBS News",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVdrS3lkN3dlSDJJZXBEVzM4Rk9DaHVwUml6dm1teXVxQW5HUnBXelVSTDdXc294c2xIOGlMeG53ZmM5SjE1ZzdfSVFvM21HTHFiTlhQMElUb1UzUGtyVldYckhMaGlaSDVKcGw5bHR3UkVRNDhnVDkyZjhVcnY2Vk1aS0tsQzlGSDJGNVR5akxKX2dSbGNZM0xSa1VOdTNfYzA3T0NZaS1PdnJHV2lJ?oc=5",
+    "at": "2026-10-24T22:09:00.000Z"
+   },
+   {
+    "title": "3 Gold Mining Stocks Retail Investors May Watch as Inflation Heats Up",
     "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX0lBTW5NUUdGY2FiaWF4WFNHMFJsdUdwM1cxdTJ0c1hmZENqa3BtNXAxWEE3bWxkVE45X0F6NHJUN1FwOU9abWN3VjdxaHcwdU1oUUM5YXBHN2drcGwtRV9vZDktN3djLWRjc2pES21BaGhwN2Z1ZkQ2V0tDUDcyM25HYU1XcjFlS01vcmpkV1VkN2xkTWJXclJjWG5YZkVmbkRXTHdzVQ?oc=5",
-    "at": "2026-10-24T17:28:00.000Z"
-   },
-   {
-    "title": "Column | The 5 things that scare me most about money right now",
-    "source": "The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVnIxeDVlekJrUGNTbER4d2VBRzR1d2NFWEtRdnJQa3JDWWFaQmtwcUtHUXdSVDFiQ2VuQWRaM3BzMnhXaVlwbUJvNUYxcWhMRFQ0ZXZMcDUxR01LcEJjXzJiVzJNenIzcExidDNfaFpETVFaQTJLazFJWWduOXdGazNaUlNHc3ZNWG1xQkExVE1CcFFJdDV4Vl80RnRmcy1iNXkwWkhn?oc=5",
-    "at": "2026-10-24T17:00:01.000Z"
-   },
-   {
-    "title": "Voters angry about high prices may get little relief from the next Congress",
-    "source": "The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRmlodXU2TGlMWm1VZ0NYV3o5Qng3OVBxRDBKRGZJUjAxUVYwMnlOLUdyb1VQdFJYY21VMi1BZF9iZ3JFUm9lTVlZS2ZuNE5VNktvRllkc3E5eFplMzVwb182SFplZ1FJQ3doM1lkSnl3amd5OGw0UVpieGVEMU5fdExIdGY1d1Ezb0pYZV82RnAxbmhNNE9JWDJqNW52WnNRSWlEUXljRURDNExOM1BlVlp0Y0FWRHhJQ0E?oc=5",
-    "at": "2026-10-24T17:00:00.000Z"
-   },
-   {
-    "title": "Smart Investor: How to Hedge the AI Trade, CoreWeave’s Tumble, and the Outlook For Inflation",
-    "source": "Morningstar",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTFhnczBOckhCakZyaGFoc3FmdDBORUJndmVCeWFRMkhxa0NLNTcwUlNnZDhVdUMxbG5TRUlqZlhJWkpQSW01MDZIVlNGVGpqZ3hqZTdOdU5zd2h2OGRPdldWVmVCQXVPZnlHdWVrRW5QekppcnNHNFowRmhtODc2ZDRhLVlsYnFILTBpd2J2bFZDTE5lMks0Tmdpd2p3MG1CVzFCNkUybVg?oc=5",
-    "at": "2026-10-24T11:22:07.000Z"
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONXlLQ19Eb0FSRTdjdU5faDRobTMxdGVlYW1SREZ4S3hfWWFHREkwOVd1cEJWdktWM3Q4TmVRcFliS2hBcXAtYWlqLThJMEstRWFLSUZIdG14MmlpaXJ1c2FRamxHZVc0V0pPeFRoenJQQ1dHb0xpcnowTXo1akF5VzJzMXVJbFAyTnFwUnlUUkVZS2FmMUZhdGZLbVNwZw?oc=5",
+    "at": "2026-10-24T21:07:48.000Z"
    }
   ],
   "jobs": [
@@ -5541,6 +5543,12 @@
     "at": "2026-10-23T22:07:54.000Z"
    },
    {
+    "title": "Update: US Equity Indexes Fall, Treasury Yields Jump as Iran Tensions Send Crude Oil Sharply Higher",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNWpmM3Y1cWMzQnM0REVNM0JTSHpXenJkbUxsSnBiUVVTZHBHOC1nXzlwS1JuWFpuV1F6Z3I1Nk5VTVRRZ1BsYkdUcUNFT2Vkd3BXczRhUEZ2NWtHUm1QZzJFenZqbVRpczliYmdWMjBqX21MbFF6bzAxS3NReG5XQlNGN24yMW5nMmVOOWtPcl9FT1k?oc=5",
+    "at": "2026-10-23T20:29:15.000Z"
+   },
+   {
     "title": "Dow Drops 652 Points as Oil Prices Pop and Treasury Yields Rise: Stock Market Today",
     "source": "Yahoo Finance",
     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPXzZqa1FQajJTQVVRcm1HS0lWamxpLVdablVSQVk0akpnTFZyd1Y3bmx6cXNueDBtSEQybGdUdmlVRzNmVEZlZER2Z256Yk1DRllyTTVIWHV5MTU1UGdDV2Z2eUJ6U29KbnZ4QWF6ZWVqRWxtWmNxRnFOd0R1cERMSFctd0RlejV6YV9hbC1famhQeTg?oc=5",
@@ -5563,12 +5571,6 @@
     "source": "Yahoo Finance",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVlRDb29kR1NPa2J5X191WVlzYVBEVEVNcjAwWmloemNHV196cU5uRzVwdGJqaXo2Unc0M3VIUnlNQTJZTmlsQWRnU25RaHdXd094dVBHY2lHTVhoY2tZS3hfWEVuZzI3VXVkb3NCRGNXUFRRWTJhUjM5MUxjQU1WeUo0bHZWR2w1Ynd4NWplNUNBOUhSbkZZWHR6dTFSUQ?oc=5",
     "at": "2026-10-23T11:01:00.000Z"
-   },
-   {
-    "title": "France is getting its credit rating reviewed. The French debt turmoil has helped turn U.S. Treasury yields around. What comes next?",
-    "source": "MarketWatch",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNFZqaDdNOGV0ZE9QamJuMmRLOUtHSXg0Q3QydGxnb3U1NjBOLXJPV0J5UlgtZ0pXdDNjaTVNYjBxWFNTTXR0eXluT05SMkhVeWIyczlQVG9sdjVsekFXZXQteWJGMDFiYVFkdzMxWWE3UUlkaE1BVTZUcTdnNzVIUkdOUWdQSjdwUmRjYVVTZmZoUFZRRHl5bDlyOFR0UV9waGl1aWVmekVoTkMzVF90NFpESWpzYWlrR1BrNTFvc1hzWVBsVHhGUGYxNFdqZk9Jel9KTmJFRDhHNlk4RVN4VTdiOTg3QQ?oc=5",
-    "at": "2026-10-23T10:45:00.000Z"
    }
   ]
  }
