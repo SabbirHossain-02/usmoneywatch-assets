@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T20:53:11.172Z",
+ "updated": "2026-10-26T04:50:00.777Z",
  "ticker": [
   {
    "name": "Mortgage, 30-yr",
@@ -5341,14 +5341,6 @@
     "at": "2026-10-23T16:48:28.000Z",
     "image": "https://i.guim.co.uk/img/media/c0f302e34e0b51e7da8489af30c4f6d217592b8a/424_0_4520_3616/master/4520.jpg?width=700&quality=85&auto=format&fit=max&s=2332037b020bf1cf0409c256058c3e75",
     "desc": "Brent crude increase follows Tehran threatening retaliatory attacks on Gulf refineries and datacentres Oil has hit its highest level in more than six months as fears of fresh escalation in the Middle East conflict grip t"
-   },
-   {
-    "title": "Public Service Loan Forgiveness overhaul dropped, filing shows",
-    "source": "CBS News",
-    "link": "https://www.cbsnews.com/news/trump-drops-public-service-loan-forgiveness-overhaul/",
-    "at": "2026-10-22T21:09:39.000Z",
-    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/06/09/1925e274-db1a-4d99-9ee2-25e286315cb0/thumbnail/1200x630/e5836e6289a6c9be58a3769b09997604/gettyimages-2278935437.jpg",
-    "desc": "Advocates for student loan borrowers said the move will benefit workers who dedicate themselves to public service."
    }
   ],
   "housing": [
@@ -5369,10 +5361,22 @@
     "desc": "Trump's executive order on housing aims to lower mortgage costs. Here's what it means for homeowners and buyers."
    },
    {
-    "title": "Meet the homeowners who have been forced to slash their asking prices in a stagnant market",
-    "source": "Fortune",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbjNYSzhUeEhGWnRLLVVUdkJ4b3hSMlYzSEI3RGJ6OGhTd1RmV1FTTUtCT3cyLS0xdWhKSDFaSHNlWkJHSzdseHh4U3FxbERGY0FycTF3OE1WWHNSd1M5ellSXzA4eTE3LXVhcG5La1FvTFEwREYweDYyYThiSFd4MVczQVMxdFBPQ3lRRC0yM3VJM1ZfNG1val9iVQ?oc=5",
-    "at": "2026-10-25T15:16:00.000Z"
+    "title": "Home sellers are lowering their prices and helping buyers to make a deal in a stagnant market",
+    "source": "PBS",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR3VVN2RNLXRYU3R4QjNzeDZIVVFHMl9vdXV6V2VRMWhoY3lRQ0hnR1FvcmkzLW5xUlcxS04tR3VKVl85c3hMUkNVeXNhVzlGOHkwMkVuMXlhWmZLQWdmYnRhT0xhVi1iVmRScXdLdUIzZUJTSjRfMUxBY3ZsU21PZl9uYUpTN05JVkhpWFRrcjB2OEY1cVdyX05vMkZlRmh5aWhDLVVGeGxJQWNtaXhGSnpFdDVONW1UV3p4bFZXbWhiRTZwUFlkZlRnQUtjbU3SAc8BQVVfeXFMTkd1VTdkTS10WFN0eEIzc3g2SFVRRzJfb3V1eldlUTFoaGN5UUNIZ0dRb3JpMy1ucVJXMUtOLUd1SlZfOXN4TFJDVXlzYVc5Rjh5MDJFbjF5YVpmS0FnZmJ0YU9MYVYtYlZkUnF3S3VCM2VCU0o0XzFMQWN2bFNtT2ZfbmFKUzdOSVZIaVhUa3IwdjhGNXFXcl9ObzJGZUZoeWloQy1VRnhsSUFjbWl4Rkp6RXQ1TjVtVFd6eGxWV21oYkU2cFBZZGZUZ0FLY21N?oc=5",
+    "at": "2026-10-25T20:55:56.000Z"
+   },
+   {
+    "title": "CIBC Mortgage Rates",
+    "source": "NerdWallet",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HQ3RLc2FIRmphNkdwUDA5UjFtSUhFeFU4amNYOVo1SWFROGFtdWNwUnExX0ZUa3ZLZEF1VzlxU0syOFdiSVU4cE1NVmZrQU1IR3d2MUwxSHpTN2ZuVFpMQURYenA4bGxOSzIwMHgzQ1BNbnhf?oc=5",
+    "at": "2026-10-25T20:27:10.000Z"
+   },
+   {
+    "title": "3 Cracks in the Housing Market Rocket Must Overcome on Oct. 29",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORUpvSTNRQVo2a3F1Sm9ibG50MkFvbTU3UFhlZU9rX1pSVnVISEhQT0lsQjNuY3VPZXBSMUhIeWstTERFTE1YdTZ1aTBVaWxBY00xaDgwM3B3ZFBZd0ZvLUFrOGVncERlNzVxbEswbVpDYU5pNjZpOEdORENZN2txdDZsTTYzRHVkZ0RacUxmNW1xb281Z0tN?oc=5",
+    "at": "2026-10-25T15:04:11.000Z"
    },
    {
     "title": "Mortgage and refinance interest rates today, Sunday, October 25, 2026: Mortgage rates lower than last week",
@@ -5387,22 +5391,10 @@
     "at": "2026-10-25T07:18:37.000Z"
    },
    {
-    "title": "CIBC Mortgage Rates",
-    "source": "NerdWallet",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HQ3RLc2FIRmphNkdwUDA5UjFtSUhFeFU4amNYOVo1SWFROGFtdWNwUnExX0ZUa3ZLZEF1VzlxU0syOFdiSVU4cE1NVmZrQU1IR3d2MUwxSHpTN2ZuVFpMQURYenA4bGxOSzIwMHgzQ1BNbnhf?oc=5",
-    "at": "2026-10-24T23:43:02.000Z"
-   },
-   {
     "title": "Home Trust Mortgage Review 2026",
     "source": "NerdWallet",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5UWszeU16S3RibFF2NFF1cHVlLWczUHBwWm9qdmVRUVNzd2FhZEJwNUZfajVKY0NyMUFFZldubGpJbHcyODJ1M2IwZnZJcHlrRlRrbkZ5UldQT3lDbEdoSjVPYjRpYzRkUnZmdg?oc=5",
     "at": "2026-10-24T23:32:10.000Z"
-   },
-   {
-    "title": "German mortgage rates climb to highest since 2009 as Iran war stokes inflation fears",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcDYtX1ltLXFHbTByVHhfdi1GZUlCRWR2VmxWWFgwSTk2SG5DazdLX3NXbS1HVXp0TktZZGJtRm56Nl8tU0RqSV9tRm1OS3lYSHR6bTlLZVE4M3pGTXl5YXlhU1htd3FWSDU5dm9BdjZNU2o2T1BUZHpPWXE5bHpFZ1J5alhkcFpDNzctdnMzYk5XdmxmMGx0U2NQV2xMUQ?oc=5",
-    "at": "2026-10-24T17:25:25.000Z"
    }
   ],
   "inflation": [
@@ -5431,10 +5423,22 @@
     "desc": "Brent crude increase follows Tehran threatening retaliatory attacks on Gulf refineries and datacentres Oil has hit its highest level in more than six months as fears of fresh escalation in the Middle East conflict grip t"
    },
    {
+    "title": "Fed expected to hold rates steady this week despite hot inflation — but signal they're not done hiking",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV1NyNS1zejVOVGJGN2lpNFRDbnRBajBKbi10NDFjNWtKWWJjNUpYdzNVTjB2cl9Cd0ZyLXJkS0tfTzFlTjBaT0YyS1d0YnJ0Q3RLYnNyaFZUd3QwS3V5Q3g1cWNrRmdEVXhobElocmVwbUg0c0FGTld3ZE53N2FqcVRfcWFMb1pVZTd5U3I2X1hVTkJIX20yOXdscGNIV21IRzNheXFtRENiZ2lhSTFQaFZzMDdILUZGWkc2NWYwOTNPcWlfbnU5SzJmUWtXMlJLTktfMVh1bzZLU0FXRHl1VHZCLWlzb0Z4RTRaMnp5MmY2eU9KSk5j?oc=5",
+    "at": "2026-10-25T21:00:00.000Z"
+   },
+   {
     "title": "Implications Of Double-Digit Inflation In Economically Developing Nations",
     "source": "Forbes",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMkROMFc5a05tN0dJd0RUZjFYZzY5SER0ZEQ5VmlTWFh3d29GSFNsa2dxYmNGbjktOUNYVHBCcFhZSTRiRF8xSVhDd0h1Z0NES2tWYmlERzJRbnh0QzFVTnpDeHR4Yl8zalh5SEhNVUJkU29nTEJWTDFPaE5ZMHREM1hKQTg1bGxWT3dIc1VkR2h3WlZYZ0V5b1IwTmJwNkdtc3ZpS0t2cTJhVHZEckRGQ3JjN2dGMkR1dzJmTmJkZTY?oc=5",
     "at": "2026-10-25T20:14:43.000Z"
+   },
+   {
+    "title": "See How Gas Prices Are Easing Across the U.S.",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVWs2dEhDRlNqdXFYck1MVXJaUnR0LUwyNTVvLUlvYTZTdnI0OE9HSGNiaEduTVdWQjdyTVgwdXJWLVNzRDRIaXpFYXJyQXBGcURJdHZWLVBfSm5TVlJ5ZktIS2pSNVpYSmJIMUJadlhOUzlKbVd1aHF2ZE1KQkEyNzZPSQ?oc=5",
+    "at": "2026-10-25T19:29:43.000Z"
    },
    {
     "title": "The Fed, Inflation, Verizon, Boeing, Alphabet, GE Vernova, Amazon, and Many More Stocks to Watch This Week",
@@ -5443,22 +5447,10 @@
     "at": "2026-10-25T19:12:00.000Z"
    },
    {
-    "title": "Hassett says the economy is ‘best we’ve ever seen’",
-    "source": "The Hill",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR2U5N3lqMkg3Z1hBRkQ3dGxPbHYtVmZDQTFMS1VGTGl1TWs3Q3pwSUU2ZmFJQUhCVTRWby1Yb1JrWXB4YXJzWGRkYXh6VWtfR0cxSVN5MmRSNXZseDJxRjJDRWJaTWFybGpHUWFqS05DSU5HWEpHbUViWlVpMm5KTFMtRnB1OHZt0gGIAUFVX3lxTE5HZTk3eWoySDdnWEFGRDd0bE9sdi1WZkNBMUxLVUZMaXVNazdDenBJRTZmYUlBSEJVNFZvLVhvUmtZcHhhcnNYZGRheHpVa19HRzFJU3kyZFI1dmx4MnFGMkNFYlpNYXJsakdRYWpLTkNJTkdYSkdtRWJaVWkybkpMUy1GcHU4dm0?oc=5",
-    "at": "2026-10-25T18:18:07.000Z"
-   },
-   {
     "title": "Trump on High Gas Prices: 'We're Making a Freaking Fortune",
     "source": "Business Insider",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUktYbFZyUFJPSDFYa2VES1JLQ2RfWDBNLUF4WFVPY0tkUWhkQXFaVWtBT1JpLUJzaGppS1J1Unlib2lxR251ajhnbTRONUYyQUdTdUtMdXVBWERWeW43U0kyX2FPQXRUSXJCVnVQcHpSVHNGUWxYTEVYWTJHcm11TDhkOWs1SWVlWEx0RW5pZnFlMW1hZXlQT2lPRlMwd3Fu?oc=5",
-    "at": "2026-10-25T18:08:30.000Z"
-   },
-   {
-    "title": "Axelrod: Trump’s ‘I don’t give a damn’ remark on gas prices is no winning message",
-    "source": "The Hill",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40UURrbEhlMWswRzhUUWM4V3FxbUo4c2Noa0YxSk0tWG43STBkb25ZRi1NQkt5OXZ0emdHbk1YRGJKYmRIWDhSbEZ2M0lNbVlpOFZmb0M1ZWNfRklhN3JWdEtEUk1ybHlOSnlDM0tiYVJtNm96YThJWXExNFp4d9IBgwFBVV95cUxNMmJTRXdlMy1TeE1LNkdVcWdIWHZkM1JhUDFlMU42eVY3Z05fYW5uUklneGs0S2puc1ItNUpZeUxPdF9neUlwRGNWbU45SmlBcXFocnNWeWJCWDhiUHg5ZkdxNmJJUlQ2ZC1OZDRVdVByUFVYczY3THl0aElUZXFSbm1yaw?oc=5",
-    "at": "2026-10-25T17:29:00.000Z"
+    "at": "2026-10-25T19:04:00.000Z"
    }
   ],
   "jobs": [
@@ -5479,90 +5471,90 @@
     "desc": "Sen. Ron Wyden on Friday introduced a bill that would double unemployment benefits to 52 weeks if the jobless rate jumps."
    },
    {
-    "title": "Local unemployment boomerangs back below 5%",
-    "source": "Chinook Observer",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaEJfTHBHeE16aTBmV29Jb1FpTHZEdHN4THBhT2tESU5CSUFtNGpiYzlRMGd5MW9WcmQycmd0RUgySXJxc2lnbDhEdVhtMjRWX0lGVEo4ZEhoUTREVHNVblVLcmJTei0xdkp6X1JNRFVsbERsVFBRUmVZenMyUGVRd0JUb0xsZDdBc0E?oc=5",
-    "at": "2026-10-25T18:59:15.000Z"
+    "title": "Airbnb CEO Brian Chesky to everyone: You will not survive AI layoffs if you are one of these",
+    "source": "The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPQ3VlVXpFVi1UTHZiY0FyS0g1THR0OExqcEpndmJKbmphZl94ZmNCMDFqNWdybkdMQTltRVFYdTZKemJEbGZwaFlBRzhqRjI2SzQ4SUpJQkM3bU52SmVfejY0VkQ5a2I1T04tOTdnZG5YdWxQNFc3MGJCd0ZIaVJOelZPNVc4cFdndDBWNVQwNGVocldRU2x3RmJIdU1objRtR1ZqRm1ERjc5WFFBbmNzM2VaYmFoWDRMLTlSREItTUJGQnEzdVJ2UU9jTUVRRmxVXzRIMlZiWW9RVkQ1eU1tb2dOTWtVMkFLSXJ5WC1BMDJQSEc2MndkeW9rdXBXSXlOMDNMdw?oc=5",
+    "at": "2026-10-26T04:06:00.000Z"
    },
    {
-    "title": "Cutting welfare to pay for work support is all wrong | Letters",
-    "source": "The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLVlVeXhYMkpneS1weUpaWGtjVlhZNnY2T2V5bjlZUXJrdm1ISzhHbjN0dVhoZjNMdFBrNGFqME4zeVI3bzVyZzV0Y1J6SHBxYV8wT21TY04xRkFaUzBGVFg2UW5hTTBkLUxTdTNDUjlEZjBoclNUVnd5M2RKZXJQUmRodkdicFVKQ0xYeVQwSFdPLWlqaUJmU1dCbzBFVVFjYXc?oc=5",
-    "at": "2026-10-25T17:16:00.000Z"
+    "title": "WSIB premium cut draws union fire over layoffs and benefit levels",
+    "source": "Insurance Business",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMnk2ck8xNXY5NkpsNTJfWHVlMWJGOW84VURLa1A4YzZGcE5XckJHZ0hUdnVNSUpXOWRIRDY0QTlaM0N5clQtNnJYNklSRm5LRTR4bnliT3dIbzlKT3AtYV9JNmloNkU0RVVuLUdZWDJVYldZUld5NnVPTzN4QTR6VktDdWtrSU5iQ3A2UFA5dXZ3YnhUSkZZa25Nc0VmRGw2cnN3cmt1OERSWklJSkVubi1welhUUzhQZngzcWRZNlcyckpJQTFwM0FJQTZ2aWJodUNZ?oc=5",
+    "at": "2026-10-26T04:05:40.000Z"
    },
    {
-    "title": "September unemployment fell 0.7% year-over-year here",
-    "source": "The Troy Times Tribune",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTFdGWEpQOXVjUUZ3alRNWmxYeEZpYW50X0RVZEY5eWdkTTRmVF9sdWlKV3hsOHYwLTZTMmJKX1VMUFRwQnBrWEpOMHlpYkhBLWlGMC1ta2ZybjJTd0NFS1Jjdy03X3dOeHJiTlAtYVdmZTF1NHhFYmNWbDZxUWNRdlZyQkZyQ21xTWJzOHVPcnZNS1NXc01rZ01LRGQ?oc=5",
-    "at": "2026-10-25T17:05:13.000Z"
+    "title": "What the September Jobs Report Really Changes for Global Markets",
+    "source": "巴士的報",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYTlOOGNVY2ZZLVBTVWJLNlZscV9CV3dFSnljSW9GTm10MzVVRWRCbDUyZjRPbXkxWUJMZDgwNWE4VlVEcC1xdEFWNGZDQjJMQ0J5SUR6c3hnbWVvWVYydG1MS244d1VKTDZ5OF9lbmlUejNHVm5mUlZSTjBuenNSLUx4VEtUMUlUMm4zbUFDMXdVdTZHQll4Y042c3JRNXZEYUZvSkhSTzNhd19TV1RXUHVTdnZzdUU?oc=5",
+    "at": "2026-10-26T03:45:05.000Z"
    },
    {
-    "title": "Carson City unemployment up slightly in September, Reno and Vegas remain steady",
-    "source": "Carson Now",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUnM0WEdqLVlJelNkc2lGSjdHUW9yZFJvMGxMY0ZiU1lsRldvRF8weEpvWmRXakxoMDlSM1JXQXU3R3A3UnpnTzhjM0JOcjlyeHlrMUx1b180cV9fQnZ4WUFtUlllUVpBWEgySjdiY0hQeGdKWHlkb1oxcTI1Ni02eWEwb1FwNzJldmN5MXJpYlQtZnkzTXJ0RHE0Uk5uN3lxYURHMVBZc3FqT0MyUXJmTmVvdzFoUQ?oc=5",
-    "at": "2026-10-25T17:00:25.000Z"
+    "title": "US company with no layoffs: how Gund grows 18% a year, every year",
+    "source": "Around Prague",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb2QyUUJNbUtYd0sxX1lYZ01JMU91UHBhX1M0X1dfV19hNTZfb0VDT0g0SkxUN3VuOExSaktFMjdtRk9qWlFBbk1FUzkzVFo3cUwzM3NPWUswdlY2MUF1eVVLUUtmcHYyRkotNnByMWswSkRpVkl0ME53SXVwczJUS0JOaFpDMWFzN2h5dzQxQmpWNm1WMkJISWxhMGJkVl8wNEtXZ1pmVEhLNzVHVnFZYXpkRWM?oc=5",
+    "at": "2026-10-26T02:55:24.000Z"
    },
    {
-    "title": "Waco unemployment rate drops 0.3%, lower than Texas' number",
-    "source": "Waco Tribune-Herald",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYUtjXzRWMElWdGFlNUR5V2lXR2RZbE0wVlc5aHFPemZlZGxrMkFQSzdRSUpUanhXaEtrNi1NVGd6OXJwaWhmUVAwZnNab2dVeGZMYTJUa3BoM1BZc1dtaC01Y0MxXzlRbEJSbDVfTFA3N0NwZlpNZnRpQUhDUmo0cjM0X0NKaFI1dWpHMmFSNUh5ODJ1?oc=5",
-    "at": "2026-10-25T17:00:00.000Z"
+    "title": "OTT Industry Cuts Jobs Despite Profits, While Others Downsize to Survive Losses",
+    "source": "IT조선",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kV2FKY1VYNnNLc0NZVHpENU1mNlZBR1J6R0JUYlRjNGQyeEdOMURWUnpJekFsYnBSbkpWSDBVeWxteG5ZN3l6eVc2ZjVMbHJoSEN6OXJxTG9Zck02R2p5Wndlaldvc2xZcmNQZ2Y5U1FGMGp60gF0QVVfeXFMTWRXYUpjVVg2c0tzQ1lUekQ1TWY2VkFHUnpHQlRiVGM0ZDJ4R04xRFZSekl6QWxicFJuSlZIMFV5bG14blk3eXp5VzZmNUxscmhIQ3o5cnFMb1lyTTZHanlad2VqV29zbFlyY1BnZjlTUUYwano?oc=5",
+    "at": "2026-10-26T02:25:01.000Z"
    },
    {
-    "title": "500 applications. Still no job.",
-    "source": "The State Journal-Register",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ28zdk9CLW45WXBqQ2ZDcER6ME5JdW5JQjM0dDdVTWQ1R3ZiQ2VZMmotZjcwVGNSSGtPc0dCNFRfNVlmRlo4WV9pM3JVcFpHZGEtLUo4QTkyS015ZlNTRGROTTBRN01tdWgzQ1RhbFpxRlphZDZzMnNzeUJVeGJfTnIwX1dqRjNLVksxenZUYVgxWW5QbDR3RjlxbDMwZXZQS05vdmVIOXdkTFc1ampvWXNB?oc=5",
-    "at": "2026-10-25T16:29:19.000Z"
+    "title": "Vt. unemployment holds steady once again",
+    "source": "Manchester journal",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb1R4MlVZbndyVTAzNnN0bkpuckk4YUJEaWZwc19rQlREbVd1aWp0Qk1jMC1IZlJPeW5vSlJiR2toSGhFS18wSUhROUFZRS1nRWJJZHNONjBoZGZqR1NKSHQzWWJoQVFMX2RhYVZSbDhNOVVHaEo1ZDlPYURwalRoM0NGSlNkc1FCMzUxRnQ1cUhwU3Fs?oc=5",
+    "at": "2026-10-26T00:49:45.000Z"
    }
   ],
   "debt": [
    {
+    "title": "Dollar Slips As Treasury Yields Ease Ahead Of Central Bank Decisions",
+    "source": "BusinessToday Malaysia",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRGJobFdFa1dObjZ3b3JHb2ZlVTdOM2h1WmhUSU5kUHlYaUZpbjhKRGtaVklWaFV2T09GSXBCNEJTSEFiVjRqSkhUczBaa205ak03WFRlQ1FhUk5iZ2c4c3loOXdoMHlyN0wzTVBpenRKTzJQYUFmazBQVi05akRLLVpsTHZfMmlTTmRqNlE5MHhoZ3haRm5ZeVZJbzM3Z3ZhTjZkVGdndEpJUkItZk1jSWZhQQ?oc=5",
+    "at": "2026-10-26T03:29:39.000Z"
+   },
+   {
     "title": "Nasdaq, Treasury yields and dollar face a major AI sentiment test",
     "source": "StoneX",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZlpmc3pTTnVwTkp5aS1HMXpISUhTSnBndTNiTWdzMmlkZ21QOUJsRm1CaWtidGtKVWVvV3N2cm5KTnE0NW93X2JfRUtzcjZoR1VVZWp5NzFheUEyOWFRd19vTjBCTUFVdnFaMWhaTXBBOW5rSDBRakQzNXBraTEyVklqajEyUjhaWUFIZXViVWZ3SFpkZmhfQmh1N1NQRXZjVUQyeDZyMGlaemNNdElyNGdB?oc=5",
-    "at": "2026-10-25T16:47:45.000Z"
+    "at": "2026-10-26T02:22:53.000Z"
    },
    {
-    "title": "Dow Jones Futures Prediction: Dow Futures Slide After Wall Street Sell-Off as Oil Tops $116, AI Stocks and Fed Rate Decision in Focus; Check Monday’s Market Outlook & Key Things To Watch",
-    "source": "The Sunday Guardian",
-    "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNSXcyLXBTQXJvMzVSdmR1b0xVc2dzdFl4RHFORjl0amx2a002Y1I5bnlqd2tZMGxwMFVOdWdxcGIzUlJPLVZDX045bUJJVzlfbFZTN2Z2ZlJXQ25MM01NMVFGajVqRFFqQUFub2p0MmM3UXdPTmN2bWlieS1TcE9kOWNYRk1IVTdzdTcxaHRtczVZdmVFLWowemFianBKdGxqOHlaZVRLSm03ZDVGYlpNTXVxVnFDcEpIQUdxVlBQZXJMNDVJZFJaQngyU1k3aENSQmtMYWxya0paU2JrTENrS1lvRFhkajNaMm55djY1NS11Wkc2R2Fyem41SnByX1dLYmpDRmFqd0xGQk9WTy10eTVpcEZUVDNZRTdUU3haRDBqMkNyN3BOVEJLR1ZZMW1uTlRieDNFRW5JWmFBQVNaeGF1cXp4bkRpc1lUWWs4R03SAdACQVVfeXFMTUl3Mi1wU0FybzM1UnZkdW9MVXNnc3RZeERxTkY5dGpsdmtNNmNSOW55andrWTBscDBVTnVncXBiM1JSTy1WQ19OOW1CSVc5X2xWUzdmdmZSV0NuTDNNTTFRRmo1akRRakFBbm9qdDJjN1F3T05jdm1pYnktU3BPZDljWEZNSFU3c3U3MWh0bXM1WXZlRS1qMHphYmpwSnRsajh5WmVUS0ptN2Q1RmJaTU11cVZxQ3BKSEFHcVZQUGVyTDQ1SWRSWkJ4MlNZN2hDUkJrTGFscmtKWlNia0xDa0tZb0RYZGozWjJueXY2NTUtdVpHNkdhcnpuNUpwcl9XS2JqQ0ZhandMRkJPVk8tdHk1aXBGVFQzWUU3VFN4WkQwajJDcjdwTlRCS0dWWTFtbk5UYngzRUVuSVphQUFTWnhhdXF6eG5EaXNZVFlrOEdN?oc=5",
-    "at": "2026-10-25T16:14:37.000Z"
+    "title": "US midterms loom as tail risks threaten dollar, Treasury yields and gold near key technical levels",
+    "source": "VT Markets",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObThRVEo1YVJZY1FoX24xQTZmZkRFOGpheW92ckpVV1d5UzJyWWUxeDEtUmZOYTQzZzJaUlRrX2oxZTZkUEl1ck9DY1FkVTJXVEFIN1hPdFh4cEVVOE5VZFhEMnQ0UjlzRzBubEVGSmwwQmtaU3Nxdm44T2xnM3V6akJpV0cwRlZJRXJsMld4YWNEMTFFU29RWk5LdjVyMG90UWR1NkNFVlo2TjFkSEdFekszTE5lZEI4UXExYk85VUs2bTNERWdjRUpMbnExTElqN3lvOXM0YU03NWs?oc=5",
+    "at": "2026-10-26T02:08:15.000Z"
    },
    {
-    "title": "Emerging Debt Outruns Treasuries as Rich-World Fiscal Fears Grow",
-    "source": "Bloomberg.com",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYzZNQk5wdXJObmtzQTQ4bmphZl96bHp5VldRY3dhdTI4eVVEa2JLdjVxTjJwTVF6bW9TbXFnYl9remY0SGhzcHNvRkpiRHI2Z1ZiVWg3Wkl2TWtJb1RoRG9GTXUzQ3lYdngzZVVfTkMzM0dtSDlIemN5S0NvVkhDMmhjMnF6WVlRa0pOZUM3SkRDS1VTVm5pV2Qzb3BPNkZhM2NvTHRWUWlBd2k4NC1odFdCTFFXdw?oc=5",
-    "at": "2026-10-25T12:30:00.000Z"
+    "title": "Currency markets subdued ahead of pivotal central bank week",
+    "source": "The Economic Times",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWEs2NjFFNHFMQUc5M3hiWVJxTFpkN0JaSldmaFpkTkxkbTJ0bkJqclZfUjlnT09idDU0aGcyUHhOSENVRjg1TDdIT3Y3cDdPekpSZk4tYi1ReWt3YVlUSXhNZjRGQTJiaTJmdlhDVlJqa0x3anRyNUtaTDJ6LTVUTERGcVd3ZlNnaG55dE4yeXVYNjZNbHZWWDJkcHpSMEFVeFRMX1Ffc2l0SlJ0b1ZOZ2NkTm9lUlJMUmpZell3WVV1bU5DMG5rTjhZRzhicjQ0WDZRUtIB2gFBVV95cUxPM1NibkU5TEQ1S002bnAxUHVnclhSMXJDNlJaaC1tMUg3SmJIbWhWeDM2cnY0ZXJoQ3NWWUh0Y3ZjcW1Cci1GbnNIYWpLSUVKdXp3Y2hfUGhfdE43YW1UUlNoTkdvOUhtaGdZNHZMdUF3R1NzSXpocm1ycTRBc1hTLWZDekc1NkM0M2xxRWRuT19FVlVtR3E0QUJ3V0ZlWEZ2MWhyOHhQS2FRRGRBc2xlZXB1VGVhbWt0S1NJeXJvNE8yOFR0TnB0VnJOWWw3SjRHRGg3U0hJOW5Odw?oc=5",
+    "at": "2026-10-26T02:07:17.000Z"
    },
    {
-    "title": "Dow Jones Forecast: DJIA rises as Oil slips and Treasury yields pause",
-    "source": "StoneX",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd3ZRMzRIczA4b2JCOUJmanYwYjFySmg0bllWemFHNU9hR3k4emNLOTVqQ2ZOcFR1dF9DaWY1QVF1dlVUNVVCakViRE8zRnVjOGUybDZNYS1UVzBSZzdlczU2NlV2akViZTMzS29yN3YxTTNZQ1JiVWZ2aWxMdmNDdlU2Q1RpbmVMTlBKc0IyaS1WLWxobmRZcXVfMHFHWkxaTjg4UDNFNm1PeDRhZkphNzFITkFfOUU?oc=5",
-    "at": "2026-10-25T10:45:39.000Z"
+    "title": "USD/CHF Rebounds as Treasury Yields Firm, Fed-SNB Rate Gap Boosts Dollar Demand",
+    "source": "VT Markets",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT000bG1DaUlzNm80UUJZczh0SUZUb0VUNXN6Qm9QZWNyaWg4Sk0wRHgyQVdlc0tRTzBDZVNMcS1Md2VaQmR0RGV1OEN1cklpN3lmcUNRZFR4ZFd4ZmVCQnpxemNJRGdyNU52eW5tR2lna1lkT0Vtdm1zM0ZRNVRLM2dySS1yZXFLUkp0cnVVWnltYlpGZEp1N0loMm9UUUNENzBrc1NmZEpHQi1lWFV0TmdGYVJhMUhFbXVzNllHZnE5dw?oc=5",
+    "at": "2026-10-26T02:03:04.000Z"
    },
    {
-    "title": "O’Leary, Warren, Warsh, Schiff and Paul Deliver a Weekend Full of Financial Warnings: This Week in Economics",
-    "source": "TradingView",
-    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxObmE5MEhUNmNRaTMtQndKZFF4bTdzMFRpY2Q2ZUNPcEo5cW5WdWl3ZGZja19iTkY5RGhlWmNKcWkxeGVLcl9KVWMtbkdjdHZfcjcwbi1aUGlRM19tMktyZWtEeFd5SW1WUHdRRHBKUTB4Zk1HMzU2OUdOOTJZSzdST1pWT19lMXBMRzEyaWk3bjFidk5RbURKeHMzYnBvS05ucThDMFo3NUxrTHRfVlBpMkVyTE1HQjZ0bUJtVEVYcVNPZlZ2Ujg2c0h5MFNtelY1SlpRbkNmemthUW4yWHlVc1JIdExubHQ5RXpwY1FkcXBOUFZrTlE?oc=5",
-    "at": "2026-10-25T10:00:07.000Z"
+    "title": "Dollar Softens As Oil And Treasury Yields Cool Off",
+    "source": "Finimize",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV1VSb0JXQ3QxbnozekxKZXZRVG1mbGlhWEt3YTg0QTZJTXUxOVRIX2ZORmxKcnl0ZG5sYjZIT1NXZk5ROWJrTUJYalhBMFpWcmZPSzhXLWRoeTFORVJ5Y0JVdkR5T2FFQ01QQWhYbmRnSnRiLXhwQXFQdDFOMkJDN01rWTZBQQ?oc=5",
+    "at": "2026-10-26T02:02:32.000Z"
    },
    {
-    "title": "TVA meeting with members of Congress about raising $30B debt ceiling",
-    "source": "Chattanooga Times Free Press",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdkEtYmtiRUVIeldIZndMNjJ2QnZQTl9RY3RMbVhQV3I5TXpvX0trWnQyVVg2cXMwTFF0TV81X3pyMWNkRTgzRE1TM21fZ2ZQd0lRSDhMSjlQM3EwZF8ySDA0WTVVUFdPNFR3VW5iOHgxWGpWWDQ1OUFaVHp0d3BqWXFKbENkbkU4X2Jxa3F4bUJ2cWpsc1E?oc=5",
-    "at": "2026-10-25T10:00:00.000Z"
+    "title": "Rupee down, US yields up: Is it time to add Treasuries to your portfolio?",
+    "source": "Livemint",
+    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQSWNGMV9iSEE0VnNZUHBxNHVxWG9TUDBYbFRxVVFmcFExQzZ0X3luSW91Q1ptbTRMQWdTYngxV0hoUXRQbmJ6cnVQcnBGcnRDZUtlRk1FeG5yTkhoeDd5SkFvaUFjczBOUmpPaDA2c1h0cW9YSUxoY0ZvYmFOdHFWMDlVUEZ3NUZTeE5lTFFzdklUTW1FQmJkM3J5aWoyOUlCZlRXZGdsTWNxQ0UxZWRLVlhjNDVuUU1qUnBHUXpKZFRMek91a3hSOHZtZW1BSzRzSVhZWGlxbU5qVE9IenpUQ19oU3d5cXJad04tMHBGaXA4SXpEUVdrV2w2elFUcmVM0gGGAkFVX3lxTE1kaGhIeVdpUU10NXpmVmIzenVXdy00Y1JXSWg3d1V4ZWpFeFhUOGRTY3VVc2t2ZkpsSy01UlRjNEFqQTBXZ3FLb3hHOE9hUG1nVFBOcHJxM1JKcHFJd3hKLXFES096LVNybEpGUWpNZGY4Yjc3M2VUUHl2OFdBT240UDlyMWhWcTRDMDJ1OC00bWp0TFk4NFBIODNtVF9rM3MxazRlZnpOVTFsLTJjcGRoY3g2NVQ4M09fUTZUanRsbW1yNEN6X2x4N21tQi1FemJJaVp2bGlsOWM2Mm5qMXZwaEp1blJielR2SlF5Zml0azNNYTcyTGRMejJncGNnNGt3NXZ5YUE?oc=5",
+    "at": "2026-10-26T01:31:03.000Z"
    },
    {
-    "title": "Macro pulse: US bank earnings could reveal the hidden cost of surging Treasury yields",
-    "source": "investingLive",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUm1uR1dhbjBnSmdmd1E2UlNDM19ndkx4N3ZIUy1MZlN3dkJBYmZyY1dMcTFqNkhsZ2h0TU0wNFp6QW1WNy1vRk9MM2NialBpUXRDVS1wZVRZa2cydzRSeUR6cUdWMDNDRDNsRm5NdTZIakcxZk5TTXBpSEdHZC1kNGM4cUZUWE5QTS1IVFJmYk9sSFhJNmtBeFF1Z01DQU16dHlaUjhGNEt0X1hodXU3UHlRZUFOdXJ2aUtnNFZR?oc=5",
-    "at": "2026-10-25T09:59:39.000Z"
-   },
-   {
-    "title": "Lamont is attacking the $2 trillion federal deficit. Connecticut still owes about $80 billion",
-    "source": "CT Insider",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLUVKSmE2TmtRbzZEeTNvcV9MMjZSM29NZlJ5dW55NVVROGY5ekhQMnRxOVZBejRHVzU5Sm9YR1BneVZZb3FzbHNTOVpTal9uTk92eGhBMXVwVzZ0OWNtc2VQQTBTWVdSenZtQkFBREVQU2F2VndWeWcxa0w1c0JBYXh4MXgtXzd6VFYyeFlpTXQzTGx6bjNJ?oc=5",
-    "at": "2026-10-25T08:02:41.000Z"
+    "title": "Local College Students Create Time Capsule To Educate Community On National Debt",
+    "source": "KWKT - FOX 44",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQXzFqckZwTWVMd2JxZHRfdEd3Wm5pd2FoejIwemt6Mkg1aTc1c0Y4ZW95c3ZZWFp0bVJ6bWJ2Yko3VVdDOGMwVlY4YWdvQUJHQV90NTVlLWpuOFl2YThtdnJFMTRxRW9XLVR1TThJaHZpVmtubW0xVDAxVWFGOGpPdElaek9XX2EzWEo3enlqNENsZHlUNHlrOHBFM0lRWk5kN3MwbTdXMWR2US1ZcE44RGdn0gG3AUFVX3lxTE84aTRHMUN5WVFMcGlUMGxXbDBjdTZpcGFBelRTbzhJRnBQYVRnVm1sV3d3M1lsRks0SzNFZ2NVUXVKOENialpUY2NZSG11ZndFRkJuLUVXTERfdG51cmg4cDMzR3hzWmFSU2JGMFVlbEdkN2VuWFBxWTZfN2gtNVFIRFRnVHZFUFhqeDcza1k4YUZPM1pZcEpVTnBvZ0R6Si1aNlJNc0dxQTZHa3lqX09kY1ZIbTRsdw?oc=5",
+    "at": "2026-10-25T22:27:08.000Z"
    }
   ]
  }
