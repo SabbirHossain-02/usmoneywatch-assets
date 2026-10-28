@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T05:44:27.564Z",
+ "updated": "2026-10-28T12:57:41.925Z",
  "ticker": [
   {
    "name": "Mortgage, 30-yr",
@@ -5255,12 +5255,28 @@
  "news": {
   "top": [
    {
-    "title": "Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market",
+    "title": "11 bargain-priced stocks of companies that have huge growth potential over the next two years",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/retail-traders-buy-the-dip-on-chip-stocks-but-robinhood-gets-burned-by-the-crypto-market-33cea913?mod=mw_rss_topstories",
-    "at": "2026-10-27T22:51:00.000Z",
-    "image": "https://images.mktw.net/im-564483",
-    "desc": "Robinhood CFO says market volatility didn’t scare traders away from buying chip stocks “that they had really done research on.”"
+    "link": "https://www.marketwatch.com/story/11-bargain-priced-stocks-of-companies-that-have-huge-growth-potential-over-the-next-two-years-d62618e6?mod=mw_rss_topstories",
+    "at": "2026-10-28T12:54:00.000Z",
+    "image": "https://images.mktw.net/im-98694626",
+    "desc": "These stocks trade at low price/earnings valuations, and the companies are projected to achieve very high revenue growth rates through 2028."
+   },
+   {
+    "title": "Mortgage rates fell for the second straight week, but more borrowers still sought savings in riskier loans",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/10/28/mortgage-rates-fell-for-the-second-straight-week.html",
+    "at": "2026-10-28T11:33:43.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108448116-1792697240840-gettyimages-2296175868-260923_tohomes_116.jpeg?v=1792697322&w=1920&h=1080",
+    "desc": "Mortgage rates have fallen over the past two weeks, but demand is only slightly higher, and more borrowers are looking for savings in riskier loans."
+   },
+   {
+    "title": "Australia’s inflation rate rises to 4.3%, fuelling fears of fifth interest rate hike this year",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/28/inflation-rate-australia-2026-number-data-consumer-price-index-cpi-release",
+    "at": "2026-10-28T02:17:32.000Z",
+    "image": "https://i.guim.co.uk/img/media/64e77a720baeac62ada354b54f34aae458a7f1e6/538_0_6187_4947/master/6187.jpg?width=700&quality=85&auto=format&fit=max&s=c8d3c3cc94bb0b99915a5d63831cb625",
+    "desc": "CPI release comes ahead of Reserve Bank decision next week as the Middle East conflict intensifies the cost-of-living crisis Follow our Australian politics live blog for latest updates Get our daily political email , fre"
    },
    {
     "title": "These jobs saw the biggest jump in pay in recent years",
@@ -5271,22 +5287,6 @@
     "desc": "New analysis breaks down which industries saw the largest wage growth and hiring gains in recent years."
    },
    {
-    "title": "Frozen housing market sends remodelers mixed messages",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/10/27/frozen-housing-market-sends-remodelers-mixed-messages.html",
-    "at": "2026-10-27T12:20:59.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108464827-1793033410797-gettyimages-1657566602-fs20230806_p12__a8a3620_r30.jpeg?v=1793033417&w=1920&h=1080",
-    "desc": "Home remodelers have always served two different markets, but the current state of housing is now pulling them opposite directions."
-   },
-   {
-    "title": "The survival of American democracy depends on taxing billionaires",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/oct/27/democracy-tax-billionaires",
-    "at": "2026-10-27T11:00:36.000Z",
-    "image": "https://i.guim.co.uk/img/media/e1ee2d6c7a916abffe9d76333c0444ad7d911a84/468_0_4680_3744/master/4680.jpg?width=700&quality=85&auto=format&fit=max&s=2c1b89a9c0fa9d6062860bfdcaeb574f",
-    "desc": "It is essential not just to fund the public goods the nation needs, it is indispensable to restore a sense of fairness Money doesn’t buy happiness, we’re told. Even some economists agree. The Nobel prize-winning economis"
-   },
-   {
     "title": "How Aldi is pushing down grocery prices",
     "source": "NPR",
     "link": "https://www.npr.org/sections/planet-money/2026/10/27/g-s1-149358/how-aldi-is-pushing-down-grocery-prices",
@@ -5295,12 +5295,28 @@
     "desc": "The German-owned chain's low prices are winning over shoppers — and pushing competitors to respond."
    },
    {
-    "title": "CoreWeave and other AI stocks rise as Anthropic restores the market’s faith in sustained spending",
+    "title": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/coreweave-and-other-ai-stocks-rise-as-anthropic-restores-the-markets-faith-in-sustained-spending-c71d7186?mod=mw_rss_topstories",
-    "at": "2026-10-27T21:41:00.000Z",
-    "image": "https://images.mktw.net/im-31372691",
-    "desc": "Now that investors have been able to dive further into Anthropic’s IPO filing, they’re seeing the same sorts of trends that helped buoy AI stocks for much of this year."
+    "link": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
+    "at": "2026-10-28T12:48:00.000Z",
+    "image": "https://images.mktw.net/im-21062271",
+    "desc": "Vertiv’s big sales beat affirms that the AI buildout is accelerating."
+   },
+   {
+    "title": "Frozen housing market sends remodelers mixed messages",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/10/27/frozen-housing-market-sends-remodelers-mixed-messages.html",
+    "at": "2026-10-27T12:20:59.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108464827-1793033410797-gettyimages-1657566602-fs20230806_p12__a8a3620_r30.jpeg?v=1793033417&w=1920&h=1080",
+    "desc": "Home remodelers have always served two different markets, but the current state of housing is now pulling them opposite directions."
+   },
+   {
+    "title": "Plan for multibillion-pound Sizewell nuclear plant a ‘terrible deal’ for UK taxpayers, MPs say",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/oct/28/plan-for-multibillion-pound-sizewell-nuclear-plant-a-terrible-deal-for-uk-taxpayers-mps-say",
+    "at": "2026-10-28T00:01:47.000Z",
+    "image": "https://i.guim.co.uk/img/media/4996f4417eea84b657961bb7700ac93206205150/337_0_4943_3956/master/4943.jpg?width=700&quality=85&auto=format&fit=max&s=41448fa3003b9b5466581c89fb0bcf0f",
+    "desc": "The public accounts committee has said the risk to billpayers is ‘extraordinary’ The government’s plan to fund a multibillion-pound nuclear plant at the Sizewell site in Suffolk represents a “terrible deal” for the UK ta"
    },
    {
     "title": "Dollar General overcharged people at checkout for years, FTC says",
@@ -5311,6 +5327,14 @@
     "desc": "The discount retailer routinely charges customers more at checkout than the prices it displays on shelves, price tags and ads, according to federal and state authorities."
    },
    {
+    "title": "We are in our 70s. Should we pay off our 2.5% mortgage early or build up our savings?",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
+    "at": "2026-10-28T12:45:00.000Z",
+    "image": "https://images.mktw.net/im-65126339",
+    "desc": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”"
+   },
+   {
     "title": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
     "source": "CNBC",
     "link": "https://www.cnbc.com/2026/10/26/fed-decision-expectations-october-meeting.html",
@@ -5319,46 +5343,30 @@
     "desc": "The Federal Reserve is expected to keep its overnight rate unchanged at the conclusion of its October meeting this week."
    },
    {
-    "title": "‘We don’t have inflation’? Five charts show the US economic reality of Trump’s second term so far",
+    "title": "San Francisco estate sells for record $10m above listing price as AI boom drives up costs",
     "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/oct/26/trump-second-term-economy-charts",
-    "at": "2026-10-26T11:00:42.000Z",
-    "image": "https://i.guim.co.uk/img/media/e207112a4f3a725105dff1f7f59275f26fe8ea17/1_0_2999_2400/master/2999.jpg?width=700&quality=85&auto=format&fit=max&s=81fde5815cef54ba6af5a6753eab420e",
-    "desc": "As the US midterm elections approach, we take a look at data to see a true picture of the US economy under Trump With the midterm elections fast approaching, many Americans have the economy on their minds. US voters are "
-   },
-   {
-    "title": "As Trump touts energy companies’ fortunes, U.S. consumers face the most expensive year for gas prices ever",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/as-trump-touts-energy-companies-fortunes-u-s-consumers-face-the-most-expensive-year-for-gas-prices-ever-c467268c?mod=mw_rss_topstories",
-    "at": "2026-10-27T21:29:00.000Z",
-    "image": "https://images.mktw.net/im-76497917",
-    "desc": "President Donald Trump can’t stop touting the fortunes U.S. energy companies have made during the Iran war, while canvassing the country to support Republican candidates ahead of next week’s midterm elections."
-   },
-   {
-    "title": "Til Death (or Retirement) Do Us Part | Money Moves with Jill Schlesinger",
-    "source": "CBS News",
-    "link": "https://www.cbsnews.com/video/til-death-or-retirement-do-us-part-money-moves-with-jill-schlesinger/",
-    "at": "2026-10-27T11:00:18.000Z",
-    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/27/8e7883fc-8c70-4f5a-a02d-3ba74527a0cd/thumbnail/1200x630/088cf0adad38d47b28c7d6649ea31c04/untitled-design.jpg",
-    "desc": "How do you plan for not just one retirement, but two? Jill and Mark break down the financial planning every age-gap couple needs to consider. Plus, when should you fire your financial planner?"
-   },
-   {
-    "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-    "at": "2026-10-26T18:33:51.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108364024-17895883942026-09-16t194825z_342271609_rc2iknaojij8_rtrmadp_0_usa-fed.jpeg?v=1789588428&w=1920&h=1080",
-    "desc": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits."
+    "link": "https://www.theguardian.com/us-news/2026/oct/27/san-francisco-real-estate-listing-price-ai",
+    "at": "2026-10-27T20:23:03.000Z",
+    "image": "https://i.guim.co.uk/img/media/98f46b0543c2e51302198aa381fb1377a49460ca/307_0_1086_870/master/1086.jpg?width=700&quality=85&auto=format&fit=max&s=1eb199a5cc94bfce495c7c8c88a2cdb8",
+    "desc": "Eight-bedroom mansion listed at $18.5m sold for $28.5m and has a private garden and three-car garage A San Francisco estate sold for $10m above its listing price this month in a new record for the city as the artificial "
    }
   ],
   "housing": [
    {
-    "title": "Frozen housing market sends remodelers mixed messages",
+    "title": "We are in our 70s. Should we pay off our 2.5% mortgage early or build up our savings?",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
+    "at": "2026-10-28T12:45:00.000Z",
+    "image": "https://images.mktw.net/im-65126339",
+    "desc": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”"
+   },
+   {
+    "title": "Mortgage rates fell for the second straight week, but more borrowers still sought savings in riskier loans",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/10/27/frozen-housing-market-sends-remodelers-mixed-messages.html",
-    "at": "2026-10-27T12:20:59.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108464827-1793033410797-gettyimages-1657566602-fs20230806_p12__a8a3620_r30.jpeg?v=1793033417&w=1920&h=1080",
-    "desc": "Home remodelers have always served two different markets, but the current state of housing is now pulling them opposite directions."
+    "link": "https://www.cnbc.com/2026/10/28/mortgage-rates-fell-for-the-second-straight-week.html",
+    "at": "2026-10-28T11:33:43.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108448116-1792697240840-gettyimages-2296175868-260923_tohomes_116.jpeg?v=1792697322&w=1920&h=1080",
+    "desc": "Mortgage rates have fallen over the past two weeks, but demand is only slightly higher, and more borrowers are looking for savings in riskier loans."
    },
    {
     "title": "TikTok parent ByteDance's founder is China's richest person again",
@@ -5369,50 +5377,54 @@
     "desc": "The founder of Tiktok parent ByteDance, Zhang Yiming, reclaimed the top spot on a list of China's richest people, driven by his company's push into AI."
    },
    {
-    "title": "Mortgage and refinance interest rates today, Tuesday, October 27, 2026: Mortgage rates rising once again",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVjJoMXFxYnZlSmVBTFFuVE9wX2ZnZk5tUm9ta3R4NnJjR0YwM00yQVgyRGhrQnQ4RmhXWDh6TDRnSWtQdWxUNi03WlgxSFY2SVNKMFhtVXBlSlU2TDBrY0FkOGkzbjVEZzAzVnNRdWN5S3R4cWJZQmpHMGpUdDJJRGlCQk12aTExb25CbXdZMF9TYjNWam43WVd4SkFzeDVHUWRrRzA4a2pKZm16eUhleVB1UFZfQlIxNk9uRm5yclVXTXM3bnRjb08zWU04RjVuckhLc1Fna3YtNDNBMGZlSS1rQlA3NEQ4R2x3YXAxWWtOcXlGbnhYZ2tjOA?oc=5",
-    "at": "2026-10-27T22:47:17.000Z"
+    "title": "Frozen housing market sends remodelers mixed messages",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/10/27/frozen-housing-market-sends-remodelers-mixed-messages.html",
+    "at": "2026-10-27T12:20:59.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108464827-1793033410797-gettyimages-1657566602-fs20230806_p12__a8a3620_r30.jpeg?v=1793033417&w=1920&h=1080",
+    "desc": "Home remodelers have always served two different markets, but the current state of housing is now pulling them opposite directions."
    },
    {
-    "title": "PulteGroup Net Down as Mortgage Rates Weigh on Home Sales",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU3NWb1MwczladzlTQ25fa2hCR3dTSUkzNmlxS09XUVdjNUhBMnRETVhDeW1PSkVtMHl0eHc1ZTVGckpvNWVmb05NVE9lRGVPOG1hUEVOREozTDlNeHluSDB4b1laLUNhVGtJU2NMV3FXbGk1c0FadWNEMGd5c1ZZdE5kaEU4ZVJudzBhMUcxSG55Xzh2MW9OOS1kRzFCalhLYUwzSnFDOA?oc=5",
-    "at": "2026-10-27T21:55:51.000Z"
-   },
-   {
-    "title": "Builders’ Data Center Boost Fails to Offset Weak Housing Market",
-    "source": "Bloomberg",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTGd2RmZZMFViODFnc3R6c0N0X3U5cW9BbWtjc0R0Wjc2cmtHZzNnUWhqdVBLX3dzWjNra3pvemIyZ1JHcEJFXzh3dUVjam9UOEV0Ty0xelV1YmowMnVKQWRBQVFxTzhfTi1QamY2T1ZuckQ0bVdWNHlTckpfbkR2V01TUE8yYTlfeTNRZTQzOVhESGZRcExKSVlnS09BRlZaVmhibE5idHB0enI2NndTX3ExWQ?oc=5",
-    "at": "2026-10-27T18:53:39.000Z"
-   },
-   {
-    "title": "Mortgage rates, drug costs, wages: See Trump’s economy in 13 charts",
-    "source": "The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZGdfTkZOT2QyTVNrSGk5UDYwSDQyT3NFVkhuYUNNck5ybEtyMGlPc1VXX21weWd0ZHFnX0tyVU10aGdWOHFnMHVvYXNOLUFJRWF3ZjNYeWJVcWxDV2xpbkhlWGtYcnRCeFkwSTI5dl9uVUtLZjBnSFlyVEJQRThsUFlCVmJWbXRFT2VKNXVMUWQ?oc=5",
-    "at": "2026-10-27T16:00:00.000Z"
-   },
-   {
-    "title": "Will the housing market crash? It's not looking likely",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON2M3NWM5Y196bVY3SFVZYlJLdWx6b0xIa0UtTjdpcDF1QU03QTVvVzV5Rm95Y2J3ODZZNHluYy1tdS1nUWJ0Y0VheHNNdG9rUENOSV9TNVdKYWlzTHNkQjZvZHljVzRNazFjNk5rSDJXNWRXMWhKS2RQdjJ1bUFuZ3ZMUG5LZ0xfa0ZRZWhySF8wWEs1Z1NwNDhUMUFiYjVPeGx4eThldGw0d1MySzZXeHl2ZkY3Rzhpc3g2YWNmTFZBblJMek5v?oc=5",
-    "at": "2026-10-27T15:58:08.000Z"
-   },
-   {
-    "title": "Mortgage Rates Today: October 27, 2026 – Rates Fall For 3rd Straight Day",
+    "title": "Mortgage Rates Today: October 28, 2026 – 30-Year Rate Hits One-Month Low",
     "source": "Forbes",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NX0VfejZUQzN3LTBLRDlQYURPTExuRkhoV3RuUllGZ2FybWlodzNNQWVQWjVRckdMcF82endWOTl6ZmFlSEwzUDZlSWdOT2x3c0FySk9DRTlSMHBzZ3dMZEl5ejdnTFVDMnZCU0I4RWt4azg?oc=5",
-    "at": "2026-10-27T15:57:12.000Z"
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EWV9HTGdFVUdyZ3FYQWFRbmNHd0FQQS1hZzN2T1hsOEdSWk5nWHBWYUU0am1wX1J3bjd0S05sajcwWUlVdHFaa1RVNnBfSXhPcXFrWlNKNzg0blFCNi1qWThnMC1CeHdic24wY29LLTMzZ3M?oc=5",
+    "at": "2026-10-28T10:00:23.000Z"
+   },
+   {
+    "title": "Corporations Are Holding Back Inventory and Keeping Home Prices High, Real Estate Agent Says",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbTRoN0RiUnMzcXRrZW5HS0pvcUwwcmR3LUlzTHVRWGdLYkpfeFliY2xXYzFnMTVFV2NJMFFMUTlIb2pQR01ycmQyZmNTUjhlTVcyU3NoY001OU51bmROaXVreTdCTmEyTE9mNlpDQk1CZHNpUXpremtGb0VUVFVRUEpJUUJlTUpDYWtJMmh4ZmNleXl0Z28xWWZnOUpOT2pXWXNqSlVleGs?oc=5",
+    "at": "2026-10-28T10:00:00.000Z"
+   },
+   {
+    "title": "Mortgage and refinance interest rates today, Wednesday, October 28, 2026: Mortgage rates move lower ahead of Fed decision day",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPNWVMTW1rSkZqaEpib29Sck1fN2dHQnJpejVqZ1hDX1FjRkNvMDJ3WFhONHpQYUYyWmVhT3BCY0dSc2FwNU9ZRE1fYk9FTlc3NGE3NlFqdnoyeTB0MF9jejZQTkZ1Sy00dUdpQ1dKeUtMWmdUMjZHbm5zN0x0ODlhOHNvQU9kUUFYRXJVcE4waVQxX21tbDRBZm45c19JRUFkbC1Va05ENHJOeXZKdno2ZzVWa0thbjNpSDhNWWotWjVWYS13cUhxVUsybklTUlVkR0NzdFdVTVVJekJ2RmVhU3Awd0lsdmM3UHZHc00yX3JZa29pVUpIcGd4T3dWNDZRNElRbWctUnBTRXU3VlU5OTQzR1NOM3d6a1ZpZmNDU1g2T3M?oc=5",
+    "at": "2026-10-28T10:00:00.000Z"
+   },
+   {
+    "title": "A Punishing Housing Market Is Squeezing Renters",
+    "source": "The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeE9kTmk4cGFrV2QxYXN5eUIzUzdDRWYtUGhYZ1E0QTEyT2oza1Q4Vy1FSjIwTmFGMHV1WlN5cFNrVTh5azRhazkzenFORkNQYm9BbWFjelZQN0p1dUJxT3hiVFFnRmluRi1lanhxMGtHLWVzUXZvUTJUVHc4VkI1QWs4bw?oc=5",
+    "at": "2026-10-28T09:05:30.000Z"
    }
   ],
   "inflation": [
    {
-    "title": "As Trump touts energy companies’ fortunes, U.S. consumers face the most expensive year for gas prices ever",
+    "title": "Four reasons to start worrying about inflation — the end of tariff refunds is one of them",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/as-trump-touts-energy-companies-fortunes-u-s-consumers-face-the-most-expensive-year-for-gas-prices-ever-c467268c?mod=mw_rss_topstories",
-    "at": "2026-10-27T21:29:00.000Z",
-    "image": "https://images.mktw.net/im-76497917",
-    "desc": "President Donald Trump can’t stop touting the fortunes U.S. energy companies have made during the Iran war, while canvassing the country to support Republican candidates ahead of next week’s midterm elections."
+    "link": "https://www.marketwatch.com/story/four-reasons-to-start-worrying-about-inflation-including-the-end-of-tariff-refunds-978a5cfd?mod=mw_rss_topstories",
+    "at": "2026-10-28T10:21:00.000Z",
+    "image": "https://images.mktw.net/im-83724868",
+    "desc": "Dennis DeBusschere of 22V Research says companies that previously used tariff refunds to ease cost pressures will increasingly pass on those higher costs to consumers."
+   },
+   {
+    "title": "Australia’s inflation rate rises to 4.3%, fuelling fears of fifth interest rate hike this year",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/28/inflation-rate-australia-2026-number-data-consumer-price-index-cpi-release",
+    "at": "2026-10-28T02:17:32.000Z",
+    "image": "https://i.guim.co.uk/img/media/64e77a720baeac62ada354b54f34aae458a7f1e6/538_0_6187_4947/master/6187.jpg?width=700&quality=85&auto=format&fit=max&s=c8d3c3cc94bb0b99915a5d63831cb625",
+    "desc": "CPI release comes ahead of Reserve Bank decision next week as the Middle East conflict intensifies the cost-of-living crisis Follow our Australian politics live blog for latest updates Get our daily political email , fre"
    },
    {
     "title": "How Aldi is pushing down grocery prices",
@@ -5439,28 +5451,22 @@
     "desc": "Jump fuelled by fears of further Middle East supply disruptions amid reports of US-Israeli plans to strike Iran European gas prices have jumped to levels not seen since 2022 as fears continue to grow around the continent"
    },
    {
-    "title": "Inflation is ‘too high’, but RBA says Australia is not heading for recession – video",
-    "source": "The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLUFNbkg2a1hRNnAzN201WExwWXZkc21VZVJKV0tjdVRHS19hMGhWdVJtNHdPQ0UtUllVbHAzLWIyeGszdkV4TTlGRGxWcnlHVHRxZmtqenMyc3lXcHMyWkNGQUFldmdRU1kzTlV0OVRzbHkwTWt0UkpCNUZRMHFBMUtjNmtPN3BnaXVjakkyTjNWc2J6NVctdkZTRjRqSkIySi12V180Q3JETEdQejYtVGNnM3VqRHM4cUExblcyUWstS191bk51Z3dCdnd3b0U?oc=5",
-    "at": "2026-10-28T05:40:00.000Z"
+    "title": "The Fed is expected to hold rates steady. How will Warsh justify that in the face of higher inflation?",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNN3IyZkZRTDNZWTF4aU5iLVA3XzR5d3FKcmU5b2RmWUJEZnhod0VRMW9odmFqM0d6UkpXMW82VzRFUjYwZ19Tam42cVozYllyUWZOOFhGODdiUDJiaVZoYnNxdEtTZHFWSEpDVGZXNS1qblhzM0pBZGpOVnQ1b0hzbUNhWjFDUWtCdDB1MGlZYm51MjJlY0dEX1RYYjNHZFpGV2xVOTFhRS1xQ041Y09JRVh3ekM1S0dMeFpGNGpUbWtfT3dodUtoU2FuR1NRQlp0UE9fYnJqblc5bFdCMm0wT0k4OXJlS3YyVGZDY2U1TDg4dWV2dEdr?oc=5",
+    "at": "2026-10-28T12:20:25.000Z"
    },
    {
-    "title": "Australia’s Inflation Continued to Accelerate in September",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNnM1VlE5aF9lb0lNYjk5UDhrUXIwQ1JPNGt0SGpNTWlpWHVkQ0dpSFZnTjZzR2tOcFk0RkVkRlMwbkxGOFJPWnFzVFlvbTRCUEtNcjRnMWdGMDhRekRBejdJbHVMcHV5Q0FzT2pJQ1VESTJHOF8zdHl0TFVLWFVNWXYtSW5XYURMcmtybEZNUU9DRy1FeWxyeVdmaTUxVkJMODBRNjJMVDA4WFd0VUEw?oc=5",
-    "at": "2026-10-28T03:24:00.000Z"
+    "title": "Bank of Canada poised to hike key rate for first time in three years",
+    "source": "Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSkxiNlN6Z0ZGZHlEdXc2R09fa1ZTZGxBTTl4WUVUcFN1MTdYeEVfVE0xcFpOcUxaZ0U2VVdOVXRsdE0tSzdQcDFuOElWeE1IRjcyM1ZUd0VqcnJVdHIyaUdObEptUkQwT3NPTXBQWkx4VE5QbF9XRzBkWWhEVzFDM2lDQnpmVlhCcV9DQ3FxZVE0Qmd0bVlUS1A2azQ4Z0lUd0w2VnVWYjJzZw?oc=5",
+    "at": "2026-10-28T11:29:19.000Z"
    },
    {
-    "title": "Trump brushes off high gas prices. Polling shows voters don't",
-    "source": "USA Today",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdjFfRWYzOG9XaWZHdU9GMWNTaVlhWlZ3RWFVNmVuNENFdnBsWDlMYmxfZlRwVHdfNEdrdU9KYi1qSjhwa3owRTd0dHlMQm9lZW5OdUdhY2tFMzl1b2RWQmlMbjYxNnBOTGRMa2VaV29KRVRpYnZRYkluVXVTb3F4d2pScXdBampGOVNLbHdzU0g5R2xmU1BTX0dUOUU3VnFEbGxaVjR5WFkxeHJ2bXBsTw?oc=5",
-    "at": "2026-10-28T03:05:00.000Z"
-   },
-   {
-    "title": "Barclays' Giannoni sees Fed hiking in December and January as inflation pressures persist",
+    "title": "Gas prices fall as refining margins shrink and energy stocks tumble",
     "source": "CNBC",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOUF5eEVfRkpYVXIxb2FwZm1SSnFpUTFqa0R0MFVNMnBsMWQyNXhEci16TWQtcnpxeGh4cDJCWnhVemZLVGlBVUNZQkxzVnU5NFdBbGdNcXJZRUt1ZzVUUHZWRGM0elpzSkR1ZWFKVTRoNTFTTTRKQVRBdWNCUVZJZFhvamRhS3VuZjN2MkpLVEp2dnQ0Mlk0SkN0RC1iaHVHdHd2ekZmNGVfUUQ4TlE?oc=5",
-    "at": "2026-10-28T02:23:11.000Z"
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQlpTVG9ELWhVUnJPTTFkQkVsT0NFcVdwMllBcFlnUFNJc1R2TWhfRTg3aXl0OTNJX05BY01GVE5YekZUWndQaHFrcU41ZDJXX0xFNy1wbWVwRDNCakYtUThOX01nVjRqY213NlVIa3REZkxGSE5RS2hHc1Q5QTJIaEtYUDNqRmxJWU1DbV9NbENscmo4UjJGWnVDeHJnRG9zOTE4M2xKNDBfVl9ndm1n?oc=5",
+    "at": "2026-10-28T11:18:52.000Z"
    }
   ],
   "jobs": [
@@ -5489,6 +5495,18 @@
     "desc": "Roughly a quarter of Microsoft's workforce will be eligible for a \"voluntary exit offer\" as the company tries to shed workers."
    },
    {
+    "title": "AI Layoffs Are Boomeranging—6 Moves If Your Old Boss Calls",
+    "source": "Forbes",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTEFrZVNENUFiQThWOXFJRFhPZ2RaM3N0UWNnM0ZTek9KWmQ3dElHOGo1SjA5QjR2V2dBU0NRTy1IWk9OdE9QVnhpbFRYa3BZTVJiZGtjY2Q5UUJsQ1hQNXVTRDc3NXpuZ3hSR0NybGJGblZ6NEd1TzRxWDNneVE4NENrUFExTXYyS3Z6YVpPb2c4UXluV1JZMUtmc3RndG40MTVfQkhFOGFvTUpfZC1UQVJpWQ?oc=5",
+    "at": "2026-10-28T11:09:20.000Z"
+   },
+   {
+    "title": "Innodata Stock After India Layoffs Has The Bull Case Changed",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN19qN1NHRWJGb1g1dFhQOEhqS191MmtId2pTUlN3ZlVPeTdzLTdYLTdGYnlWQ2tJV2IzNDBTcjVGQnJXdm53a3FhTk8tVmVnWE5jUExjTHVIeGs5R2k3NnIzeXdaVUNBLUVqY3FpZTZuZnZwSjJtR1RzWWlRT3pXOFJqLUtBTDNyaEJ1ZzJWQ2JDN0JLd0pXeDNsQmxBOGs?oc=5",
+    "at": "2026-10-28T09:11:15.000Z"
+   },
+   {
     "title": "SNDL Stock Layoffs: What to Know About the Latest SNDL Job Cuts",
     "source": "Yahoo Finance",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVjlXeXhFb251Wk9LSWdtNEN1ZTcxejU4X3JFTlFRTU92MUU3OFZQajU0MmR0Mm1mTnRwZHNReTVuTFFQcnV4Q0xtUnZCNEdJeERiaXQyZlBtaWxKLUVtc1AxXy1Cem9zZEFuc2xlakFaUndOR1Q3VklaazBuQm5uOFJIYjZ2TVUwcnpGSDFmUlgtQkpqOVpEQ0JpNA?oc=5",
@@ -5505,18 +5523,6 @@
     "source": "Los Angeles Times",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaWVaRzRGdUhQQXI1cDNfOGZmY2o2NlhyNF9xTzM4dTRmZkFnNWc3YUl2Q0J2TlU0UExINE5LS3JMY1lNcXRFLXFod3A2NlNKcDRnRExGVFJkZzdBVXlxM1pmOURvbHBXcFFlMmppQl9IR0RyeFFFVHpFZFJ1T3lzT1laYWpjWFZhVHNPdUhIMHlHakFTbkkwQ3Y5RWVmOG9lVzNiVUFpWkxCaW9MM0Q3VGVyUHhzNU9WRXhQTWRNTQ?oc=5",
     "at": "2026-10-27T20:15:00.000Z"
-   },
-   {
-    "title": "Is Tech On It’s Way To 500,000 Layoffs?",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ2NQMHdrSS1PWUdCcVVCTWE2YjN1MFFWdS1zMWR6OGJuT1UtS2hKMzJpWHF1VjVwZ0FFS3RVUjQzYTNmSkM0QnNRYkdQQ3paY2xleW0tN05SREpWRFZZaHdxVVQ5cUFta3NPVDBDMXZUQzlMLWZIWjBHejIwblRCVHp1U3dLUkhGSGpKcnVKQ1dWdw?oc=5",
-    "at": "2026-10-27T19:54:18.000Z"
-   },
-   {
-    "title": "Innodata Sinks 28% on Reported Abrupt Layoffs of 550 in India: “Official IDs Deactivated”",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObnFKNHo4eUN6Ty14WXY3UlEtbm8wWGQzSENuenZDZm1mdDUwanZ6Y044NmdqYjdFTFIybzRvZGx6RzhlMF92RnVNeEJTRGZnc2F2OXpUeXpPM3VzY0wzNlgxYVEwSVc2X3hnRkpDSHpIOU9Mb3RTQzVMZUtSa2JZOXhjd0Z0ZmxKTHBXd1lYV0FzYVc1SFpWdEpjZEQ5T1E?oc=5",
-    "at": "2026-10-27T18:48:16.000Z"
    }
   ],
   "debt": [
@@ -5529,16 +5535,34 @@
     "desc": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits."
    },
    {
-    "title": "French Bond Yields Hit Multiyear Highs, U.S. Treasury Yields Edge Higher",
+    "title": "Over the next decade, the U.S. Treasury will spend $20 trillion in interest on the national debt—$200 billion a month by 2036",
+    "source": "Fortune",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZGFUYWxWbDR3QTNtdnZzeVJKTTRBc1ZHVWxRT042Z3pmUFg3ZmZHMWtfMndKRDc3VHFEN3JwZHBKZWlkbkxiZm1QNTBRaUFObHp2R1pySHhzQTRic25NU3RxUDhVdDVQaloyY2Q2OHJwWGtCc0NJSnNHOVV1UDExc1ptejBleG5hYnRYRllJZ2RuNnB2ME1KajVNcllHNHJ2MDBJNlZwcV9VZmd5cDh5RWN3?oc=5",
+    "at": "2026-10-28T12:17:14.000Z"
+   },
+   {
+    "title": "Global Government Bond Yields Rise Ahead of Fed Decision, U.K. Budget",
     "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUUVqY01YZEVBNGdnSkZQSllpNnZmNFNUUm5ab0VxODNVWXVUdm5VYW1GcGRjSXJvTE9lSjlITEZZYmR6MUJiQ1ZtaFhNb3JDQkJoQ09JdlJUdlFsTXRfeEVKM0s1em51dUR0Z3h2WW9hRS1BdVVDSWhGSXNZZ1NIRTlzSnk4ZzZianQ0bnRheEEwRGpXTmY0SA?oc=5",
-    "at": "2026-10-28T01:11:05.000Z"
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaEkwMGl6T29kQlFSbU9EanZNX3VMdG5PcG9tWXh3cUQ0U0R5ZTFuUU1QRl9PWl9nd2l4bFpwWl9OOFFTS0VfSV9UcFR0VEtsRW9ld25admRIbkFQa292VTNWVV9xb2g3ZlQwZ2ZuNlVSQkNTQzhGN0RDSl9wZ0hDWi1fcGFTRnJHUTAzeEhUY1BZeVFJU1ZyaVFPdDkzNm9sVTVmcm9pSkxRWjlTOHRpSjlPNmxUb0pPaHBN?oc=5",
+    "at": "2026-10-28T09:57:00.000Z"
+   },
+   {
+    "title": "Treasury yields tick higher ahead of Federal Reserve interest rate decision",
+    "source": "CNBC",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNblEzWWhhd29Pcm51emZVLUtkQ0FHb3FFYTBBRTlsTU9MN1lKQVl5eDVGUjJPYnpfTm8tV2JteFlEbVkxbV9WNHhvbHdUQ0JYOWk4YkVObXhrUlRDQ0ZLTHhNcUtCRVdRLVU5TXYyN2RLUVFRMHR5SklNMXB5eUt4RnNaZknSAYoBQVVfeXFMT19ETGtYNWFfbnVCbTdXTkoxYVBJN25Vd0xUeE1zVmxVVXlHbFhMUHZOX2Q1VGNKTmx4aTNUd0R2WVloQXF1Y2JLUHRzc0ZRaXRKRjY2UGo2R29ucndXc05LczJQQU9pekw1TmhfT0YzTm9pbEhuRUl1WHRrRThBSWJWTmxISEd3WHJB?oc=5",
+    "at": "2026-10-28T09:22:26.000Z"
    },
    {
     "title": "Treasury Yields Rise, Eurozone Bond Yields Fall Amid French Concerns",
     "source": "WSJ",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQUh5anllcENIVlhXM0xrczNZWEVERVdFSE5lRzVkUFY1STBRUUtSZmdHbkRXX2pqNDY1TGxWdDJxTFZKRkc3cFhmUzBjTGUtdmlZaFYybG9tOFVaNk5IZTVpd1FVOW9mZUlRY2I1MFJwblJ3S1hqNVNkSVIyVmg0VzcyTEpncGhaWmUyYnFibVZqUUN2aU41MWxyc1QxYmJpSHVGVG1Jb2RGY1doTWln?oc=5",
-    "at": "2026-10-28T00:35:33.000Z"
+    "at": "2026-10-28T08:33:56.000Z"
+   },
+   {
+    "title": "French Bond Yields Hit Multiyear Highs, U.S. Treasury Yields Edge Higher",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUUVqY01YZEVBNGdnSkZQSllpNnZmNFNUUm5ab0VxODNVWXVUdm5VYW1GcGRjSXJvTE9lSjlITEZZYmR6MUJiQ1ZtaFhNb3JDQkJoQ09JdlJUdlFsTXRfeEVKM0s1em51dUR0Z3h2WW9hRS1BdVVDSWhGSXNZZ1NIRTlzSnk4ZzZianQ0bnRheEEwRGpXTmY0SA?oc=5",
+    "at": "2026-10-28T01:11:05.000Z"
    },
    {
     "title": "Treasury Yields Fall on String of Weak Housing Data",
@@ -5551,24 +5575,6 @@
     "source": "Fox Business",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzc0owVFc3ZnNhYUlyaDJjN09xcngyTzMxMDdZSkNFXzlBck9xdEc3WXNoV1JtQlZ3a24wZnU3VEVla01xenpZMGFHVkpzOGVDdjdVQ0FpLURaR0U?oc=5",
     "at": "2026-10-27T17:14:30.000Z"
-   },
-   {
-    "title": "Hold or sell? High Treasury yields spur US banks to rethink bond portfolios",
-    "source": "Reuters",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZlRoclI1cWxjMnVMUDNDMU1HYXoyOWRGTjlpOGs1ejBTNzRxNGtJQVJ5NVYxM2d2cjlXOThnX3dvQ0Nld2JGVWdmRmZpTjhmLTlUVlVoU0FnNENXb1pydXVQNlpaZy0zZjVfdXlOSWtwbW9KZlAybzRfNlBsNVc4VmVhSFhBajIzcTl6Y0QwR0pvWEtVbjNxTTJPdHNWcFNwakFOZE05Tk4wSTJOa2JOTWpobXFNR01WUHlqVEViaS1selhWTWc?oc=5",
-    "at": "2026-10-27T10:11:08.000Z"
-   },
-   {
-    "title": "U.S. Treasury yields hover near multi-week lows ahead of Fed decision",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTG9WV1BXRVZEdTVyN2Y1VkVpcmZaQ0lnRk5mQldzNWhJMTBFdU5fRFcwS1BLR0UzekFVbmx2OXVmd0hZazBiQmwwWjVSN21ObnB5dVcyVGItNlZvYUdxOUc5ZG1aSjhlWmh0bUVCNjZ4WTdoSUFQREJRUlUyc253Yjd3emk2NWE1Z3g4OGhSa2VRNlhUNTNQby1mbS1Md3JiMHc?oc=5",
-    "at": "2026-10-27T09:45:01.000Z"
-   },
-   {
-    "title": "U.S. Treasury yields tick higher as Federal Reserve's monetary policy meeting gets underway",
-    "source": "CNBC",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNmh6WFAzNWdIOWhlWXJxTjdEVk44cmliSXBmSlVuVDVmMkNxVzY0Ykc5TzFBVEVrNXcxSXNnc0VqZlAxemFpTEJHczdCSHBGTWFBclBQVkcyUm5qQzF0am5OOHhYVnRBTnhZYlFGRmRKOTJfX0RFOXd0bHZ0VXhNRmhoUWZfeVREdFQ3MWpOcGtIaHZMeHZB0gGcAUFVX3lxTE92WXJpR0xaYlIzNERkNzFvZHJnek1vLTIzNjhLUWRGb2RBTnhfQWMzQ2ttREhuZHowck9iY2hDM3VrRnUtd25EWVh1cWM2bG9VSWw3N0VSUWVLV3IwbG9tUWhXWnRjenZ1bFRTaDhtX2FJN0E1VzJnWkUwbU9DQk4tZXp5MVhXaExXQnRZc2xFdEc5QUFZVXVWQ0VSVA?oc=5",
-    "at": "2026-10-27T09:44:07.000Z"
    }
   ]
  }
