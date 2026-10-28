@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T12:57:41.925Z",
+ "updated": "2026-10-28T22:37:08.744Z",
  "ticker": [
   {
    "name": "Mortgage, 30-yr",
@@ -31,10 +31,10 @@
   },
   {
    "name": "10-yr Treasury",
-   "value": "5.00%",
-   "dir": "flat",
-   "asOf": "2026-10-26",
-   "when": "Oct 26"
+   "value": "4.99%",
+   "dir": "down",
+   "asOf": "2026-10-27",
+   "when": "Oct 27"
   }
  ],
  "videos": [
@@ -4710,114 +4710,114 @@
     },
     {
      "name": "10-year Treasury yield",
-     "value": "5.00%",
-     "when": "Oct 26",
-     "asOf": "2026-10-26",
-     "change": "+0.99 pts vs. a year ago",
+     "value": "4.99%",
+     "when": "Oct 27",
+     "asOf": "2026-10-27",
+     "change": "+0.98 pts vs. a year ago",
      "dir": "up",
      "tone": "bad",
      "spark": [
-      4.21,
-      4.28,
+      4.25,
+      4.37,
+      4.3,
+      4.42,
+      4.27,
+      4.23,
+      4.22,
+      4.4,
+      4.59,
+      4.57,
+      4.68,
+      4.61,
+      4.63,
+      4.58,
+      4.49,
+      4.47,
+      4.4,
+      4.16,
+      4.22,
       4.31,
-      4.43,
+      4.34,
+      4.23,
+      4.15,
+      4.38,
       4.41,
       4.19,
-      4.2,
-      4.39,
-      4.59,
-      4.58,
-      4.67,
-      4.66,
-      4.65,
-      4.52,
-      4.45,
-      4.52,
-      4.42,
-      4.24,
-      4.32,
-      4.31,
-      4.25,
-      4.27,
-      4.01,
+      4.3,
+      4.49,
       4.48,
-      4.42,
-      4.23,
-      4.36,
-      4.45,
-      4.46,
-      4.43,
-      4.46,
       4.47,
-      4.39,
-      4.29,
-      4.3,
-      4.35,
-      4.47,
-      4.43,
       4.37,
+      4.41,
+      4.38,
+      4.26,
+      4.35,
+      4.43,
+      4.44,
+      4.4,
       4.23,
-      4.29,
-      4.33,
-      4.22,
-      4.1,
-      4.06,
-      4.14,
-      4.2,
-      4.13,
-      4.05,
-      4,
-      4.01,
-      4.13,
-      4.13,
-      4.12,
-      4.01,
-      4.06,
-      4.13,
-      4.16,
-      4.15,
-      4.19,
-      4.18,
-      4.24,
-      4.22,
-      4.29,
-      4.22,
-      4.05,
-      4.04,
-      4.06,
-      4.15,
-      4.2,
-      4.39,
-      4.3,
+      4.27,
       4.33,
       4.26,
+      4.23,
+      4.05,
+      4.05,
+      4.15,
+      4.15,
+      4.18,
+      4.03,
+      3.98,
+      3.99,
+      4.1,
+      4.08,
+      4.13,
+      4,
+      4.11,
+      4.14,
+      4.12,
+      4.14,
+      4.17,
+      4.19,
       4.3,
+      4.24,
+      4.28,
+      4.16,
+      4.09,
+      4.05,
+      4.09,
+      4.21,
+      4.26,
+      4.33,
+      4.33,
+      4.29,
+      4.29,
+      4.3,
+      4.42,
       4.36,
-      4.43,
       4.46,
-      4.67,
+      4.57,
+      4.45,
+      4.47,
+      4.45,
+      4.46,
+      4.38,
       4.48,
-      4.49,
-      4.55,
-      4.49,
-      4.4,
-      4.49,
-      4.56,
-      4.55,
-      4.69,
-      4.75,
+      4.62,
+      4.6,
       4.65,
-      4.68,
-      4.74,
-      4.73,
-      4.78,
-      4.97,
+      4.7,
+      4.72,
+      4.72,
+      4.7,
+      4.75,
+      4.8,
+      5,
       4.96,
-      5.24,
-      5.31,
-      5.21,
-      5.12,
-      5
+      5.26,
+      5.27,
+      5.19,
+      5.13,
+      4.99
      ],
      "source": "Federal Reserve"
     }
@@ -5255,20 +5255,44 @@
  "news": {
   "top": [
    {
-    "title": "11 bargain-priced stocks of companies that have huge growth potential over the next two years",
+    "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/11-bargain-priced-stocks-of-companies-that-have-huge-growth-potential-over-the-next-two-years-d62618e6?mod=mw_rss_topstories",
-    "at": "2026-10-28T12:54:00.000Z",
-    "image": "https://images.mktw.net/im-98694626",
-    "desc": "These stocks trade at low price/earnings valuations, and the companies are projected to achieve very high revenue growth rates through 2028."
+    "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+    "at": "2026-10-28T21:45:00.000Z",
+    "image": "https://images.mktw.net/im-19916000",
+    "desc": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”"
    },
    {
-    "title": "Mortgage rates fell for the second straight week, but more borrowers still sought savings in riskier loans",
+    "title": "Fed holds interest rates steady even as inflation remains high",
+    "source": "CBS News",
+    "link": "https://www.cbsnews.com/news/federal-reserve-holds-interest-rates-steady-inflation/",
+    "at": "2026-10-28T21:34:15.000Z",
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/28/cece5b55-98b1-4d05-97fd-aef3fe508a23/thumbnail/1200x630/37cc6eb2dd8fe71ac372025531d9fc28/gettyimages-1223805382.jpg",
+    "desc": "The U.S. central bank left borrowing costs unchanged this month after hiking rates in September for the first time in three years."
+   },
+   {
+    "title": "Fed Holds Rates Steady Despite Lack of Progress on Inflation",
+    "source": "The New York Times",
+    "link": "https://www.nytimes.com/live/2026/10/28/business/fed-meeting-warsh-interest-rates/warsh-interest-rates-fed",
+    "at": "2026-10-28T21:27:49.000Z",
+    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28dc-fed-lwvg/28dc-fed-lwvg-mediumSquareAt3X.jpg",
+    "desc": "Kevin M. Warsh, the chairman of the Federal Reserve, said an “information-rich” period before the central bank’s gathering in December will help officials determine next steps for policy."
+   },
+   {
+    "title": "Fed leaves rates unchanged: What it means for credit cards, mortgages, auto loans and savings accounts",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/10/28/mortgage-rates-fell-for-the-second-straight-week.html",
-    "at": "2026-10-28T11:33:43.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108448116-1792697240840-gettyimages-2296175868-260923_tohomes_116.jpeg?v=1792697322&w=1920&h=1080",
-    "desc": "Mortgage rates have fallen over the past two weeks, but demand is only slightly higher, and more borrowers are looking for savings in riskier loans."
+    "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-consumer-borrowing-costs.html",
+    "at": "2026-10-28T20:59:23.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108259014-1769705594016-gettyimages-2257773229-GM_EARNS.jpeg?v=1793220825&w=1920&h=1080",
+    "desc": "The Fed's benchmark affects many consumer borrowing costs, including the rates tied to mortgages, credit cards, auto loans and savings accounts."
+   },
+   {
+    "title": "Fed holds interest rates steady even as inflation remains stubborn",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/10/28/nx-s1-6020425/federal-reserve-interest-rates-inflation",
+    "at": "2026-10-28T18:04:42.000Z",
+    "image": null,
+    "desc": "The Federal Reserve opted to leave its benchmark interest rate unchanged — but investors widely expect the central bank to raise rates at its next meeting in December to combat stubborn inflation."
    },
    {
     "title": "Australia’s inflation rate rises to 4.3%, fuelling fears of fifth interest rate hike this year",
@@ -5279,12 +5303,36 @@
     "desc": "CPI release comes ahead of Reserve Bank decision next week as the Middle East conflict intensifies the cost-of-living crisis Follow our Australian politics live blog for latest updates Get our daily political email , fre"
    },
    {
-    "title": "These jobs saw the biggest jump in pay in recent years",
+    "title": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
+    "at": "2026-10-28T21:30:00.000Z",
+    "image": "https://images.mktw.net/im-65126339",
+    "desc": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”"
+   },
+   {
+    "title": "Caregivers face soaring costs, taking a toll on income and jobs",
     "source": "CBS News",
-    "link": "https://www.cbsnews.com/news/wage-growth-information-sector-jobs/",
-    "at": "2026-10-27T21:45:26.000Z",
-    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/27/e48b90a2-f18f-4466-9fb6-a0b03d503d39/thumbnail/1200x630/000257614ce720628f7b8842c4c89a1a/gettyimages-1493646763.jpg",
-    "desc": "New analysis breaks down which industries saw the largest wage growth and hiring gains in recent years."
+    "link": "https://www.cbsnews.com/news/caregiving-costs-surge-aarp-study/",
+    "at": "2026-10-28T21:25:59.000Z",
+    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/28/bd8837c0-1ed6-404b-b710-897c1f28f5ea/thumbnail/1200x630/debc76dff658b1fa3557783427c8606d/gettyimages-1390975112.jpg",
+    "desc": "Caregivers spend an average of $11,500 per year looking after an aging parent, relative or friend, up roughly 60% since 2021, according to AARP."
+   },
+   {
+    "title": "How the Fed’s Interest Rate Decision Affects Credit Cards, Loans and More",
+    "source": "The New York Times",
+    "link": "https://www.nytimes.com/2026/10/28/business/economy/fed-interest-rates-credit-cards-loans.html",
+    "at": "2026-10-28T18:09:22.000Z",
+    "image": null,
+    "desc": "The Federal Reserve left its benchmark rate untouched, but a December hike could make holiday borrowing more costly."
+   },
+   {
+    "title": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
+    "at": "2026-10-28T15:39:14.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108320522-1781203657285-gettyimages-2278740251-ecp_ws_260602_dsc_2551.jpeg?v=1781203687&w=1920&h=1080",
+    "desc": "The U.K. budget cuts household energy costs, raises taxes on banks and directs billions toward defense, Ukraine and artificial intelligence"
    },
    {
     "title": "How Aldi is pushing down grocery prices",
@@ -5295,78 +5343,30 @@
     "desc": "The German-owned chain's low prices are winning over shoppers — and pushing competitors to respond."
    },
    {
-    "title": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
-    "at": "2026-10-28T12:48:00.000Z",
-    "image": "https://images.mktw.net/im-21062271",
-    "desc": "Vertiv’s big sales beat affirms that the AI buildout is accelerating."
-   },
-   {
-    "title": "Frozen housing market sends remodelers mixed messages",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/10/27/frozen-housing-market-sends-remodelers-mixed-messages.html",
-    "at": "2026-10-27T12:20:59.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108464827-1793033410797-gettyimages-1657566602-fs20230806_p12__a8a3620_r30.jpeg?v=1793033417&w=1920&h=1080",
-    "desc": "Home remodelers have always served two different markets, but the current state of housing is now pulling them opposite directions."
-   },
-   {
     "title": "Plan for multibillion-pound Sizewell nuclear plant a ‘terrible deal’ for UK taxpayers, MPs say",
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/oct/28/plan-for-multibillion-pound-sizewell-nuclear-plant-a-terrible-deal-for-uk-taxpayers-mps-say",
     "at": "2026-10-28T00:01:47.000Z",
     "image": "https://i.guim.co.uk/img/media/4996f4417eea84b657961bb7700ac93206205150/337_0_4943_3956/master/4943.jpg?width=700&quality=85&auto=format&fit=max&s=41448fa3003b9b5466581c89fb0bcf0f",
     "desc": "The public accounts committee has said the risk to billpayers is ‘extraordinary’ The government’s plan to fund a multibillion-pound nuclear plant at the Sizewell site in Suffolk represents a “terrible deal” for the UK ta"
-   },
-   {
-    "title": "Dollar General overcharged people at checkout for years, FTC says",
-    "source": "CBS News",
-    "link": "https://www.cbsnews.com/news/dollar-general-sued-ftc-overcharging-prices/",
-    "at": "2026-10-27T17:53:09.000Z",
-    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/26/d97ea04b-66fa-4a9d-84e2-54a3b934b3a6/thumbnail/1200x630/a73629fdc03fc03f56a38f14ea0b442d/gettyimages-1139364763.jpg",
-    "desc": "The discount retailer routinely charges customers more at checkout than the prices it displays on shelves, price tags and ads, according to federal and state authorities."
-   },
-   {
-    "title": "We are in our 70s. Should we pay off our 2.5% mortgage early or build up our savings?",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-    "at": "2026-10-28T12:45:00.000Z",
-    "image": "https://images.mktw.net/im-65126339",
-    "desc": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”"
-   },
-   {
-    "title": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/10/26/fed-decision-expectations-october-meeting.html",
-    "at": "2026-10-26T18:51:23.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108364336-1789647696167-US_Federal_Reserve_Chair_Kevin_Warsh_Holds_Press_C-2295666687-Getty.jpg?v=1789647704&w=1920&h=1080",
-    "desc": "The Federal Reserve is expected to keep its overnight rate unchanged at the conclusion of its October meeting this week."
-   },
-   {
-    "title": "San Francisco estate sells for record $10m above listing price as AI boom drives up costs",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/oct/27/san-francisco-real-estate-listing-price-ai",
-    "at": "2026-10-27T20:23:03.000Z",
-    "image": "https://i.guim.co.uk/img/media/98f46b0543c2e51302198aa381fb1377a49460ca/307_0_1086_870/master/1086.jpg?width=700&quality=85&auto=format&fit=max&s=1eb199a5cc94bfce495c7c8c88a2cdb8",
-    "desc": "Eight-bedroom mansion listed at $18.5m sold for $28.5m and has a private garden and three-car garage A San Francisco estate sold for $10m above its listing price this month in a new record for the city as the artificial "
    }
   ],
   "housing": [
    {
-    "title": "We are in our 70s. Should we pay off our 2.5% mortgage early or build up our savings?",
+    "title": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
     "source": "MarketWatch",
     "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-    "at": "2026-10-28T12:45:00.000Z",
+    "at": "2026-10-28T21:30:00.000Z",
     "image": "https://images.mktw.net/im-65126339",
     "desc": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”"
    },
    {
-    "title": "Mortgage rates fell for the second straight week, but more borrowers still sought savings in riskier loans",
+    "title": "Fed leaves rates unchanged: What it means for credit cards, mortgages, auto loans and savings accounts",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/10/28/mortgage-rates-fell-for-the-second-straight-week.html",
-    "at": "2026-10-28T11:33:43.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108448116-1792697240840-gettyimages-2296175868-260923_tohomes_116.jpeg?v=1792697322&w=1920&h=1080",
-    "desc": "Mortgage rates have fallen over the past two weeks, but demand is only slightly higher, and more borrowers are looking for savings in riskier loans."
+    "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-consumer-borrowing-costs.html",
+    "at": "2026-10-28T20:59:23.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108259014-1769705594016-gettyimages-2257773229-GM_EARNS.jpeg?v=1793220825&w=1920&h=1080",
+    "desc": "The Fed's benchmark affects many consumer borrowing costs, including the rates tied to mortgages, credit cards, auto loans and savings accounts."
    },
    {
     "title": "TikTok parent ByteDance's founder is China's richest person again",
@@ -5377,6 +5377,14 @@
     "desc": "The founder of Tiktok parent ByteDance, Zhang Yiming, reclaimed the top spot on a list of China's richest people, driven by his company's push into AI."
    },
    {
+    "title": "Mortgage rates fell for the second straight week, but more borrowers still sought savings in riskier loans",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/10/28/mortgage-rates-fell-for-the-second-straight-week.html",
+    "at": "2026-10-28T11:33:43.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108448116-1792697240840-gettyimages-2296175868-260923_tohomes_116.jpeg?v=1792697322&w=1920&h=1080",
+    "desc": "Mortgage rates have fallen over the past two weeks, but demand is only slightly higher, and more borrowers are looking for savings in riskier loans."
+   },
+   {
     "title": "Frozen housing market sends remodelers mixed messages",
     "source": "CNBC",
     "link": "https://www.cnbc.com/2026/10/27/frozen-housing-market-sends-remodelers-mixed-messages.html",
@@ -5385,38 +5393,48 @@
     "desc": "Home remodelers have always served two different markets, but the current state of housing is now pulling them opposite directions."
    },
    {
-    "title": "Mortgage Rates Today: October 28, 2026 – 30-Year Rate Hits One-Month Low",
-    "source": "Forbes",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EWV9HTGdFVUdyZ3FYQWFRbmNHd0FQQS1hZzN2T1hsOEdSWk5nWHBWYUU0am1wX1J3bjd0S05sajcwWUlVdHFaa1RVNnBfSXhPcXFrWlNKNzg0blFCNi1qWThnMC1CeHdic24wY29LLTMzZ3M?oc=5",
-    "at": "2026-10-28T10:00:23.000Z"
+    "title": "Home Prices Are Falling Fastest In These Cities, Giving Buyers an Edge",
+    "source": "Realtor.com",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb0NZUWZLSlI2ZDhVdEo4cWpxNmtweURYVTM0TnZOWXpkX1BmMVJEbDZqU3lWWEc3ZTdiTzFiTTNNekVkWGtDeVZQa2p6M0JhTVRYM214VXJQUzBocXMxcW1zb1VlbFZkTWtGdnRaVzRKSEJmeUpKX0VZNWRyaTZSR29RWUJRZG9xYW5feDM2NVItU3Np?oc=5",
+    "at": "2026-10-28T20:34:46.000Z"
    },
    {
-    "title": "Corporations Are Holding Back Inventory and Keeping Home Prices High, Real Estate Agent Says",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbTRoN0RiUnMzcXRrZW5HS0pvcUwwcmR3LUlzTHVRWGdLYkpfeFliY2xXYzFnMTVFV2NJMFFMUTlIb2pQR01ycmQyZmNTUjhlTVcyU3NoY001OU51bmROaXVreTdCTmEyTE9mNlpDQk1CZHNpUXpremtGb0VUVFVRUEpJUUJlTUpDYWtJMmh4ZmNleXl0Z28xWWZnOUpOT2pXWXNqSlVleGs?oc=5",
-    "at": "2026-10-28T10:00:00.000Z"
+    "title": "In an Ugly Housing Market, D.R. Horton’s Guidance Matters More than Earnings",
+    "source": "Barron's",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5M0JFckNoc21BVy1hWDhqS3BBTVBqTU5YUkJjR3BZRHRmTHJDaWFKUlI2bDFHVHdST0JiVmY1RmJYYWhGMlRDV0wxNWF2cXJXeXRFXzdjSGdMSml6RWxvOG91aWxwM1hoanZiOW9fWVBxT01ERDNLcA?oc=5",
+    "at": "2026-10-28T20:29:00.000Z"
    },
    {
-    "title": "Mortgage and refinance interest rates today, Wednesday, October 28, 2026: Mortgage rates move lower ahead of Fed decision day",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPNWVMTW1rSkZqaEpib29Sck1fN2dHQnJpejVqZ1hDX1FjRkNvMDJ3WFhONHpQYUYyWmVhT3BCY0dSc2FwNU9ZRE1fYk9FTlc3NGE3NlFqdnoyeTB0MF9jejZQTkZ1Sy00dUdpQ1dKeUtMWmdUMjZHbm5zN0x0ODlhOHNvQU9kUUFYRXJVcE4waVQxX21tbDRBZm45c19JRUFkbC1Va05ENHJOeXZKdno2ZzVWa0thbjNpSDhNWWotWjVWYS13cUhxVUsybklTUlVkR0NzdFdVTVVJekJ2RmVhU3Awd0lsdmM3UHZHc00yX3JZa29pVUpIcGd4T3dWNDZRNElRbWctUnBTRXU3VlU5OTQzR1NOM3d6a1ZpZmNDU1g2T3M?oc=5",
-    "at": "2026-10-28T10:00:00.000Z"
-   },
-   {
-    "title": "A Punishing Housing Market Is Squeezing Renters",
-    "source": "The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeE9kTmk4cGFrV2QxYXN5eUIzUzdDRWYtUGhYZ1E0QTEyT2oza1Q4Vy1FSjIwTmFGMHV1WlN5cFNrVTh5azRhazkzenFORkNQYm9BbWFjelZQN0p1dUJxT3hiVFFnRmluRi1lanhxMGtHLWVzUXZvUTJUVHc4VkI1QWs4bw?oc=5",
-    "at": "2026-10-28T09:05:30.000Z"
+    "title": "6 pros predict where mortgage rates are headed in November",
+    "source": "MarketWatch",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc1RpUHBFZW5jZHdsdDJXWjRvdnFLTTgxZFFsRzFBTXVxMURTWkdfVVE3OGxhNk9GOVQxUnFVTlZHbnZ5dHYzbHFIdnZabnhFbGxvd2tSRnNxUTIzeVRQVnNpM0FfeW1NRVFCNWVQeWEyOGt0Zk42b0NJaUpSc1g3Y2VaYjNxdFZSbFZVM1BHTmttcTdsa19wRkpsVEt4WDdrX05r?oc=5",
+    "at": "2026-10-28T20:26:00.000Z"
    }
   ],
   "inflation": [
    {
-    "title": "Four reasons to start worrying about inflation — the end of tariff refunds is one of them",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/four-reasons-to-start-worrying-about-inflation-including-the-end-of-tariff-refunds-978a5cfd?mod=mw_rss_topstories",
-    "at": "2026-10-28T10:21:00.000Z",
-    "image": "https://images.mktw.net/im-83724868",
-    "desc": "Dennis DeBusschere of 22V Research says companies that previously used tariff refunds to ease cost pressures will increasingly pass on those higher costs to consumers."
+    "title": "Fed holds interest rates steady even as inflation remains high",
+    "source": "CBS News",
+    "link": "https://www.cbsnews.com/news/federal-reserve-holds-interest-rates-steady-inflation/",
+    "at": "2026-10-28T21:34:15.000Z",
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/28/cece5b55-98b1-4d05-97fd-aef3fe508a23/thumbnail/1200x630/37cc6eb2dd8fe71ac372025531d9fc28/gettyimages-1223805382.jpg",
+    "desc": "The U.S. central bank left borrowing costs unchanged this month after hiking rates in September for the first time in three years."
+   },
+   {
+    "title": "Fed Holds Rates Steady Despite Lack of Progress on Inflation",
+    "source": "The New York Times",
+    "link": "https://www.nytimes.com/live/2026/10/28/business/fed-meeting-warsh-interest-rates/warsh-interest-rates-fed",
+    "at": "2026-10-28T21:27:49.000Z",
+    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28dc-fed-lwvg/28dc-fed-lwvg-mediumSquareAt3X.jpg",
+    "desc": "Kevin M. Warsh, the chairman of the Federal Reserve, said an “information-rich” period before the central bank’s gathering in December will help officials determine next steps for policy."
+   },
+   {
+    "title": "Fed holds interest rates steady even as inflation remains stubborn",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/10/28/nx-s1-6020425/federal-reserve-interest-rates-inflation",
+    "at": "2026-10-28T18:04:42.000Z",
+    "image": null,
+    "desc": "The Federal Reserve opted to leave its benchmark interest rate unchanged — but investors widely expect the central bank to raise rates at its next meeting in December to combat stubborn inflation."
    },
    {
     "title": "Australia’s inflation rate rises to 4.3%, fuelling fears of fifth interest rate hike this year",
@@ -5449,27 +5467,17 @@
     "at": "2026-10-26T10:35:24.000Z",
     "image": "https://i.guim.co.uk/img/media/275f98d8c2bcb343ced7e3b49bd547734a4db6f9/865_0_6406_5124/master/6406.jpg?width=700&quality=85&auto=format&fit=max&s=407897bc239d82708caa3208b54f9b61",
     "desc": "Jump fuelled by fears of further Middle East supply disruptions amid reports of US-Israeli plans to strike Iran European gas prices have jumped to levels not seen since 2022 as fears continue to grow around the continent"
-   },
-   {
-    "title": "The Fed is expected to hold rates steady. How will Warsh justify that in the face of higher inflation?",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNN3IyZkZRTDNZWTF4aU5iLVA3XzR5d3FKcmU5b2RmWUJEZnhod0VRMW9odmFqM0d6UkpXMW82VzRFUjYwZ19Tam42cVozYllyUWZOOFhGODdiUDJiaVZoYnNxdEtTZHFWSEpDVGZXNS1qblhzM0pBZGpOVnQ1b0hzbUNhWjFDUWtCdDB1MGlZYm51MjJlY0dEX1RYYjNHZFpGV2xVOTFhRS1xQ041Y09JRVh3ekM1S0dMeFpGNGpUbWtfT3dodUtoU2FuR1NRQlp0UE9fYnJqblc5bFdCMm0wT0k4OXJlS3YyVGZDY2U1TDg4dWV2dEdr?oc=5",
-    "at": "2026-10-28T12:20:25.000Z"
-   },
-   {
-    "title": "Bank of Canada poised to hike key rate for first time in three years",
-    "source": "Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSkxiNlN6Z0ZGZHlEdXc2R09fa1ZTZGxBTTl4WUVUcFN1MTdYeEVfVE0xcFpOcUxaZ0U2VVdOVXRsdE0tSzdQcDFuOElWeE1IRjcyM1ZUd0VqcnJVdHIyaUdObEptUkQwT3NPTXBQWkx4VE5QbF9XRzBkWWhEVzFDM2lDQnpmVlhCcV9DQ3FxZVE0Qmd0bVlUS1A2azQ4Z0lUd0w2VnVWYjJzZw?oc=5",
-    "at": "2026-10-28T11:29:19.000Z"
-   },
-   {
-    "title": "Gas prices fall as refining margins shrink and energy stocks tumble",
-    "source": "CNBC",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQlpTVG9ELWhVUnJPTTFkQkVsT0NFcVdwMllBcFlnUFNJc1R2TWhfRTg3aXl0OTNJX05BY01GVE5YekZUWndQaHFrcU41ZDJXX0xFNy1wbWVwRDNCakYtUThOX01nVjRqY213NlVIa3REZkxGSE5RS2hHc1Q5QTJIaEtYUDNqRmxJWU1DbV9NbENscmo4UjJGWnVDeHJnRG9zOTE4M2xKNDBfVl9ndm1n?oc=5",
-    "at": "2026-10-28T11:18:52.000Z"
    }
   ],
   "jobs": [
+   {
+    "title": "Caregivers face soaring costs, taking a toll on income and jobs",
+    "source": "CBS News",
+    "link": "https://www.cbsnews.com/news/caregiving-costs-surge-aarp-study/",
+    "at": "2026-10-28T21:25:59.000Z",
+    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/28/bd8837c0-1ed6-404b-b710-897c1f28f5ea/thumbnail/1200x630/debc76dff658b1fa3557783427c8606d/gettyimages-1390975112.jpg",
+    "desc": "Caregivers spend an average of $11,500 per year looking after an aging parent, relative or friend, up roughly 60% since 2021, according to AARP."
+   },
    {
     "title": "These jobs saw the biggest jump in pay in recent years",
     "source": "CBS News",
@@ -5477,14 +5485,6 @@
     "at": "2026-10-27T21:45:26.000Z",
     "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/27/e48b90a2-f18f-4466-9fb6-a0b03d503d39/thumbnail/1200x630/000257614ce720628f7b8842c4c89a1a/gettyimages-1493646763.jpg",
     "desc": "New analysis breaks down which industries saw the largest wage growth and hiring gains in recent years."
-   },
-   {
-    "title": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
-    "at": "2026-10-25T13:43:19.000Z",
-    "image": "https://i.guim.co.uk/img/media/3505a53736aa93c5c0c6865e0b06b5c8b49159c8/292_0_2917_2333/master/2917.jpg?width=700&quality=85&auto=format&fit=max&s=d45b1c380c8323510f9e2ee712e78c4a",
-    "desc": "VW investment, creating 4,500 jobs in Georgia, comes amid Trump’s damaging tariffs, intense Chinese competition and costly shift towards EVs Audi has said it will spend $4bn (£3bn) to build its first factory in the US, a"
    },
    {
     "title": "Microsoft offers buyouts to 60,000 workers as it invests more in AI",
@@ -5495,37 +5495,53 @@
     "desc": "Roughly a quarter of Microsoft's workforce will be eligible for a \"voluntary exit offer\" as the company tries to shed workers."
    },
    {
-    "title": "AI Layoffs Are Boomeranging—6 Moves If Your Old Boss Calls",
-    "source": "Forbes",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTEFrZVNENUFiQThWOXFJRFhPZ2RaM3N0UWNnM0ZTek9KWmQ3dElHOGo1SjA5QjR2V2dBU0NRTy1IWk9OdE9QVnhpbFRYa3BZTVJiZGtjY2Q5UUJsQ1hQNXVTRDc3NXpuZ3hSR0NybGJGblZ6NEd1TzRxWDNneVE4NENrUFExTXYyS3Z6YVpPb2c4UXluV1JZMUtmc3RndG40MTVfQkhFOGFvTUpfZC1UQVJpWQ?oc=5",
-    "at": "2026-10-28T11:09:20.000Z"
+    "title": "The RBA has primed the market for an interest rate rise. But what will it mean for unemployment? | Greg Jericho",
+    "source": "The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcFIxM1dIdEpzMEhSN0Vfc1lFRDRHQm5VZTlscThaOE1BYTR2d2tHR0ZOb0tqRzNfQ0p6bmlJZk5LM2FIdUJYMzRBNWQ1eVFpaFFFTzhrX2ZrbG04bVV5NlRYUjFDVDhyMjFFdHkzcERfTFZTUFpFYUNmejVROTNXc3E0dm8xTVJHQnlZamFWNjhWbEdtalF1SzBWNEo1SXQtaFgzbEpaZFFZQ0xFbUxoUnhpWWRWWjM1OEhVUExMTWlZWlBURG5tVWhDUXUxX0xUcE1seFhhMU1IUFIwU21KRlgxdkFIMjFORl9J?oc=5",
+    "at": "2026-10-28T21:21:00.000Z"
    },
    {
-    "title": "Innodata Stock After India Layoffs Has The Bull Case Changed",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN19qN1NHRWJGb1g1dFhQOEhqS191MmtId2pTUlN3ZlVPeTdzLTdYLTdGYnlWQ2tJV2IzNDBTcjVGQnJXdm53a3FhTk8tVmVnWE5jUExjTHVIeGs5R2k3NnIzeXdaVUNBLUVqY3FpZTZuZnZwSjJtR1RzWWlRT3pXOFJqLUtBTDNyaEJ1ZzJWQ2JDN0JLd0pXeDNsQmxBOGs?oc=5",
-    "at": "2026-10-28T09:11:15.000Z"
-   },
-   {
-    "title": "SNDL Stock Layoffs: What to Know About the Latest SNDL Job Cuts",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVjlXeXhFb251Wk9LSWdtNEN1ZTcxejU4X3JFTlFRTU92MUU3OFZQajU0MmR0Mm1mTnRwZHNReTVuTFFQcnV4Q0xtUnZCNEdJeERiaXQyZlBtaWxKLUVtc1AxXy1Cem9zZEFuc2xlakFaUndOR1Q3VklaazBuQm5uOFJIYjZ2TVUwcnpGSDFmUlgtQkpqOVpEQ0JpNA?oc=5",
-    "at": "2026-10-27T20:54:57.000Z"
-   },
-   {
-    "title": "The pros and cons of offering voluntary buyouts to employees",
-    "source": "Business Insider",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcHVld1ZLNW52YXlBQTJGQkltdnZOZXV3dzNUVE1laEJKZnc1bHF3Sm9BTGFid2tuSGdncnBLMzJnZXBRWE5ERmk3WWxNVTI3M3J2Qlh3NEhpS3ZjYThFV2xrM3BWMHUxUjBWdDhRX01RS0JTWlJUZWNaUm11THNQdmV5V19LZkgxTFJ6eVE5TGdzMEtRZk84SmJVOG9fcUVW?oc=5",
-    "at": "2026-10-27T20:27:00.000Z"
-   },
-   {
-    "title": "Inside the rift at Netflix as the company faces layoffs and executive shake-ups",
+    "title": "Disney’s theme parks division lays off at least 100 employees",
     "source": "Los Angeles Times",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaWVaRzRGdUhQQXI1cDNfOGZmY2o2NlhyNF9xTzM4dTRmZkFnNWc3YUl2Q0J2TlU0UExINE5LS3JMY1lNcXRFLXFod3A2NlNKcDRnRExGVFJkZzdBVXlxM1pmOURvbHBXcFFlMmppQl9IR0RyeFFFVHpFZFJ1T3lzT1laYWpjWFZhVHNPdUhIMHlHakFTbkkwQ3Y5RWVmOG9lVzNiVUFpWkxCaW9MM0Q3VGVyUHhzNU9WRXhQTWRNTQ?oc=5",
-    "at": "2026-10-27T20:15:00.000Z"
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbERlQ1BkOEdWTXlPS2Y5c0d0OWFwQ2VoalBVSVY2Nm1VNEdwZFR0cUpmT3I0eTJqSDBHeldHcXV2blM1RWZjZE5HR1B0YmVDekdya2hYZXM0d0phTENtMjdMV1VqVEI3OXpGcjdjQzA3NnJuNkhJMEVQSjJadExQeHBmUk1oRUdZT2R0TFBMVFo2dFRTMjNNbVVFVWVqOWJwUFlNX0Y2WHFMV2lxSjVEZmY2ekVLdWc?oc=5",
+    "at": "2026-10-28T19:38:30.000Z"
+   },
+   {
+    "title": "Dropbox is laying off roughly 9% of its workforce. Read the memo.",
+    "source": "Business Insider",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcV81TGpjQVAtRWdDWWRSdEJMNXBfQnJIanZpMFlHMzlHVEtjLUdPWUdRR3l2V0VobWIySzROVDgtZkJVTDc3aUdhNFFNbWhTY0x2STM1QXlDbmZKYzVTSERyV3dhZXpMVnV6bmJydjRoQWY0MXBJbUQzbVZjSmxZWXdnVW5oSDFFcGNhdDYtcXJhUQ?oc=5",
+    "at": "2026-10-28T16:24:00.000Z"
+   },
+   {
+    "title": "Dropbox to Cut About 6% of Global Workforce",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR2JiWnI2V3ZPc2VBLTdiY0Ita3BBXzBSZ25VcXN2bUlkQ2NfUmRjRFU0Wk5sNVFGV3ZYNElpazhwM1BBWFpjdldTMVU0WkREekNrOWRJbVR0a2hRTFVFWFBOWDNMY1dteTdDcmxPZkNiVXB1X1AtTlpwZzEwOV9mVGZBYnhOWFRveV90X1Bmc3o5VGs?oc=5",
+    "at": "2026-10-28T14:09:00.000Z"
+   },
+   {
+    "title": "‘Unemployment is my best friend’: He has an engineering Ph.D, applied to 2K jobs — and has nothing. Is this the future?",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVnV2Vi1nT2VNR09sZXZ5RU1IdlRaUF9wOThRWmwtMGw5eEloX3p3MG1KVW1SYVFWRVdmU1pObnkzeGFUWUpFYmNMZVZpUVdOMDlJeEJjU1FHZXQwdGtZVXpTUnFGLWlieWtiS1ZNaGxGN19sUnhtem5PYWhEOW41dmFNMG91NjFpbkpxMDFkSnZWSXgzdjdjM2VleVBXdw?oc=5",
+    "at": "2026-10-28T13:00:00.000Z"
    }
   ],
   "debt": [
+   {
+    "title": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
+    "at": "2026-10-28T21:30:00.000Z",
+    "image": "https://images.mktw.net/im-65126339",
+    "desc": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”"
+   },
+   {
+    "title": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
+    "at": "2026-10-28T15:39:14.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108320522-1781203657285-gettyimages-2278740251-ecp_ws_260602_dsc_2551.jpeg?v=1781203687&w=1920&h=1080",
+    "desc": "The U.K. budget cuts household energy costs, raises taxes on banks and directs billions toward defense, Ukraine and artificial intelligence"
+   },
    {
     "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
     "source": "CNBC",
@@ -5535,46 +5551,34 @@
     "desc": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits."
    },
    {
-    "title": "Over the next decade, the U.S. Treasury will spend $20 trillion in interest on the national debt—$200 billion a month by 2036",
-    "source": "Fortune",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZGFUYWxWbDR3QTNtdnZzeVJKTTRBc1ZHVWxRT042Z3pmUFg3ZmZHMWtfMndKRDc3VHFEN3JwZHBKZWlkbkxiZm1QNTBRaUFObHp2R1pySHhzQTRic25NU3RxUDhVdDVQaloyY2Q2OHJwWGtCc0NJSnNHOVV1UDExc1ptejBleG5hYnRYRllJZ2RuNnB2ME1KajVNcllHNHJ2MDBJNlZwcV9VZmd5cDh5RWN3?oc=5",
-    "at": "2026-10-28T12:17:14.000Z"
+    "title": "Update: US Equity Indexes Rise, Treasury Yields Fall After Fed Stays on Hold",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQWVkM3VkaVE1X0VFdVB0T3FVSXpINmRLVHkxaExLeENZbkxiQktrWDhwczVIVUwzVUt4a2hVUFhtVDVadTVNQVZMbXhqQV9EbXdkMkIyRVltMW1TTlQ5M0JMbkZSLTNlbVk5MHp4Z3lqZ0FaTkVJbzlfWXF0VlFXeDRWNTBzN0hMSXV2bl9yVTZDRnA2cVlQdDJ6aGI?oc=5",
+    "at": "2026-10-28T21:03:52.000Z"
    },
    {
-    "title": "Global Government Bond Yields Rise Ahead of Fed Decision, U.K. Budget",
+    "title": "U.S. Stocks Up, Treasury Yields Mixed After Fed Hold",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLVpkc0tPSDBPVHptQ0w1dG1CTjVvTXpYZTAwbWlJOVpJUHc3UTN5R2pPeTA0QnoyVWpRVGpLS3JFd0xSeDdoWjJtRlJBNHZXVm5kcTBRaUdxQTNNeGdNQmFxYWE0MjBoZG80SVlscnJSaGRDdDBmUFRsT3BtWnd5TjlwZ3dqWDNDRnFVamJ4RlVqZThYTm5tVTJB?oc=5",
+    "at": "2026-10-28T20:48:00.000Z"
+   },
+   {
+    "title": "Fed’s Rate Hold Sends Bond Yields in Different Directions",
     "source": "WSJ",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaEkwMGl6T29kQlFSbU9EanZNX3VMdG5PcG9tWXh3cUQ0U0R5ZTFuUU1QRl9PWl9nd2l4bFpwWl9OOFFTS0VfSV9UcFR0VEtsRW9ld25admRIbkFQa292VTNWVV9xb2g3ZlQwZ2ZuNlVSQkNTQzhGN0RDSl9wZ0hDWi1fcGFTRnJHUTAzeEhUY1BZeVFJU1ZyaVFPdDkzNm9sVTVmcm9pSkxRWjlTOHRpSjlPNmxUb0pPaHBN?oc=5",
-    "at": "2026-10-28T09:57:00.000Z"
+    "at": "2026-10-28T20:03:45.000Z"
    },
    {
-    "title": "Treasury yields tick higher ahead of Federal Reserve interest rate decision",
-    "source": "CNBC",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNblEzWWhhd29Pcm51emZVLUtkQ0FHb3FFYTBBRTlsTU9MN1lKQVl5eDVGUjJPYnpfTm8tV2JteFlEbVkxbV9WNHhvbHdUQ0JYOWk4YkVObXhrUlRDQ0ZLTHhNcUtCRVdRLVU5TXYyN2RLUVFRMHR5SklNMXB5eUt4RnNaZknSAYoBQVVfeXFMT19ETGtYNWFfbnVCbTdXTkoxYVBJN25Vd0xUeE1zVmxVVXlHbFhMUHZOX2Q1VGNKTmx4aTNUd0R2WVloQXF1Y2JLUHRzc0ZRaXRKRjY2UGo2R29ucndXc05LczJQQU9pekw1TmhfT0YzTm9pbEhuRUl1WHRrRThBSWJWTmxISEd3WHJB?oc=5",
-    "at": "2026-10-28T09:22:26.000Z"
+    "title": "Elon Musk once backed Buffett’s 5-minute fix for national debt: ‘This is the way’",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY1JOazg3dFdVSXpIQU5ndWFfV1ViczV1TW05WlUzVUpUZDd5dmtqT0s2ZXRsSXFsUU1PMjRoZUNFY1NXbmVqQVNJVVhVY3g2STBEdVNjSHo1Nlgtc0pzTkU4RXZ0MnNvQmd2MFpFM1p2NFlOVEJsZHE5a3hDbkJHT2tmQjVSN3RKbFRhZ2lTZGlQYzJCYkV1dHl3?oc=5",
+    "at": "2026-10-28T18:45:17.000Z"
    },
    {
-    "title": "Treasury Yields Rise, Eurozone Bond Yields Fall Amid French Concerns",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQUh5anllcENIVlhXM0xrczNZWEVERVdFSE5lRzVkUFY1STBRUUtSZmdHbkRXX2pqNDY1TGxWdDJxTFZKRkc3cFhmUzBjTGUtdmlZaFYybG9tOFVaNk5IZTVpd1FVOW9mZUlRY2I1MFJwblJ3S1hqNVNkSVIyVmg0VzcyTEpncGhaWmUyYnFibVZqUUN2aU41MWxyc1QxYmJpSHVGVG1Jb2RGY1doTWln?oc=5",
-    "at": "2026-10-28T08:33:56.000Z"
-   },
-   {
-    "title": "French Bond Yields Hit Multiyear Highs, U.S. Treasury Yields Edge Higher",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUUVqY01YZEVBNGdnSkZQSllpNnZmNFNUUm5ab0VxODNVWXVUdm5VYW1GcGRjSXJvTE9lSjlITEZZYmR6MUJiQ1ZtaFhNb3JDQkJoQ09JdlJUdlFsTXRfeEVKM0s1em51dUR0Z3h2WW9hRS1BdVVDSWhGSXNZZ1NIRTlzSnk4ZzZianQ0bnRheEEwRGpXTmY0SA?oc=5",
-    "at": "2026-10-28T01:11:05.000Z"
-   },
-   {
-    "title": "Treasury Yields Fall on String of Weak Housing Data",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa0ZrSXl6OXBoV0o4dU9HQ2VkMHV5SGV3OG9vMW00S245MDZGYld5SXVOM0MtakhEWF9rU3lLdXJCMFRWS2ExbXRQZWhCM25fVmhMcGI3LXdRZ0I3UmE2SHJBYTZ0Mi11ZV9jU3IxRGRsNkFhRW9tdE1acTBPRVp4M3laTUVqcnlfd2UtUldmcU9wWEdyczNBSkZuekhHS01tazBtbUwwYms?oc=5",
-    "at": "2026-10-27T19:57:15.000Z"
-   },
-   {
-    "title": "France offers $4.4B school loan package to quell riots amid mounting national debt",
-    "source": "Fox Business",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzc0owVFc3ZnNhYUlyaDJjN09xcngyTzMxMDdZSkNFXzlBck9xdEc3WXNoV1JtQlZ3a24wZnU3VEVla01xenpZMGFHVkpzOGVDdjdVQ0FpLURaR0U?oc=5",
-    "at": "2026-10-27T17:14:30.000Z"
+    "title": "Why Falling Treasury Yields Could Send AI And Technology Stocks Higher",
+    "source": "Forbes",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUVQ4Z3VDSjVQVU5vX0FaWkhlbC1nNUhtZ3pVcTNTUzRDX3B1eUJXRERfN1Jzc2lVdER4bjlmVElIeXktWTZSOWJNRjM5MkNpWmhTQV9rSGpMYWs0RW1SYTVYMFFERnpiSVM0QjRhaGhOVjc5R1pRYmRLTWFKYUJTd2xOUzJ4clg2RVdsS1lWU1VRR3A3d2FrR0ZEM0U4Z0drNFBkZGl3OEUzZWlpT3hPd2RZd1p0ejBWZDdnY0tTXzhodw?oc=5",
+    "at": "2026-10-28T16:35:24.000Z"
    }
   ]
  }
