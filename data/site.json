@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T22:37:08.744Z",
+ "updated": "2026-10-29T05:50:54.616Z",
  "ticker": [
   {
    "name": "Mortgage, 30-yr",
@@ -4646,33 +4646,33 @@
     },
     {
      "name": "Debt as % of GDP",
-     "value": "122.6%",
-     "when": "Q1 2026",
-     "asOf": "2026-01-01",
-     "change": "+2.05 pts vs. a year ago",
+     "value": "121.2%",
+     "when": "Q2 2026",
+     "asOf": "2026-04-01",
+     "change": "+2.97 pts vs. a year ago",
      "dir": "up",
      "tone": "bad",
      "spark": [
-      121.786,
-      118.541,
-      119.359,
-      120.398,
-      118.202,
-      117.438,
-      117.367,
-      115.586,
-      117.444,
-      118.139,
-      119.619,
-      120.476,
-      119.503,
-      120.172,
-      121.436,
-      120.545,
-      118.782,
-      121.029,
-      122.568,
-      122.594
+      118.46,
+      119.313,
+      120.352,
+      118.165,
+      117.442,
+      117.351,
+      115.481,
+      117.427,
+      118.184,
+      119.453,
+      120.121,
+      119.152,
+      119.942,
+      121.013,
+      120.026,
+      118.222,
+      120.709,
+      122.412,
+      122.438,
+      121.188
      ],
      "source": "OMB / FRED"
     },
@@ -5166,87 +5166,91 @@
      ],
      [
       "2021-01-01",
-      124.038
+      123.907
      ],
      [
       "2021-04-01",
-      121.786
+      121.626
      ],
      [
       "2021-07-01",
-      118.541
+      118.46
      ],
      [
       "2021-10-01",
-      119.359
+      119.313
      ],
      [
       "2022-01-01",
-      120.398
+      120.352
      ],
      [
       "2022-04-01",
-      118.202
+      118.165
      ],
      [
       "2022-07-01",
-      117.438
+      117.442
      ],
      [
       "2022-10-01",
-      117.367
+      117.351
      ],
      [
       "2023-01-01",
-      115.586
+      115.481
      ],
      [
       "2023-04-01",
-      117.444
+      117.427
      ],
      [
       "2023-07-01",
-      118.139
+      118.184
      ],
      [
       "2023-10-01",
-      119.619
+      119.453
      ],
      [
       "2024-01-01",
-      120.476
+      120.121
      ],
      [
       "2024-04-01",
-      119.503
+      119.152
      ],
      [
       "2024-07-01",
-      120.172
+      119.942
      ],
      [
       "2024-10-01",
-      121.436
+      121.013
      ],
      [
       "2025-01-01",
-      120.545
+      120.026
      ],
      [
       "2025-04-01",
-      118.782
+      118.222
      ],
      [
       "2025-07-01",
-      121.029
+      120.709
      ],
      [
       "2025-10-01",
-      122.568
+      122.412
      ],
      [
       "2026-01-01",
-      122.594
+      122.438
+     ],
+     [
+      "2026-04-01",
+      121.188
      ]
     ]
    }
@@ -5255,12 +5259,12 @@
  "news": {
   "top": [
    {
-    "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+    "title": "The major reason Microsoft’s stock is heading higher after earnings",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-    "at": "2026-10-28T21:45:00.000Z",
-    "image": "https://images.mktw.net/im-19916000",
-    "desc": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”"
+    "link": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories",
+    "at": "2026-10-29T00:10:00.000Z",
+    "image": "https://images.mktw.net/im-99465391",
+    "desc": "Microsoft showed investors that it’s able to grow rapidly while keeping spending in check."
    },
    {
     "title": "Fed holds interest rates steady even as inflation remains high",
@@ -5273,7 +5277,7 @@
    {
     "title": "Fed Holds Rates Steady Despite Lack of Progress on Inflation",
     "source": "The New York Times",
-    "link": "https://www.nytimes.com/live/2026/10/28/business/fed-meeting-warsh-interest-rates/warsh-interest-rates-fed",
+    "link": "https://www.nytimes.com/2026/10/28/business/economy/warsh-interest-rates-fed.html",
     "at": "2026-10-28T21:27:49.000Z",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28dc-fed-lwvg/28dc-fed-lwvg-mediumSquareAt3X.jpg",
     "desc": "Kevin M. Warsh, the chairman of the Federal Reserve, said an “information-rich” period before the central bank’s gathering in December will help officials determine next steps for policy."
@@ -5303,12 +5307,12 @@
     "desc": "CPI release comes ahead of Reserve Bank decision next week as the Middle East conflict intensifies the cost-of-living crisis Follow our Australian politics live blog for latest updates Get our daily political email , fre"
    },
    {
-    "title": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
+    "title": "Fortinet’s stock is taking a dive after earnings. Here’s why.",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-    "at": "2026-10-28T21:30:00.000Z",
-    "image": "https://images.mktw.net/im-65126339",
-    "desc": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”"
+    "link": "https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories",
+    "at": "2026-10-28T23:18:00.000Z",
+    "image": "https://images.mktw.net/im-54642161",
+    "desc": "Cybersecurity stocks are broadly falling as growth slows significantly in one of Fortinet’s business segments."
    },
    {
     "title": "Caregivers face soaring costs, taking a toll on income and jobs",
@@ -5353,14 +5357,6 @@
   ],
   "housing": [
    {
-    "title": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-    "at": "2026-10-28T21:30:00.000Z",
-    "image": "https://images.mktw.net/im-65126339",
-    "desc": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”"
-   },
-   {
     "title": "Fed leaves rates unchanged: What it means for credit cards, mortgages, auto loans and savings accounts",
     "source": "CNBC",
     "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-consumer-borrowing-costs.html",
@@ -5393,7 +5389,13 @@
     "desc": "Home remodelers have always served two different markets, but the current state of housing is now pulling them opposite directions."
    },
    {
-    "title": "Home Prices Are Falling Fastest In These Cities, Giving Buyers an Edge",
+    "title": "Home Prices Are Falling in These Markets, but Rising Insurance Costs Are Eating Into the Savings",
+    "source": "Realtor.com",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbDVCa1hqMVZLTGRSbG1JTWdCRl9qYjIwRko0WmVoajg2UDdHX1pMYUYtTWthR05ES1EySXlEYUx6Q1l2Y0VDYU4waGhScDVTcHRUUmlGRHY2TVROU0t3X2tBeWUzQ2hvNmlLVGZZd0dGczVNVDE3U24wWTFabmREOWtiMjRNY1NIYXJlUA?oc=5",
+    "at": "2026-10-28T22:42:20.000Z"
+   },
+   {
+    "title": "Home Prices Are Falling Fastest in These Cities, Giving Buyers an Edge",
     "source": "Realtor.com",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb0NZUWZLSlI2ZDhVdEo4cWpxNmtweURYVTM0TnZOWXpkX1BmMVJEbDZqU3lWWEc3ZTdiTzFiTTNNekVkWGtDeVZQa2p6M0JhTVRYM214VXJQUzBocXMxcW1zb1VlbFZkTWtGdnRaVzRKSEJmeUpKX0VZNWRyaTZSR29RWUJRZG9xYW5feDM2NVItU3Np?oc=5",
     "at": "2026-10-28T20:34:46.000Z"
@@ -5423,7 +5425,7 @@
    {
     "title": "Fed Holds Rates Steady Despite Lack of Progress on Inflation",
     "source": "The New York Times",
-    "link": "https://www.nytimes.com/live/2026/10/28/business/fed-meeting-warsh-interest-rates/warsh-interest-rates-fed",
+    "link": "https://www.nytimes.com/2026/10/28/business/economy/warsh-interest-rates-fed.html",
     "at": "2026-10-28T21:27:49.000Z",
     "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28dc-fed-lwvg/28dc-fed-lwvg-mediumSquareAt3X.jpg",
     "desc": "Kevin M. Warsh, the chairman of the Federal Reserve, said an “information-rich” period before the central bank’s gathering in December will help officials determine next steps for policy."
@@ -5495,45 +5497,37 @@
     "desc": "Roughly a quarter of Microsoft's workforce will be eligible for a \"voluntary exit offer\" as the company tries to shed workers."
    },
    {
-    "title": "The RBA has primed the market for an interest rate rise. But what will it mean for unemployment? | Greg Jericho",
-    "source": "The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcFIxM1dIdEpzMEhSN0Vfc1lFRDRHQm5VZTlscThaOE1BYTR2d2tHR0ZOb0tqRzNfQ0p6bmlJZk5LM2FIdUJYMzRBNWQ1eVFpaFFFTzhrX2ZrbG04bVV5NlRYUjFDVDhyMjFFdHkzcERfTFZTUFpFYUNmejVROTNXc3E0dm8xTVJHQnlZamFWNjhWbEdtalF1SzBWNEo1SXQtaFgzbEpaZFFZQ0xFbUxoUnhpWWRWWjM1OEhVUExMTWlZWlBURG5tVWhDUXUxX0xUcE1seFhhMU1IUFIwU21KRlgxdkFIMjFORl9J?oc=5",
-    "at": "2026-10-28T21:21:00.000Z"
+    "title": "Unchanged interest rates could negatively affect credit card bills, job market",
+    "source": "CBS News",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObFQtbTc0bE1BWTNWTUgtZlVDTWIyZ3M5a3ZoaUMyeHB0eEQwRTJDbEpxREdEOFJqQjBkdk02MW9MOWluVUt3aXdDbHVQVEdYbnVYRkRZTkpTNDB0MnpEaF9FSUlpR19PUldwNWxTQkk0TUk1RHVtbDdSeEZrVEMxbzFqUHFfd294WmQ0TkxnUmtHRHJSYkJWUDhkNzNmdG96UXJNWUFoaS0tUmhvNFl2ZUVnWV8tb3c?oc=5",
+    "at": "2026-10-29T01:40:00.000Z"
    },
    {
-    "title": "Disney’s theme parks division lays off at least 100 employees",
-    "source": "Los Angeles Times",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbERlQ1BkOEdWTXlPS2Y5c0d0OWFwQ2VoalBVSVY2Nm1VNEdwZFR0cUpmT3I0eTJqSDBHeldHcXV2blM1RWZjZE5HR1B0YmVDekdya2hYZXM0d0phTENtMjdMV1VqVEI3OXpGcjdjQzA3NnJuNkhJMEVQSjJadExQeHBmUk1oRUdZT2R0TFBMVFo2dFRTMjNNbVVFVWVqOWJwUFlNX0Y2WHFMV2lxSjVEZmY2ekVLdWc?oc=5",
-    "at": "2026-10-28T19:38:30.000Z"
-   },
-   {
-    "title": "Dropbox is laying off roughly 9% of its workforce. Read the memo.",
-    "source": "Business Insider",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcV81TGpjQVAtRWdDWWRSdEJMNXBfQnJIanZpMFlHMzlHVEtjLUdPWUdRR3l2V0VobWIySzROVDgtZkJVTDc3aUdhNFFNbWhTY0x2STM1QXlDbmZKYzVTSERyV3dhZXpMVnV6bmJydjRoQWY0MXBJbUQzbVZjSmxZWXdnVW5oSDFFcGNhdDYtcXJhUQ?oc=5",
-    "at": "2026-10-28T16:24:00.000Z"
-   },
-   {
-    "title": "Dropbox to Cut About 6% of Global Workforce",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR2JiWnI2V3ZPc2VBLTdiY0Ita3BBXzBSZ25VcXN2bUlkQ2NfUmRjRFU0Wk5sNVFGV3ZYNElpazhwM1BBWFpjdldTMVU0WkREekNrOWRJbVR0a2hRTFVFWFBOWDNMY1dteTdDcmxPZkNiVXB1X1AtTlpwZzEwOV9mVGZBYnhOWFRveV90X1Bmc3o5VGs?oc=5",
-    "at": "2026-10-28T14:09:00.000Z"
-   },
-   {
-    "title": "‘Unemployment is my best friend’: He has an engineering Ph.D, applied to 2K jobs — and has nothing. Is this the future?",
+    "title": "'Black Swan' Author Nassim Taleb Says AI Will Trigger a ‘Collapse in Hiring’ Before Mass Layoffs: ‘Existing Jobs Are Sticky’",
     "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVnV2Vi1nT2VNR09sZXZ5RU1IdlRaUF9wOThRWmwtMGw5eEloX3p3MG1KVW1SYVFWRVdmU1pObnkzeGFUWUpFYmNMZVZpUVdOMDlJeEJjU1FHZXQwdGtZVXpTUnFGLWlieWtiS1ZNaGxGN19sUnhtem5PYWhEOW41dmFNMG91NjFpbkpxMDFkSnZWSXgzdjdjM2VleVBXdw?oc=5",
-    "at": "2026-10-28T13:00:00.000Z"
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWEtuN2R3OGJWbmk0aDd6cG1sYTluSXFURWR2dUZFU3kyazV1aEx3UkJNMnhZaG93THA5OEpQamZQcmoxNURRVXhNbDZKWVFjTTg5c2ZzWHJkUjk3NFdSSDkyMXVfbkFVR1RTeG02OFBfZGVnU0JUX1VlanBXYkNlemZ6a3VhZUloYlVyV1B6TlRFOEY2LVBuY1F3?oc=5",
+    "at": "2026-10-29T01:30:00.000Z"
+   },
+   {
+    "title": "Microsoft profits soar days after announcing thousands of layoffs",
+    "source": "BBC",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1yV3QyTGMyVHdxVld0amhNZUF5cG9nQWpDWi13cGVsTGR0Y2tUSjB4a3V4QmdyRzB2TFNqdW5qMkRLcThxSHRyRjhDcVlPTXBPSHE2MUVmb3NvQktXTUE?oc=5",
+    "at": "2026-10-29T00:36:12.000Z"
+   },
+   {
+    "title": "101 Years, Zero Layoffs: Inside The Torani Playbook With CEO Melanie Dulbecco",
+    "source": "Forbes",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdGpmOVUxZVBjelJjdEJLZEJQSEJLXzBsRmJxRHhjVW5NNzJ4QWFhZFh6M2ZvWUg5c01mQVAweGRuMDZvNkF0cUk2T1BCa2txZWNXWGQtaWVXZFFHM3F6THJmUzBuU2picXljOF9nVHVsbTYyamFON2NMY2hxNVZvQV8teVhsdUNFa05iXzJ3QlVPa1dHOUhlY1JWZDNVOC1xWTdaNnhjLURmblYtX2FpYVJJYXd1NGNZa3oteFRWeFRfZnk2Z2JacEdjWEF2VzZMaEQyYmE2SVpiQQ?oc=5",
+    "at": "2026-10-28T22:35:00.000Z"
+   },
+   {
+    "title": "Amazon Extends Job Cuts to Devices After 1,000 Retail Layoffs",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU09HVGZscjJTZy0waWRWUnE2d0loZDVRNm1UeWdnVWxUU2JiTHpJNWtMWXZpN2ZNRUhrdU10UHBucWlfYkRWNmljMERvRTM4RFdfdUJpZjBuYkpfVkc5Y0Z6Z2ZWQ2VXdlJ5bkt6bjVUcFFmRy1wcURINmg5NG5wMEFOTXFJeWJKNExObjR0Y0hXU01Md2l3eUFDdVo?oc=5",
+    "at": "2026-10-28T20:18:49.000Z"
    }
   ],
   "debt": [
-   {
-    "title": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-    "at": "2026-10-28T21:30:00.000Z",
-    "image": "https://images.mktw.net/im-65126339",
-    "desc": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”"
-   },
    {
     "title": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
     "source": "CNBC",
@@ -5551,22 +5545,28 @@
     "desc": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits."
    },
    {
+    "title": "Treasury Yields Rise, Eurozone Bond Yields Fall Amid French Concerns",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQUh5anllcENIVlhXM0xrczNZWEVERVdFSE5lRzVkUFY1STBRUUtSZmdHbkRXX2pqNDY1TGxWdDJxTFZKRkc3cFhmUzBjTGUtdmlZaFYybG9tOFVaNk5IZTVpd1FVOW9mZUlRY2I1MFJwblJ3S1hqNVNkSVIyVmg0VzcyTEpncGhaWmUyYnFibVZqUUN2aU41MWxyc1QxYmJpSHVGVG1Jb2RGY1doTWln?oc=5",
+    "at": "2026-10-29T05:25:25.000Z"
+   },
+   {
+    "title": "U.S. Stocks Up, Treasury Yields Mixed After Fed Hold",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLVpkc0tPSDBPVHptQ0w1dG1CTjVvTXpYZTAwbWlJOVpJUHc3UTN5R2pPeTA0QnoyVWpRVGpLS3JFd0xSeDdoWjJtRlJBNHZXVm5kcTBRaUdxQTNNeGdNQmFxYWE0MjBoZG80SVlscnJSaGRDdDBmUFRsT3BtWnd5TjlwZ3dqWDNDRnFVamJ4RlVqZThYTm5tVTJB?oc=5",
+    "at": "2026-10-28T21:51:35.000Z"
+   },
+   {
     "title": "Update: US Equity Indexes Rise, Treasury Yields Fall After Fed Stays on Hold",
     "source": "Yahoo Finance",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQWVkM3VkaVE1X0VFdVB0T3FVSXpINmRLVHkxaExLeENZbkxiQktrWDhwczVIVUwzVUt4a2hVUFhtVDVadTVNQVZMbXhqQV9EbXdkMkIyRVltMW1TTlQ5M0JMbkZSLTNlbVk5MHp4Z3lqZ0FaTkVJbzlfWXF0VlFXeDRWNTBzN0hMSXV2bl9yVTZDRnA2cVlQdDJ6aGI?oc=5",
     "at": "2026-10-28T21:03:52.000Z"
    },
    {
-    "title": "U.S. Stocks Up, Treasury Yields Mixed After Fed Hold",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLVpkc0tPSDBPVHptQ0w1dG1CTjVvTXpYZTAwbWlJOVpJUHc3UTN5R2pPeTA0QnoyVWpRVGpLS3JFd0xSeDdoWjJtRlJBNHZXVm5kcTBRaUdxQTNNeGdNQmFxYWE0MjBoZG80SVlscnJSaGRDdDBmUFRsT3BtWnd5TjlwZ3dqWDNDRnFVamJ4RlVqZThYTm5tVTJB?oc=5",
-    "at": "2026-10-28T20:48:00.000Z"
-   },
-   {
     "title": "Fed’s Rate Hold Sends Bond Yields in Different Directions",
     "source": "WSJ",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaEkwMGl6T29kQlFSbU9EanZNX3VMdG5PcG9tWXh3cUQ0U0R5ZTFuUU1QRl9PWl9nd2l4bFpwWl9OOFFTS0VfSV9UcFR0VEtsRW9ld25admRIbkFQa292VTNWVV9xb2g3ZlQwZ2ZuNlVSQkNTQzhGN0RDSl9wZ0hDWi1fcGFTRnJHUTAzeEhUY1BZeVFJU1ZyaVFPdDkzNm9sVTVmcm9pSkxRWjlTOHRpSjlPNmxUb0pPaHBN?oc=5",
-    "at": "2026-10-28T20:03:45.000Z"
+    "at": "2026-10-28T20:00:00.000Z"
    },
    {
     "title": "Elon Musk once backed Buffett’s 5-minute fix for national debt: ‘This is the way’",
@@ -5576,8 +5576,8 @@
    },
    {
     "title": "Why Falling Treasury Yields Could Send AI And Technology Stocks Higher",
-    "source": "Forbes",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUVQ4Z3VDSjVQVU5vX0FaWkhlbC1nNUhtZ3pVcTNTUzRDX3B1eUJXRERfN1Jzc2lVdER4bjlmVElIeXktWTZSOWJNRjM5MkNpWmhTQV9rSGpMYWs0RW1SYTVYMFFERnpiSVM0QjRhaGhOVjc5R1pRYmRLTWFKYUJTd2xOUzJ4clg2RVdsS1lWU1VRR3A3d2FrR0ZEM0U4Z0drNFBkZGl3OEUzZWlpT3hPd2RZd1p0ejBWZDdnY0tTXzhodw?oc=5",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdERjMFdLQkZabGVnWVNFVWtycXpNeVpSZFhqMHNPRXlhc1N3R3g4TjJJS25DT25tdF9BV0plOEFrTThmd0V3ZTlPbVpLZ0xIbjFHR1NERU1ucTA1cDhhcmtiVUFkeUplTmNJdmt4QmI4QlNjbUctWE1FYmU2MWlubXNMdkQ5Rk1hSDhRUTAtU0ExWEFGUmtuR09NMDNDUQ?oc=5",
     "at": "2026-10-28T16:35:24.000Z"
    }
   ]
