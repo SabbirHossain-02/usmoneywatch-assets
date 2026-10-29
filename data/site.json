@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T05:50:54.616Z",
+ "updated": "2026-10-29T13:04:14.436Z",
  "ticker": [
   {
    "name": "Mortgage, 30-yr",
@@ -5259,12 +5259,36 @@
  "news": {
   "top": [
    {
-    "title": "The major reason Microsoft’s stock is heading higher after earnings",
+    "title": "Consumer spending flattens out after inflation surge",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories",
-    "at": "2026-10-29T00:10:00.000Z",
-    "image": "https://images.mktw.net/im-99465391",
-    "desc": "Microsoft showed investors that it’s able to grow rapidly while keeping spending in check."
+    "link": "https://www.marketwatch.com/story/consumer-spending-flattens-out-after-inflation-surge-e7761d25?mod=mw_rss_topstories",
+    "at": "2026-10-29T13:01:00.000Z",
+    "image": "https://images.mktw.net/im-89314087",
+    "desc": "Consumer spending rose sharply in September, but it largely reflected households spending more on gas and transportation after an increase in energy costs."
+   },
+   {
+    "title": "In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation",
+    "source": "The New York Times",
+    "link": "https://www.nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html",
+    "at": "2026-10-29T12:59:35.000Z",
+    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29DC-FED-hzjb/29DC-FED-hzjb-mediumSquareAt3X.jpg",
+    "desc": "Federal Reserve officials are expected to restart rate increases in December, but the cadence of additional moves will depend on the data."
+   },
+   {
+    "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
+    "at": "2026-10-29T12:55:04.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108410185-1792006325105-108410185-1792006166308-gettyimages-2300218007-2k2a3692_4j7v8aoz.jpg?v=1792006334&w=1920&h=1080",
+    "desc": "The personal consumption expenditures price index was projected to increase 0.5% in September for an annual rate of 3.7%, according to the Dow Jones consensus."
+   },
+   {
+    "title": "Two reports will give insight on the economy ahead of Election Day",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/10/29/nx-s1-6020539/two-reports-will-give-insight-on-the-economy-ahead-of-election-day",
+    "at": "2026-10-29T08:45:27.000Z",
+    "image": null,
+    "desc": "With Americans soon heading to the polls with affordability on their minds, we get a final measure of both GDP and inflation."
    },
    {
     "title": "Fed holds interest rates steady even as inflation remains high",
@@ -5275,20 +5299,36 @@
     "desc": "The U.S. central bank left borrowing costs unchanged this month after hiking rates in September for the first time in three years."
    },
    {
-    "title": "Fed Holds Rates Steady Despite Lack of Progress on Inflation",
-    "source": "The New York Times",
-    "link": "https://www.nytimes.com/2026/10/28/business/economy/warsh-interest-rates-fed.html",
-    "at": "2026-10-28T21:27:49.000Z",
-    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28dc-fed-lwvg/28dc-fed-lwvg-mediumSquareAt3X.jpg",
-    "desc": "Kevin M. Warsh, the chairman of the Federal Reserve, said an “information-rich” period before the central bank’s gathering in December will help officials determine next steps for policy."
+    "title": "Australia’s inflation rate rises to 4.3%, fuelling fears of fifth interest rate hike this year",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/28/inflation-rate-australia-2026-number-data-consumer-price-index-cpi-release",
+    "at": "2026-10-28T02:17:32.000Z",
+    "image": "https://i.guim.co.uk/img/media/64e77a720baeac62ada354b54f34aae458a7f1e6/538_0_6187_4947/master/6187.jpg?width=700&quality=85&auto=format&fit=max&s=c8d3c3cc94bb0b99915a5d63831cb625",
+    "desc": "CPI release comes ahead of Reserve Bank decision next week as the Middle East conflict intensifies the cost-of-living crisis Follow our Australian politics live blog for latest updates Get our daily political email , fre"
    },
    {
-    "title": "Fed leaves rates unchanged: What it means for credit cards, mortgages, auto loans and savings accounts",
+    "title": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
+    "at": "2026-10-29T13:00:00.000Z",
+    "image": "https://images.mktw.net/im-05792524",
+    "desc": "“Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”"
+   },
+   {
+    "title": "U.S. GDP Increased 3.4% in Third Quarter",
+    "source": "The New York Times",
+    "link": "https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html",
+    "at": "2026-10-29T12:58:30.000Z",
+    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-gdp-ljkg/29biz-gdp-ljkg-mediumSquareAt3X.jpg",
+    "desc": "Spending by A.I. companies and consumers powered gross domestic product growth in the third quarter. The economy grew 3.4 percent, the fastest pace in a year."
+   },
+   {
+    "title": "Analysis: Kevin Warsh is keeping his options open — and Wall Street guessing",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-consumer-borrowing-costs.html",
-    "at": "2026-10-28T20:59:23.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108259014-1769705594016-gettyimages-2257773229-GM_EARNS.jpeg?v=1793220825&w=1920&h=1080",
-    "desc": "The Fed's benchmark affects many consumer borrowing costs, including the rates tied to mortgages, credit cards, auto loans and savings accounts."
+    "link": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
+    "at": "2026-10-29T12:38:18.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108476071-1793213743711-gettyimages-2302418579-aw1a9798_mrowkbqv.jpeg?v=1793213760&w=1920&h=1080",
+    "desc": "The new chairman made clear he leans toward higher interest rates, but left himself options depending on how the data comes in."
    },
    {
     "title": "Fed holds interest rates steady even as inflation remains stubborn",
@@ -5299,52 +5339,12 @@
     "desc": "The Federal Reserve opted to leave its benchmark interest rate unchanged — but investors widely expect the central bank to raise rates at its next meeting in December to combat stubborn inflation."
    },
    {
-    "title": "Australia’s inflation rate rises to 4.3%, fuelling fears of fifth interest rate hike this year",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/28/inflation-rate-australia-2026-number-data-consumer-price-index-cpi-release",
-    "at": "2026-10-28T02:17:32.000Z",
-    "image": "https://i.guim.co.uk/img/media/64e77a720baeac62ada354b54f34aae458a7f1e6/538_0_6187_4947/master/6187.jpg?width=700&quality=85&auto=format&fit=max&s=c8d3c3cc94bb0b99915a5d63831cb625",
-    "desc": "CPI release comes ahead of Reserve Bank decision next week as the Middle East conflict intensifies the cost-of-living crisis Follow our Australian politics live blog for latest updates Get our daily political email , fre"
-   },
-   {
-    "title": "Fortinet’s stock is taking a dive after earnings. Here’s why.",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories",
-    "at": "2026-10-28T23:18:00.000Z",
-    "image": "https://images.mktw.net/im-54642161",
-    "desc": "Cybersecurity stocks are broadly falling as growth slows significantly in one of Fortinet’s business segments."
-   },
-   {
     "title": "Caregivers face soaring costs, taking a toll on income and jobs",
     "source": "CBS News",
     "link": "https://www.cbsnews.com/news/caregiving-costs-surge-aarp-study/",
     "at": "2026-10-28T21:25:59.000Z",
     "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/28/bd8837c0-1ed6-404b-b710-897c1f28f5ea/thumbnail/1200x630/debc76dff658b1fa3557783427c8606d/gettyimages-1390975112.jpg",
     "desc": "Caregivers spend an average of $11,500 per year looking after an aging parent, relative or friend, up roughly 60% since 2021, according to AARP."
-   },
-   {
-    "title": "How the Fed’s Interest Rate Decision Affects Credit Cards, Loans and More",
-    "source": "The New York Times",
-    "link": "https://www.nytimes.com/2026/10/28/business/economy/fed-interest-rates-credit-cards-loans.html",
-    "at": "2026-10-28T18:09:22.000Z",
-    "image": null,
-    "desc": "The Federal Reserve left its benchmark rate untouched, but a December hike could make holiday borrowing more costly."
-   },
-   {
-    "title": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
-    "at": "2026-10-28T15:39:14.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108320522-1781203657285-gettyimages-2278740251-ecp_ws_260602_dsc_2551.jpeg?v=1781203687&w=1920&h=1080",
-    "desc": "The U.K. budget cuts household energy costs, raises taxes on banks and directs billions toward defense, Ukraine and artificial intelligence"
-   },
-   {
-    "title": "How Aldi is pushing down grocery prices",
-    "source": "NPR",
-    "link": "https://www.npr.org/sections/planet-money/2026/10/27/g-s1-149358/how-aldi-is-pushing-down-grocery-prices",
-    "at": "2026-10-27T10:30:00.000Z",
-    "image": null,
-    "desc": "The German-owned chain's low prices are winning over shoppers — and pushing competitors to respond."
    },
    {
     "title": "Plan for multibillion-pound Sizewell nuclear plant a ‘terrible deal’ for UK taxpayers, MPs say",
@@ -5389,31 +5389,55 @@
     "desc": "Home remodelers have always served two different markets, but the current state of housing is now pulling them opposite directions."
    },
    {
-    "title": "Home Prices Are Falling in These Markets, but Rising Insurance Costs Are Eating Into the Savings",
-    "source": "Realtor.com",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbDVCa1hqMVZLTGRSbG1JTWdCRl9qYjIwRko0WmVoajg2UDdHX1pMYUYtTWthR05ES1EySXlEYUx6Q1l2Y0VDYU4waGhScDVTcHRUUmlGRHY2TVROU0t3X2tBeWUzQ2hvNmlLVGZZd0dGczVNVDE3U24wWTFabmREOWtiMjRNY1NIYXJlUA?oc=5",
-    "at": "2026-10-28T22:42:20.000Z"
+    "title": "Map Reveals Top 10 US Cities Where Home Prices Are Falling Fastest",
+    "source": "Newsweek",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM3p3YWxpQXVvUVZEQkR5Qy1tdmtzUkppMHpFWmlhV1lDNjhSS0JlTWtwOHZNR0FTU2EtaTF5bXVWTktfNkRzbWphU0swRFppb0NSYVdwdkpPM0xoMERyQVllbzZhajVYREFaNGhibXVaMmRGZU5GemhCaHpnWXM1MTA4TkFKR015bVlkbU52cVh4M3NX?oc=5",
+    "at": "2026-10-29T12:17:00.000Z"
    },
    {
-    "title": "Home Prices Are Falling Fastest in These Cities, Giving Buyers an Edge",
-    "source": "Realtor.com",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb0NZUWZLSlI2ZDhVdEo4cWpxNmtweURYVTM0TnZOWXpkX1BmMVJEbDZqU3lWWEc3ZTdiTzFiTTNNekVkWGtDeVZQa2p6M0JhTVRYM214VXJQUzBocXMxcW1zb1VlbFZkTWtGdnRaVzRKSEJmeUpKX0VZNWRyaTZSR29RWUJRZG9xYW5feDM2NVItU3Np?oc=5",
-    "at": "2026-10-28T20:34:46.000Z"
+    "title": "D.R. Horton Profit Down as Mortgage Rates Weigh,",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMkZrZ0gxTzVhZ0l1NGQxTGlJcFNYTGZwTzUyQUp3TTFOOVQ4QzJuSWFRY2kzX2ZOZkNNNWhIWVkwcmh4c3ZCbU5ZaDRyN1N2a2ZMVzF5NHlnOWZoQUpfck5QZkpYdmh0TmQ4V2t5S0M1R2pqYThEdUNiMkU3N0VXXzhycnkzbl9yellSQ0lBSjJ6RzdfQVEwRQ?oc=5",
+    "at": "2026-10-29T11:15:11.000Z"
    },
    {
-    "title": "In an Ugly Housing Market, D.R. Horton’s Guidance Matters More than Earnings",
+    "title": "What D.R. Horton’s Guidance Says About the U.S. Housing Market",
     "source": "Barron's",
     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5M0JFckNoc21BVy1hWDhqS3BBTVBqTU5YUkJjR3BZRHRmTHJDaWFKUlI2bDFHVHdST0JiVmY1RmJYYWhGMlRDV0wxNWF2cXJXeXRFXzdjSGdMSml6RWxvOG91aWxwM1hoanZiOW9fWVBxT01ERDNLcA?oc=5",
-    "at": "2026-10-28T20:29:00.000Z"
+    "at": "2026-10-29T11:13:00.000Z"
    },
    {
-    "title": "6 pros predict where mortgage rates are headed in November",
-    "source": "MarketWatch",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc1RpUHBFZW5jZHdsdDJXWjRvdnFLTTgxZFFsRzFBTXVxMURTWkdfVVE3OGxhNk9GOVQxUnFVTlZHbnZ5dHYzbHFIdnZabnhFbGxvd2tSRnNxUTIzeVRQVnNpM0FfeW1NRVFCNWVQeWEyOGt0Zk42b0NJaUpSc1g3Y2VaYjNxdFZSbFZVM1BHTmttcTdsa19wRkpsVEt4WDdrX05r?oc=5",
-    "at": "2026-10-28T20:26:00.000Z"
+    "title": "Weekly Housing Trends: U.S. Market Update (Week Ending Oct. 24, 2026)",
+    "source": "Realtor.com",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTVEta21SUzdOYTBXdGFndjJ1QW9PU2NLTEoyVjcxN3VLYlFPS1dodUdPNjdJTzhPZEJ0aVVlN1hpUmVXa0ROeHJoQzJVQm00XzB2ZGY5U2FZNTdTOVV2N2ktb1F0cEhjQ3g2ay1sYjdPaFEtQ1k3Vjd4UDdMU21qbVdLR2hEZ2s2Q0hhSjlR?oc=5",
+    "at": "2026-10-29T10:46:52.000Z"
    }
   ],
   "inflation": [
+   {
+    "title": "Consumer spending flattens out after inflation surge",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/consumer-spending-flattens-out-after-inflation-surge-e7761d25?mod=mw_rss_topstories",
+    "at": "2026-10-29T13:01:00.000Z",
+    "image": "https://images.mktw.net/im-89314087",
+    "desc": "Consumer spending rose sharply in September, but it largely reflected households spending more on gas and transportation after an increase in energy costs."
+   },
+   {
+    "title": "In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation",
+    "source": "The New York Times",
+    "link": "https://www.nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html",
+    "at": "2026-10-29T12:59:35.000Z",
+    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29DC-FED-hzjb/29DC-FED-hzjb-mediumSquareAt3X.jpg",
+    "desc": "Federal Reserve officials are expected to restart rate increases in December, but the cadence of additional moves will depend on the data."
+   },
+   {
+    "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
+    "at": "2026-10-29T12:55:04.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108410185-1792006325105-108410185-1792006166308-gettyimages-2300218007-2k2a3692_4j7v8aoz.jpg?v=1792006334&w=1920&h=1080",
+    "desc": "The personal consumption expenditures price index was projected to increase 0.5% in September for an annual rate of 3.7%, according to the Dow Jones consensus."
+   },
    {
     "title": "Fed holds interest rates steady even as inflation remains high",
     "source": "CBS News",
@@ -5421,14 +5445,6 @@
     "at": "2026-10-28T21:34:15.000Z",
     "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/28/cece5b55-98b1-4d05-97fd-aef3fe508a23/thumbnail/1200x630/37cc6eb2dd8fe71ac372025531d9fc28/gettyimages-1223805382.jpg",
     "desc": "The U.S. central bank left borrowing costs unchanged this month after hiking rates in September for the first time in three years."
-   },
-   {
-    "title": "Fed Holds Rates Steady Despite Lack of Progress on Inflation",
-    "source": "The New York Times",
-    "link": "https://www.nytimes.com/2026/10/28/business/economy/warsh-interest-rates-fed.html",
-    "at": "2026-10-28T21:27:49.000Z",
-    "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28dc-fed-lwvg/28dc-fed-lwvg-mediumSquareAt3X.jpg",
-    "desc": "Kevin M. Warsh, the chairman of the Federal Reserve, said an “information-rich” period before the central bank’s gathering in December will help officials determine next steps for policy."
    },
    {
     "title": "Fed holds interest rates steady even as inflation remains stubborn",
@@ -5447,31 +5463,31 @@
     "desc": "CPI release comes ahead of Reserve Bank decision next week as the Middle East conflict intensifies the cost-of-living crisis Follow our Australian politics live blog for latest updates Get our daily political email , fre"
    },
    {
-    "title": "How Aldi is pushing down grocery prices",
-    "source": "NPR",
-    "link": "https://www.npr.org/sections/planet-money/2026/10/27/g-s1-149358/how-aldi-is-pushing-down-grocery-prices",
-    "at": "2026-10-27T10:30:00.000Z",
-    "image": null,
-    "desc": "The German-owned chain's low prices are winning over shoppers — and pushing competitors to respond."
+    "title": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
+    "at": "2026-10-29T13:00:00.000Z",
+    "image": "https://images.mktw.net/im-05792524",
+    "desc": "“Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”"
    },
    {
-    "title": "‘We don’t have inflation’? Five charts show the US economic reality of Trump’s second term so far",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/oct/26/trump-second-term-economy-charts",
-    "at": "2026-10-26T11:00:42.000Z",
-    "image": "https://i.guim.co.uk/img/media/e207112a4f3a725105dff1f7f59275f26fe8ea17/1_0_2999_2400/master/2999.jpg?width=700&quality=85&auto=format&fit=max&s=81fde5815cef54ba6af5a6753eab420e",
-    "desc": "As the US midterm elections approach, we take a look at data to see a true picture of the US economy under Trump With the midterm elections fast approaching, many Americans have the economy on their minds. US voters are "
-   },
-   {
-    "title": "European gas prices soar to four-year high over winter supply fears",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/oct/26/european-gas-prices-four-year-high-winter-supply-fears-middle-east",
-    "at": "2026-10-26T10:35:24.000Z",
-    "image": "https://i.guim.co.uk/img/media/275f98d8c2bcb343ced7e3b49bd547734a4db6f9/865_0_6406_5124/master/6406.jpg?width=700&quality=85&auto=format&fit=max&s=407897bc239d82708caa3208b54f9b61",
-    "desc": "Jump fuelled by fears of further Middle East supply disruptions amid reports of US-Israeli plans to strike Iran European gas prices have jumped to levels not seen since 2022 as fears continue to grow around the continent"
+    "title": "Inflation Accelerated in October, PCE Index Shows",
+    "source": "The New York Times",
+    "link": "https://www.nytimes.com/2026/10/29/business/economy/pce-inflation-economy.html",
+    "at": "2026-10-29T12:55:40.000Z",
+    "image": "https://static01.nyt.com/images/2026/11/27/multimedia/29biz-inflation-vljt/27biz-inflation-vljt-mediumSquareAt3X.jpg",
+    "desc": "The Personal Consumption Expenditures index picked up in September, according to data released a day after the Federal Reserve’s decision to hold interest rates steady."
    }
   ],
   "jobs": [
+   {
+    "title": "It’s the strangest job market the U.S. has ever seen. The low-hire, low-fire economy turns 3 years old.",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/its-the-strangest-job-market-the-u-s-has-ever-seen-the-low-hire-low-fire-economy-turns-3-years-old-ce8d0dfe?mod=mw_rss_topstories",
+    "at": "2026-10-29T12:00:00.000Z",
+    "image": "https://images.mktw.net/im-56427244",
+    "desc": "America has always been a job-creating machine. It has broken down for three straight years, and the implications could be with us for a long time."
+   },
    {
     "title": "Caregivers face soaring costs, taking a toll on income and jobs",
     "source": "CBS News",
@@ -5497,6 +5513,18 @@
     "desc": "Roughly a quarter of Microsoft's workforce will be eligible for a \"voluntary exit offer\" as the company tries to shed workers."
    },
    {
+    "title": "New research examines how GLP-1 drugs could affect the labor market",
+    "source": "CNBC",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZy1QRy1PTFVVRkd2ZDhTb3otdV9GTEg1RmY4TWZxc2s2LTZzNnBUXzQ3Q0pqemw2Z3MyY3hXTFVBdFhLcEgtNmdFcmd5VXhxYnRGcmktVXdOM2pURXRGVEFCc2NoYko3alROQkFjUmNPX2dwTVJVMjlUYU9oY0lSOHB5NzB5WndlVEp6di1UN0thV2lnQkJPMU5IVExtRW94V0NreTlfN2xtdzlkU2ZNanV2cVNiTm8?oc=5",
+    "at": "2026-10-29T12:55:30.000Z"
+   },
+   {
+    "title": "Former Commerce Secretary warns states need to test new ideas ahead of AI disruption",
+    "source": "Axios",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdWc1eEdtalROd3ZuRC1ZSGwtMVA5U3c4cG5wTjJSTV9UTDhJSVpHa2hKeUlqSkQxcGxDRjBWUllsM0FzVTNzOElsWkg2dWliWVJBTkpmVzR0V0FDR2M1aE5jZmUzdWNhZWs2UWoyZi12Tzk1cUlRRTBJWUdQeEN0S3lJREVDM2hSM01lWWZkLUxyaEJYUE8tRzdvRTRyYmlhbWxZYnA1aDh2aVQ5NWc?oc=5",
+    "at": "2026-10-29T10:24:55.000Z"
+   },
+   {
     "title": "Unchanged interest rates could negatively affect credit card bills, job market",
     "source": "CBS News",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObFQtbTc0bE1BWTNWTUgtZlVDTWIyZ3M5a3ZoaUMyeHB0eEQwRTJDbEpxREdEOFJqQjBkdk02MW9MOWluVUt3aXdDbHVQVEdYbnVYRkRZTkpTNDB0MnpEaF9FSUlpR19PUldwNWxTQkk0TUk1RHVtbDdSeEZrVEMxbzFqUHFfd294WmQ0TkxnUmtHRHJSYkJWUDhkNzNmdG96UXJNWUFoaS0tUmhvNFl2ZUVnWV8tb3c?oc=5",
@@ -5507,24 +5535,6 @@
     "source": "Yahoo Finance",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWEtuN2R3OGJWbmk0aDd6cG1sYTluSXFURWR2dUZFU3kyazV1aEx3UkJNMnhZaG93THA5OEpQamZQcmoxNURRVXhNbDZKWVFjTTg5c2ZzWHJkUjk3NFdSSDkyMXVfbkFVR1RTeG02OFBfZGVnU0JUX1VlanBXYkNlemZ6a3VhZUloYlVyV1B6TlRFOEY2LVBuY1F3?oc=5",
     "at": "2026-10-29T01:30:00.000Z"
-   },
-   {
-    "title": "Microsoft profits soar days after announcing thousands of layoffs",
-    "source": "BBC",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1yV3QyTGMyVHdxVld0amhNZUF5cG9nQWpDWi13cGVsTGR0Y2tUSjB4a3V4QmdyRzB2TFNqdW5qMkRLcThxSHRyRjhDcVlPTXBPSHE2MUVmb3NvQktXTUE?oc=5",
-    "at": "2026-10-29T00:36:12.000Z"
-   },
-   {
-    "title": "101 Years, Zero Layoffs: Inside The Torani Playbook With CEO Melanie Dulbecco",
-    "source": "Forbes",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdGpmOVUxZVBjelJjdEJLZEJQSEJLXzBsRmJxRHhjVW5NNzJ4QWFhZFh6M2ZvWUg5c01mQVAweGRuMDZvNkF0cUk2T1BCa2txZWNXWGQtaWVXZFFHM3F6THJmUzBuU2picXljOF9nVHVsbTYyamFON2NMY2hxNVZvQV8teVhsdUNFa05iXzJ3QlVPa1dHOUhlY1JWZDNVOC1xWTdaNnhjLURmblYtX2FpYVJJYXd1NGNZa3oteFRWeFRfZnk2Z2JacEdjWEF2VzZMaEQyYmE2SVpiQQ?oc=5",
-    "at": "2026-10-28T22:35:00.000Z"
-   },
-   {
-    "title": "Amazon Extends Job Cuts to Devices After 1,000 Retail Layoffs",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU09HVGZscjJTZy0waWRWUnE2d0loZDVRNm1UeWdnVWxUU2JiTHpJNWtMWXZpN2ZNRUhrdU10UHBucWlfYkRWNmljMERvRTM4RFdfdUJpZjBuYkpfVkc5Y0Z6Z2ZWQ2VXdlJ5bkt6bjVUcFFmRy1wcURINmg5NG5wMEFOTXFJeWJKNExObjR0Y0hXU01Md2l3eUFDdVo?oc=5",
-    "at": "2026-10-28T20:18:49.000Z"
    }
   ],
   "debt": [
@@ -5545,16 +5555,22 @@
     "desc": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits."
    },
    {
+    "title": "Treasury yields ease after Federal Reserve rate hold",
+    "source": "CNBC",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tUkpYWmlUR3kwRzB5cTZuejFRaTloS09XeThKc3hXUnVVem12eHNkN0ZnV2VpemJ2N09sZWNkenlUNGhHVUo4RmdxaDFIUFhSU0JmMHlKckhSbXhxWXpMUGNsZ0dWOVVmd25nNnRpTE1lbEpTbWhkNk9VTnRpeGPSAYQBQVVfeXFMUE1seWVoTlViUzNtNmZyRk1NekFwcWN2ZkZSMUhWOUY2UHJQWnVZcTB2d1NPRXNzcmhzWlFGWlNNYUd2RTlEbUR1WEZlLWVCQzhjclZPdjlVX29STXVDVW1GOFVaeVUxeUoxSk9GRkhEeGg4RmlXclBlb1ZGZFgydFl0SjJN?oc=5",
+    "at": "2026-10-29T10:48:54.000Z"
+   },
+   {
+    "title": "U.S. Treasury, European Bond Yields Fall After Fed Decision, Ahead of ECB Meeting",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMVJzTU8waHdld3FnbVROOGw4ZEtGS2g3UHpKYVFXTXhzdW9DeW8xYmJrY1RmWGFvNUlqWThQR2FWaTRuaklmYWlhbTNQV0lfa3BNNmFjSHBUaTk0NDVNSHRFLUg5MFFhTFZZMWZrTHh5ZHpYVnVzMlpNZ2hqaEM3LVJuOUhrUV9kc3NGRHpfdFNkUEhTX2oyTzVRMUhvS1dyNkF1UVV4eEtFM3VXTXJvUG9Lc3dnRjRDc190d0Vzem5ZNmxfNktGcUl3?oc=5",
+    "at": "2026-10-29T09:57:00.000Z"
+   },
+   {
     "title": "Treasury Yields Rise, Eurozone Bond Yields Fall Amid French Concerns",
     "source": "WSJ",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQUh5anllcENIVlhXM0xrczNZWEVERVdFSE5lRzVkUFY1STBRUUtSZmdHbkRXX2pqNDY1TGxWdDJxTFZKRkc3cFhmUzBjTGUtdmlZaFYybG9tOFVaNk5IZTVpd1FVOW9mZUlRY2I1MFJwblJ3S1hqNVNkSVIyVmg0VzcyTEpncGhaWmUyYnFibVZqUUN2aU41MWxyc1QxYmJpSHVGVG1Jb2RGY1doTWln?oc=5",
     "at": "2026-10-29T05:25:25.000Z"
-   },
-   {
-    "title": "U.S. Stocks Up, Treasury Yields Mixed After Fed Hold",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLVpkc0tPSDBPVHptQ0w1dG1CTjVvTXpYZTAwbWlJOVpJUHc3UTN5R2pPeTA0QnoyVWpRVGpLS3JFd0xSeDdoWjJtRlJBNHZXVm5kcTBRaUdxQTNNeGdNQmFxYWE0MjBoZG80SVlscnJSaGRDdDBmUFRsT3BtWnd5TjlwZ3dqWDNDRnFVamJ4RlVqZThYTm5tVTJB?oc=5",
-    "at": "2026-10-28T21:51:35.000Z"
    },
    {
     "title": "Update: US Equity Indexes Rise, Treasury Yields Fall After Fed Stays on Hold",
@@ -5563,22 +5579,16 @@
     "at": "2026-10-28T21:03:52.000Z"
    },
    {
+    "title": "U.S. Stocks Up, Treasury Yields Mixed After Fed Hold",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLVpkc0tPSDBPVHptQ0w1dG1CTjVvTXpYZTAwbWlJOVpJUHc3UTN5R2pPeTA0QnoyVWpRVGpLS3JFd0xSeDdoWjJtRlJBNHZXVm5kcTBRaUdxQTNNeGdNQmFxYWE0MjBoZG80SVlscnJSaGRDdDBmUFRsT3BtWnd5TjlwZ3dqWDNDRnFVamJ4RlVqZThYTm5tVTJB?oc=5",
+    "at": "2026-10-28T20:48:00.000Z"
+   },
+   {
     "title": "Fed’s Rate Hold Sends Bond Yields in Different Directions",
     "source": "WSJ",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaEkwMGl6T29kQlFSbU9EanZNX3VMdG5PcG9tWXh3cUQ0U0R5ZTFuUU1QRl9PWl9nd2l4bFpwWl9OOFFTS0VfSV9UcFR0VEtsRW9ld25admRIbkFQa292VTNWVV9xb2g3ZlQwZ2ZuNlVSQkNTQzhGN0RDSl9wZ0hDWi1fcGFTRnJHUTAzeEhUY1BZeVFJU1ZyaVFPdDkzNm9sVTVmcm9pSkxRWjlTOHRpSjlPNmxUb0pPaHBN?oc=5",
     "at": "2026-10-28T20:00:00.000Z"
-   },
-   {
-    "title": "Elon Musk once backed Buffett’s 5-minute fix for national debt: ‘This is the way’",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY1JOazg3dFdVSXpIQU5ndWFfV1ViczV1TW05WlUzVUpUZDd5dmtqT0s2ZXRsSXFsUU1PMjRoZUNFY1NXbmVqQVNJVVhVY3g2STBEdVNjSHo1Nlgtc0pzTkU4RXZ0MnNvQmd2MFpFM1p2NFlOVEJsZHE5a3hDbkJHT2tmQjVSN3RKbFRhZ2lTZGlQYzJCYkV1dHl3?oc=5",
-    "at": "2026-10-28T18:45:17.000Z"
-   },
-   {
-    "title": "Why Falling Treasury Yields Could Send AI And Technology Stocks Higher",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdERjMFdLQkZabGVnWVNFVWtycXpNeVpSZFhqMHNPRXlhc1N3R3g4TjJJS25DT25tdF9BV0plOEFrTThmd0V3ZTlPbVpLZ0xIbjFHR1NERU1ucTA1cDhhcmtiVUFkeUplTmNJdmt4QmI4QlNjbUctWE1FYmU2MWlubXNMdkQ5Rk1hSDhRUTAtU0ExWEFGUmtuR09NMDNDUQ?oc=5",
-    "at": "2026-10-28T16:35:24.000Z"
    }
   ]
  }
