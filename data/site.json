@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T05:44:33.038Z",
+ "updated": "2026-10-31T12:34:17.191Z",
  "ticker": [
   {
    "name": "Mortgage, 30-yr",
@@ -5311,14 +5311,6 @@
     "desc": "The latest data from the Commerce Department reveals a strong economy. But Americans say they're not feeling that."
    },
    {
-    "title": "Microsoft is winning the cloud wars and becoming Wall Street’s new golden child",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories",
-    "at": "2026-10-30T20:29:00.000Z",
-    "image": "https://images.mktw.net/im-60634029",
-    "desc": "Various factors indicate that Microsoft is in a better financial position than its cloud rivals, analysts say."
-   },
-   {
     "title": "DoorDash to buy Instacart for $17bn in major grocery delivery consolidation",
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/oct/29/doordash-buys-instacart-grocery-delivery",
@@ -5357,6 +5349,14 @@
     "at": "2026-10-29T13:05:03.000Z",
     "image": null,
     "desc": "GDP grew at an annual rate of 3.4% in the third quarter in the last major read on the economy ahead of the midterm elections — but many Americans continue to struggle with affordability."
+   },
+   {
+    "title": "US economy grows faster than expected but inflation rises to 3.7%",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/oct/29/economy-growth-third-quarter",
+    "at": "2026-10-29T13:09:00.000Z",
+    "image": "https://i.guim.co.uk/img/media/df8fee0dd99b6b8cd095a534788c4e7dab0f2f36/1260_687_4554_3645/master/4554.jpg?width=700&quality=85&auto=format&fit=max&s=04e15403c792d08bb7ba39df37f00558",
+    "desc": "Commerce department data contrasts with sharp deterioration in consumer sentiment as midterms loom The US economy grew faster than expected in the third quarter while inflation accelerated in September, according to new "
    }
   ],
   "housing": [
@@ -5377,24 +5377,22 @@
     "desc": "The Fed's benchmark affects many consumer borrowing costs, including the rates tied to mortgages, credit cards, auto loans and savings accounts."
    },
    {
-    "title": "Mortgage rates fell for the second straight week, but more borrowers still sought savings in riskier loans",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/10/28/mortgage-rates-fell-for-the-second-straight-week.html",
-    "at": "2026-10-28T11:33:43.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108448116-1792697240840-gettyimages-2296175868-260923_tohomes_116.jpeg?v=1792697322&w=1920&h=1080",
-    "desc": "Mortgage rates have fallen over the past two weeks, but demand is only slightly higher, and more borrowers are looking for savings in riskier loans."
-   },
-   {
     "title": "The haunted housing market",
     "source": "Axios",
     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FdTJfRDZtMVZnYzl4dS0yd2kzYTlydV96c3Y2aXlzRU5ieE5CYjNRbldsVzkxdVZQUjFNdlMtaE95alhxbWRTWXdXQzlkOHMwamQ3eGtaRThSQ25yTmF5S09GQlNwNmVmcUxmMGF4NjliUQ?oc=5",
-    "at": "2026-10-30T16:21:18.000Z"
+    "at": "2026-10-30T19:28:32.000Z"
    },
    {
     "title": "A 3.4% GDP print hides a ‘haunted’ housing market and a September stall in the economy",
     "source": "Fortune",
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUZCVi1jLWUwb1JocElsUmI3djVpYjRtRWFoenNpN1VuaHhKd2Z5Zzllbm9IRHpNaGpRbmJ1bmJjRTI1NGFQMmNlZ2xFQkdRdEk1NmlfNEt5MXFmZ0tRd1E0MC1hN1RlUEtncUpXYWo4eHZoVy1JZTFnd1pYbnF2X1NZYllwWHUtbzNtMjJLald5ODNGQUVlMWJOY3F6c2o5alE?oc=5",
     "at": "2026-10-30T15:22:00.000Z"
+   },
+   {
+    "title": "Mortgage Rates Today: 30 October 2026",
+    "source": "Forbes",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RNjQ3M0x3M1JqQ1BhbVFVRFlhWXpMMHhvVnBjWmdNY1RtdkhJeTBXSlpUOTUydnI2ZU5XMnd1d0RaM3FRX2lGaDV6NkxoX2FvMUtDUnFpRkhWNXFvUTkwSENQZnhxYUU2azFn?oc=5",
+    "at": "2026-10-30T14:45:00.000Z"
    },
    {
     "title": "Mortgage rates hit their lowest level in a month. 6 pros predict where rates are headed in November",
@@ -5491,6 +5489,12 @@
     "desc": "Caregivers spend an average of $11,500 per year looking after an aging parent, relative or friend, up roughly 60% since 2021, according to AARP."
    },
    {
+    "title": "These College Majors Have The Lowest Unemployment Rates In 2026",
+    "source": "Forbes",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcW5oWjNONkhNUGpiaWhiY29rUXloQ0VJc3VkblZuTGp5dkd1YUM3Y2dUY1VDaVVyV3B0VmxtQXhabkhhRzBaZktvZGxJVkFBMmtrNFM2UFNPaHVacTVRWTFTbXpZRHNLdnVXdDJoVE1zSU5MQVZUZmRWUVBrQkMxeEo0c01DeVlnY0dodUQ5NG5CbjNOYUpDRkt5NS1fcXlI?oc=5",
+    "at": "2026-10-31T11:00:00.000Z"
+   },
+   {
     "title": "St. Paul school board passes revised budget plan that avoids layoffs",
     "source": "CBS News",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUN3ZjBDSk12aFhzZExha2NGWjdJSEVRM3BvNld5ejZvSFdfdVVrRXhBdEFLZElTYkJia2JQM29PTjMzZUZVTklLUXJUUGNwTHRnMnJ3RElOZXJhSVNsS0lOemc5VDg0MFI2LXFDTFBxTERXZ2hCVWxLc1lQQ0NiLVpYSDhMY3RwTU9aODljc0M1WjVFbmxjU284R2tweDVUNkRRYWd5TzVpUDhk?oc=5",
@@ -5525,12 +5529,6 @@
     "source": "MarketWatch",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbWFIbGc0QVp1MHozcUtsSnpISjNSNk1keVlZLWFlX3A5OWZjbks3MnRpM09qbWM2V0NiNHZPSkhWclRpbkNJSy01a0FjdVBTYlY4OTBLYURiRTF2RXNBVHBDOTlNWVpxZUpYWmxkbXNacGxELXM3SkV2eWUzVmZDWC1FTDlSbHFqSldnbFpyS2c4RlREb0N6aXBIV2JiYWowdGI0WjNkWF9TVmhLVE1KOExlOWtVbUUwaW5QLTVZcDE5OXVTSy05RFpOX1RwcDRwM1hOaDZSOTU?oc=5",
     "at": "2026-10-30T14:22:00.000Z"
-   },
-   {
-    "title": "Goldman says AI layoffs are starting to leave a 'long-lasting' scar, just like the last 40 years of history",
-    "source": "Fortune",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWjRUQlZMd3Fjcm1xcUUyR2p5bGNJaGNiWWJZckJ6dUNMVWF3UzZrRUNTU0NhSnlyU1NvdUJEaHVTbWZIN2FzbVBjNEF1MEN0QmRNX3FQcDUteFI3S3lKMTJidHZxdU9sVFZ3MGl4NEFTUlYyMF81Q1NHeTFqcmNOMmMta19VX2lDencwVmxfaGF2NWdzLUs2cHp0NG9hLXRwT2VNM2VSV3pWQ29yR2c0?oc=5",
-    "at": "2026-10-30T14:09:00.000Z"
    }
   ],
   "debt": [
