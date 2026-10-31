@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T22:22:47.264Z",
+ "updated": "2026-10-31T05:44:33.038Z",
  "ticker": [
   {
    "name": "Mortgage, 30-yr",
@@ -5385,6 +5385,12 @@
     "desc": "Mortgage rates have fallen over the past two weeks, but demand is only slightly higher, and more borrowers are looking for savings in riskier loans."
    },
    {
+    "title": "The haunted housing market",
+    "source": "Axios",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FdTJfRDZtMVZnYzl4dS0yd2kzYTlydV96c3Y2aXlzRU5ieE5CYjNRbldsVzkxdVZQUjFNdlMtaE95alhxbWRTWXdXQzlkOHMwamQ3eGtaRThSQ25yTmF5S09GQlNwNmVmcUxmMGF4NjliUQ?oc=5",
+    "at": "2026-10-30T16:21:18.000Z"
+   },
+   {
     "title": "A 3.4% GDP print hides a ‘haunted’ housing market and a September stall in the economy",
     "source": "Fortune",
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUZCVi1jLWUwb1JocElsUmI3djVpYjRtRWFoenNpN1VuaHhKd2Z5Zzllbm9IRHpNaGpRbmJ1bmJjRTI1NGFQMmNlZ2xFQkdRdEk1NmlfNEt5MXFmZ0tRd1E0MC1hN1RlUEtncUpXYWo4eHZoVy1JZTFnd1pYbnF2X1NZYllwWHUtbzNtMjJLald5ODNGQUVlMWJOY3F6c2o5alE?oc=5",
@@ -5407,12 +5413,6 @@
     "source": "NerdWallet",
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMnAxdkdmTkFKSS1OVE16cjNMNUdyTlZBR3BGTERmaHh4V1ZVVGh4STdSLWdwcGtIMTNGVURkTDVybWFmVElLNEQ4Wm9TbVhwOFQ1b1hfTWxmdnJTQzE3dG83VU5RMjNuN3p0M0RRcjdRNEFZaGlETlRRWWJKUlVXZ3BHWm5kazA5MUdHMlRn?oc=5",
     "at": "2026-10-30T13:49:11.000Z"
-   },
-   {
-    "title": "Mortgage rates expected to remain above 7% in 2027, MBA says",
-    "source": "Fox Business",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wY0ZsR3phRU5tMUNrekhHT0FvdjhUS2VqbGhIU1ZpOTVabUNGVUZEY2JPZ3MycTk4blFfVWtSaVV6eGdPbmRQVFNscmhnYjczdzhLdVJLNHYyLTQ?oc=5",
-    "at": "2026-10-30T13:15:18.000Z"
    }
   ],
   "inflation": [
@@ -5491,6 +5491,12 @@
     "desc": "Caregivers spend an average of $11,500 per year looking after an aging parent, relative or friend, up roughly 60% since 2021, according to AARP."
    },
    {
+    "title": "St. Paul school board passes revised budget plan that avoids layoffs",
+    "source": "CBS News",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUN3ZjBDSk12aFhzZExha2NGWjdJSEVRM3BvNld5ejZvSFdfdVVrRXhBdEFLZElTYkJia2JQM29PTjMzZUZVTklLUXJUUGNwTHRnMnJ3RElOZXJhSVNsS0lOemc5VDg0MFI2LXFDTFBxTERXZ2hCVWxLc1lQQ0NiLVpYSDhMY3RwTU9aODljc0M1WjVFbmxjU284R2tweDVUNkRRYWd5TzVpUDhk?oc=5",
+    "at": "2026-10-31T03:29:00.000Z"
+   },
+   {
     "title": "Cramer’s week ahead: Expect more volatility as tech earnings, midterms loom",
     "source": "CNBC",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQjB1UDJKWFd2ZUFKZmlYc1l3RWpVYXhWQ1NoTVRDQVRTMTROOGZ0M25mOTJLNXdZLWJtVnl6Wk9ZeFR0MEwtX3d5d0ZuQ0hIUGRGcWsxQ0RlV2JPajktcDFsekpwSW9iUVk0bVZIeXo1dFduby1tT0h2MmVXRXdaLVNJVGwxV1XSAYwBQVVfeXFMUDg3Q05zaV9EZWh4WlluVWxqS25fOE16djdaNXFLdVVmblBUVkNvSjc1Q2hBMld0cGxSQk1aRy1CUWFVRFRDWjJRelNiSmJqeG1yMWNaZldVUVBtYXdISlZMVHFNVTFhT2w1UXQxbDVDN19NZUR4WHpEMkpQQWt0Rlppa0laNjdTaG5Ybnc?oc=5",
@@ -5525,12 +5531,6 @@
     "source": "Fortune",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWjRUQlZMd3Fjcm1xcUUyR2p5bGNJaGNiWWJZckJ6dUNMVWF3UzZrRUNTU0NhSnlyU1NvdUJEaHVTbWZIN2FzbVBjNEF1MEN0QmRNX3FQcDUteFI3S3lKMTJidHZxdU9sVFZ3MGl4NEFTUlYyMF81Q1NHeTFqcmNOMmMta19VX2lDencwVmxfaGF2NWdzLUs2cHp0NG9hLXRwT2VNM2VSV3pWQ29yR2c0?oc=5",
     "at": "2026-10-30T14:09:00.000Z"
-   },
-   {
-    "title": "1 typo sent his $11,782 unemployment benefit to a stranger — his bank couldn't help. Check this before your next deposit",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONDZRRVZQbXUyM1g5Q2cza2lVOUVPMmx0T3BXRFc0Ymd2RF9RY2NvOHVOaklsdmNUY19ITDA5Wi1ydFA3Q3ZScGo1UkQ1UGpYWUFGVmdVbVNfc3JVeTQtOU1ZeVJaeUhQMjFMbGs3MmlBbW94Tm9QRmd4UVVJWkhIZGQ1d1Q0QTNwSlVz?oc=5",
-    "at": "2026-10-30T14:00:00.000Z"
    }
   ],
   "debt": [
@@ -5543,6 +5543,18 @@
     "desc": "The U.K. budget cuts household energy costs, raises taxes on banks and directs billions toward defense, Ukraine and artificial intelligence"
    },
    {
+    "title": "U.S. Stocks Up, Treasury Yields Mixed After Fed Hold",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLVpkc0tPSDBPVHptQ0w1dG1CTjVvTXpYZTAwbWlJOVpJUHc3UTN5R2pPeTA0QnoyVWpRVGpLS3JFd0xSeDdoWjJtRlJBNHZXVm5kcTBRaUdxQTNNeGdNQmFxYWE0MjBoZG80SVlscnJSaGRDdDBmUFRsT3BtWnd5TjlwZ3dqWDNDRnFVamJ4RlVqZThYTm5tVTJB?oc=5",
+    "at": "2026-10-31T02:23:08.000Z"
+   },
+   {
+    "title": "Stocktwits Weekly Spread: What Shaped Treasury Yields And The Dollar This Week",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONl9CeWhfNHNvZ2Y2UVZaUklXeFJuOHJJa2kzX19hdHM2dGpvUTV4eG1fZ2NGVXBCdzVCZktzaUxlMlhQMjI1bFpfTTVQS21CcTkyNVN0MUtHQTR0LXB2US0xTlVrT05UaFk4eGdyUWtmeE8wd0FPbnRORkUzbDN1WTh6WENCRDNrRm9odXJOZVY4djRHSmJyYWNaejVjMWhWeWVnbmdyUlhadTVpd0E?oc=5",
+    "at": "2026-10-31T00:54:00.000Z"
+   },
+   {
     "title": "Think tank: 114 companies paid no current federal income tax but still aren’t biggest hit to deficit",
     "source": "Fortune",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV2VqNnVHaWVEQzNyU0RqemZvZmlzbGV4LXFJRGJTM1lWNzJWYkRadUNYNDhTS0o4VFNxenpMamhxajZnWWNtS05Ua3Q3LTRmTUhBbDNQY1hVSFJuM1JXblhfVzliNXBPdG1zSW56WXBWbGVEZUZBZERMVVNIVzRhcWpWQ29kNURpQ3FtSTJpRzFnU25PblBsSVZJNDkyMkdXSWFUOHhxVjdEVl85X21j?oc=5",
@@ -5553,12 +5565,6 @@
     "source": "WSJ",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS1p6ZkxEeDY0SlhyTDJKSXkyR1NkOUZVa1Z4NWJHU2cxdjFfVlI0TVBGZUZRR1dkLWpEY2RtNC1wSjZKb3ZKaTloVHlvVlF3cFZvdFI2Y3R4c3RIeFd3NU1NMWRpVDBlc3M3STVwa2ZxNVpTLTBIN0t5VTF5alltRGxFQWM3QUpibUF1LWN1Ykhmb3FvVkVmR1pDczZEa2YxTXZz?oc=5",
     "at": "2026-10-30T19:35:00.000Z"
-   },
-   {
-    "title": "U.S. Stocks Up, Treasury Yields Mixed After Fed Hold",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLVpkc0tPSDBPVHptQ0w1dG1CTjVvTXpYZTAwbWlJOVpJUHc3UTN5R2pPeTA0QnoyVWpRVGpLS3JFd0xSeDdoWjJtRlJBNHZXVm5kcTBRaUdxQTNNeGdNQmFxYWE0MjBoZG80SVlscnJSaGRDdDBmUFRsT3BtWnd5TjlwZ3dqWDNDRnFVamJ4RlVqZThYTm5tVTJB?oc=5",
-    "at": "2026-10-30T12:30:40.000Z"
    },
    {
     "title": "Treasury will spend $20T over the next decade to pay off national debt",
@@ -5577,12 +5583,6 @@
     "source": "CNBC",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NUzdmdnZUZHUxOE1CV0xGYzQwOENIc2xvcmdfSTVhWklWMkRRLUkwQktBdURkcHo1cVZHWmlzc1RBUFV5QlljNFJYajlRMGtlUEUwYTJ5LUtqZ1luS29qSDI0aGI0YUMxMjcxNFhQcG5xcW52Rk5wQmwzNEdYMGPSAYQBQVVfeXFMUEVTdlR1RDZpc1ZDalJPOXdkeWMwbFFnZnNzVVUwdEdCY0d6R21ZbTF4Q21LdE5MQTh3dW5feVg3cWxPVEZyQTlHT1ZpYzBzUm5uYkNFTWVmb0EtNjcxdVZOakFZWjRVZmFkTFRzQ3QwZ1Z2RTJnWnFwc0lMYTNoZWd6aUMw?oc=5",
     "at": "2026-10-30T08:09:48.000Z"
-   },
-   {
-    "title": "Opinion | Monster debt",
-    "source": "The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMC1LS1hQVG81RHU2S1FqYjRsQ09TWk9kMlVLeXVDWWJsYjdOQ2NtUFBKS1VUcHd3QU16SFJqek5OR2E1UWhaUG1FRVI5bzhGRVlZb3BMTFMtTUhXVVVheHRmVWx5UGdkdzNjUFltV3hfN2lxQ0l1b29xUExFZWd5bFFZdTc1Wnhaak5ZSndLQTVBUEFhaVhqNk1nbE5FaUpUR3lnVXdiZ0NrcWM?oc=5",
-    "at": "2026-10-30T05:30:30.000Z"
    }
   ]
  }
