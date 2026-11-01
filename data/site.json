@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T13:27:33.780Z",
+ "updated": "2026-11-01T22:03:53.031Z",
  "ticker": [
   {
    "name": "Mortgage, 30-yr",
@@ -5263,12 +5263,20 @@
  "news": {
   "top": [
    {
-    "title": "Who really wins under Trump’s economy? Coastal liberal elites who hate him.",
+    "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/who-really-wins-under-trumps-economy-coastal-liberal-elites-who-hate-him-d74c63cb?mod=mw_rss_topstories",
-    "at": "2026-11-01T13:00:00.000Z",
-    "image": "https://images.mktw.net/im-99774246",
-    "desc": "In other words, not the people Republicans likely intended."
+    "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+    "at": "2026-11-01T20:00:00.000Z",
+    "image": "https://images.mktw.net/im-19916000",
+    "desc": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”"
+   },
+   {
+    "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
+    "at": "2026-11-01T12:00:12.000Z",
+    "image": "https://i.guim.co.uk/img/media/2f8a0af67afa9f857d560117b8e1eced18fbc3ad/1801_315_3487_2790/master/3487.jpg?width=700&quality=85&auto=format&fit=max&s=4e236714f4ca1fcb7df097b5046af8c9",
+    "desc": "A truce has cooled the trade conflict, but neither country has done anything to limit the outbreak of new hostilities Donald Trump ’s trade wars have largely fallen off the headlines. Fears of new tariffs flare up from t"
    },
    {
     "title": "Mixed economic forecast weighs heavy ahead of midterms",
@@ -5279,14 +5287,6 @@
     "desc": "There was a mixed Halloween bag of economic news this week. GDP growth is up, but so are prices. For now at least, interest rates are staying the same. What does that mean for the midterm elections?"
    },
    {
-    "title": "Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/technology/2026/oct/30/tech-stocks-drop-earnings-report",
-    "at": "2026-10-30T18:27:51.000Z",
-    "image": "https://i.guim.co.uk/img/media/7a052dd1015720ea8d19c722dd7b8bcd0586aab3/452_0_4515_3613/master/4515.jpg?width=700&quality=85&auto=format&fit=max&s=9e7514d5115f905496140d21c66758e3",
-    "desc": "Big tech stocks falter as investors question whether billions being poured into AI can generate returns quickly enough A sell-off of tech stocks that began earlier this month and gained steam with disappointing earnings "
-   },
-   {
     "title": "Euro zone economy slows to 0.4% growth in Q3 as crisis-hit France contracts",
     "source": "CNBC",
     "link": "https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html",
@@ -5295,86 +5295,80 @@
     "desc": "The euro zone showed surprising resilience, but weak productivity, industrial competitiveness challenges and demographic pressures remain, analysts said."
    },
    {
-    "title": "Midterm elections put Social Security funding gaps on the ballot",
-    "source": "CBS News",
-    "link": "https://www.cbsnews.com/news/social-security-trust-fund-midterm-elections/",
-    "at": "2026-10-29T22:00:14.000Z",
-    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/29/e86ad4d9-ee10-4c0e-b505-671ae4d69d13/thumbnail/1200x630/a358f9c3cceb80c071dc134b1eebdd2f/gettyimages-2300673341.jpg",
-    "desc": "With Social Security's main trust fund on course to be depleted in 2032, Congress will face mounting pressure to find remedies and avert benefit cuts."
-   },
-   {
-    "title": "U.S. GDP Increased 3.4% in Third Quarter",
-    "source": "The New York Times",
-    "link": "https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html",
-    "at": "2026-10-29T21:10:38.000Z",
-    "image": "https://static01.nyt.com/images/2026/10/27/multimedia/2026-oct-biz-promos-gdp/2026-oct-biz-promos-gdp-mediumSquareAt3X-v9.png",
-    "desc": "The economy grew 3.4 percent in the third quarter, the fastest pace in a year. Strong spending and growth contrast with the poor marks many voters are giving the economy."
-   },
-   {
     "title": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
     "source": "MarketWatch",
     "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-    "at": "2026-10-31T19:30:00.000Z",
+    "at": "2026-11-01T19:20:00.000Z",
     "image": "https://images.mktw.net/im-21005604",
     "desc": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”"
    },
    {
-    "title": "The numbers say the U.S. economy is strong. These Americans aren't feeling it",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/10/29/nx-s1-6022198/the-numbers-say-the-u-s-economy-is-strong-these-americans-arent-feeling-it",
-    "at": "2026-10-29T20:28:31.000Z",
-    "image": null,
-    "desc": "The latest data from the Commerce Department reveals a strong economy. But Americans say they're not feeling that."
-   },
-   {
-    "title": "DoorDash to buy Instacart for $17bn in major grocery delivery consolidation",
+    "title": "Affordability top of mind for voters in final sprint to midterms: ‘I have to pick between medicine or groceries’",
     "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/oct/29/doordash-buys-instacart-grocery-delivery",
-    "at": "2026-10-29T13:41:43.000Z",
-    "image": "https://i.guim.co.uk/img/media/842dd704ad76e46d3aed21d1fb9bbed0aad6a73a/901_443_1942_1553/master/1942.jpg?width=700&quality=85&auto=format&fit=max&s=6ed8fb7869d1b3ea5d8899705903fce4",
-    "desc": "Acquisition will supercharge DoorDash’s grocery delivery, ‘one of the hardest things to get right online’, CEO says DoorDash is gobbling up Instacart in a $17bn acquisition that will supercharge its grocery delivery busi"
+    "link": "https://www.theguardian.com/us-news/2026/nov/01/affordability-voters-final-sprint-midterms",
+    "at": "2026-11-01T12:00:11.000Z",
+    "image": "https://i.guim.co.uk/img/media/b42001773186bc6ae7daa884a92f176ae4a00846/446_0_4853_3883/master/4853.jpg?width=700&quality=85&auto=format&fit=max&s=53b900a178df9a051c923490fb793f17",
+    "desc": "Cost of living has loomed over this election cycle as workers and unions champion candidates fighting for higher wages and tackling rising prices For millions of Americans heading to the polls on Tuesday, affordability i"
    },
    {
-    "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
-    "at": "2026-10-29T18:06:31.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108334610-1784029865903-gettyimages-2285936099-anotherday239786436_tv1tvbr3.jpeg?v=1784029894&w=1920&h=1080",
-    "desc": "The personal consumption expenditures price index was projected to increase 0.5% in September for an annual rate of 3.7%, according to the Dow Jones consensus."
+    "title": "Apple’s new earnings era begins at a critical time for Big Tech",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
+    "at": "2026-11-01T15:00:00.000Z",
+    "image": "https://images.mktw.net/im-47165214",
+    "desc": "A rare Monday earnings report for Apple will give investors a glimpse into how new CEO John Ternus is managing inflated memory prices and a tougher backdrop for consumer spending."
    },
    {
-    "title": "AI deepfakes pose risks to consumers and voters, experts warn",
-    "source": "CBS News",
-    "link": "https://www.cbsnews.com/news/deepfakes-artificial-intelligence-consumer-risks-fraud/",
-    "at": "2026-10-29T19:45:44.000Z",
-    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/27/d2746be8-233d-4a61-be8f-147afd0faa25/thumbnail/1200x630/64bb0fafd4e0c11699d7f956e3f8c3bb/gettyimages-2259893103.jpg",
-    "desc": "\"When you can't tell what's legitimate, you question everything,\" said one cybersecurity expert focused on political campaigns."
+    "title": "The Trump administration wants to give married parents money to stay at home. Will it be enough?",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/oct/31/trump-married-parents-payments",
+    "at": "2026-10-31T10:00:41.000Z",
+    "image": "https://i.guim.co.uk/img/media/9b661a74913e60aa190fb20d2b04f746c342d60b/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=5d86413e00d35af16ea4825fe330a6f6",
+    "desc": "Experts say the proposed program prioritizes parents in ‘traditional families’, ignoring the flexibility needed that all families need to support themselves Erica Hall and her husband knew that raising kids wouldn’t be c"
    },
    {
-    "title": "In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation",
-    "source": "The New York Times",
-    "link": "https://www.nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html",
-    "at": "2026-10-29T18:55:42.000Z",
-    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29DC-FED-hzjb/29DC-FED-hzjb-mediumSquareAt3X.jpg",
-    "desc": "Federal Reserve officials are expected to restart rate increases in December, but the cadence of additional moves will depend on the data."
+    "title": "Who really wins under Trump’s economy? Coastal liberal elites who hate him.",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/who-really-wins-under-trumps-economy-coastal-liberal-elites-who-hate-him-d74c63cb?mod=mw_rss_topstories",
+    "at": "2026-11-01T13:00:00.000Z",
+    "image": "https://images.mktw.net/im-99774246",
+    "desc": "In other words, not the people Republicans likely intended."
+   },
+   {
+    "title": "Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/2026/oct/30/tech-stocks-drop-earnings-report",
+    "at": "2026-10-30T18:27:51.000Z",
+    "image": "https://i.guim.co.uk/img/media/7a052dd1015720ea8d19c722dd7b8bcd0586aab3/452_0_4515_3613/master/4515.jpg?width=700&quality=85&auto=format&fit=max&s=9e7514d5115f905496140d21c66758e3",
+    "desc": "Big tech stocks falter as investors question whether billions being poured into AI can generate returns quickly enough A sell-off of tech stocks that began earlier this month and gained steam with disappointing earnings "
    }
   ],
   "housing": [
    {
-    "title": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-    "at": "2026-10-31T19:00:00.000Z",
-    "image": "https://images.mktw.net/im-65126339",
-    "desc": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”"
+    "title": "The Trump administration wants to give married parents money to stay at home. Will it be enough?",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/money/2026/oct/31/trump-married-parents-payments",
+    "at": "2026-10-31T10:00:41.000Z",
+    "image": "https://i.guim.co.uk/img/media/9b661a74913e60aa190fb20d2b04f746c342d60b/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=5d86413e00d35af16ea4825fe330a6f6",
+    "desc": "Experts say the proposed program prioritizes parents in ‘traditional families’, ignoring the flexibility needed that all families need to support themselves Erica Hall and her husband knew that raising kids wouldn’t be c"
    },
    {
-    "title": "Home prices fall and rents rise, both for the first time in three years",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/10/29/home-prices-fall-and-rents-rise-both-for-the-first-time-in-3-years.html",
-    "at": "2026-10-29T14:17:20.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108480822-1793281709478-gettyimages-2296175999-260923_tohomes_108.jpeg?v=1793281743&w=1920&h=1080",
-    "desc": "The median U.S. home sale price fell for the first time in more than three years, according to a new report from Redfin, a real estate brokerage."
+    "title": "The Housing Market Is a Mess. So Why Aren’t Home Prices Falling?",
+    "source": "Barron's",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42Zkc0TFhseTJvVmtZZThLV2hPRDFtenlkNFFTS2U5ajhvUnhuazJrc2VtcnludHJvM2h2M0t1cmdlM1BpNHVPNHZad2oyWXhBYWNCRjZXRzN0ZkZqd2p6MTR0ak5KeWlWbS03QmtleVlTV2tXa1Nz?oc=5",
+    "at": "2026-11-01T20:57:21.000Z"
+   },
+   {
+    "title": "Australia’s Home Prices Fall Further Ahead of Expected Rate Hike",
+    "source": "Bloomberg",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSXNTYXRoV2Z3WU5PRkdZMlo4a284Y2xzZURUNm1tMXJYR0NiQzdaWkFSY2QxVjNXY0YyUEpGaVZqQTc2eVRYQVlqZVJnWFhvZTktNXY1U192dzROdEsxN3BFTGI1eXp4Xzdtd3NmTnJqbEw5WWFLU2VfQ0xBbDVvT081N0VxUWs0Q0toTXFPejlvLWZ4Y0xyR1Q3bHVWMXlqVEVwQUd2dkxmRWtIdG5MLURqUTNjZw?oc=5",
+    "at": "2026-11-01T13:01:00.000Z"
+   },
+   {
+    "title": "These Texas cities saw the biggest drop in asking home prices this year",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeUhLamtPN1hlamJZcDlIVFdXdmJJVWRUd25PcXc1NGtsOVQ2amhwTDBCeTJyYlJTOVNKWExkbG9zTV9XY0dKQjVKQ1pZbDZ4VVE0eWpyV0FOM3FwUmlJbGpCVGhQSXNwSzdrWHBra0Myb1BUUUVZbEhfd0V5eGhYLUFmSkhxUVU1dmdCckRvTEdYWmZrc0E?oc=5",
+    "at": "2026-11-01T13:01:00.000Z"
    },
    {
     "title": "Mortgage and refinance interest rates today, Sunday, November 1, 2026: Mortgage rates are mostly lower than last week",
@@ -5383,178 +5377,126 @@
     "at": "2026-11-01T11:00:00.000Z"
    },
    {
-    "title": "The Housing Market Is a Mess. So Why Aren’t Home Prices Falling?",
-    "source": "Barron's",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42Zkc0TFhseTJvVmtZZThLV2hPRDFtenlkNFFTS2U5ajhvUnhuazJrc2VtcnludHJvM2h2M0t1cmdlM1BpNHVPNHZad2oyWXhBYWNCRjZXRzN0ZkZqd2p6MTR0ak5KeWlWbS03QmtleVlTV2tXa1Nz?oc=5",
-    "at": "2026-11-01T00:31:28.000Z"
-   },
-   {
-    "title": "A 3.4% GDP print hides a ‘haunted’ housing market and a September stall in the economy",
-    "source": "Fortune",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUZCVi1jLWUwb1JocElsUmI3djVpYjRtRWFoenNpN1VuaHhKd2Z5Zzllbm9IRHpNaGpRbmJ1bmJjRTI1NGFQMmNlZ2xFQkdRdEk1NmlfNEt5MXFmZ0tRd1E0MC1hN1RlUEtncUpXYWo4eHZoVy1JZTFnd1pYbnF2X1NZYllwWHUtbzNtMjJLald5ODNGQUVlMWJOY3F6c2o5alE?oc=5",
-    "at": "2026-10-30T15:22:00.000Z"
-   },
-   {
-    "title": "Mortgage rates hit their lowest level in a month. 6 pros predict where rates are headed in November",
-    "source": "MarketWatch",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc1RpUHBFZW5jZHdsdDJXWjRvdnFLTTgxZFFsRzFBTXVxMURTWkdfVVE3OGxhNk9GOVQxUnFVTlZHbnZ5dHYzbHFIdnZabnhFbGxvd2tSRnNxUTIzeVRQVnNpM0FfeW1NRVFCNWVQeWEyOGt0Zk42b0NJaUpSc1g3Y2VaYjNxdFZSbFZVM1BHTmttcTdsa19wRkpsVEt4WDdrX05r?oc=5",
-    "at": "2026-10-30T14:23:00.000Z"
-   },
-   {
-    "title": "UK house prices grow at slowest pace in two years as mortgage rates rise",
-    "source": "The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUFBYSDc5YjFQNC1rQzliYk1aa01mUlhBd29pVE81OU9ueVZGZFo5QmtvMmotekxsRzhyaTRkV3RGRTUxX1NiMlk3SVB5VkxoWV9Nd0JqZlVrbFBDb3M4bVdqN0IwQXFjS3JHRThQNEN3M3NPNDdYVEJtR3JlVE5ZamVPcXFRN2VCeUxXLVY5dGFQZEMyejNzU3dBOG1XMktfb2twakpwdFgzUWpnR0QyaHFkbzFzRlJZSF94ZVZR?oc=5",
-    "at": "2026-10-30T13:59:00.000Z"
-   },
-   {
-    "title": "Mortgage Rates Today, Friday, October 30: Noticeably Lower",
+    "title": "Butler Mortgage Review 2026",
     "source": "NerdWallet",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMnAxdkdmTkFKSS1OVE16cjNMNUdyTlZBR3BGTERmaHh4V1ZVVGh4STdSLWdwcGtIMTNGVURkTDVybWFmVElLNEQ4Wm9TbVhwOFQ1b1hfTWxmdnJTQzE3dG83VU5RMjNuN3p0M0RRcjdRNEFZaGlETlRRWWJKUlVXZ3BHWm5kazA5MUdHMlRn?oc=5",
-    "at": "2026-10-30T13:49:11.000Z"
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IU1RRV3VMSjJWM1NHZXdjTEN0RzJXVFNEU1EtajF3dWt2ZmlXdXU2Y2JfNlRYenItXy1NV1NzU25vTDZRTG5IYkFhb1h4NUtuX193dmt6cHFtMmtDZUdjWVJhODVfQUNkNUtmaTlySHVUejA?oc=5",
+    "at": "2026-11-01T07:24:44.000Z"
+   },
+   {
+    "title": "Home Trust Mortgage Review 2026",
+    "source": "NerdWallet",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5UWszeU16S3RibFF2NFF1cHVlLWczUHBwWm9qdmVRUVNzd2FhZEJwNUZfajVKY0NyMUFFZldubGpJbHcyODJ1M2IwZnZJcHlrRlRrbkZ5UldQT3lDbEdoSjVPYjRpYzRkUnZmdg?oc=5",
+    "at": "2026-11-01T00:56:44.000Z"
    }
   ],
   "inflation": [
    {
-    "title": "In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation",
-    "source": "The New York Times",
-    "link": "https://www.nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html",
-    "at": "2026-10-29T18:55:42.000Z",
-    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29DC-FED-hzjb/29DC-FED-hzjb-mediumSquareAt3X.jpg",
-    "desc": "Federal Reserve officials are expected to restart rate increases in December, but the cadence of additional moves will depend on the data."
-   },
-   {
-    "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
-    "at": "2026-10-29T18:06:31.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108334610-1784029865903-gettyimages-2285936099-anotherday239786436_tv1tvbr3.jpeg?v=1784029894&w=1920&h=1080",
-    "desc": "The personal consumption expenditures price index was projected to increase 0.5% in September for an annual rate of 3.7%, according to the Dow Jones consensus."
-   },
-   {
-    "title": "DoorDash to buy Instacart for $17bn in major grocery delivery consolidation",
+    "title": "Affordability top of mind for voters in final sprint to midterms: ‘I have to pick between medicine or groceries’",
     "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/oct/29/doordash-buys-instacart-grocery-delivery",
-    "at": "2026-10-29T13:41:43.000Z",
-    "image": "https://i.guim.co.uk/img/media/842dd704ad76e46d3aed21d1fb9bbed0aad6a73a/901_443_1942_1553/master/1942.jpg?width=700&quality=85&auto=format&fit=max&s=6ed8fb7869d1b3ea5d8899705903fce4",
-    "desc": "Acquisition will supercharge DoorDash’s grocery delivery, ‘one of the hardest things to get right online’, CEO says DoorDash is gobbling up Instacart in a $17bn acquisition that will supercharge its grocery delivery busi"
+    "link": "https://www.theguardian.com/us-news/2026/nov/01/affordability-voters-final-sprint-midterms",
+    "at": "2026-11-01T12:00:11.000Z",
+    "image": "https://i.guim.co.uk/img/media/b42001773186bc6ae7daa884a92f176ae4a00846/446_0_4853_3883/master/4853.jpg?width=700&quality=85&auto=format&fit=max&s=53b900a178df9a051c923490fb793f17",
+    "desc": "Cost of living has loomed over this election cycle as workers and unions champion candidates fighting for higher wages and tackling rising prices For millions of Americans heading to the polls on Tuesday, affordability i"
    },
    {
-    "title": "Inflation Accelerated in October, PCE Index Shows",
-    "source": "The New York Times",
-    "link": "https://www.nytimes.com/2026/10/29/business/economy/pce-inflation-economy.html",
-    "at": "2026-10-29T14:31:57.000Z",
-    "image": "https://static01.nyt.com/images/2026/11/27/multimedia/29biz-inflation-vljt/27biz-inflation-vljt-mediumSquareAt3X.jpg",
-    "desc": "The Personal Consumption Expenditures index picked up in September, according to data released a day after the Federal Reserve’s decision to hold interest rates steady."
+    "title": "Australia Set for Fifth Rate Hike as Inflation Fight Intensifies",
+    "source": "Bloomberg",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTElZOUJwR3U5czFFd2NrR1p0UU5kaGE1Q2dyNU5ITVRMQ0MzODktQlRXYldTRk11M2pfU1IyTTRtclZjREFVSDF1RzBTNXZCcVhuRUNubHh6YnB0bTQzMlBvWXZ5VEFxdUZmeXRKNkI2SDlMMTMwbHp5TjJhVEJoeUlDLWh3RXdkVkJxQjVYYU0xOExTdms4M05JcHNIQ0o3TVZ0TEhtdHBpRmlWUE5wc2kyWWpWQQ?oc=5",
+    "at": "2026-11-01T20:00:00.000Z"
    },
    {
-    "title": "Home prices fall and rents rise, both for the first time in three years",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/10/29/home-prices-fall-and-rents-rise-both-for-the-first-time-in-3-years.html",
-    "at": "2026-10-29T14:17:20.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108480822-1793281709478-gettyimages-2296175999-260923_tohomes_108.jpeg?v=1793281743&w=1920&h=1080",
-    "desc": "The median U.S. home sale price fell for the first time in more than three years, according to a new report from Redfin, a real estate brokerage."
-   },
-   {
-    "title": "They signed up for a lifetime at sea on an endless cruise. High gas prices intervened",
-    "source": "NPR",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdjVEZzBkOHZMRFpLTkJMZHNHRTFvcEx6SlN1bXhseElnWmZhSllveWRMeXFmSXR4eTNFZU1HMTVxTWpXVG9ud2RyTm81Z0VZQndtNmNVc3hMNk4wMWY4RFRKT1NsNlRob2p2bUpkaDBwV1JIUXBjWDcwcGpoMXJ1OTd1WDREX3J3c3lPbGtzR01neGZVNE9oTW9GUEFvcFpmR3Y0MVE2V2Y2cUtpSkFjUkNqS2UzUnNpSi1ibzhaVWg4UmpZb0U3RQ?oc=5",
-    "at": "2026-11-01T13:15:28.000Z"
+    "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+    "source": "NBC News",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
+    "at": "2026-11-01T19:59:53.000Z"
    },
    {
     "title": "Opinion | Which Senate race is most at risk from the economy",
     "source": "The Washington Post",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSFE0aFFlYzducXRmcFJtTXFtZzl2V3hTQlV1ZDdUaFZDWlJUQnlaZjd1Mll2d3ZLTzh2aUFaN2xvWGZQTF9Ec0lEX2ViYnl1TnR6bkFGOE1BU0NsZ1p0QU0wNG1uRS1XMXdzN29aTkRCQUczQVVqOUtzSTZrdmlRdWxYVV93aW83MjNaeUZjYzhwT1Rua2ZSaWlOWTduNEVhOTFiOUE3TQ?oc=5",
-    "at": "2026-11-01T12:08:05.000Z"
+    "at": "2026-11-01T19:00:00.000Z"
    },
    {
-    "title": "Focused on Inflation? 3 ETFs That Could Help Protect Your Portfolio",
+    "title": "72% of Americans 55 and Older Got FINRA’s Inflation Question Right. Younger Adults Gained 10 Points Since 2021. Older Ones Didn’t Move",
     "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR295RXYySTJsUXhKRGVWQWZlbHpqMExHRzZrNDBZcFRvalpDYkoySHZoaVB0M05OemkyVjFFNmp6eHNpaGdSM3kyNVk5VThLMTM5M2dIREV1MElRQ2QzNW9GZUM2cjg1SzktX1JMZWJXOU03WUNSMzVrUHNNdEVpSU1UbWd3X3hjN05PVTdIeUJNdlNLYjBDZXFLSnc?oc=5",
-    "at": "2026-11-01T10:20:00.000Z"
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNenJxY3NyLTZXUEpucnlBLXp3LTZpdkN4cmU3Z19WaXA3RDJhVTVqRkVLVEY4THJUVXhHSVVMYWVlcU5OeC1sX1E1ZzlWakxHM0VaM1NZdndCOUpRak52V3djY1FpVWQyTXUzT2pVYTNobEtRNUJsLVZKcndyNUlLWFB6Yl9Rc3lvYldZ?oc=5",
+    "at": "2026-11-01T18:35:24.000Z"
+   },
+   {
+    "title": "A Midterm Campaign Dominated by Concerns Over High Prices Nears Its End",
+    "source": "The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNktSQ1FaUkJwNzVEWGtldncySlJGVWg4eEdZblRoY25NSjMwQnVfa1ZmdWc3eTdhSmFSa0t6dnhhWjM5TU91YnpYMEdtazVXLTZyM280dUlPZkVJYVBGZ3RhbWtYcXU5ZjM2THJSd0dzMkNPMTZhVXdVMWZ2ZFI5d0t2eHdHUQ?oc=5",
+    "at": "2026-11-01T17:42:25.000Z"
+   },
+   {
+    "title": "Oil, Inflation, and Fed Risk. Why MicroStrategy Still Wants More Bitcoin Now?",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMDRtXzR2cC02ODRmNFBZa2VSQU1tWUh1SXpQclZLTWY1cTlyOHJ3dVpHd2YydjZYd091dlFEYXp5bEROVDU2a1JDYndybjBsdkwtOWo0azhEYzk4d29nQS05TU5kTDlYRUpESFJTekVqLXotSUZVTUp6SmxUVExGX2txWWIzZEVyOFdTT3hYbDFrQnBJbFE?oc=5",
+    "at": "2026-11-01T17:23:23.000Z"
+   },
+   {
+    "title": "Opinion | Fed Reform Can’t Become an Inflation Excuse",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdnJSejBMa21Uay14SDdldnZkc3A3cXBncFZFZ0gzNlBRcW9Hd0R1VHVmRFZESkEwdWl3eGsxLWpxZDJnbmlIQkw0R2NoNjFLZ0dpY2c5T2tiV0JSaUdzbERNVllWZlRiS0R1VlJzb0JVTjF6Qk9FMnN2UDd3QW8yZVVZNDA4Zw?oc=5",
+    "at": "2026-11-01T16:33:12.000Z"
    }
   ],
   "jobs": [
    {
-    "title": "These College Majors Have The Lowest Unemployment Rates In 2026",
-    "source": "Forbes",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcW5oWjNONkhNUGpiaWhiY29rUXloQ0VJc3VkblZuTGp5dkd1YUM3Y2dUY1VDaVVyV3B0VmxtQXhabkhhRzBaZktvZGxJVkFBMmtrNFM2UFNPaHVacTVRWTFTbXpZRHNLdnVXdDJoVE1zSU5MQVZUZmRWUVBrQkMxeEo0c01DeVlnY0dodUQ5NG5CbjNOYUpDRkt5NS1fcXlI?oc=5",
-    "at": "2026-10-31T11:00:00.000Z"
+    "title": "About 5,700 Central New Yorkers on unemployment will face delays as the state shuts down its system",
+    "source": "WRVO",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUkhKMmNOMmVRX29FRlZfb2FBNk1adnF5enFZOVoyZHdWalhaRDBDZlNJSC1JNktNQmdaRTM3Y3FGUk5rbGpoVlJkaC1CbEtCNmRoazJmamdrYm9Ba3B5cTVhNUFoOUhtQVdVdW9yTlRLWWxBQ1p5WFZlVldRQnpXWEZCaF8xRzZ2ZjJReXlhRmlUOURzVlZxTVRtV3EtdDA1VXM2WHlQNXEtbU9JQU9aeXpIYTgyYThrR0NnZTd6MUpaOGNjQ2d0NVpaOA?oc=5",
+    "at": "2026-11-01T22:00:00.000Z"
    },
    {
-    "title": "St. Paul school board passes revised budget plan that avoids layoffs",
-    "source": "CBS News",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUN3ZjBDSk12aFhzZExha2NGWjdJSEVRM3BvNld5ejZvSFdfdVVrRXhBdEFLZElTYkJia2JQM29PTjMzZUZVTklLUXJUUGNwTHRnMnJ3RElOZXJhSVNsS0lOemc5VDg0MFI2LXFDTFBxTERXZ2hCVWxLc1lQQ0NiLVpYSDhMY3RwTU9aODljc0M1WjVFbmxjU284R2tweDVUNkRRYWd5TzVpUDhk?oc=5",
-    "at": "2026-10-31T03:29:00.000Z"
+    "title": "Unemployment rate hits post-Covid high in Victoria. Here’s who is hit hardest",
+    "source": "Herald Sun",
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxORk5TYVpqcVppX1RXdlE5NmJudDdZRHVORndsbUZzMjBQcGpPazUwemloN3JnRkx4OWZVZnZ0b2Y1ZUVxc0NsWDhybjBOa3VzdnpzQi1uT3RTX3ByYXhkUlFRTnNVaFo3dTFueVVNQURKRExzM3FBYW83X3dPaHhHNER1QVRLZHhUa0M5NE9ieE9lX0prRTRmTjVpbzlEU0JjWDVtQkRabEQ1SDBMWGh5NmZjX3dzTUhGVTM1cEhlZVpwQXhiRVRucFIyd080emRyRXpmTjhWNTlVTkRhWV9EVmxDQldPOUt6SmtwVnVzbXZrM0MxYzRhY0tsYkotMDNJTnFz?oc=5",
+    "at": "2026-11-01T21:54:41.000Z"
    },
    {
-    "title": "Cramer’s week ahead: Expect more volatility as tech earnings, midterms loom",
-    "source": "CNBC",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQjB1UDJKWFd2ZUFKZmlYc1l3RWpVYXhWQ1NoTVRDQVRTMTROOGZ0M25mOTJLNXdZLWJtVnl6Wk9ZeFR0MEwtX3d5d0ZuQ0hIUGRGcWsxQ0RlV2JPajktcDFsekpwSW9iUVk0bVZIeXo1dFduby1tT0h2MmVXRXdaLVNJVGwxV1XSAYwBQVVfeXFMUDg3Q05zaV9EZWh4WlluVWxqS25fOE16djdaNXFLdVVmblBUVkNvSjc1Q2hBMld0cGxSQk1aRy1CUWFVRFRDWjJRelNiSmJqeG1yMWNaZldVUVBtYXdISlZMVHFNVTFhT2w1UXQxbDVDN19NZUR4WHpEMkpQQWt0Rlppa0laNjdTaG5Ybnc?oc=5",
-    "at": "2026-10-30T22:17:13.000Z"
+    "title": "Labor Department's unemployment system upgrade begins Monday",
+    "source": "WRGB",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVUtLX0xQdnpzZC1faXh0NWctcndvT08wUjRKTmJMTS03YUFGMjExYTBxendRMjJoa3Z3NzFiMmdPbUQ3bW9feXFYSHBTal9mWU83aWtNNXdzekJzYjRWQWYtbU5WUE9uOHBtUVZidEFJclVZaHRodTJLa3o2ZjdST2x5NlV0dW1TR3JkQ0dmd1RXWmViZ0hVMw?oc=5",
+    "at": "2026-11-01T20:31:22.000Z"
    },
    {
-    "title": "Midterms, Apple earnings, jobs report. Wall Street faces a big week ahead just as investors dump tech",
-    "source": "CNBC",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRXRoRjlKQ2xUdm85RThaVVZWSEZLa3E0SkxqczlRN1YxWmtNc1FTZkJyZEUtQ3JES3RtTzE3TVlUY1JSTmNZYWFqbFNxcjJPOTZrajhpb19RTXJVTmFfSFhPTGh4SUlNc0g0YXJIV3QyRkVUYmhrQnBydGtuZTlZYlZSLU0xeERodlAzVA?oc=5",
-    "at": "2026-10-30T18:55:15.000Z"
+    "title": "NCP warns of street movement over unemployment",
+    "source": "New Age BD",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYXVaVkU5LWtmRUMycW02WjNKeHctTDBhbkpJMmN5dGpRYnpWMEtmbkR5LURjN3hwaUd5X1RqQnZkS2VzQWVnYV95QlF6OFdHNTZHXzBxRmNVdlVjVkZYYjUzOENudVJvM2ZCRHRKbHJqM19zN2k5V1VLczRwcDdFNEpMN2xSajNBQVcyZTR6cFItN0pVUmE0?oc=5",
+    "at": "2026-11-01T19:41:22.000Z"
    },
    {
-    "title": "The AI boom spawns job market for data-center liaisons",
-    "source": "Semafor",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWV9NQ3hraXlaZDhidWRORmdRRTZRTDI3QjBrT0JnQWgzbnNtUnQwcG9RWFRCRktSOGk2V2d2c2w1RzNjeFJ2cnp2MEo0YWZKeUdHQVRvUFdfdG1jcGpBN1V0eUlaemZ3eHAzUEdBTG5iNk03RVJZeTE2Zm1vT1RyMzNGQXlsUlpvd2dVSVVOeXNoTmVkaXA0WHFRYk5DZw?oc=5",
-    "at": "2026-10-30T17:22:00.000Z"
+    "title": "Sullivan Career Center is appt-only in November",
+    "source": "The River Reporter",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMmduaGVIbUFETHM1WnFXZGxoa013NzJLMXVTWFFZckhnWVZINktiTk1uZDZiQWMxNXlERFdUSkZrZGV5WDk4aWw3a1ZkQkVNSmktNEdWa0M0azRta2JBQkJGRUlnRVFvdGVDaERwZkRYSUVaeERaR01tcm1WSjZsSWZKeFhQQnBia0RpY0xiN2RXQQ?oc=5",
+    "at": "2026-11-01T18:12:01.000Z"
    },
    {
-    "title": "AI-driven layoffs are creating a new class of boomerang employees—companies are realizing they 'pulled the plug too quickly'",
-    "source": "CNBC",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Pb0I0cG1RN3d1N0l3N2s5Y3VFSGxGZmVZelU0YkFmMk5KUGxNd0xhWGE4YkM3M0R1R1NlcXpkbTNQdDlwSUdXeUotZm1rTm91LS1LRTlENTRHRHVneWZvTnptaEdaT2VfQ1o3ZGxDb2RwNkZJN0Q40gF8QVVfeXFMTnAxRGEwa1hqRDI0V0NoN1IwblNtdm50RTRBV2J0QnZ2azlJb213bUVDVWx3bjJaSjNhM0s2Sm1OYURVbElidlBrMm5ZcmFaZDYtbGlNYjlZdEdtU3EzTnpCWVJlbm5wazJhX1ItWVdWWGJGSWd4bEg4NDdSVQ?oc=5",
-    "at": "2026-10-30T17:00:02.000Z"
+    "title": "‘We thought the worst was over’: Intel Israel workers fear layoffs after 30% stock plunge",
+    "source": "Ynetnews",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MOFgzSTB1aml0U0hIZEVsNmNkQnEyZGJrQ3hnX3prc2NHX2hKV3p6VW5adzIwS1hyRjJQazNjNTVRQXRMY0hHc050WTAwX1pqbHZQc3ByV1dON2o3bnhoOWVn?oc=5",
+    "at": "2026-11-01T17:37:30.000Z"
    },
    {
-    "title": "Microsoft’s 60,000-person buyout offer hints at a future with fewer workers and more equipment",
-    "source": "Fortune",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQjM1Zy1OWnU3SGZFUkdhYnNHTXg3Ynh2Wjl1dmRoNFdiN0prU1Rkb1N5d0ktSXBaMFJySmk3Z2FBZmV4c0FnVFhrUFJHa3hOR1FLSVNuWjh4RVNROG9hRkdOeTMyVjVuVzZSN25adkNnRXFGM3MtRDFEMXFZNDRmQ1MtWnk2bDBtWHRsUDJn?oc=5",
-    "at": "2026-10-30T16:54:00.000Z"
+    "title": "University of Maine layoffs raise H-1B questions",
+    "source": "The American Bazaar",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkljak5FMkRpRF9rb3g5bVIyVU1LMXFGb3dfMGxBVldtVHNCejJmNnRyejEwSDJzM0Zjbi1VcDd3MWs3eWVwVzBqTmRPVmZLMTgwa0NxNmtwbWxzNDVCemNoOExQR1ZZcU9CVHh4QzRNV2lpZlZhMER4dHhQYUw0M1lEYUR3cnpKaXJYT1l0N3BlZlJFZ21wc3kwUmZxU1hNSFpxVl8zZnNVTms?oc=5",
+    "at": "2026-11-01T16:28:00.000Z"
    },
    {
-    "title": "It’s the strangest job market the U.S. has ever seen. The low-hire, low-fire economy turns 3 years old.",
-    "source": "MarketWatch",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbWFIbGc0QVp1MHozcUtsSnpISjNSNk1keVlZLWFlX3A5OWZjbks3MnRpM09qbWM2V0NiNHZPSkhWclRpbkNJSy01a0FjdVBTYlY4OTBLYURiRTF2RXNBVHBDOTlNWVpxZUpYWmxkbXNacGxELXM3SkV2eWUzVmZDWC1FTDlSbHFqSldnbFpyS2c4RlREb0N6aXBIV2JiYWowdGI0WjNkWF9TVmhLVE1KOExlOWtVbUUwaW5QLTVZcDE5OXVTSy05RFpOX1RwcDRwM1hOaDZSOTU?oc=5",
-    "at": "2026-10-30T14:22:00.000Z"
+    "title": "Automatic Data Processing stock faces November 4 jobs report",
+    "source": "ad-hoc-news.de",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQnViZXVKZlg1UGhxQzVldXdDa0c3MUlSbEZhTHRyVXBNS2tHSl9RZFdXX3VTMGpwa2FhZmg3T2VIU0ZscUs3UjlWcC1INy14V3ZVWnV4YXRkMVY1ODI5dk5mUG54TzNxdDktcTlKQ0VlMVh1X2RSVk1TQ05TcHdWRnFORUN5M0FzN09mQW9pRU96cjk5U3VPSldCODN5ZktjZG1DSlJBQno0OU80LW5xYlpybTBXOS1aaWJGbF9jNEY?oc=5",
+    "at": "2026-11-01T16:12:27.000Z"
    }
   ],
   "debt": [
    {
-    "title": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-    "at": "2026-10-31T19:00:00.000Z",
-    "image": "https://images.mktw.net/im-65126339",
-    "desc": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”"
-   },
-   {
-    "title": "2 DOGE staffers say 'no' regrets for people losing income, didn't reduce the deficit: Depositions",
-    "source": "ABC News - Breaking News, Latest News and Videos",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdVlrbU1wbmdHUFpJNkpCekVVV1d1cUUxLTVsajdHOGh1QnNKRlhUWUhrczdkWWgteW1zMDJPcTdkY1JNZlpyVEVQbVJ6dzJPTmJXVzM4OGlXS1loN29zSms4NXFEZmNaZGVGdmpwM2dTb0RCa08tdVlZWnRXb193QjVkMmppOWQ0MjRHZWdFOG5uN2FxNzk5cnk4bnBYSkwt0gGmAUFVX3lxTE55bXNXTmUxbEFndGYxVkRiUzVXRzIzUmdCczJpSkhIbEVxTEJSbVlmb0tiNTV6VWlleGE0LXhQbWM3YUJQY0dpbWhDaVh3RnMwOHhQQzBKaExsQTJQR0Y4ZGFpaHhPQjRZMVFJckNUNDJZZHFxTS1LU3d0dDJHVXpkdDFwRFgyX1p4eW5WcDRkVHhFS1FEczkzSGluSmY0bUZxSDVPaUE?oc=5",
-    "at": "2026-11-01T10:24:24.000Z"
-   },
-   {
-    "title": "Federal debt tops $40 trillion. Here's what it means for your wallet",
-    "source": "ABC News - Breaking News, Latest News and Videos",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY0ZxQzFWdUZnWEdMeFFScDdLYVpfRkZpNEZidkdtWHIybHdNemE1c3RudTdwbWtnbHJnZmd6cHNvLUNXU1ZkRzA3NE1LeVJnYll5NmpqeTNRdGZ0a0c5R3F0bVhOWk4wS0M1bUpTNFk5S0hCWHRNY0lBREdsb0l0VlFmV0VnaDFRRm1kOFlXb3p1WTNQ0gGaAUFVX3lxTE9sZ3Fpb1FscnNRVVZGRmdQd0JIZ0tNaV9KZjFjSzVFb3ZCTWVEVDF4bHM5SmFtZk4tYkpDRXM1XzRhaHVFTTJxeWRfdFQ0SWZfSlVVd1E3RnJlRktMMS1jb2htSDYxTkpLemZ2VDluZUZmZ0xnS2ZkdU81WXdEeWQ1dUJUOGZxNkx0T0V5Ql9sZHgzRzN6aGdmcVE?oc=5",
-    "at": "2026-11-01T10:12:39.000Z"
-   },
-   {
-    "title": "US Treasury Yields Could Settle Around 4.75%, But Short-Term Spike Possible: SBI Report",
-    "source": "Lokmat Times",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSWhrTDhxU0RoN0RGSk9GYWNpSjg0ZVF5TGpoQjdGcGlaSmhSTF9qcWE0Sk5Nc0Q5Z3dla2JvbEZqdzVtQk5ieS1xSzJXVnc2dC05NWFJckNrVTdTQUNTSVEtUW5mUUxRRW5qWlMyLUJjSDAxZUcybW04N19sN3d6Zk50M2l4cW1JWWp0WVIzN2FGRzFKLW51ZmtTV3JqWkROcjAyS0ZmUEdYNVZHZTUxNkZ5Z1c3VlU5TDBGWVNzSWNlOHBBZE5nbkl6cHXSAdIBQVVfeXFMTWxkWmxCNjhya0VQX3kyeVNuRE9keVpoU3d0a0VlY1F1TEFwd1c2dVVlcjFNbVI5THY0bGk3ZTdxNmJSY21YZl9fejllNGZOTkdyQUxtX3YyQU50UGxNeTNLbmljUDVncXRDMjEtOGlxN1J1ZllJSERwS2g4YWdWbkx5LVhXUFB2d1FmeVUzUTNiN2lBQ2p3b2xQZDdKUHZfa3ZkVTZYaHZxcHVmMkRseW1aemx5SFJhMTZjZ0g3VDhuVWdYN3E1UVh6bkpsV1VEVFZn?oc=5",
-    "at": "2026-11-01T09:59:30.000Z"
-   },
-   {
-    "title": "2026 National Debt Relief 250 - Final Leaderboard - October 31, 2026 - NASCAR",
-    "source": "FOX Sports",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc09aZWFpaXR4UE1oTm83NG4ySTVqTFVUcGJTR3hWOUE3UXN5MlhYV2J1YkIteFUxTldOYWNYY2lWVlZ0Y2thbUFvWElEeklSV0RrbkJkaFNETU5JN3V2b1pRY1pHMEZRY2dPYW5BT0lMQXBPMDBoSFNNR3Blazkwd3lPQ0NyTWpLTm5sbHZFbHQ1Ti1rNGhIREhpRG1YQ0lTZU9kdzdQRVBVOTZWM2lRa3A1UVZWdG8?oc=5",
-    "at": "2026-11-01T09:27:41.000Z"
+    "title": "Everything changed for the oil, AI and bond trades over the past month",
+    "source": "CNBC",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55dmNrd1FhM2Y4WF9rSFZ5Tm91U1p6T0lkcDFtMjdSTC1HeW1nckRObm80bGNoMkIxVGMtenhNZERydEk0Y1Y0ZGNsZnhCVmR1UjQwcnE2cHloLVZDT3VXT3E3dzNnR2k0NFZtLTg0TdIBdEFVX3lxTFBvYzVYUk8tSlRXcDhuMVh4bU56TVJaRjNfc0pjcmctU1JPaUtmWmhFZzMtWXhkdGxRTlRYQ2xHblVGRVRUbXZleVh0UHJQUWdpazlKMjBxa1RRaGtPMl95a1hwUjMteUp2NzJIV1dPMTZOeW1z?oc=5",
+    "at": "2026-11-01T15:58:24.000Z"
    },
    {
     "title": "Treasury Yields Little Changed, French Bonds Outperform",
@@ -5563,16 +5505,34 @@
     "at": "2026-11-01T05:57:41.000Z"
    },
    {
-    "title": "NASCAR O’Reilly Auto Parts Series Driver | Owner Points Following Martinsville Speedway Race No. 32",
-    "source": "Catchfence",
-    "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNWVo1ZzRZTjVHVDItaUdkUmpJS1llNUZELWF6X3h4SHlPaUg0YTNfTlFKb2FKdUNrYUMzSUVrTE9kSzBkUlEzUjZPMEhqdVZUN05rdWkxT0tNQ292ZGZXTk55R0VBVTB1SmloZF9kWUM3b2VfRG1JS3lpVkQycUc0XzhtZ2NnRHFwRkdZMzF5NHltd09CSWZQY0ZZQ3dxM29mMzZoTWtWOGRBTWo5ZmxTTUo1NDZaQlRRVURFR0lqTVVTVXRLb2hOYWRWTVFIQmZDREdFWnh5dXNsNG1yckMxdmNqY251THpnbkZDMHRMd2NxRWt5SVBUZVFQVGFnRjNCNENjeWR4QXdlZzJNamE0ckMtRV85Z3h1ei0xT25PaXM?oc=5",
-    "at": "2026-11-01T04:53:34.000Z"
+    "title": "U.S. Treasury, European Bond Yields Fall After Fed, ECB Hold",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMVJzTU8waHdld3FnbVROOGw4ZEtGS2g3UHpKYVFXTXhzdW9DeW8xYmJrY1RmWGFvNUlqWThQR2FWaTRuaklmYWlhbTNQV0lfa3BNNmFjSHBUaTk0NDVNSHRFLUg5MFFhTFZZMWZrTHh5ZHpYVnVzMlpNZ2hqaEM3LVJuOUhrUV9kc3NGRHpfdFNkUEhTX2oyTzVRMUhvS1dyNkF1UVV4eEtFM3VXTXJvUG9Lc3dnRjRDc190d0Vzem5ZNmxfNktGcUl3?oc=5",
+    "at": "2026-10-31T16:04:11.000Z"
    },
    {
-    "title": "US Treasury yields could settle around 4.75 pc: SBI report",
-    "source": "IANS LIVE",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX0NqMGtsaDBtVk1zTHR3N0NHRWhuMlN6Z0F1UHIxbEdSQTBIdUY3MFdvYUU3b29ONGd1cWlyN0ZWLUttd3pYbmVOMjlNMWNPUm9tNE5Ta0pCV3VDd0Z2YlcwSEtfSmc4cTcyc0JIbnFlMU5kWEtOenBNOWRvd256ZVo5MmNLTFN5SFJxdkwtYi1abDhtZXNB?oc=5",
-    "at": "2026-11-01T03:49:00.000Z"
+    "title": "Stocktwits Weekly Spread: What Shaped Treasury Yields And The Dollar This Week",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONl9CeWhfNHNvZ2Y2UVZaUklXeFJuOHJJa2kzX19hdHM2dGpvUTV4eG1fZ2NGVXBCdzVCZktzaUxlMlhQMjI1bFpfTTVQS21CcTkyNVN0MUtHQTR0LXB2US0xTlVrT05UaFk4eGdyUWtmeE8wd0FPbnRORkUzbDN1WTh6WENCRDNrRm9odXJOZVY4djRHSmJyYWNaejVjMWhWeWVnbmdyUlhadTVpd0E?oc=5",
+    "at": "2026-10-31T00:54:00.000Z"
+   },
+   {
+    "title": "Essay | Why Did All the Fiscal Hawks Go Extinct?",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMV8yLUwtSkMzMG9QRURHdm5RYzl3bVBoTDNVWlFaTl8tS2JUMnB1cUd5UVRpWElEYUl0ZTZsRElIZ3NYNEVZYlVpdkM4ZTlDTlBENVktUTA4OXpwRGdLRW5YWVZ2aTdGUUJYUDhGOWdOYmhRakRNc0tfS3ZSdWU0WUhn?oc=5",
+    "at": "2026-10-31T00:00:28.000Z"
+   },
+   {
+    "title": "National Debt Tracker: American taxpayers (you) are now on the hook for $40,593,637,262,883.48 as of 10/30/26",
+    "source": "Fox Business",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSNkkwZXdYVm11NjF0d3g4ckUtZGxZSl9TbjUxenkzM3dSMno4TjlIV1d2OEMxaklOcnR2ZlZmUExfS1FBZDhSQ0ZMTElEUklFa2RyM3psaUFRNGtabmZ2N2hSVzlaNi15VFVaQtIBckFVX3lxTE5rVDRJWVVtV0RsMi14NXFZcy1XX25DY0FRN0k3MnIzd29HV1BnMXVSUlB4MEs5QVRLX1RwaG5xOXZIVXotdTAtTmFwcl9RaDRJWnhuRkpLcVNRQlgtLWhQeUdtc0hPcUJPTlJzMHBtRF9Sdw?oc=5",
+    "at": "2026-10-30T21:48:00.000Z"
+   },
+   {
+    "title": "Federal debt surpassed GDP for fiscal 2026",
+    "source": "The Hill",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80eDg1SVc2N3ZhQXVzVUlWQmh2N2ZiWGl6LTk3SVFBRThHWDg5TGJzUHVpaHZxdjlPeDZ2MFlheWlPZkZ6YW1EOGdweWJ3TDFmaTBpYzdxd2tva19ySGktVUhYZ0h0T1NzXzRlQ0xXemROTWVDazIwNm0tVdIBgAFBVV95cUxObkl4dFNudW9wdVRhMlRkRjE4dWFtRldtaUZ0SzVKMEY5Z3hhM0VwYy1QX04wVEVBcmFtejNIVGY1NEZhU1lPMF9Vc0VSMHZnR08xNzkyQ0RwUVhETXoxVTVCSXNQMlZVb2FRQ1J3Y1FyaHdsVmxkYkFHMnVaNXYxYg?oc=5",
+    "at": "2026-10-30T21:13:00.000Z"
    }
   ]
  }
