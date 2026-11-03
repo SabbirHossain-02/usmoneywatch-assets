@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T15:58:05.123Z",
+ "updated": "2026-11-03T00:59:23.084Z",
  "ticker": [
   {
    "name": "Mortgage, 30-yr",
@@ -31,10 +31,10 @@
   },
   {
    "name": "10-yr Treasury",
-   "value": "4.98%",
+   "value": "4.94%",
    "dir": "down",
-   "asOf": "2026-10-29",
-   "when": "Oct 29"
+   "asOf": "2026-10-30",
+   "when": "Oct 30"
   }
  ],
  "videos": [
@@ -4714,114 +4714,114 @@
     },
     {
      "name": "10-year Treasury yield",
-     "value": "4.98%",
-     "when": "Oct 29",
-     "asOf": "2026-10-29",
-     "change": "+0.9 pts vs. a year ago",
+     "value": "4.94%",
+     "when": "Oct 30",
+     "asOf": "2026-10-30",
+     "change": "+0.83 pts vs. a year ago",
      "dir": "up",
      "tone": "bad",
      "spark": [
-      4.28,
-      4.26,
-      4.44,
-      4.41,
-      4.25,
-      4.17,
-      4.32,
-      4.57,
-      4.62,
-      4.62,
-      4.79,
-      4.57,
-      4.55,
-      4.52,
-      4.54,
-      4.53,
-      4.25,
-      4.28,
-      4.32,
-      4.25,
-      4.35,
-      4.2,
-      4.34,
       4.29,
-      4.32,
-      4.25,
-      4.37,
-      4.45,
-      4.54,
-      4.41,
-      4.51,
-      4.41,
-      4.34,
-      4.24,
       4.42,
+      4.43,
+      4.43,
+      4.18,
+      4.15,
+      4.4,
+      4.52,
+      4.55,
+      4.67,
+      4.78,
+      4.6,
+      4.55,
+      4.43,
+      4.62,
       4.5,
-      4.35,
-      4.34,
-      4.22,
       4.29,
+      4.29,
+      4.27,
+      4.24,
+      4.38,
+      4.06,
+      4.4,
+      4.34,
+      4.29,
+      4.33,
+      4.37,
+      4.43,
+      4.51,
+      4.46,
+      4.49,
+      4.46,
       4.3,
+      4.26,
+      4.34,
+      4.46,
+      4.4,
+      4.38,
+      4.22,
+      4.24,
+      4.29,
+      4.24,
+      4.17,
+      4.01,
+      4.11,
+      4.18,
+      4.1,
+      4.14,
+      4.02,
+      4.02,
+      4.11,
+      4.11,
+      4.13,
+      4.04,
+      4.09,
+      4.18,
+      4.15,
+      4.18,
+      4.18,
+      4.19,
+      4.17,
+      4.24,
       4.26,
       4.22,
       4.04,
-      4.06,
-      4.16,
+      4.03,
+      4.05,
       4.12,
-      4.13,
-      3.99,
-      4.01,
-      4.11,
-      4.11,
-      4.14,
-      4.06,
-      4.09,
-      4.17,
-      4.18,
-      4.17,
-      4.14,
-      4.15,
-      4.15,
-      4.26,
-      4.24,
-      4.21,
-      4.09,
-      4.08,
-      3.97,
-      4.15,
-      4.28,
-      4.39,
-      4.44,
+      4.23,
+      4.34,
       4.35,
-      4.31,
+      4.34,
+      4.3,
       4.26,
-      4.31,
-      4.39,
-      4.38,
-      4.59,
-      4.56,
-      4.47,
-      4.56,
-      4.47,
+      4.35,
+      4.45,
+      4.42,
+      4.61,
       4.5,
-      4.44,
-      4.56,
-      4.55,
-      4.67,
-      4.67,
-      4.63,
+      4.46,
+      4.53,
+      4.43,
+      4.41,
+      4.48,
+      4.54,
+      4.57,
+      4.71,
       4.68,
-      4.65,
-      4.66,
-      4.79,
-      4.95,
-      4.94,
-      5.18,
+      4.69,
+      4.63,
+      4.69,
+      4.67,
+      4.77,
+      4.96,
+      5.01,
+      5.17,
+      5.28,
       5.24,
-      5.22,
-      5.09,
+      5.15,
       5,
-      4.98
+      4.94
      ],
      "source": "Federal Reserve"
     }
@@ -5263,20 +5263,28 @@
  "news": {
   "top": [
    {
-    "title": "My wife and I are in our 70s. Should we pay off our 2.5% mortgage or invest in a stock market driven by AI?",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-    "at": "2026-11-02T15:45:00.000Z",
-    "image": "https://images.mktw.net/im-65126339",
-    "desc": "“We are weighing up the wisdom of investing in a market driven by artificial intelligence.”"
+    "title": "Trump Administration Said to Plan Rolling Back Pregnancy-Related Job Protections",
+    "source": "The New York Times",
+    "link": "https://www.nytimes.com/2026/11/02/business/economy/eeoc-trump-administration-pregnancy-fertility-abortion.html",
+    "at": "2026-11-02T23:10:20.000Z",
+    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/00biz-pregnant-workers--01-lcqm/00biz-pregnant-workers--01-lcqm-mediumSquareAt3X.jpg",
+    "desc": "The Biden era law was meant to help women stay in the workplace, but some conservatives say rules to enact it went too far with coverage for abortion and fertility treatment."
    },
    {
-    "title": "Binance releases proof of reserves data for ten cryptocurrencies; oil tumbles amid hopes of Iran war breakthrough – as it happened",
+    "title": "Traders rushing into a leveraged ETF to make a bullish bet on the Nasdaq-100 just got burned",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/traders-rushing-into-a-leveraged-etf-to-make-a-bullish-bet-on-the-nasdaq-100-just-got-burned-d6775191?mod=mw_rss_topstories",
+    "at": "2026-11-02T22:03:00.000Z",
+    "image": "https://images.mktw.net/im-87153405",
+    "desc": "Some investors appeared a little too eager to buy the dip in technology stocks last month."
+   },
+   {
+    "title": "Oil price falls amid hope of a breakthrough to end Iran war",
     "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/live/2026/nov/02/crypto-scam-binance-billion-hack-business-live-latest-updates-news",
-    "at": "2026-11-02T15:07:29.000Z",
-    "image": "https://i.guim.co.uk/img/media/5fccfadfbf1abdc153a87f2912cc39f4233a9b70/758_0_4039_3231/master/4039.jpg?width=700&quality=85&auto=format&fit=max&s=4173cd8f60d5bdf81d2cd28d45c7e143",
-    "desc": "Rolling coverage of the latest economic and financial news Yi He, co-founder of Binance, has said that its top priority is to “ensure the environment is secure, after which users can withdraw their funds and Binance can "
+    "link": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war",
+    "at": "2026-11-02T17:14:23.000Z",
+    "image": "https://i.guim.co.uk/img/media/5aa655482ec1b18379bdd2373abb83196044c4d5/1261_325_3461_2770/master/3461.jpg?width=700&quality=85&auto=format&fit=max&s=3c8fd88c0ea026d1f1f1dbab2e78d122",
+    "desc": "Brent crude drops by more than 6% to $105.55 a barrel, the lowest level in more than two weeks The oil price has fallen to its lowest level in more two weeks amid new hopes of a breakthrough to end the Iran war. Brent cr"
    },
    {
     "title": "Two economists studied California's billionaire tax. They reached wildly different conclusions",
@@ -5295,12 +5303,20 @@
     "desc": "The 2027 budget will rise 12.8% to 820.9 trillion won, and will include a 21.3 trillion won investment into semiconductors, physical AI and AI data centers."
    },
    {
-    "title": "Want guaranteed income in retirement without an annuity? Try laddering I-bonds.",
+    "title": "Trump’s Tariffs Are On the Ballot in Michigan",
+    "source": "The New York Times",
+    "link": "https://www.nytimes.com/2026/11/02/business/economy/trump-tariffs-midterms-michigan.html",
+    "at": "2026-11-02T20:05:13.000Z",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02dc-trade-midterms-01-lmfk/02dc-trade-midterms-01-lmfk-mediumSquareAt3X.jpg",
+    "desc": "The levies as well as trade fighting with Canada are facing a test in the state, where voters appear skeptical of free trade but also of the president’s erratic approach."
+   },
+   {
+    "title": "Wall Street’s most hated stocks are faring far better than its favorites",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories",
-    "at": "2026-11-02T15:32:00.000Z",
-    "image": "https://images.mktw.net/im-39326019",
-    "desc": "The new 5.51% rate might entice you to use I-bonds to create inflation-proof income in retirement."
+    "link": "https://www.marketwatch.com/story/wall-streets-most-hated-stocks-are-faring-far-better-than-its-favorites-4c1d6c68?mod=mw_rss_topstories",
+    "at": "2026-11-02T21:45:00.000Z",
+    "image": "https://images.mktw.net/im-63782363",
+    "desc": "The thrashing that Wall Street’s artificial-intelligence darlings have taken over the past few months has led to an unusual situation in the U.S. stock market."
    },
    {
     "title": "Texas voters on high gas prices under Trump: ‘Probably made me go more Democrat’",
@@ -5319,12 +5335,12 @@
     "desc": "There was a mixed Halloween bag of economic news this week. GDP growth is up, but so are prices. For now at least, interest rates are staying the same. What does that mean for the midterm elections?"
    },
    {
-    "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+    "title": "Palantir earnings reveal a major AI turning point",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-    "at": "2026-11-02T14:30:00.000Z",
-    "image": "https://images.mktw.net/im-19916000",
-    "desc": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”"
+    "link": "https://www.marketwatch.com/story/palantir-earnings-reveal-a-major-ai-turning-point-db766110?mod=mw_rss_topstories",
+    "at": "2026-11-02T21:09:00.000Z",
+    "image": "https://images.mktw.net/im-831524",
+    "desc": "The U.S. commercial business brought in more money than the U.S. government segment in the third quarter."
    },
    {
     "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
@@ -5335,39 +5351,15 @@
     "desc": "A truce has cooled the trade conflict, but neither country has done anything to limit the outbreak of new hostilities Donald Trump ’s trade wars have largely fallen off the headlines. Fears of new tariffs flare up from t"
    },
    {
-    "title": "Oil prices could average $130 a barrel next year, according to Goldman Sachs",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/how-oil-prices-could-average-130-per-barrel-next-year-according-to-goldman-sachs-235ce32b?mod=mw_rss_topstories",
-    "at": "2026-11-02T13:46:00.000Z",
-    "image": "https://images.mktw.net/im-45566739",
-    "desc": "Analysts at the investment bank said Brent crude could reach $140 a barrel next year if tensions worsen in the Middle East."
-   },
-   {
     "title": "Affordability top of mind for voters in final sprint to midterms: ‘I have to pick between medicine or groceries’",
     "source": "The Guardian",
     "link": "https://www.theguardian.com/us-news/2026/nov/01/affordability-voters-final-sprint-midterms",
     "at": "2026-11-01T12:00:11.000Z",
     "image": "https://i.guim.co.uk/img/media/b42001773186bc6ae7daa884a92f176ae4a00846/446_0_4853_3883/master/4853.jpg?width=700&quality=85&auto=format&fit=max&s=53b900a178df9a051c923490fb793f17",
     "desc": "Cost of living has loomed over this election cycle as workers and unions champion candidates fighting for higher wages and tackling rising prices For millions of Americans heading to the polls on Tuesday, affordability i"
-   },
-   {
-    "title": "The Trump administration wants to give married parents money to stay at home. Will it be enough?",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/money/2026/oct/31/trump-married-parents-payments",
-    "at": "2026-10-31T10:00:41.000Z",
-    "image": "https://i.guim.co.uk/img/media/9b661a74913e60aa190fb20d2b04f746c342d60b/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=5d86413e00d35af16ea4825fe330a6f6",
-    "desc": "Experts say the proposed program prioritizes parents in ‘traditional families’, ignoring the flexibility needed that all families need to support themselves Erica Hall and her husband knew that raising kids wouldn’t be c"
    }
   ],
   "housing": [
-   {
-    "title": "My wife and I are in our 70s. Should we pay off our 2.5% mortgage or invest in a stock market driven by AI?",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-    "at": "2026-11-02T15:45:00.000Z",
-    "image": "https://images.mktw.net/im-65126339",
-    "desc": "“We are weighing up the wisdom of investing in a market driven by artificial intelligence.”"
-   },
    {
     "title": "Two economists studied California's billionaire tax. They reached wildly different conclusions",
     "source": "NPR",
@@ -5394,7 +5386,7 @@
     "title": "Where Portland homebuyers have the upper hand",
     "source": "Axios",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZnJvcU42Ukp4Q0EtRzl4RF9CcUhDaUVYTHpYbEw3WDBVTzViVGo2Q1UtWTNvQk1kTk92SU1FMUdSb0ZCWm9TSGVxSWlkd0dxLUFJU1pGbGdQUWVheVgwZlBLSXVVRkoyNVpqN0U3aklKc241Zm1GczVmT21QN2oxZ3N2VEFxSVZMcy00bVVJVUU?oc=5",
-    "at": "2026-11-02T14:27:36.000Z"
+    "at": "2026-11-02T14:16:17.000Z"
    },
    {
     "title": "Today's Mortgage Rates, November 2, 2026: 30-Year Rates Remain Unchanged at 7.28%",
@@ -5409,13 +5401,35 @@
     "at": "2026-11-02T13:49:00.000Z"
    },
    {
-    "title": "Mortgage Rates Today: November 2, 2026 – Rates Dive",
+    "title": "Compare Today’s Mortgage Rates",
     "source": "Forbes",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsZy1POE1ncmhwUHNnSjVaNjVkd0djejlUOGx0Qklab01BakpkRjdfZENlZjEtNUI3Tm5YQnFrRldid1A4RHZRcnV2RDlsVm1lNk1HV0VKUVpBMHBJWmxOZzJwN2paUVZ0R2RwbTI4SzNDMGs?oc=5",
-    "at": "2026-11-02T10:20:06.000Z"
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZWTRCWTZjV2FtYlpMOFBxWjVNRF9EbGN0QUJYRHVXY1VyMTdSdGc2blVoM2lFYkI0elJNRVY2VER1RTJZNGEwendkNEFGejdfZkNOVTRTa3FWSkdISHNTcmNfYlBTY3M?oc=5",
+    "at": "2026-11-02T12:35:00.000Z"
+   },
+   {
+    "title": "Mortgage Rates Forecast For 2026: Experts Predict Whether Interest Rates Will Drop",
+    "source": "Forbes",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kMlJHRWhRY2owbnpsZWhWOHVVZFR1ZmM3NzhqTUVEVnpHR2xlMHp0QnR2eXFwV2wzQ2FMbXZTN3lTLUJ5OHgxdnk0S3Z2Q3hEQ2pEYW9xcWhrRktVS3B0RXB0NkdnM0hPMzBReG5neWZ1TTdvVWs4bWgxdWFNUkk?oc=5",
+    "at": "2026-11-02T12:35:00.000Z"
    }
   ],
   "inflation": [
+   {
+    "title": "Trump’s Tariffs Are On the Ballot in Michigan",
+    "source": "The New York Times",
+    "link": "https://www.nytimes.com/2026/11/02/business/economy/trump-tariffs-midterms-michigan.html",
+    "at": "2026-11-02T20:05:13.000Z",
+    "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02dc-trade-midterms-01-lmfk/02dc-trade-midterms-01-lmfk-mediumSquareAt3X.jpg",
+    "desc": "The levies as well as trade fighting with Canada are facing a test in the state, where voters appear skeptical of free trade but also of the president’s erratic approach."
+   },
+   {
+    "title": "Oil price falls amid hope of a breakthrough to end Iran war",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war",
+    "at": "2026-11-02T17:14:23.000Z",
+    "image": "https://i.guim.co.uk/img/media/5aa655482ec1b18379bdd2373abb83196044c4d5/1261_325_3461_2770/master/3461.jpg?width=700&quality=85&auto=format&fit=max&s=3c8fd88c0ea026d1f1f1dbab2e78d122",
+    "desc": "Brent crude drops by more than 6% to $105.55 a barrel, the lowest level in more than two weeks The oil price has fallen to its lowest level in more two weeks amid new hopes of a breakthrough to end the Iran war. Brent cr"
+   },
    {
     "title": "Texas voters on high gas prices under Trump: ‘Probably made me go more Democrat’",
     "source": "The Guardian",
@@ -5433,90 +5447,74 @@
     "desc": "Cost of living has loomed over this election cycle as workers and unions champion candidates fighting for higher wages and tackling rising prices For millions of Americans heading to the polls on Tuesday, affordability i"
    },
    {
-    "title": "ICE, inflation and Trump: gen Z readers share their concerns heading into the voting both",
-    "source": "The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ha0huQzFUZzNGa3F5S0xFaVQ4Zkd5MDlTREFORkt2OU1jTTJVN1hlZC1kNFZsb18yLWt6YkY5OGpsbDIzWVhnVHJ5N0FhSTc1TXhzV1hNbTZTTDhyUHR0SEEyVC1UUTZxT3BmeFJmQnhKdE1XaFE?oc=5",
-    "at": "2026-11-02T14:02:00.000Z"
+    "title": "Opinion | The inflation election",
+    "source": "The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR0tjSG9VRzlqR21xUS1WSy1MNXBMNVM5d3dvcnk4VlRIVnN6akNaVW52SkZ2QzNGOGF1Znc0dXh0YjVvTmF2WXFhREJUYWpGR3dmdjNDcGZwazgtaERIRXpDeUVKdkdmS0pCel9MbVAwS1ZNVXlZMjFLdC1CbFd5alY2M2piQ3NxNG9zdVlyYTlCdHluczdtT0FITl9idHdIdUtzR3hOZkdiellLZktXSg?oc=5",
+    "at": "2026-11-03T00:27:05.000Z"
    },
    {
-    "title": "US voters in a sour economic mood heading into midterm elections",
+    "title": "Trump Says Oil Prices Dropping as Don Jr. Concedes Gas Prices Are ‘High’",
+    "source": "Newsweek",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLTZzbVM0N2k1VU53cGhhcHNHNlAtMTI1aHdKV2dudnZIS3hyZFZsQ3VPSXVRR2p3dWZzbjdjQVgybWV0SE9OU1ZKcXp0ZlZWMDBlYXBmTEZ1ZEpra2kwb0JDYXpXQ3lUd05GdFNTN0pqVkY3U0d6M09fMnhlLS1QNk9kRDJwekM2TWNESllsQlVpRE1HUmpBdmttOUxLNl9VQ1JHQWNn?oc=5",
+    "at": "2026-11-03T00:26:00.000Z"
+   },
+   {
+    "title": "Gas prices are set to be highest for any Election Day in U.S. history",
+    "source": "The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY2p6SUZBT3lJVG9SRFp3MFJuN1pVdTBlTkRXV1JLbWVnd05iaUFrR1YxMk1aMEdpZjMwSEwwbEVzWVhDMV9hSmhoTmR5R3o2cE5KcUpCTU5Kb3BwSGFXR0RlR3JCbkJZVllfenJ6dG9zWnRJdUhFeGFWejZBcjdnZl9pV1VPdTZiSFA2VjZ3T2RNZXVwM2VDUE9pZUxMSVk0cndocEltcTFQU1NNT3c?oc=5",
+    "at": "2026-11-03T00:22:13.000Z"
+   },
+   {
+    "title": "South Korea October headline inflation moderates ahead of expected rate hike",
     "source": "Reuters",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGRVbTNjVkVkWHA5anlUV0l1YUhUUjM2Zy1DOGg0T2l2V0Zqajl2TzVpUW5Wc2s1ZkF6eTRNSmNNMWZCUEZqM0ZjUHNKQ0NkZkNGdlY3U2xHcWhBTUdzcXBnd2p2Z0VjUWFiQ3JRYkdvbTR2NUdnZUlnZHU4ZjY0OTIxa0NSbGhXWE1Yc1A5VmZHQVQ3aEJzcHhHNFVqVTNFa3RKazBydW9TbnBEUlo0aEM4THZmQQ?oc=5",
-    "at": "2026-11-02T13:08:09.000Z"
-   },
-   {
-    "title": "Michigan gas prices drop 28 cents since last week, AAA says",
-    "source": "CBS News",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQjExeDRIdkJSX3NaNUsyQ1JyVlRHMUpzdDMtODBOaHItSXFkU0J2aEV1MDFSWW9Ta3E1NjRHNkI0QWJPcG9uaml6Q2l2cTBKYi1JX3BEY3dJd2sxdFhCQVRjZGhkT2JVbS1EUzI1cUYydHZkM0RPUTczX2NqMlJ3cmd1YlhlRjlnenFZT29kY1A1YmFGd2JyQUI2Unc?oc=5",
-    "at": "2026-11-02T12:48:54.000Z"
-   },
-   {
-    "title": "How high inflation impacts midterm elections",
-    "source": "CNBC",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSWg0dDZOb0Y1dGM5TlJaa29yX2k1SHlVT3ZRaGNLbmRYcEZOOWROemtjSUtkUWhwdjljNDZoZy13QmhfTGRfamJHQVJubDlmbW43RlMtOXdqUUI0QUFBbVpTak5TN180M1JRX2JCNlhoN2x2NFJIamN1SE1wX1dmbDE5dVpzYzZZTkNocG9UYUg?oc=5",
-    "at": "2026-11-02T12:11:26.000Z"
-   },
-   {
-    "title": "Series I bond rate higher with inflation",
-    "source": "CNBC",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFh1REpUU0EwWjdBNUVLVTB3ZlhPT21wNVByd3NLWkRMMjFnX09McWhQem0xMXJ2dGlUX21lbWRhbC1rNDl3WEM2ZkJLNmR4UzY4T1B2MDNURTJBYnFrYm0yMzhtcFBNUHU4dHhIMW1kd2p3QUNMcUhQTnQ1aFl1QjhoZ1BlSzR1WU5pLTFSaEt3NUk1bjFSSlFDa2ViZFRBY1VmYkhSS09UQQ?oc=5",
-    "at": "2026-11-02T12:01:05.000Z"
-   },
-   {
-    "title": "Canada futures gain as oil retreat cools inflation fears",
-    "source": "Reuters",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZmk5ay1rLUx4aURIYmtJVlFHeWl1VXBhelo0Xzk2U0t3VEhZbDFidEp3aVEwTnp1YVBmMGw0UktRaDdkdGQ0RWltWUhldzFIOXZXb3BRVHZQNUhTcnBwWHJaX25veW5MM1dqQzNOMjhYUmRsYXNHVllpeFNiOW1ERGk2aEpNbHFVTFJhOWxPTVNOZXdtdnhDbm1qRUhmMmc?oc=5",
-    "at": "2026-11-02T11:47:43.000Z"
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSFk2a29WR0k2QjdaaDd5LTNsR0gxYlhRdVZrY09GcmxWTG1ZMlFGTEVPVDgxclZpUDNrZk16Zl9mMnpFUEZTZnk0ekIzYTAwRTEtZUxDaGU0UElSQzJ5SC1xdy04aWliVTBDVWw5NTdSMDhlYldyU0xkeVpRUEMzTzdUS19jN3otUUVjdmsyRkIwRjJRZFF4YTJ6TkpEQWFxajFlSmpXYk1GLUNfZVE0b0V0YTA0b3ZSZlVZUFdEMnlqMjlSVlE0?oc=5",
+    "at": "2026-11-02T23:36:09.000Z"
    }
   ],
   "jobs": [
    {
-    "title": "Moore Working with Steady Job Market",
-    "source": "thepilot.com",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOVZTcGN6S1Btdl9qUUlFUExXVFpTTUR6TDJVU24zTXhjRDlGLXBzTmFXRTdvY0xfRi1zbHNYZHhHSDJIajh3RG1pZkFweURpXzMxLVlWSmNTd2NBLS03MEV3dzJzU1JTVHVXSlo2Q1VCV25SdmRUQWJIcGJZUldIeGtDckd6ejRTSUZsVlkzWHRRaXBpQllWNjRXX2t0UkF4bVgtU25zOUctZlUzWF93aFFmUWtmWmFKaHFINw?oc=5",
-    "at": "2026-11-02T15:39:00.000Z"
+    "title": "Trump Administration Said to Plan Rolling Back Pregnancy-Related Job Protections",
+    "source": "The New York Times",
+    "link": "https://www.nytimes.com/2026/11/02/business/economy/eeoc-trump-administration-pregnancy-fertility-abortion.html",
+    "at": "2026-11-02T23:10:20.000Z",
+    "image": "https://static01.nyt.com/images/2026/10/30/multimedia/00biz-pregnant-workers--01-lcqm/00biz-pregnant-workers--01-lcqm-mediumSquareAt3X.jpg",
+    "desc": "The Biden era law was meant to help women stay in the workplace, but some conservatives say rules to enact it went too far with coverage for abortion and fertility treatment."
    },
    {
-    "title": "Construction unemployment rate decreases nationwide in September",
-    "source": "Construction & Demolition Recycling",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ3JMOFpqOVhhNzBuc2hTX2VMa0J3N2hwejhHVk1HM2RiZGRhTHVTanJwYU1YQmxDUGFXU2ZPSHZXLU5FUWlON2tSV3JfemRyZjRYRW9Nd2IwRDBqYy1aOHoza1FQd1pYbXE5NDZHdzZqWEp2N2JRVGhrUVBHNDdndVYwZXVpYzJkOG9qbE11OXpWbV8xaEVaYTg2X0pjZXdnaWRfZVBR?oc=5",
-    "at": "2026-11-02T15:23:00.000Z"
+    "title": "Disney eyes thousands of layoffs, managers asked to cut 20% in costs, Bloomberg News reports",
+    "source": "Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMFRGRW5WZUJyZDIxY3dFM1FneTBpOVhvWlVKcWdqa0l1T0VMblRzT3h5YVhhb1JwdlB5dzhERG91T2dVc1o1Zlh3bEU2QnU0MnpwdGFFM0RqalBoZUZHaExEa0gyNWkwc2xkT01DWUdNQTZaVXRlYS1GZFhHcnJwQ3VuMy0weU0tRktyelJqNzI4NUJXNUpGVGlzNjBib1loTk9IVE9TUDN0YnRvbDJWaHhLTS1RMUliMmI0WHJJMmNIY2s?oc=5",
+    "at": "2026-11-03T00:36:00.000Z"
    },
    {
-    "title": "What Is Loud Working? Visibility in a Tough Job Market",
-    "source": "Built In",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50dC1fdG4yYzM5X3daOVZuTXRnTHJ0TDZoaU80emRGU0FwbG8zRUxEZ2x6TWdNYkRtSjd0aE52WldFLUQzU09fbDdoa05vcDlQMVhJ?oc=5",
-    "at": "2026-11-02T15:18:44.000Z"
+    "title": "Read the Memo From Squarespace's CEO About Laying Off 19% of Staff",
+    "source": "Business Insider",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaHM0SjRiSWtHWmpzMUV2V2RBdktCZGxXd0xSQ1pKVVJ0Ulc4UTZvTllCRW9ldlJtTkZ0WTk1TDlYMUtzVXppWHl6QkV4WWNFQ2h6a0JQOUEwQThYY0JVN0wybUt3NjhSTEhhRTJkQTFTWGw2UnZjYXl3Skx1SklIUzFHZ0pkR2g0azZuUnpuSzRlRzBNTVE?oc=5",
+    "at": "2026-11-02T18:54:00.000Z"
    },
    {
-    "title": "New York unemployment services to go offline for 9 to 12 days starting Nov. 2",
-    "source": "nny360.com",
-    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQelFyaXkyQWNhLTAtR09QSWQ2eUhVWXhRcEdhenlIQ1l0WkE2UnBwSWVsYzZ2b1c3cW9NbmlZUFVVc25YbklWZUhlYXJsT3JXTnhsN01tR3dkVjNhQkotUkVPOXhsbExBTVlKZHJiYnVNei1aREZIVkhCQU5NOE5OX0kxUzBJcVFLY1lEM09LcHNldXVqcXVsV2d5WVZLQVhPTldPaUFhek9HVjVqV25qaEl0YXA4bE53N0VKTVRyeVlSamtvTWFUVENjQ2F2aFBheXlySjJwaDRKdVNkNW1pdUpObkhWek9jTG11STV5Z2RobVE?oc=5",
-    "at": "2026-11-02T14:49:04.000Z"
+    "title": "Stock market to be jolted by Apple earnings, midterms, and October jobs report this week",
+    "source": "Business Insider",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZVl0bE1IVW5RUmx1UExkNy1YenlMcVhQNUI5SFV4X1Bhck1qWVpBVnNOQmZhUVhYT0xIcFM4NVJIUDR0ZEhBa2E1SEpuYjd3cHlJd2Yzak93R2FVakZLcnlRWU1JMXNveEFHVzJLSjhKRW1LTEVPZnRGMl9iUjdhREdCQzFsQ2o0S1VkNDdLRWkwWHhuX21mQ1pjSUxuNWc?oc=5",
+    "at": "2026-11-02T17:02:00.000Z"
    },
    {
-    "title": "Disneyland Update – Layoffs Hit Imagineering, Attendance Stalls, and Packing Up Pumpkins",
-    "source": "MiceChat",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObHFxSVFSNUVfSWNqNjYzZVlHU1JfRFUwOXk0ZDUxbF9HSXlOcGdVMUlHc3dRSXE1NXhoWHlFMDVIMnhuV0tVNWtTYlBERXJMTDhQSHgwOGlnNUs2Y3huYjdZUHJNRnFtbVc3eUNFa210Q3ZGaFIzY3poc2JWOTBSRS1uX0JETWJaMzFjVmh3eVJrS3RTNGZyR21uNHFJckMydWlzRmRhalFkYjdKa3Jva1lNZC1KSy1vSWJLZzBuZmlTUGNTaTVj?oc=5",
-    "at": "2026-11-02T14:30:29.000Z"
+    "title": "Earnings from Apple, Palantir, and jobs report data: What to Watch",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN3NpVHFOMTN6X0YzWWtQX3NaeENfYlVrZWFsa1ltYTl6RWxQcllmRm5rQVNpcFp0eGpfSG56dGg4T2ZKTzhhdXlidWlfVjEzTzlQejNSLVJYTEdBRVR3c3A3c3M5bEg3Uk1hcTVzNGNEaEI0MmZIMVRWaTJOQzliR3lHTHNidmtNQVE?oc=5",
+    "at": "2026-11-02T13:00:00.000Z"
    },
    {
-    "title": "Stelco standoff continues as CEO teases end to layoffs if Canadian customer base grows",
-    "source": "Buffalo Toronto Public Media",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQTZOZE1oelhEd1EwS0RzQkRyUDdybXlXMUdlNGZMcTZRaVh1OUtnSFNaajRQMzRwRVRpOEJuOWkwaDduTGtObjhtY0gzc0ZRWS1qaDhvSUVPbUg4V2g3YVlDWGhCa0d6RkFUSllxam9wbVlTZEFQX00wTElsbUlJTVRka1VnME4yUDRpT2JFN1RweUlxd1hwRmYxOVpFbi1LZ0hITi0zNEZ1SndtZFNPNkRBRUo0cDdRRGFodENTem5ibFhwOXhTQkFpYw?oc=5",
-    "at": "2026-11-02T14:21:00.000Z"
+    "title": "The Hidden AI Job Market: 4 In 10 Listings Skip Degree Requirements",
+    "source": "Forbes",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT3BMNEdrRVNEQjZnbmM4OXA5Wk1JLThZM1kyMklsdnZjcTlBOVlyclpBWnJ3QkFJallITVFiUEkwX2pVWHBWaXZtOEhkb3pxRGxnM2dBb1JKSmZvWjNLdk8tRV9mZlJQbHQ4aWVzREJqVEZNejZUbnBLQm5ITHVsR25yUER3TkdjNDN0STlMZ2VFRVVuNzdSVE42dnBENjR5V0JsRGJsMEFWNXBoUUJvbEM5bXMySXlhbG52OW13?oc=5",
+    "at": "2026-11-02T11:00:00.000Z"
    },
    {
-    "title": "Taking the Pulse of the Labor Market | National News | U.S. News",
-    "source": "U.S. News & World Report",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc2VYZHI2SGJ0MWoyaTlPam5MS1ZxVjlyTmNMRTYyUEZNZmloMnlsMmwwZFNWZGdlbnVGbWZ4SUx1bVVtMVVjY21VbGY3enFlN0NibWZrb2poRzl5VWxlcFExNnUwNVVfQWlSVEFlNnFhSFQ2Y1hHOF9zOFlLbDJpMnpuZUxROEw0WHZNbGJOMHNkZEpaYUgzcE0yZmNrRGM?oc=5",
-    "at": "2026-11-02T14:18:00.000Z"
-   },
-   {
-    "title": "Michigan unemployment services switching to new system",
-    "source": "WOODTV.com",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZW05cmtlYWdtWjlXTUx2VG5reGVibmRfZDVBYTNadHZCWHdtQjQ4UGZjLXBtY3Z0WFpqbmlGYWowZjVmbTJ0cUpPNm5FUW5oUHR2Wl9ZTTlJU29ZWkpqR1dZTEpxb0pHYy14b1JEaDB5Tlh6aTViQXh3akp6d19IMW5XejFvU3hLWDhuU0EwaGNPc05zcERJdQ?oc=5",
-    "at": "2026-11-02T14:02:24.000Z"
+    "title": "Housing Week Ahead: Monthly Trends Data, Mortgage Rates, and Jobs Report",
+    "source": "Realtor.com",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYk9LWUtubTBvOHFmQkgzMTNZWlFwcWk5Rnh2ZWhwSHRPUDhhdTNZRWpCZ2x2ZVlNZlMtS0twMEpYcEpNQ0RlNmtKZUkya0tZWFJTWTJXTUcya0JKMk02YXUyRjh5ZEMyYjlPcVVYSkZmWWxvbEtsVlhFaUFBQTBWZnVENHdnX0puQkU0R0JpWS14aUE?oc=5",
+    "at": "2026-11-02T09:36:00.000Z"
    }
   ],
   "debt": [
@@ -5529,46 +5527,46 @@
     "desc": "The 2027 budget will rise 12.8% to 820.9 trillion won, and will include a 21.3 trillion won investment into semiconductors, physical AI and AI data centers."
    },
    {
-    "title": "Oil’s Drop Pulled Long-Term US Treasury Yields Lower",
-    "source": "Finimize",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbHgtTjRnSDI0ZXdJUXVxY25mR09odXZUODZFYkE2Z0xwWDgyYVZtMUJmMkZwQWZuRExkR3Z4eE1BTUJNTEktanRSeEZWdW53TTgxLXU5UDFtQ0RlaFROMjNMWXpwckF3UUhYcklNbGpsenlua3BCcWlsRlRqWk1kV3d3dDlaZEU?oc=5",
-    "at": "2026-11-02T15:01:18.000Z"
+    "title": "U.S. Stocks Up, Treasury Yields Mixed After Fed Hold",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLVpkc0tPSDBPVHptQ0w1dG1CTjVvTXpYZTAwbWlJOVpJUHc3UTN5R2pPeTA0QnoyVWpRVGpLS3JFd0xSeDdoWjJtRlJBNHZXVm5kcTBRaUdxQTNNeGdNQmFxYWE0MjBoZG80SVlscnJSaGRDdDBmUFRsT3BtWnd5TjlwZ3dqWDNDRnFVamJ4RlVqZThYTm5tVTJB?oc=5",
+    "at": "2026-11-02T19:53:32.000Z"
    },
    {
-    "title": "US midterm elections: How the outcome could impact Wall Street, AI stocks and Treasury yields | Hindustan Times",
-    "source": "Hindustan Times",
-    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxORUlMdEpYaTd0WkgyVDhVMll1R2ZaSDUtamYtYkNJdzNod2cyYVNZVDZDWjZuZWdFTDlMUTQyR25CNUZtbjhHSUQwX3kxU2dPYlo5a1M1N1VPV3F0SlhLS000a2dMS3drSWM5cDhEa0VjZ1hfNEh0YUVrNzNqQjlsdExUVGdfbGRBX21aRWFGWFFEdUgyYUlkSlVXUUpZVklhdkdlYk9PUjFTTmg3Z2Y2TjZFakpvLVRKMXB0QVdKb2pMOExzLUhleVJubFlCaUJrMjZXOUQ4a19IZ1hEdUtFWXNlczRVNXB1b3lEc2lKZ0NKeVR00gH6AUFVX3lxTE1rdzBMczJiQ1FLQm5nbmNRa0w2MzVtQmtIakJ2Ni1ESHF6UW8xRjRvbERqWnE5TmY2Z2RLay1xTnlaOW1xYklaOVZ0UUF1dVp6NkxKbGZnRnBhVGk2Z1VlWk1JUnZ4X19IN3I1aVYzcWRjaGY5cHRMSm51T20yb2VPRjlkLW1lV1hQWnU1UTlSV0lidTkwbjF3eE45M0ZTS0JLNC01ZlZIMkdvQ3VITi0xSEF6UklCV1ZkS2RaZUdBN0dKZ0FZOV9jREhjcDJ3NmE3OE8xMVk3OGlWQU41Qm1WVi1aN21IOVdaYUQ1OXQ1YVdJeEotVlZxSFE?oc=5",
-    "at": "2026-11-02T13:41:30.000Z"
+    "title": "Update: US Equity Indexes Rise Amid Sinking Crude Oil, Treasury Yields",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSVhSa1pQX01UN0dhUVlsNGNBeDZNQ1J1S1k2Nzgyd242Vm5RR3RvR1lVWGdvWjE3ZHZodHMtMmtRQW51WDQtLW0tUXBIOXo0TDY1UXpwa2tkamtlV0VJUTNueXpHb1ZLV3FwSV83LUFVWnVmRnJfTWM4RlhpLWJhVXVuaU9BamU0NVBBUE90QkdJX05ZRHNN?oc=5",
+    "at": "2026-11-02T19:18:26.000Z"
    },
    {
-    "title": "Investors gaming out Congress control for spending, AI outlook",
+    "title": "U.S. Treasury, European Bond Yields Fall as Oil Prices Drop",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUGUwUW9rQ2ZHNURiZzhMRDEyQXVMUkQ0c3dreUlKakhxR2JRTzV1dUlKWm9KbWFqd3ZRVWF4Qk1rTi1jdDBSZm9aRVNFd1hOVlI5dUJSTTdKbFUtSGw1MGFac1pWUXUtcFRzd282c2RMdXh0bW12WUJnVUlkdDE2RllDTy04NE92aDlvTnBXaHBTSkVHVmJncUV6SkE3emxqbHZSX25FTTZFaGVhWm52QU1HbzdaYjNfRTQ0RnBzWkkxQmtEN0JtWA?oc=5",
+    "at": "2026-11-02T19:10:00.000Z"
+   },
+   {
+    "title": "What the US midterms could mean for markets, AI and the debt ceiling",
     "source": "Reuters",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSndxQlZKTnRLd3BYVTNReUZRU1Z5dDlrdGpidzBlWVhITzgzTkJrXzJlNlhHZHZvQS1JV0E3YUZmT3gzNy1KbWVGVGs4NjR0bVFDanJ4RjYybjU2Rm9DS2tNR0w3SVNpb0puX2NwUjctM1U2cm1EYmZRUWRXd08tY1dfT1BGYmF0TG5UREVHTUVfM0s5MGhHZE1EVVhVUlRCbk5tZmExZU8zUi05bm9B?oc=5",
-    "at": "2026-11-02T13:02:12.000Z"
+    "at": "2026-11-02T17:10:26.000Z"
    },
    {
-    "title": "National debt hits 137.5trn/- as external obligations dominating",
-    "source": "https://ippmedia.co.tz/",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMEhSNjJzRHJvOFJ3MEQwbHk2UVUwcjk5aDVrVGFfbjVJWjVsZ2h5dmw1TjRLNTYwWHdWVE9qY1dIbktMSTBmT0JJcjZQT3lBMWowVVhXbjZXNEdza2ZrMDhNczhpZ045cHJoSVJ2aThFVkV1b1ltMWdwX3N2ZHZ0VERuOU4yR0dIM2xxWG1mODVRWFZXbGYtRWl1SmN4ZmNTLXlibkw2aS11OEd3NWFWb0hkRElJZGRmVk1CVlhxemJweE9kRC1sQw?oc=5",
-    "at": "2026-11-02T12:30:47.000Z"
+    "title": "Budget, debt ceiling negotiations on deck as midterms could create divided federal government",
+    "source": "CNBC",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTjlEalZLZFdtVWZtLVJIdlpSOXRBV0dUaXhfX2M3V2h6QU9Va0gyM2h1Y014RERIbThxY3BOVGVJczFaQTVKTjI0dDZKN3A2UmxqWEVnbnZLbjRlSzNmZW5qcEtuQ0JSVFVHTlhtTVNzdnZIUHUyMXBvS3BJTUYtMmFxNzgtZUt4LUxVLTI4YlhLVkZuNmxXdnVCTzJxTnhxTldOWmM3TnpEV1JLMDN3RHhqNUhwaWhWaElvWHBJQl9DNHhZRlBhUnRreWVtcS16?oc=5",
+    "at": "2026-11-02T17:09:53.000Z"
    },
    {
-    "title": "Weak peso pushes Philippine national debt to P19.66 trillion",
-    "source": "ABS-CBN",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdURNeWI1Zi1ycnVDdG9TU1gzMnJ2UzhRLWFhZG83ajY5dXVBcjlWSER5ak9naWhYRHNSbWpPOE5fVm11dEJmT1p1UUZmMTlFYi03c2paXzdad0NJZjJpWk9EbnAyMWswUHZINFNvUDd3SDdXd2lMdHpvNExmOVQ0dEEwZXdoVXRCMVBGaFYwb1NJTnhSNTBrMjJFSUVhSDBwbHRVMUxTZUZqRlhNT1RLYmxzNA?oc=5",
-    "at": "2026-11-02T12:20:00.000Z"
+    "title": "Treasury Yields Little Changed, French Bonds Outperform",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWk45NGlORUMtZ2RfUVBDZ2lTODZTT3lyaGpqZTJXd3hzb1NBNTdPVnlNc0p2QlI5cFZSUjNRYzhoY2E2cFlvNWNBNldoaE82X0N2bkpNZlctVnY0M1NCVnVoc2tBYThRYzlYMDVERTJiQ0JKX1dYMVU2RDdzTUVycUNCTUpEMkpCSHIzbGJvNkVKNzZYS0JYN3MwVmtRQjRFTmNFLXQzVlVTS3ZqQVI0d3ZGbw?oc=5",
+    "at": "2026-11-02T16:36:18.000Z"
    },
    {
-    "title": "Strategy's Michael Saylor Blames These 3 Factors for Bitcoin's Recent Sluggish Performance. The Most Important Is Treasury Yields.",
-    "source": "The Globe and Mail",
-    "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNLTNkY2VRZGFyVHo5YkVxTWVEVDJZcWxRQS00d1lBckVYUDA0TllDY19IdF9pTWpwN2Q5Vm9WaDhpdnluWm5lQzVDRWdNdFhsbHVpZTl6M2d1ak5EenM2SmYtSEZjMjh5NzR5RVRCa3VxMy1JaVFYcW5NMUVfM2JRM1JUckhWendyUG9FdVdRQlp5WThvbHNjamhaclZ0QU9oNklPTTUtQnFsMXdkSnhfQldYVktDWGlDakUzMThYRWtKY2VrVHR6aTB2YW4xeGlfR2JhNlZQTTZ5MzZmM3ZVc0QyNzYtZG9XRk5MRU9hdW9mSENlMDFoQXZqZUFCX1gxMXJsSU5tYjhIaXF4Qy15OFJtOUFTSkpvaUMwOXRKQ0xGaF82d2VnSnoteXBrcUQx?oc=5",
-    "at": "2026-11-02T11:41:34.000Z"
-   },
-   {
-    "title": "Can Democrats curb Trump? Five scenarios that could shape the US midterms",
-    "source": "Deccan Herald",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaTM2Vk10RnFTY3NsV0xyNWtjX01uZl8xWUdNYVpsSVBQUUpiYzMzQWlKdVZteXp6SWNaV0U1TmJfWlNaUG1kUlQtazNwTVV3REVNTVdXRmpnQ05OT0kxU1V5SEg1bzZVVVlENnRuNEtxTlpSLTF6RUl6QUV0N1MwcjBVS09wZndzTE95YTgxUzAzRzdVNW0yRUV1VElOU1dmZ0NXLUFfSWJUNXc5V1drNkFqZHpxNEJWbGlYUjlXcHgxYzg4VGJUenhwQTQ?oc=5",
-    "at": "2026-11-02T11:31:25.000Z"
+    "title": "Treasury yields are mixed as oil prices tumble ahead of the midterms",
+    "source": "CNBC",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zeUV1S0FMQzdjaTU2S0djZmVVMjNSZ0hKMGdGdHpjU1p3NEs0ckRaNjJlemVySWtTeWZGMkNraWVmR1F5Y3RjUHhxZkxiRlpRXy1UY1VTYm9fWm5WTzhjRDlWOENzazhrWGhkZW130gFzQVVfeXFMUDNESWlyVGRXTEFHaHJxSFp1YXNkeWlQNkk2cXU4eG9maHROb3lZdzhMRzRJOWptcGF4bjZNZzlkTTE0cERiQ25vMGh1MUpvRGFHd3pMaE94N2dCcENocHJ3QlhVLWVlM1dpemVmV2QtWWhidw?oc=5",
+    "at": "2026-11-02T09:27:17.000Z"
    }
   ]
  }
