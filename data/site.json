@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T06:49:50.673Z",
+ "updated": "2026-11-06T19:26:07.858Z",
  "ticker": [
   {
    "name": "Mortgage, 30-yr",
@@ -24,10 +24,10 @@
   },
   {
    "name": "Unemployment",
-   "value": "4.2%",
-   "dir": "up",
-   "asOf": "2026-09-01",
-   "when": "Sep"
+   "value": "4.1%",
+   "dir": "down",
+   "asOf": "2026-10-01",
+   "when": "Oct"
   },
   {
    "name": "10-yr Treasury",
@@ -5267,20 +5267,68 @@
  "news": {
   "top": [
    {
-    "title": "Here are the 2027 capital-gains tax rates for each income level",
+    "title": "Cybertruck’s run comes to an end as Musk kills off pricey pet project",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
-    "at": "2026-11-05T23:48:00.000Z",
-    "image": "https://images.mktw.net/im-26428515",
-    "desc": "How much will you pay in capital-gains taxes next year? The IRS just released this crucial information."
+    "link": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
+    "at": "2026-11-06T18:54:00.000Z",
+    "image": "https://images.mktw.net/im-76323444",
+    "desc": "The Cybertruck failed to catch on with car buyers due to high prices and some notable recalls."
    },
    {
-    "title": "With stubbornly high interest rates, some are reconsidering adjustable-rate mortgages",
+    "title": "US tech stocks recovering on Wall Street after worst day in 19 months – as it happened",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
+    "at": "2026-11-06T17:28:11.000Z",
+    "image": "https://i.guim.co.uk/img/media/0e4c788de335f06b675ebb989bef6fdeb25ba7e8/566_34_4958_3966/master/4958.jpg?width=700&quality=85&auto=format&fit=max&s=73b6dcccf5aa22fe3ff2eb7a4687b8ee",
+    "desc": "European and Asia-Pacific markets slide after Wall Street rout, while latest US jobs report beats forecasts Could the AI bubble burst after Democrats’ midterms sweep? - The Latest Despite the sharp losses suffered on glo"
+   },
+   {
+    "title": "Strong Hiring Reinforces a Sturdy Job Market",
+    "source": "The New York Times",
+    "link": "https://www.nytimes.com/2026/11/06/business/economy/economy-jobs-unemployment.html",
+    "at": "2026-11-06T17:05:27.000Z",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/2026-11-06-jobs-promo-index/2026-11-06-jobs-promo-index-mediumSquareAt3X.png",
+    "desc": "Unemployment fell in October, extending years of stability for a U.S. work force threated by inflation and artificial intelligence."
+   },
+   {
+    "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+    "at": "2026-11-06T16:06:59.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108204062-1758822673804-gettyimages-2237358671-jr_18090_aftovhqq.jpeg?v=1758822708&w=1920&h=1080",
+    "desc": "Nonfarm payrolls were expected to increase by 59,000 in October as the unemployment rate was expected to hold steady at 4.2%."
+   },
+   {
+    "title": "Employers added 165,000 jobs in October, soaring past expectations",
+    "source": "CBS News",
+    "link": "https://www.cbsnews.com/news/october-jobs-report-us-labor-market-2026/",
+    "at": "2026-11-06T14:47:03.000Z",
+    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/06/fac25d37-bc0a-4e0e-98fd-a09946c33417/thumbnail/1200x630/118178c9e5dc00cfe367e7946ea1490f/gettyimages-2293564231.jpg",
+    "desc": "Hiring across the U.S. surged last month and unemployment dipped, a sign the job market is picking up speed."
+   },
+   {
+    "title": "Hiring jumps: The economy added 165,000 jobs last month",
     "source": "NPR",
-    "link": "https://www.npr.org/2026/11/05/nx-s1-6026480/with-stubbornly-high-interest-rates-some-are-reconsidering-adjustable-rate-mortgages",
-    "at": "2026-11-05T23:09:10.000Z",
+    "link": "https://www.npr.org/2026/11/06/nx-s1-6030867/jobs-labor-market-economy-wages-inflation",
+    "at": "2026-11-06T13:49:21.000Z",
     "image": null,
-    "desc": "With the rates for 30-year fixed-rate mortgages at 7% or more, is it time to reconsider the far less popular adjustable-rate mortgage? New analysis shows that ARMs have paid off for borrowers."
+    "desc": "The U.S. job market improved last month, according to a report from the Labor Department Friday. Employers added more jobs than forecasters had expected and the unemployment rate dipped to 4.1%."
+   },
+   {
+    "title": "US job growth exceeds expectations in October despite economic uncertainty",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october",
+    "at": "2026-11-06T13:42:26.000Z",
+    "image": "https://i.guim.co.uk/img/media/6ce70de0573447bd4b3b70f4ceb6e8fd81f1379f/647_0_6469_5178/master/6469.jpg?width=700&quality=85&auto=format&fit=max&s=a0b0f9a34d26df6a06b4f523d5e3cc27",
+    "desc": "‘Low-hire, low-fire’ labor market shows sluggish growth but few layoffs, with an interest rate hike expected in December The US added 165,000 jobs to the economy in October, a sign of resilience in the labor market amid "
+   },
+   {
+    "title": "A.I. Was Supposed to Come for Our Jobs. So Far, Evidence Is Mixed.",
+    "source": "The New York Times",
+    "link": "https://www.nytimes.com/2026/11/06/business/economy/ai-jobs-layoffs.html",
+    "at": "2026-11-06T16:02:33.000Z",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-jobs-report-ai-kfjv/06biz-jobs-report-ai-kfjv-mediumSquareAt3X.jpg",
+    "desc": "White collar industries that are most exposed to artificial intelligence continued to add jobs in October, although that growth has been weak."
    },
    {
     "title": "The October jobs report is out Friday. Here's everything to expect",
@@ -5294,9 +5342,17 @@
     "title": "U.S. gas prices on track to fall below $4 a gallon, experts say",
     "source": "CBS News",
     "link": "https://www.cbsnews.com/news/gas-prices-below-four-dollars-expert-predicts/",
-    "at": "2026-11-05T21:19:08.000Z",
+    "at": "2026-11-06T09:24:28.000Z",
     "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/05/5ecc93a5-d6f5-4fe4-8dfc-010b46c938a8/thumbnail/1200x630/cfe66de34ce7157832cafc2c34d66aeb/gettyimages-2302796448.jpg",
     "desc": "Fuel prices have dropped in recent weeks amid hopes that the midterm elections would increase pressure on the U.S. and Iran to reach a peace deal."
+   },
+   {
+    "title": "Why gold prices are surprisingly low",
+    "source": "NPR",
+    "link": "https://www.npr.org/sections/planet-money/2026/11/06/nx-s1-6030995/why-gold-prices-are-surprisingly-low",
+    "at": "2026-11-06T12:00:00.000Z",
+    "image": null,
+    "desc": "Gold tends to go up when there's uncertainty in the economy. For a while, the price reflected that. But this week, it dropped from a nearly $5,600 in January to below $4,000. What's going on?"
    },
    {
     "title": "US stocks rise, dollar slides as investors digest Democrats’ midterm victories",
@@ -5305,62 +5361,6 @@
     "at": "2026-11-04T16:38:28.000Z",
     "image": "https://i.guim.co.uk/img/media/6b1f011569afbc3d0e2cd5fc5417582f27adbe6a/714_28_3264_2612/master/3264.jpg?width=700&quality=85&auto=format&fit=max&s=435bcb63bf7d988d18629f0a7776ac86",
     "desc": "Government bond yields fall while initial fears ease over impact of election results on world’s biggest economy US midterm elections – live updates After US midterms, what will lame-duck Trump mean for global economy? US"
-   },
-   {
-    "title": "Tech stocks log worst day since 2020 as carnage comes to the AI trade",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-ai-trade-56109845?mod=mw_rss_topstories",
-    "at": "2026-11-05T22:48:00.000Z",
-    "image": "https://images.mktw.net/im-71200494",
-    "desc": "The S&P 500 lost an estimated $2.9 trillion in market capitalization, the largest one-day loss of market value on record."
-   },
-   {
-    "title": "Voters are fed up with high prices. Here's what the new Congress could do to help",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/05/nx-s1-6029335/voters-are-fed-up-with-high-prices-heres-what-the-new-congress-could-do-to-help",
-    "at": "2026-11-05T23:06:15.000Z",
-    "image": null,
-    "desc": "Democrats achieved stunning midterm victories. The party will take control of Congress next year. What does it mean for the economy?"
-   },
-   {
-    "title": "Voters say the economy drove them to the polls — and blame Trump for their troubles",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html",
-    "at": "2026-11-05T16:07:59.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108413955-1792066509537-gettyimages-2299722149-AFP_D3CD3AW.jpeg?v=1793742846&w=1920&h=1080",
-    "desc": "Participants in the CNBC Voter Poll ranked the economy the most important issue facing the country, ahead of topics tied to democracy and immigration."
-   },
-   {
-    "title": "Where in the U.S. are homeowners most at risk of extreme weather?",
-    "source": "CBS News",
-    "link": "https://www.cbsnews.com/news/extreme-weather-housing-market-losses/",
-    "at": "2026-11-04T14:12:30.000Z",
-    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/04/453695a4-8a67-49ba-af94-4512dfc163f6/thumbnail/1200x630/9a2f227778a4eed1aa9fae25f45ce696/gettyimages-2299863595.jpg",
-    "desc": "Flooding, hurricanes and convective storms are expected to drive the most housing market losses across the U.S. in the coming years, new analysis finds."
-   },
-   {
-    "title": "US tech stocks recover after selloff spooks investors over AI spending",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/03/us-tech-stocks-recovery-ai-spending",
-    "at": "2026-11-03T22:18:45.000Z",
-    "image": "https://i.guim.co.uk/img/media/4deeff6920cbe68eb5c102d876b4df883151e8e9/584_0_5820_4658/master/5820.jpg?width=700&quality=85&auto=format&fit=max&s=e466d0d2d43e63141dab77dd789540af",
-    "desc": "Midterms didn’t appear to have huge impact, though predicted wins for Democrats could mean more regulation US tech stocks made a recovery on Tuesday afternoon after a selloff spooked investors over AI spending. Tuesday’s"
-   },
-   {
-    "title": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
-    "at": "2026-11-05T22:40:00.000Z",
-    "image": "https://images.mktw.net/im-02135573",
-    "desc": "The tax brackets at the heart of Americans’ income-tax bills will be adjusting at a steeper level in 2027 compared to this year, underscoring inflation’s rekindled presence."
-   },
-   {
-    "title": "First-time homebuyers remain scarce, but a record share of them pay all cash",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/05/nx-s1-6022491/real-estate-all-cash-offer",
-    "at": "2026-11-05T15:00:00.000Z",
-    "image": null,
-    "desc": "A new report finds generational wealth is widening the divide between homebuyers and those priced out. The median age of first-time buyers also remains at a record high."
    }
   ],
   "housing": [
@@ -5405,12 +5405,22 @@
     "desc": "Mortgage rates came down again last week, but mortgage demand from homebuyers continued to decline, as high home prices and inflation stretch affordability."
    },
    {
-    "title": "New national home listing database is taking on Compass in the battle for control of real estate information",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/03/national-home-listing-database-battles-compass-in-real-estate-info-war.html",
-    "at": "2026-11-03T13:00:01.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108504894-1793638641411-gettyimages-2228117832-dji_20250801174214_0047_d_tncpqsfz.jpeg?v=1793638652&w=1920&h=1080",
-    "desc": "Heavy hitters in residential real estate joined the fight over who can see residential property listings. Their goal, they say, is to counter private listings."
+    "title": "Home Prices Just Fell for the First Time in 3 Years, but Mortgage Payments Are Near Record Highs",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPXzZ2V0o0VlIxT1ItLWFzVFRlRy1hN2VONVp5ck4xRHMzT2p3b0pOcDlPR2pWN01uVmRLSFFPUnVTVlRDSkxJWW5LNWhaV0RxSWJwbXRfZmFDT3FvYk1QQzliWkEyZEs3dkRNMXlHZV9ab1llNnVmZ1UwSEFqVE1pRngxVEZ4dVUzLVhVSEExdnU1VlE?oc=5",
+    "at": "2026-11-06T16:29:44.000Z"
+   },
+   {
+    "title": "Mortgage Rates Today, Friday, November 6: A Little Lower",
+    "source": "NerdWallet",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbVFTQUVGWnp0WlRqS05iSndFRTRybU44QzNNSlNRVWxWMC1oX1lIQ081czBqTzdTT3pTdHFzbm9CemZ5b1pEMmNTLW1IYVBHV0c5UUVUc3lBbXZCc0wzTF81aElTd09zMks4emZwU2IxNmJUVmppNTM2MzNDWjRPaEtPQ0FHM3dhYkNsN05R?oc=5",
+    "at": "2026-11-06T15:28:18.000Z"
+   },
+   {
+    "title": "Peter Schiff Warns Home Prices Could Plunge as Mortgage Lenders Face $2 Trillion In Losses: ‘Already In Worse Shape’ Than During 2008 Crisis",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb1k4ZnB5ZmZZcnRTTUw3VU5FTl9MTW5CVVYwNTc3NkpQaF9vQWQzWEx6U09ES3F4UnB6a1BSRkJlOUJaOVdpeHFQM2Z2SDlmd0V1dUhPU3YzZUdLUXY5R05VZ3VLdzdoS09DcHN0Q1c4YTBWT0haTnAwT2l6cmlDYWxJTUJYaVA4TURnOFZRM0xEUmczSkRv?oc=5",
+    "at": "2026-11-06T14:30:16.000Z"
    }
   ],
   "inflation": [
@@ -5418,7 +5428,7 @@
     "title": "U.S. gas prices on track to fall below $4 a gallon, experts say",
     "source": "CBS News",
     "link": "https://www.cbsnews.com/news/gas-prices-below-four-dollars-expert-predicts/",
-    "at": "2026-11-05T21:19:08.000Z",
+    "at": "2026-11-06T09:24:28.000Z",
     "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/05/5ecc93a5-d6f5-4fe4-8dfc-010b46c938a8/thumbnail/1200x630/cfe66de34ce7157832cafc2c34d66aeb/gettyimages-2302796448.jpg",
     "desc": "Fuel prices have dropped in recent weeks amid hopes that the midterm elections would increase pressure on the U.S. and Iran to reach a peace deal."
    },
@@ -5439,37 +5449,85 @@
     "desc": "It was driven by energy inflation, which surged above 20% in October."
    },
    {
-    "title": "Markets fret over growth and inflation despite easing oil prices",
-    "source": "Reuters",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONUh4V2hzQnA1Rk9zNTN6d3ZxcVZycGZQVmNUNjR3NmpXSmphZHh4LWZvaGJmTTVEWDdBc0lNWmZyUUp3MTFndk5uZl80Qnk0QXotRmo5S1g0MVhDejlwMjJlczNLVWY1eHRLZ1c4dExyOUNqdjJPaUFhVnE2WC16QUc4aTVfUlAwQUtKMktZYi1STk94cXBnSXF5OEQ?oc=5",
-    "at": "2026-11-06T05:09:00.000Z"
+    "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
+    "source": "CNBC",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83d09fT01uTmdIZ09Wb0pDYWg4VU5rRTF3MWstQ25hU2dDM011N3k3cVBzRFFOeGtuTjVSMHJVcy1zb25qY0Q4NERLSUIxN3JUN2tUbEZoZ2FLbVBDajRHUFktYVEtOTZ2cWxlX21NbF8xd1JxN25GNkNn0gF_QVVfeXFMUFM0YzVQazV4YXplRlQzdkpaM3ZtTGNVdlU3OG83N1o1ZmhtVFVGaEdvOC1WckhzNEQwNXdLb0hBQWptVjJuOVdNV2hrM0lCbmQzWk1veVdQTnJjbEZJRXJuZXByelRRWHJoakE1UktiTV90Zl90R1M1OHBBTXYxZw?oc=5",
+    "at": "2026-11-06T18:39:20.000Z"
    },
    {
-    "title": "Gold eases on inflation worries from higher oil; US payrolls data in focus",
+    "title": "BOJ chief Ueda sees 'some upside risks' to inflation",
     "source": "Reuters",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQVNBUlY0RkQ3Vm5qcDFmbS12Nlo0Wjd4RWNEWkROOFRSX0hha1VobWJkTW82YTM1QzNMUXlzX1V5bktiSHJDYklFR2ZDUnN4aEhGM3U0UmlRT3pDcjVFRkR5ak9IZ1NVbG4wempaX1Y0R2JXb0U2THRLcE80d0l1NFppQ3l5b2M4c3RQZU1sS1RNRHdiYmFsYmw0czRoUnVJRVJLNTl0VmVNODg3NWVR?oc=5",
-    "at": "2026-11-06T03:46:00.000Z"
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNE9OOEdkZXV1VkxiQTllZGVwRFFnazBCZEhxMm8ybDdrZXM2RzVVVXlZLVY3enZtRk1KRlBHSVNLcVZNQ3dxTm1qNVNLU3kwNVZ6dXVIeVpUbHE0aWdTdUdvcUk4eHBXOTM5SmlPNXNhVHZHNGQwbi1EbEFDZnpTTXpHLW5oc1J0bHNyYldYSnpZeGluWExDLVZNdkVZbGlUNjJQbA?oc=5",
+    "at": "2026-11-06T18:14:46.000Z"
    },
    {
-    "title": "Thailand’s Inflation Accelerates Past Central Bank’s Target",
+    "title": "Identity politics may have cost the Democrats 2024, but the Iran war cost Trump 2026",
+    "source": "Fortune",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVTNBZjB4X1ZCbFNrTEROc0RBdnNmbGwtTmpRQjdFQTFneENoTG54cTdQMHZGdnBTQXZHQ1BLSUg5ajJ5WWlac0dOSExDZ0lxbEo3UUc2T3JGY1dVTFNEQmRCbGNIeGFlT3ZlSnVqa1diQXJlcmVwbFBSWUhCNDNHV1BMOEJ0UQ?oc=5",
+    "at": "2026-11-06T18:05:00.000Z"
+   },
+   {
+    "title": "Week Ahead for FX, Bonds: U.S. Inflation Data Could Give Clues on Rate-Hike Prospects",
     "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQejNQVFdDVktVSTZlMTJodk5UazN3Q25MVDVZdW1zTmVvWGgxNDdUUzQ3REJmVmt1MnpoQ19NdWR1VWJBWktmMjc3OHlmLWtCeUFBTVhCYjZDRElnVXp0R2pPTWtKaVFGSUpCVGYwdExnZlpkLWFaUWxzdzA4U0pmbnhrSzFWemtxU1dVcTZXdllrVzN6SFZzV3NvUnNzV1NjdG1PUHJfWm5EMGcwV0NF?oc=5",
-    "at": "2026-11-06T03:22:00.000Z"
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb240VU05c2oyd2dPY0RhUUx5NzRvYWE5V1BCMHJHWkI5VlZITl94SFl5MDNkZ3JmSHM3b3pLajlzVS1ZT0x3Q3lYRTQyd2gyQm1Ca3lTbGx6ZzBTa0ZlX0V5VGJ6NXpHeXZoeldqZmwyT19Ua1BZNmdiZHNZdW1qOFNPNElWME03UTZjUmg0c0xwcTdaZjA0MUw0NE1IMjVXa1lFcnV3VThwWmVNNm94U0dZRjhUenF2TFIw?oc=5",
+    "at": "2026-11-06T16:52:00.000Z"
    },
    {
-    "title": "3 Philippine Consumer Staples Stocks To Watch After Inflation Hit 7.8%",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUW1aUVdxYzZiOVJYMDY0emZ1bmNZRUJ5bVduaEZNdGl6eFhyOXc4RE5pa0tSZEVFTTVFRDhNSS13ZDhxVWU3STFpWllFejJ4VFdjV21UN0pFNHhKdWc1R0FDS0ZjcTdOZ1VLUW5FX0RJQWp6a0FWQ2k4SHFGTFVCNjRFMklEdDBrdVJxMWNoOW8tNnN0U09BNTZyOThyMmNSNVpv?oc=5",
-    "at": "2026-11-06T02:18:00.000Z"
-   },
-   {
-    "title": "Third-generation carnival owner fights to survive rising costs",
-    "source": "NBC News",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMXZmTnJCY0otcS1rdmxHNjlMU2JxMC1ZZ2hvYlBPTGpMdnpZdE1vVVFtRm1ybVhxVFJhVTRMc292RUpnUUc2aWhKWFNGMENHQWowcFA3Q3BDY1RubzFoc3dJcFpReGZESE42b09IeTcxd2pkQXBSc3ZwWjI5YWo0dF8tM0tndXN1NzFUb0FOM3ZjNU5nUmJHV2VVMlI2NU5YeVdmUl96TkR0akRrQmM1S3JJc01meUU?oc=5",
-    "at": "2026-11-05T22:44:28.000Z"
+    "title": "Hybrids are flying off lots as gas tops $4 a gallon. Here's why",
+    "source": "USA Today",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVE5EM0t5eUtjamhOU0JDY2U2bVdqRUs1WDUzYzZpV2JpMDdaZjhHS2UwaFdRRTFQRHBCUmtOeENUSUhIeHE2WXB1LVFKbVpCck1XWjZZM1EtZzBQSGZqUzQ0UnFVM3gxTFA1MEh4cHBfSlk1bzZpOEtESkZDZjRjdC16dWNWU1phR3pRMEZ4V0JQdVduZ1lSRzNXRWhxMWM2RkFSaFNUU2dsT1JCVUs1Tl9pemFrYWs?oc=5",
+    "at": "2026-11-06T16:46:00.000Z"
    }
   ],
   "jobs": [
+   {
+    "title": "Strong Hiring Reinforces a Sturdy Job Market",
+    "source": "The New York Times",
+    "link": "https://www.nytimes.com/2026/11/06/business/economy/economy-jobs-unemployment.html",
+    "at": "2026-11-06T17:05:27.000Z",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/2026-11-06-jobs-promo-index/2026-11-06-jobs-promo-index-mediumSquareAt3X.png",
+    "desc": "Unemployment fell in October, extending years of stability for a U.S. work force threated by inflation and artificial intelligence."
+   },
+   {
+    "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+    "at": "2026-11-06T16:06:59.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108204062-1758822673804-gettyimages-2237358671-jr_18090_aftovhqq.jpeg?v=1758822708&w=1920&h=1080",
+    "desc": "Nonfarm payrolls were expected to increase by 59,000 in October as the unemployment rate was expected to hold steady at 4.2%."
+   },
+   {
+    "title": "Employers added 165,000 jobs in October, soaring past expectations",
+    "source": "CBS News",
+    "link": "https://www.cbsnews.com/news/october-jobs-report-us-labor-market-2026/",
+    "at": "2026-11-06T14:47:03.000Z",
+    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/06/fac25d37-bc0a-4e0e-98fd-a09946c33417/thumbnail/1200x630/118178c9e5dc00cfe367e7946ea1490f/gettyimages-2293564231.jpg",
+    "desc": "Hiring across the U.S. surged last month and unemployment dipped, a sign the job market is picking up speed."
+   },
+   {
+    "title": "Hiring jumps: The economy added 165,000 jobs last month",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/06/nx-s1-6030867/jobs-labor-market-economy-wages-inflation",
+    "at": "2026-11-06T13:49:21.000Z",
+    "image": null,
+    "desc": "The U.S. job market improved last month, according to a report from the Labor Department Friday. Employers added more jobs than forecasters had expected and the unemployment rate dipped to 4.1%."
+   },
+   {
+    "title": "US job growth exceeds expectations in October despite economic uncertainty",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october",
+    "at": "2026-11-06T13:42:26.000Z",
+    "image": "https://i.guim.co.uk/img/media/6ce70de0573447bd4b3b70f4ceb6e8fd81f1379f/647_0_6469_5178/master/6469.jpg?width=700&quality=85&auto=format&fit=max&s=a0b0f9a34d26df6a06b4f523d5e3cc27",
+    "desc": "‘Low-hire, low-fire’ labor market shows sluggish growth but few layoffs, with an interest rate hike expected in December The US added 165,000 jobs to the economy in October, a sign of resilience in the labor market amid "
+   },
+   {
+    "title": "A.I. Was Supposed to Come for Our Jobs. So Far, Evidence Is Mixed.",
+    "source": "The New York Times",
+    "link": "https://www.nytimes.com/2026/11/06/business/economy/ai-jobs-layoffs.html",
+    "at": "2026-11-06T16:02:33.000Z",
+    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-jobs-report-ai-kfjv/06biz-jobs-report-ai-kfjv-mediumSquareAt3X.jpg",
+    "desc": "White collar industries that are most exposed to artificial intelligence continued to add jobs in October, although that growth has been weak."
+   },
    {
     "title": "The October jobs report is out Friday. Here's everything to expect",
     "source": "CNBC",
@@ -5479,50 +5537,12 @@
     "desc": "The Bureau of Labor Statistics releases the October nonfarm payrolls report Friday at 8:30 a.m. ET."
    },
    {
-    "title": "Private companies added 86,000 jobs in October, slightly higher than expected, ADP says",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html",
-    "at": "2026-11-04T13:49:48.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108476512-1793219404860-gettyimages-2301922154-US_JOBLESS_CLAIMS.jpeg?v=1793219480&w=1920&h=1080",
-    "desc": "Private-sector job growth held steady in October, with gains spread across sectors"
-   },
-   {
-    "title": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/03/job-openings-posted-big-september-gain-in-positive-sign-for-labor-market-ahead-of-payrolls-report.html",
-    "at": "2026-11-03T19:15:21.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108371270-1790879822201-108371270-1790879753819-gettyimages-2297110581-jr_18977_itxxh7xj.jpg?v=1790879831&w=1920&h=1080",
-    "desc": "The BLS reported job openings at 7.52 million, up 333,000 from August and well above the Dow Jones consensus outlook for 7.15 million"
-   },
-   {
-    "title": "October jobs report and earnings from Moderna and Humana: What to Watch",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU1oyQkhtUEhJUkpPck5fVEhuV3RZdGdudFhnUGZvNkktSE9UUHhJRi1RaEZyU3hXMks4enBORkpaS3hQd0YyVnVJTmdicG45RXFEWTRRbU96V1lIS2hMVDJYQk1vUEgwYU5sWXlRSjlQSUNtTTNlOTJmQi1IamFqWEREaUdfMGE5OWdz?oc=5",
-    "at": "2026-11-06T01:00:00.000Z"
-   },
-   {
-    "title": "Nasdaq Tumbles Into Correction Ahead of Jobs Report | Nov. 5 Review & Preview",
-    "source": "Barron's",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbkJucngwLXo5bzY4WGpISFhOZUY5V0ZoMnJZVU53Vlk3VlVfYnBWNjA2MkZEOWxkX28wQjdWb0lrYVk4Mk5RdTZMQmJzVndsam9UZldCQlVIcUlMWkk2eHZ2eUViVGZmV2VOalFJV3VId2d3ek9QTVhDR0l5ZkI3Z2tKbmQxQkhJZEZjc09rQQ?oc=5",
-    "at": "2026-11-06T00:55:00.000Z"
-   },
-   {
-    "title": "Holiday hiring and AI in focus with October jobs report on deck",
-    "source": "NBC News",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNVpSX19EY29pMkxLenhEZzhPR1MzaU13NUtZTGxLY29uTFZRRWMwR3UxQ0FJS0dpQkFXVndyaU83OGxZYVlNWmkxaUFRZnlwbDlHQmQ1Q2Y0SG5ITVFIRk5maGNSZnpuX0k1eXRMVXo4QU1Kd00wVGl1X0tUSUlhTVUwY1dtc2M2NG00aWI4T3hwSEE?oc=5",
-    "at": "2026-11-05T23:00:41.000Z"
-   },
-   {
-    "title": "Disney employees use a town hall meeting to press management for details on a possible next round of layoffs",
-    "source": "Business Insider",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSmpHcURmS2x1U194R2xuYm1PLUNFMUdqOEFjMmwyVGd2SXFmWmdrUk5Ubm9PUFgzYjVhOTM3ZGs3QkE4T05CUDZaaWpaZFFad0paa3ZfMzYyTlQ5ckttcF9KY0tkRTU0Q0VIQl8ydlBEdG5Bcm5uZjlhNjJYendwSG10cU1BcF9HV1hyQXNqeFBVTlBTSmJUQzY5cnpKelBjZlREZ0tsNGZ1ZEZEOGVXQms1R2Q?oc=5",
-    "at": "2026-11-05T21:42:00.000Z"
-   },
-   {
-    "title": "Friday’s Jobs Report: A Good Number Is a Green Light for a Fed Rate Increase",
-    "source": "Barron's",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcEhQdUI1VGdnOWQ2SFI1djR0d19QeEtlQWZ4WExYeWZuUGMzSTc0eVN4dTBOZU1pQjJUTFQ5eUQyd2VjMy1iY2hRV2d2V1RCWnRwNzNETDJiallydlRKcWtQbDNKdW8yYWlBcVFpTUxXaEVnVnk3Rm5EWlc2b1d4S2kyTkVrbWZhNHRDZnltbVVBUlU?oc=5",
-    "at": "2026-11-05T21:40:00.000Z"
+    "title": "The U.S. economy added far more jobs in October than expected",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/06/nx-s1-6030632/the-u-s-economy-added-far-more-jobs-in-october-than-expected",
+    "at": "2026-11-06T09:46:31.000Z",
+    "image": null,
+    "desc": "Employers added 165,000 jobs last month, the Labor Department said on Friday, blowing past economists' expected gains of around 59,000 jobs."
    }
   ],
   "debt": [
@@ -5535,10 +5555,22 @@
     "desc": "Some Americans squeezed by high prices are relying more on their local libraries for things like books, streaming services and high-priced items like musical instruments and sewing machines."
    },
    {
-    "title": "U.S. Stocks Up, Treasury Yields Mixed After Fed Hold",
+    "title": "Treasury Yields Down Following Democrats Midterm Win",
     "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLVpkc0tPSDBPVHptQ0w1dG1CTjVvTXpYZTAwbWlJOVpJUHc3UTN5R2pPeTA0QnoyVWpRVGpLS3JFd0xSeDdoWjJtRlJBNHZXVm5kcTBRaUdxQTNNeGdNQmFxYWE0MjBoZG80SVlscnJSaGRDdDBmUFRsT3BtWnd5TjlwZ3dqWDNDRnFVamJ4RlVqZThYTm5tVTJB?oc=5",
-    "at": "2026-11-06T00:58:56.000Z"
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdkVMZXBIOElzYmpRaVNwbmNZOWxvT1ZsUWgwamhobmRBNklNOGZGSGNWNG5jZjZPTUtPT2c2V0ZTNmM0SU1MNGdhV2plaVZNbDVOclUzSXMxa3NGM3ZQMl9feDdEQWhramMzMnVycHpCTm1haEFhRFZnYnpNb0hJcjVOR3pTazJ5b1FXeHFkQWRNRUszNEZFVkpmYVNoOWJKclNnM3JYTnY4bWVrdEhkalNxMGIxR2ttRFI3czliVjVXaVh4SHpNSEVR?oc=5",
+    "at": "2026-11-06T18:16:54.000Z"
+   },
+   {
+    "title": "Treasury Yields Rise on Strong Jobs Data",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTjNsSlBvQ2VnWnZFM1RMRHEyUjM0RnlaRnByUDlZajM3VWFvSjMzeU1QYXktM0llSmtNRTQ4aGNkWFdYVnR1S2w5TXhiM1dlbWxaZk5UVy1tcFd0TnVUOXh6N1FfdlcxTDZxaWN1TWVYNE9GOTcydWJ2RmpkUnpkdmNxcGF5ZUVnR0RiT09lYklIUU1DbklyQzM5cUZHZFNJSVEzVTNKZkE?oc=5",
+    "at": "2026-11-06T17:45:11.000Z"
+   },
+   {
+    "title": "Treasury yields inch lower as investors look ahead to key jobs data",
+    "source": "CNBC",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcVFacFJWTUFiMmszNHg3RVk5dkhrZTYxdmdYVlVLS3dqZG85N1JULU9oSktDc0xLTzBqY1N4WWZGTk9RY1FlanpVNmdQejM1U29ZektOSjdQc045SEJBaGlLbGpCZ0R3TzNWRENMcEJRT0ZzV2t3Y3BZaU0yVzVIdVR5RVJlRXA0SE1ENTZ3TEIwRGZaR1dtYjhBbVRpaFFHdTcweFBJaUVHWm1PQWfSAa4BQVVfeXFMTXFRWnBSVk1BYjJrMzR4N0VZOXZIa2U2MXZnWFZVS0t3amRvOTdSVC1PaEpLQ3NMS08wamNTeFlmRk5PUWNRZWp6VTZnUHozNVNvWXpLTko3UHNOOUhCQWhpS2xqQmdEd08zVkRDTHBCUU9Gc1drd2NwWWlNMlc1SHVUeUVSZUVwNEhNRDU2d0xCMERmWkdXbWI4QW1UaWhRR3U3MHhQSWlFR1ptT0Fn?oc=5",
+    "at": "2026-11-06T09:34:51.000Z"
    },
    {
     "title": "National Debt Relief review 2026",
@@ -5547,34 +5579,22 @@
     "at": "2026-11-05T19:27:00.000Z"
    },
    {
-    "title": "Treasury, European Bond Yields Tumble as Markets Lifted by U.S. Democrats’ Victory",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdld4SERJUnFrU2lIQ2NMNTJkZy1mVGZUbUFRaEtBQllGTHdQODM2WkhrV1lwd0tCaEd0UUJWclh4M2t6Y0RxMEZWTTBGRHRvNkpMaUV6YkZweVR5MlFwVThma29VWEI4dzdPMTNaSGR1Y28wRnBDWGZQWk02SnhXbnNQbWkycmo0QU50Wm9MNnFGa2lLR2czVU5Vd0thSTNkUEZyTGZDVHR6dWd2RkhoQ18zdnl3b1k0U3QxdWs1Qk5kQQ?oc=5",
-    "at": "2026-11-05T17:24:51.000Z"
-   },
-   {
-    "title": "Wall Street Is Already Bracing for a 2027 Debt Ceiling Fight",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUG0wMW9qWm9TT1hzMFdrVDE3UXNjbUkzZjBrclNDcGI2bkJhemZFME5vQnByZ20ycDNnYUlPYjZlakpUQ1F6NFBQT1picWtjTEh5a2JkcndvYmZ4ZVM2Rm5HQ19qeUFIRm10ZGgzU0VXQnNKa0FKcVR4YXAwYm1fUDlMcDlMV0hqVm5md3BscXNqUFFhTFJYT29fb0lvQQ?oc=5",
-    "at": "2026-11-05T16:48:04.000Z"
-   },
-   {
     "title": "Investors eye risk of debt-ceiling standoff after Democratic sweep",
     "source": "Reuters",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSFJkY2Voejd3d3ZVOXgxOEMtS3U3eXZFUUdDancxUDdiVEEtOW1HMXE2dFhfcTRzR292NTJBNUltNTNhRmVzdTdHLXUtMXoteGdFLTJZNVhlLUs0Zm5CT0lWMVFxM1o0aWxKVUloYnpVNUZZS2VyZmRfZlJRZEs1SWdPUEZ6aGFnbS1XWHRmeXFjS1hMSlFBOTVXWFdFekIwT2tfaU50eTBoVzY0OFk3M3dQQkRrU3B1OHpV?oc=5",
     "at": "2026-11-05T16:38:33.000Z"
    },
    {
-    "title": "Economist analyzes federal deficit, rising Treasury yields",
-    "source": "Fox Business",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4R2ZKclhGczljMXpVVTJsbGhsZmFHRHlJS2xORWxCbTdFV1plQjViUFJ0RWZDV0w2RGlxdlMwdXNVbjFPX3FTN3pHMVpDYnF5anlReFc5U1N6eEE?oc=5",
-    "at": "2026-11-05T14:29:30.000Z"
+    "title": "Treasury, European Bond Yields Tumble as Markets Lifted by U.S. Democrats’ Victory",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdld4SERJUnFrU2lIQ2NMNTJkZy1mVGZUbUFRaEtBQllGTHdQODM2WkhrV1lwd0tCaEd0UUJWclh4M2t6Y0RxMEZWTTBGRHRvNkpMaUV6YkZweVR5MlFwVThma29VWEI4dzdPMTNaSGR1Y28wRnBDWGZQWk02SnhXbnNQbWkycmo0QU50Wm9MNnFGa2lLR2czVU5Vd0thSTNkUEZyTGZDVHR6dWd2RkhoQ18zdnl3b1k0U3QxdWs1Qk5kQQ?oc=5",
+    "at": "2026-11-05T16:37:00.000Z"
    },
    {
-    "title": "Congress's first task after midterms is to figure out national debt, debt limit, and shutdown",
-    "source": "Fortune",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcUZxM084WENPRUtXYjFON0FzOGN0QUo4UzBEcE1DNEU3MGxWMFJuLXdiTU1SSlZrdVV0ZndkUkRYdF9ZTmpOeHVRRkJLSWJORmhPY0lWdnY4bzlhaEstTUhaUFcwRTgyODNQa2dNYXAwLVBTa0FUTk1FTHpnWE02a2NkRGhyY20waU14M0owWXZCRy1ZamN4czRBM0w?oc=5",
-    "at": "2026-11-05T11:56:00.000Z"
+    "title": "Midterms Set Stage for Debt-Ceiling Clash",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYW9hV0laUnRsWV9pbEhCbjVwdFlvUjhyd0Z0YTRjSkZTcVRyNWU0S19hMENCaUpPZ1FrXzRpZEtIQ015OGVuVzBrQ0N5LXpBSDhZTC1FZG5hVjJMOFRmYlQ2bnFnenZzTFVJM21GZ0tOWVk5b3l4MkF4eXlCS1FiNE9vWUtvNjZ4UWFCUlRZOA?oc=5",
+    "at": "2026-11-05T14:54:43.000Z"
    }
   ]
  }
