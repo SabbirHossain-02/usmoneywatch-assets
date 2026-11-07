@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T06:00:00.753Z",
+ "updated": "2026-11-07T13:04:19.156Z",
  "ticker": [
   {
    "name": "Mortgage, 30-yr",
@@ -5397,12 +5397,16 @@
     "desc": "A new report finds generational wealth is widening the divide between homebuyers and those priced out. The median age of first-time buyers also remains at a record high."
    },
    {
-    "title": "Mortgage rates drop for the third straight week, but homebuyers are still leaving the market",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/04/mortgage-rates-dropped-homebuyers-still-leaving.html",
-    "at": "2026-11-04T12:51:13.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108356599-1788201400972-gettyimages-2291216152-260823_tohouses_117.jpeg?v=1788201449&w=1920&h=1080",
-    "desc": "Mortgage rates came down again last week, but mortgage demand from homebuyers continued to decline, as high home prices and inflation stretch affordability."
+    "title": "Mortgage and refinance interest rates today, Saturday, November 7, 2026: Mortgage rates continue to move lower compared to last week",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPcU5SZlRFMnZzX3N0TkdDSUdlMExSUXZrdThhVUVfNl9wTDBYeEpPdk9nczl5VG9wdDZiYVJBWWxQcklEQ1E5MFNhcU1MY0JibzFPZ3BHZjBKZlI1clhqRnNaeFNCSElvaXR2NTY4VndMMXBoVnJyM0FtTEEtX0YxczlPdUozajZycUwwWmk2UzBUWVc1MzRmQ2tfeDBrc0hTX1hua0dZTFRLS3FQS0hUN0RIbVBheXB6ek0weE5xS2R0VlktMWJmQkxTWmdvN1hncU5hZGNTT3YyY1lPZUZwUkxkMVE4a09qM1ZxeTF4TVVTR3k3Qlh5Sk1qc0ZrTVdPMGgwakNyU3ZvcHRvNklFUmE2bVhZNnlkV3czcHVWRDVwSjlzSzVOc2c0VFI?oc=5",
+    "at": "2026-11-07T11:00:00.000Z"
+   },
+   {
+    "title": "D.R. Horton Profit Down as Mortgage Rates Weigh,",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMkZrZ0gxTzVhZ0l1NGQxTGlJcFNYTGZwTzUyQUp3TTFOOVQ4QzJuSWFRY2kzX2ZOZkNNNWhIWVkwcmh4c3ZCbU5ZaDRyN1N2a2ZMVzF5NHlnOWZoQUpfck5QZkpYdmh0TmQ4V2t5S0M1R2pqYThEdUNiMkU3N0VXXzhycnkzbl9yellSQ0lBSjJ6RzdfQVEwRQ?oc=5",
+    "at": "2026-11-07T05:20:36.000Z"
    },
    {
     "title": "There's not a lot of building or inventory in the housing market: Josh Flagg",
@@ -5415,12 +5419,6 @@
     "source": "The Hill",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTlpqTDNEX3JNTWU4T1RyeHdYR0YtM0dPbWlyRWw2WlQ2UmNTeWg5UGl2ZklTV2pyOTc5Z2NPWjFaakpEdlVKcnAyVHFaU3hUVFFpUkhjM09rbEtwcmNrYlg2RG1xZUxuTGhnSlBmNkpSb2I1QWl2SkFVVWx0d3pHSDE5aUU0RFlyNmlYdUpGVTfSAZYBQVVfeXFMUEdoOXM1WnQyRTBrRDFDOVFCU2s1UTlQeHluQzdmVG93VWVfZEJMWGRNZ2dfUmp2eC14bHltY1ZPWnluQWxtOFZtRjlsYjctdkV5Q2VLRk10dG9FTkxOdGdDMEtVYUE0WkVWT2dEQjBNVWZlZDZDdi1mRTVBZ1M3WGZzRXluOW9XcjRNMzJPTWVrYTlOVC1n?oc=5",
     "at": "2026-11-06T22:44:00.000Z"
-   },
-   {
-    "title": "Mortgage Rates Today, Friday, November 6: A Little Lower",
-    "source": "NerdWallet",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbVFTQUVGWnp0WlRqS05iSndFRTRybU44QzNNSlNRVWxWMC1oX1lIQ081czBqTzdTT3pTdHFzbm9CemZ5b1pEMmNTLW1IYVBHV0c5UUVUc3lBbXZCc0wzTF81aElTd09zMks4emZwU2IxNmJUVmppNTM2MzNDWjRPaEtPQ0FHM3dhYkNsN05R?oc=5",
-    "at": "2026-11-06T15:28:18.000Z"
    }
   ],
   "inflation": [
@@ -5441,18 +5439,16 @@
     "desc": "One policymaker voted to raise the bank's key interest rate to 4.25%."
    },
    {
-    "title": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html",
-    "at": "2026-11-04T10:47:30.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108354968-1787811029425-gettyimages-2289917289-GERMANY_ECO.jpeg?v=1787811055&w=1920&h=1080",
-    "desc": "It was driven by energy inflation, which surged above 20% in October."
-   },
-   {
     "title": "Volatile jobs, inflation data should temper Fed's actions, expert says",
     "source": "Reuters",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mQXoySWZsZ1hDVTRSUUhSc3IxS1MybU85QU1NakkxLVRxOTRmZkRDVk9hMmRjX0Y5Z3I0THBFak9rdm0tbzFmc2JKa3BqMGdFQjJ1MVVielV4NUVuUzRZMHVlb0YyY2M?oc=5",
     "at": "2026-11-06T22:52:44.000Z"
+   },
+   {
+    "title": "Strong Hiring Reinforces a Sturdy Job Market",
+    "source": "The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTXBUazJMek5pNDFqRGQyNl9XT0tRQmRFTjhXLW1sbDJ4VEExaXRUU0RxaXZRVkdDS1VYbnRiR2JqZEZTVXNlemN5dEtkZ2NfMU0xaTE3QUlzd2locHl1eDVIdXppaHlISXhybXNCZ0UzS0ZlVkhGazVEN1BaQnlZeFduWlpndmYzaEE?oc=5",
+    "at": "2026-11-06T22:29:37.000Z"
    },
    {
     "title": "October CPI Forecasts Show Inflation Softening, but December Rate Hike Still Looks Likely",
@@ -5555,16 +5551,16 @@
     "desc": "Some Americans squeezed by high prices are relying more on their local libraries for things like books, streaming services and high-priced items like musical instruments and sewing machines."
    },
    {
-    "title": "Treasury Yields Down Following Democrats Midterm Win",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdkVMZXBIOElzYmpRaVNwbmNZOWxvT1ZsUWgwamhobmRBNklNOGZGSGNWNG5jZjZPTUtPT2c2V0ZTNmM0SU1MNGdhV2plaVZNbDVOclUzSXMxa3NGM3ZQMl9feDdEQWhramMzMnVycHpCTm1haEFhRFZnYnpNb0hJcjVOR3pTazJ5b1FXeHFkQWRNRUszNEZFVkpmYVNoOWJKclNnM3JYTnY4bWVrdEhkalNxMGIxR2ttRFI3czliVjVXaVh4SHpNSEVR?oc=5",
-    "at": "2026-11-06T18:16:54.000Z"
+    "title": "The lame-duck session gives Congress an opportunity to act on the national debt: $40 trillion is just the tip of the iceberg",
+    "source": "Fortune",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRmNrWVhTMng1YlZlSjJXZ3VKZ3hQdm0xbWFqWHBwU1lXbVJTNjhJaEE4eS1ocXU1bmN5MXBMYTEyYktHR01oVzB0UFBrbDN0SFh2X3REQWQwc0x6NzZGQTZnckxJVEhWOGZ3c2VwVy16Q01VakhJQ3ItRWluYk0yTnFpWEVmZlFuZlRZMDBvX2hlZEhxdnhvRjM0NC1yS3M?oc=5",
+    "at": "2026-11-07T10:00:00.000Z"
    },
    {
     "title": "Treasury Yields Rise on Strong Jobs Data",
     "source": "WSJ",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTjNsSlBvQ2VnWnZFM1RMRHEyUjM0RnlaRnByUDlZajM3VWFvSjMzeU1QYXktM0llSmtNRTQ4aGNkWFdYVnR1S2w5TXhiM1dlbWxaZk5UVy1tcFd0TnVUOXh6N1FfdlcxTDZxaWN1TWVYNE9GOTcydWJ2RmpkUnpkdmNxcGF5ZUVnR0RiT09lYklIUU1DbklyQzM5cUZHZFNJSVEzVTNKZkE?oc=5",
-    "at": "2026-11-06T17:36:00.000Z"
+    "at": "2026-11-06T17:45:11.000Z"
    },
    {
     "title": "10-year Treasury yield is little changed after stronger-than-expected October jobs report",
@@ -5573,10 +5569,10 @@
     "at": "2026-11-06T09:34:51.000Z"
    },
    {
-    "title": "National Debt Relief review 2026",
-    "source": "Fortune",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xMy10eVFDck9aZjJEWEVlLUlDQ3cwS0JueElBTkwzUHlRdi1jOGszeUtVMG00UldGV1NVcUhKMnVHRGJTY0lZcll0UHdQM2R5TXo3R0wyNHIwY1BISndQLWxKX2I1a2M?oc=5",
-    "at": "2026-11-05T19:27:00.000Z"
+    "title": "Wall Street Is Already Bracing for a 2027 Debt Ceiling Fight",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUG0wMW9qWm9TT1hzMFdrVDE3UXNjbUkzZjBrclNDcGI2bkJhemZFME5vQnByZ20ycDNnYUlPYjZlakpUQ1F6NFBQT1picWtjTEh5a2JkcndvYmZ4ZVM2Rm5HQ19qeUFIRm10ZGgzU0VXQnNKa0FKcVR4YXAwYm1fUDlMcDlMV0hqVm5md3BscXNqUFFhTFJYT29fb0lvQQ?oc=5",
+    "at": "2026-11-05T16:48:04.000Z"
    },
    {
     "title": "Investors eye risk of debt-ceiling standoff after Democratic sweep",
