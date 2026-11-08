@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T13:27:23.956Z",
+ "updated": "2026-11-08T22:07:52.120Z",
  "ticker": [
   {
    "name": "Mortgage, 30-yr",
@@ -5267,12 +5267,12 @@
  "news": {
   "top": [
    {
-    "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+    "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
-    "at": "2026-11-07T20:48:00.000Z",
-    "image": "https://images.mktw.net/im-69887372",
-    "desc": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he’s a successful podcaster at 72."
+    "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+    "at": "2026-11-08T15:30:00.000Z",
+    "image": "https://images.mktw.net/im-91335118",
+    "desc": "“Sometimes I wonder whether wealthier Americans should trade places with people like me.”"
    },
    {
     "title": "Many Americans plan to reduce spending on necessities this holiday season, survey finds",
@@ -5315,12 +5315,12 @@
     "desc": "The U.S. job market improved last month, according to a report from the Labor Department Friday. Employers added more jobs than forecasters had expected and the unemployment rate dipped to 4.1%."
    },
    {
-    "title": "Here are the 2027 capital-gains tax rates for each income level",
+    "title": "Corporate America’s profit numbers are just barely beating Wall Street’s expectations",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
-    "at": "2026-11-07T19:48:00.000Z",
-    "image": "https://images.mktw.net/im-26428515",
-    "desc": "How much will you pay in capital-gains taxes next year? The IRS just released this crucial information."
+    "link": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
+    "at": "2026-11-08T15:00:00.000Z",
+    "image": "https://images.mktw.net/im-547915",
+    "desc": "S&P 500 companies’ earnings are mostly topping analysts’ estimates — but by the narrowest margin in roughly four years."
    },
    {
     "title": "Data centers are unpopular — and a key motor of economic growth",
@@ -5373,50 +5373,46 @@
     "desc": "With the rates for 30-year fixed-rate mortgages at 7% or more, is it time to reconsider the far less popular adjustable-rate mortgage? New analysis shows that ARMs have paid off for borrowers."
    },
    {
-    "title": "What the election means for high-end real estate: Robert Frank talks to Bess Freedman",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/05/cnbcs-robert-frank-talks-with-brown-harris-stevens-ceo-bess-freedman.html",
-    "at": "2026-11-05T15:30:16.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108062640-1731530831033-IMG_3737.jpg?v=1731530901&w=1920&h=1080",
-    "desc": "CNBC Wealth Editor Robert Frank chats live with Brown Harris Stevens CEO Bess Freedman about how the 'blue wave' may affect your life, wealth and real estate."
+    "title": "NAR sees pent-up demand waiting on lower mortgage rates, better sentiment",
+    "source": "HousingWire",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TT1lub1ZFWmpXeXlidS1fX3pPWVRuV0NPNXBKZGxxWFJBS19LVkpwNENDNDRZWjJvSTFLWl9ETUwwcl9RR0pUTUN6Xzd0ejJwNm5Ra2JOVE5uc0xEYkplZHptOTRTcDgxZnpmTWZWRjVTUQ?oc=5",
+    "at": "2026-11-08T21:56:46.000Z"
    },
    {
-    "title": "First-time homebuyers remain scarce, but a record share of them pay all cash",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/05/nx-s1-6022491/real-estate-all-cash-offer",
-    "at": "2026-11-05T15:00:00.000Z",
-    "image": null,
-    "desc": "A new report finds generational wealth is widening the divide between homebuyers and those priced out. The median age of first-time buyers also remains at a record high."
+    "title": "Here’s how Japan can curb rising home prices: Tax foreign buyers more",
+    "source": "The Straits Times",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOFFFbzRNQmJVY2JGdGxzVTEwdnlxYjJBbnlGNEpNZnRycm9HbTdIeXZESWF2T1BLdzM5UGVINTU5d3UydTJYc19ZY0pmdXR1VngzUUlzclhEdUdPdlNzdE9pd2lxYWpFclNaOHpIVHJQWEJFSUVTQVJjdGFEV183aVQyU0hrSVBNdGN3ZFpnZFVQb1Z4cUk0VHZOTUNKYW5vNm11R2JGaw?oc=5",
+    "at": "2026-11-08T21:00:00.000Z"
    },
    {
-    "title": "'People are going crazy over the good ones': Chicago home prices are surging more than New York and San Francisco",
+    "title": "Two-Speed Housing Market Divides New Zealand",
+    "source": "Scoop - New Zealand News",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeGhLSTI0VUw4Z3NMMWVwX3VIejdGQjNFamc5ay1sTV92aXpWQUJpWTN4UU41YnNPRFhhaEhBSmptQVU2WFphTDFrSUhSS1VyaVlyMmxMN21pREtvM0k4MlA2Ri14YW04RUl4QzM0MlZnQlRBSC1rYjNKWkZEYXMtSXJyOWFYN3RzN2VLcTFZXzh2ZFNuOG9pZjdR?oc=5",
+    "at": "2026-11-08T19:43:00.000Z"
+   },
+   {
+    "title": "Las Vegas pending home sales plunge 20.6% as mortgage rates climb",
+    "source": "Las Vegas Review-Journal",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdFExV29WZ2dqMEZ6dTVRZ25xY3M3MGY3ek4xZFFfdTNoN0ZMeU50ckx5RFN0OGd0T0w5dHV3OThHM2RaQ2NVbDM5MHJJdmlPUl9OM1prbnFnR2ZlMW9BaFdfMGxxN0tmWlU3QUI3R19NN1BoUG5YUktzQko2OTNvQnE5Vk5SUXRaNVNDMkpMbV9kUk42UjNWVWY0eGpBVHFPc1RRVWRRT0R6dVFBMndUSjNiU3hWVEpfMVhvZQ?oc=5",
+    "at": "2026-11-08T18:10:55.000Z"
+   },
+   {
+    "title": "America’s Housing Market Just Hit a 30-Year Low — and 7% Mortgage Rates Are Making It Worse",
     "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQUWkwTkJaUTVOMWgtYnZnQWg4S2tGNFFTTzBKUFFGQzRZR0tROFlsY1lIcjR0MGotMG5VOVJTS2xHMFA2Y0JCdGFuQUk1MFNhNWFvai1iX196eWJReFo3Vld6TGJ0OUhmazRMVHA4bHB1MEstZWtveWlxeEZiRlBHRkVQeWVFYTJPcWZIaE1CY29laFVKYTljRGhGYmpVeEIzdmF0ZlA4dkVFbFhmOVdjc1dtNDlycXZGeHBtRW5mU0lkYjNMVnRPaG1CMzBkeDRNNGJTWGk4ZU1KZmFIbGlBenlOc185T1VrRlVtZlVCeDZpc2ZXNW9ldU8ySU84UUt1?oc=5",
-    "at": "2026-11-07T22:02:51.000Z"
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbGo3S3o0c2o5ZjdFZXNtNThIUmZXQXhSdnFrTXdudTdNZ0RIbldZYzNzd3dpUXBmZ3JISWQ4RC14UEVMUV9TNnZJdFJCb3FtTjk5TnBhaTUtbEhsbG5wd0Z6UkJXS2tlV0dtQ1pDT2VNeGREa3FpSVo2S29QcDFoM2IxbDJxX2pYeEJUdURjMkpYZkFVOEVONg?oc=5",
+    "at": "2026-11-08T16:55:05.000Z"
    },
    {
-    "title": "Mortgage and refinance interest rates today, Saturday, November 7, 2026: Mortgage rates continue to move lower compared to last week",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPcU5SZlRFMnZzX3N0TkdDSUdlMExSUXZrdThhVUVfNl9wTDBYeEpPdk9nczl5VG9wdDZiYVJBWWxQcklEQ1E5MFNhcU1MY0JibzFPZ3BHZjBKZlI1clhqRnNaeFNCSElvaXR2NTY4VndMMXBoVnJyM0FtTEEtX0YxczlPdUozajZycUwwWmk2UzBUWVc1MzRmQ2tfeDBrc0hTX1hua0dZTFRLS3FQS0hUN0RIbVBheXB6ek0weE5xS2R0VlktMWJmQkxTWmdvN1hncU5hZGNTT3YyY1lPZUZwUkxkMVE4a09qM1ZxeTF4TVVTR3k3Qlh5Sk1qc0ZrTVdPMGgwakNyU3ZvcHRvNklFUmE2bVhZNnlkV3czcHVWRDVwSjlzSzVOc2c0VFI?oc=5",
-    "at": "2026-11-07T11:00:00.000Z"
+    "title": "America's Housing Market Just Hit a 30-Year Low — and 7% Mortgage Rates Are Making It Worse",
+    "source": "24/7 Wall St.",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY2syQUdzUVNyVEluZjFNWmFnLWpITXMxbVpSTWtRWnBXRnhMTGI4cnhMNWxJSTVCcURXSXc5bVRTcGxKdC1PV053ZjNPOGZEdVhMa2lBelRjMGkxSGNCdE85MGJoMjBnWktjYVlHOEtpSEtRSmJEcjRQeVVGQ29FQXQweDJ2eTFjUmY5OWw0aU9HbWNNU2N3dW1DSVVqTW53X2RKb1lrVzRUM25MRF9Td1NuTVNDbzJhdExROTJWOTdmcVlPS1FUNFpzcw?oc=5",
+    "at": "2026-11-08T16:55:00.000Z"
    },
    {
-    "title": "Mortgage rates drop and stocks rebound slightly",
-    "source": "The Hill",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTlpqTDNEX3JNTWU4T1RyeHdYR0YtM0dPbWlyRWw2WlQ2UmNTeWg5UGl2ZklTV2pyOTc5Z2NPWjFaakpEdlVKcnAyVHFaU3hUVFFpUkhjM09rbEtwcmNrYlg2RG1xZUxuTGhnSlBmNkpSb2I1QWl2SkFVVWx0d3pHSDE5aUU0RFlyNmlYdUpGVTfSAZYBQVVfeXFMUEdoOXM1WnQyRTBrRDFDOVFCU2s1UTlQeHluQzdmVG93VWVfZEJMWGRNZ2dfUmp2eC14bHltY1ZPWnluQWxtOFZtRjlsYjctdkV5Q2VLRk10dG9FTkxOdGdDMEtVYUE0WkVWT2dEQjBNVWZlZDZDdi1mRTVBZ1M3WGZzRXluOW9XcjRNMzJPTWVrYTlOVC1n?oc=5",
-    "at": "2026-11-06T22:44:00.000Z"
-   },
-   {
-    "title": "Mortgage Rates Today, Friday, November 6: A Little Lower",
-    "source": "NerdWallet",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbVFTQUVGWnp0WlRqS05iSndFRTRybU44QzNNSlNRVWxWMC1oX1lIQ081czBqTzdTT3pTdHFzbm9CemZ5b1pEMmNTLW1IYVBHV0c5UUVUc3lBbXZCc0wzTF81aElTd09zMks4emZwU2IxNmJUVmppNTM2MzNDWjRPaEtPQ0FHM3dhYkNsN05R?oc=5",
-    "at": "2026-11-06T15:28:18.000Z"
-   },
-   {
-    "title": "Peter Schiff Warns Home Prices Could Plunge as Mortgage Lenders Face $2 Trillion In Losses: ‘Already In Worse Shape’ Than During 2008 Crisis",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb1k4ZnB5ZmZZcnRTTUw3VU5FTl9MTW5CVVYwNTc3NkpQaF9vQWQzWEx6U09ES3F4UnB6a1BSRkJlOUJaOVdpeHFQM2Z2SDlmd0V1dUhPU3YzZUdLUXY5R05VZ3VLdzdoS09DcHN0Q1c4YTBWT0haTnAwT2l6cmlDYWxJTUJYaVA4TURnOFZRM0xEUmczSkRv?oc=5",
-    "at": "2026-11-06T14:30:16.000Z"
+    "title": "Home sales are dropping across the nation, but not in Tri-Cities",
+    "source": "Tri-City Herald",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GMlZZaURxSGNNN1c3WHBaNlg1OHBXalRtT0FfbGFwOHk1MHZ1Tm1RTVZJekYzZlpTQXhXZDVHODd1eEF5ODhJVzZVS3BqcUpvUzRTaHJXSzJBMF93NUZCWHM2MkRtZDJMcEc3Mi1RYnJZSTFE0gF0QVVfeXFMTUlFM2RvenQyVWMybmNPS0N2OVFoVlY4UG15YjJsWXl0d0xaYy1YREN5Smszbk1QM2JuVTJhVW1BdEJKMG5YWGZsTGsxUm5nNW1tRHJyU3YzYzlmUldxZUc5Uk4yaTRiY0xhNzh6QmdmU0Z0OVI?oc=5",
+    "at": "2026-11-08T13:30:00.000Z"
    }
   ],
   "inflation": [
@@ -5429,24 +5425,34 @@
     "desc": "Fuel prices have dropped in recent weeks amid hopes that the midterm elections would increase pressure on the U.S. and Iran to reach a peace deal."
    },
    {
-    "title": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
-    "at": "2026-11-05T16:01:47.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108243682-17660765522025-12-18t164547z_2096923420_rc23jiae5pf5_rtrmadp_0_britain-boe.jpeg?v=1766076616&w=1920&h=1080",
-    "desc": "One policymaker voted to raise the bank's key interest rate to 4.25%."
-   },
-   {
-    "title": "What To Expect In Markets This Week: CRWV, CSCO, NBIS, LUNR, ONDS, CBRS Earnings, CPI, Fed Speeches And More",
+    "title": "Where Does CPI FIM (BDL:ORCL) Value Sit After A 58% Rise?",
     "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQVc4elBJWVpjR1BYUm53UWxXeng1LUpVdm1yM1FPcFExenB1TkJqSU1SQkU1LXJ0NkUyc19VMHFsWm5nc2xXSVQxUGRvbVMyZmkxS1BXMHNrbEhMdndwQnBZTUpmWHhRZ3VKbEJ0Z3ZDdlFXSEtZdFEwdG5HaWh3dlpDZFl0UGlwYmtoRnpuNi1jcEFDRmZjNWdR?oc=5",
-    "at": "2026-11-08T10:59:42.000Z"
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQby1ObXFUZXc5cXlhdTdYTzdCRWFtcUlIWk9DRUtmOHQxT2NWSWVOd0xIYjhid0VhQXNLNmE4Z29GQU14aWszYmx3U3YzZmUyX3RxdkdXTGVwR2ZXUjJPRFNWLUlPb3NodGFfZ2M1TWI2NkxfaTlJVFJNakVWOHhGUkVPV2h2cGp6MDJxcVZpZEU?oc=5",
+    "at": "2026-11-08T21:12:58.000Z"
    },
    {
-    "title": "US Inflation Set to Simmer Down Some After Recent Pickup",
-    "source": "Bloomberg",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMHB3c0hUZDUwNkFjQmh3VW9PTGE3dmpzRkUwRWI2d25MZWhOcmRPOHhmaVdBNGp0YTF3WU9IaVQ0NVNtVG1nZDZTbXlYRVNWdmdpcUJ3cVdVcE5mMUltMWdwZE10Q3lmcFdHR2RINEtlcW54RW56ZkY1MnNsell5b3VLanVoTnh1Y0FKUVhZampkZ2xWUHJPOWxhSWVxa0VFRWhPbzdITTdjRzA?oc=5",
-    "at": "2026-11-08T06:32:00.000Z"
+    "title": "Inflation Data, Constellation Energy, Skydance, Applied Materials, and More to Watch This Week",
+    "source": "Barron's",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU2FVVHJzY1d5akRyY0JZcnB6Tm9ad2NwZW1KRG5xdHh2WDF6WGJPM25ReUJ4Z1RtWHVUOUZ1WUxwOUhvOXZSaDNVYS10YlV2RmlnM3Z4cGk4Ync1czg1cW1xeEF3eDE4bkxTY2xNcWlqMG5tSzl3RllsbGREMHliR0lPaVZ3R1B6T2dhQ0QyZ0VLQ1VxOGVwdTBBc3BfUm00WUhZYUhrQmhJeVJYUFFSYw?oc=5",
+    "at": "2026-11-08T19:00:00.000Z"
+   },
+   {
+    "title": "Will US inflation data ease affordability concerns?",
+    "source": "Financial Times",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb1gxeFlicC03N0VwSW1fUFZpUlV0UDdCQ2Q2SkJoVGF2d2YzUEg1RDNHbWJTNDgzMTd0TURpVkRoRTl6UjZrd0NMbG5vZFh5VjRxXzU4bmVFdzl4Szl1RlNvdXpGTUpKMjZqYjdmbEFaNmtaNHZUTFdRR0pobFJzZ1Z4M2U?oc=5",
+    "at": "2026-11-08T16:20:06.000Z"
+   },
+   {
+    "title": "No Single Asset Can Beat Inflation Alone: How to Shield Your Nest Egg for a Longer Retirement",
+    "source": "Kiplinger",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbzFWWS1aWTZmd0Z0enpmcE56MlB0NXVDMVBTUlpEOV90U2xIOWV1OWd0bjQtVlNRckRiU1p5RjZqcmhFUlNkcHRyaldwc1JESmdyNUZCMndjaUctVTZOSnpUNG1VeFhqUS12NGZCdWo4TUJsbmtwT1l1WkRPdFRLNHR5dTBJbmNrOHJrN0dtTmxwWFk1RTNYbDF1aV9tUQ?oc=5",
+    "at": "2026-11-08T15:00:00.000Z"
+   },
+   {
+    "title": "Adjusted For Inflation, Net Tuition Costs Are Declining At Public Universities",
+    "source": "Forbes",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMEFjTVlPc0lyNy1vckNHQjU0SzZPcXk0QmlaNU9YRmN1aEdRUWNZMWRjQk5pLUNtNzV2Y2dlWm93SXNKUTBETHNhc0lkVkpFeWlwRUt5dXAtUG1ZZXNuWHU1WjJOdEYyUDZHZXVjZjFpQ05SWjRtZEJPbUVhc3RDeTZ0c2xEYjVvSF9OeUdUQzREUnJQdG0zcldvS29oZFRZUFdIZURPT2J2SkduY00xTS1rUlFTY05nWTA2SXBNUHhKYzQtdm5pS3RwbUs0c1k?oc=5",
+    "at": "2026-11-08T14:26:02.000Z"
    },
    {
     "title": "Ralph Lauren Warns Inflation-Weary European Shoppers Are Pulling Back",
@@ -5459,18 +5465,6 @@
     "source": "Yahoo Finance",
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQWFqNXdwQUJnT1Qxa3hMVWZjSWZOUzVYanRxeGsyUUF1TFk1Q0ZVV1p5RUx1OHM3WGUzSGwzYUxCbnBNTFVtNW1Qa3c3OGxRYWI4ckt2ZHp0T0dqVVgxRTc0SEtJaWh6VGhOZ004d2MxWG5hVFVhcHdGX3Q5ZVRtZzdHOHpvT045RnVLU1BR?oc=5",
     "at": "2026-11-07T22:14:13.000Z"
-   },
-   {
-    "title": "Gas Prices Add To Telehealth’s Value. Even Bigger Savings Go Uncounted",
-    "source": "Forbes",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOGhVVEoyaHF4S3FxTjZZX3FQa1BzcnNkYmVmVFJKR1hMTlpyQ1BmWXhObF9mTGgzUkRhekItd3dqUnhWQVZuWGUyX3F6ay1tZmhlZEVuTmNvb2Q3RFhMRzdCaVhsVDZHS3pFejBpcC1IdUtXV3F4QW1PX3hUZlY0LUVCazNOZDlVU3M2UUtUdE40S2NFRVhzbWdKWEVtR0VwVDV6UGo4aUx4RFE5NkpxLTVhZnBYNDNNYUNtQzRjbXE?oc=5",
-    "at": "2026-11-07T20:56:51.000Z"
-   },
-   {
-    "title": "ECB’s Lagarde Says Inflation Likely to Stay High in Near Future",
-    "source": "Bloomberg",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTjNxNHB3bnV6QkhJdWVmNHZpeTVVUVVqRG5vV0MwdHVzdE41TWtFd2lJcGlLNTh3ZzhDZ2tFQkVOakVkcm5xcndlanN1UnIyQ3V1bnVPZldQSW11OVFfWjZuMFZfS192bmVNLUR0cl8waHFuZ1hmWUdQNlpKc0xuVXl5MGF6aHVJVXh0ckhSQmJiOFBzTDViQTR0NmlKNmhzNFhNa2xvS2VqbDRyWWRybW1jN3o?oc=5",
-    "at": "2026-11-07T14:52:20.000Z"
    }
   ],
   "jobs": [
@@ -5541,46 +5535,52 @@
   ],
   "debt": [
    {
+    "title": "Treasury Yields Down Following Democrats Midterm Win",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdkVMZXBIOElzYmpRaVNwbmNZOWxvT1ZsUWgwamhobmRBNklNOGZGSGNWNG5jZjZPTUtPT2c2V0ZTNmM0SU1MNGdhV2plaVZNbDVOclUzSXMxa3NGM3ZQMl9feDdEQWhramMzMnVycHpCTm1haEFhRFZnYnpNb0hJcjVOR3pTazJ5b1FXeHFkQWRNRUszNEZFVkpmYVNoOWJKclNnM3JYTnY4bWVrdEhkalNxMGIxR2ttRFI3czliVjVXaVh4SHpNSEVR?oc=5",
+    "at": "2026-11-08T20:20:17.000Z"
+   },
+   {
+    "title": "OCBC Sees US Treasury Yields At Lower Levels After Bond Rally",
+    "source": "BusinessToday Malaysia",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcUw2SUwzSnluRG44dlExUlpaY0czc3hJa0VvT0NJTWhILWJ3R0gwX01tanZraWFOai1tclFDcmp5WEh6NDhKakhHN181bW5oYUJkTXlhZFVtWXUybXhjd29JNnBuVTZVd0JCYXExeEU3TjVaYlBYTlFlUWh3NjVDa19nbmd4Wkxnb0h4QTE1SXp5cnF3Q2x1QnRqR0dnSFNiUmpsSkozaktlZw?oc=5",
+    "at": "2026-11-08T14:13:08.000Z"
+   },
+   {
     "title": "Unrest in France looks like a ‘pretty big foreshadowing’ to economists nervously eyeing national debt at 126% of GDP",
     "source": "Fortune",
     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMDN2UkhwTWV3eUVNTG1WSXVzbklYZVBXMFZTSFBqUmJraXdfSDhwbVotTU9vR2xHSHhUUEJIeE5fWDlnY1E1U2JyQld0Q2djRWdzYnI0ZW14cnlvaUhlYjVJODl2SmxoUlVFTm1IRm5LS1pCMEJTemRsaFpVTVBNNnpaR0RQNzF4d3c?oc=5",
     "at": "2026-11-08T09:00:00.000Z"
    },
    {
-    "title": "Treasury Yields Down Following Democrats Midterm Win",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdkVMZXBIOElzYmpRaVNwbmNZOWxvT1ZsUWgwamhobmRBNklNOGZGSGNWNG5jZjZPTUtPT2c2V0ZTNmM0SU1MNGdhV2plaVZNbDVOclUzSXMxa3NGM3ZQMl9feDdEQWhramMzMnVycHpCTm1haEFhRFZnYnpNb0hJcjVOR3pTazJ5b1FXeHFkQWRNRUszNEZFVkpmYVNoOWJKclNnM3JYTnY4bWVrdEhkalNxMGIxR2ttRFI3czliVjVXaVh4SHpNSEVR?oc=5",
-    "at": "2026-11-07T23:40:18.000Z"
+    "title": "EXCLUSIVE: CD Rates Climb as Treasury Yields Fall, Squeezing Companies",
+    "source": "Seoul Economic Daily",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX1lDQ2M5cm1ab0V0NGRzenJ5SXhxMjhyaG50Z2NZLTl6MHZNS0xjcGZzQzJTaFZVSnFxbzZHaGxSbl9ZTVQ1MXJUWEtDVVRheWY4amszWWRBazdLbUZmNUtDcmhfV2dtNlFpbHhVTWJRQ0dVR0RVemZsMzdsYUR3dC16andrMW5ydTkxMWt2WkZPMHdzTmVMM1k3SEVMRGM?oc=5",
+    "at": "2026-11-08T08:42:20.000Z"
    },
    {
-    "title": "3 Financial Stocks Retail Investors Are Watching As Treasury Yields Stay Higher",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRVhkT3dDWDJwU1VWSGxzWkpOblE0XzFBNlIwQmIxaDhFRzEzZHRRaTJiZW1uNTRKT3J5ekhnNnNRWUM1ajlPdEhPbHJWMEkzN0hwVm5zQ2tUTUJrekJ3NVllanQza3FOU240ME5ESmNUa2w4ckRrT2pwYnVuaWY3OEdxS0JUZ2FGZm40STFuMDNVMHN1OXBEYTAxb0YzYXdrWGc?oc=5",
-    "at": "2026-11-07T17:12:13.000Z"
+    "title": "How did Stephen Harper’s government approach taxes and the national debt?",
+    "source": "Britannica",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ2c1WXlSaTJfMjY1V2ZpOTAwbjBFT1dyZzF3WFROZ1gxVEJacHZLM3RnYUtaU0ZiTEx2V3UzX0QtdDd2dFItMU5kbXhkbzE0RF9zYWVMNWFsRUZoY3MtNG0zX3FXV2EzYi1RUGk2YlR2QURJeWZaT2JlMWhGbnJKcDlBdE5xUlhJLUYzZkRCYlhncUF6SWpVX01CUE0yMWlIbllmZm9pNmZtMVQ4?oc=5",
+    "at": "2026-11-08T05:24:39.000Z"
    },
    {
-    "title": "The lame-duck session gives Congress an opportunity to act on the national debt: $40 trillion is just the tip of the iceberg",
-    "source": "Fortune",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRmNrWVhTMng1YlZlSjJXZ3VKZ3hQdm0xbWFqWHBwU1lXbVJTNjhJaEE4eS1ocXU1bmN5MXBMYTEyYktHR01oVzB0UFBrbDN0SFh2X3REQWQwc0x6NzZGQTZnckxJVEhWOGZ3c2VwVy16Q01VakhJQ3ItRWluYk0yTnFpWEVmZlFuZlRZMDBvX2hlZEhxdnhvRjM0NC1yS3M?oc=5",
-    "at": "2026-11-07T10:00:00.000Z"
+    "title": "Would Be a Worrisome Sign for the Bond Market if Treasury Yields Turn Higher Next Week",
+    "source": "Wolf Street",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUW1QcmxWblptWHAtVURlUG8yVXdmOXVHNWpPX1FHX2d1YzdOUzN4b1VSVmJiNkpZY1RxOHNwYUh4RHFaSFRfaVNGMlZUVDItbnNQUFEzWDJHSExDd3ZwUnJMV010cUpXNi16UHFNaEMwWUxiZGhYU2RJVmRZb2pjOFIzS0lGUW9EUjdYU1k5X3M3RzhXczZPeDE2ZDJ4eXo3Mm13NjBRNWNFLWk5ZXNyMl9zVFBqaFFZQXBBTzN3?oc=5",
+    "at": "2026-11-08T02:17:46.000Z"
    },
    {
-    "title": "What Investors Need to Watch as Congress Returns: Debt Ceiling, Iran",
-    "source": "Bloomberg",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaTFCbkVYQjRhS0VpZkRLbFhYT3lKangtb1d0b3g2WnRjUlFsS1dLal9GZjJzYmlleGlvTTBkT0VDcUFKN3BjZTJFalh1WTdnWkZ4MEEwOTliRTF4Q2xuaF9OVnlrRzBETThGc3RCUWhYLXNVcjFVcGZBRHNpZVh1Q1lRWDFkQXVSZGk5YVhtNzZFSmlNNXZtWWFvT3dPZmxJSEJNYUtTalNwMGw5WlhFWXhyMFFxZW9qNXZqMw?oc=5",
-    "at": "2026-11-06T21:02:38.000Z"
+    "title": "AI, not oil, is now driving US Treasury yields, Wall Street signals",
+    "source": "헤럴드경제",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1lMmp0WTVTQzE0Qk1HSzRMU1EtYkZmekZtSWo3cDE1THFJRVp5QUV4WWhjc3JfZkQxMGJ2RU9CdHFacjVTaFJuM3B5eThvMEZhU0J3Qzh0SQ?oc=5",
+    "at": "2026-11-07T22:34:18.000Z"
    },
    {
-    "title": "US Treasuries Stumble as Strong Labor Market Lifts Fed-Hike Bets",
-    "source": "Bloomberg",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM3NNcGNRYkZlWG9POWd3eC1hYThVTjhmVEVfb1NEZy1qZlJhc3dBMGQyLTlmR0ZwN0hEUmdyclN0c0RiVjZwaGlPdGxuWDlHbW56WVhwcER1V2pxLWJ5YjZWSXE3bDZkc0pUWWlyZnEweER3TWJob2Rjb0pRSWd1c3lUZHBoeTFoZmNnc25feUszUWVMYy1uR014ekZkNGZLX1IxWnh2dkdSRTRDTFRsTUNVM204QQ?oc=5",
-    "at": "2026-11-06T20:36:10.000Z"
-   },
-   {
-    "title": "Treasury Yields Rise on Strong Jobs Data",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTjNsSlBvQ2VnWnZFM1RMRHEyUjM0RnlaRnByUDlZajM3VWFvSjMzeU1QYXktM0llSmtNRTQ4aGNkWFdYVnR1S2w5TXhiM1dlbWxaZk5UVy1tcFd0TnVUOXh6N1FfdlcxTDZxaWN1TWVYNE9GOTcydWJ2RmpkUnpkdmNxcGF5ZUVnR0RiT09lYklIUU1DbklyQzM5cUZHZFNJSVEzVTNKZkE?oc=5",
-    "at": "2026-11-06T17:36:00.000Z"
+    "title": "Investors eye risk of debt-ceiling standoff after Democratic sweep | Gulf Times",
+    "source": "Gulf Times",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ25BVEpQSkFXUWdzN0p6TzdKdzVEUHAxZGg0VlVLNV85bjMwSkxXRTRTREl5ZGo0WFQ3RmZ4d2oxOU12Zm9yV2VFRzdiSkRtS3BFblBYRnZ5M1NSUDNMNDZkNmZ4Wm14eHZnZS10eGJtX1FqcU5BU3VmTjRpX2ZzU2loN2x1aC1DZ1ItblBCYjhOSFVhQnMySFhTLWswNnJ4NkhiT0hKNVZ2S1kydU1pT0FSODI0RkYw0gG-AUFVX3lxTE9BVGYtMGgwWTdoeXRxbzhMLUxtV2dieDJkYl9aYzZxQ3AtSHZvRVp5akljNnhwVjQwSWFSZlA1R0tzdzJLcVJPaHJqcURlZ3JmUlpLOGF2aExfZl9XY2dheGUxSXdQNzh3ejl4ZnJ3RE1CQkNZQlJtaG9SMUtlbG5uVWFaVWNfZDdUYzh1YXFCazBBbkVNRmMwWGtvcXFfTGRfMVRaWlphQ3pjbnFqczNTM0p6emhmb0pvUTZtdlE?oc=5",
+    "at": "2026-11-07T21:00:00.000Z"
    }
   ]
  }
