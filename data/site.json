@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T19:45:33.291Z",
+ "updated": "2026-11-11T06:25:45.503Z",
  "ticker": [
   {
    "name": "Mortgage, 30-yr",
@@ -31,10 +31,10 @@
   },
   {
    "name": "10-yr Treasury",
-   "value": "4.86%",
+   "value": "4.88%",
    "dir": "up",
-   "asOf": "2026-11-06",
-   "when": "Nov 6"
+   "asOf": "2026-11-09",
+   "when": "Nov 9"
   }
  ],
  "videos": [
@@ -4718,114 +4718,114 @@
     },
     {
      "name": "10-year Treasury yield",
-     "value": "4.86%",
-     "when": "Nov 6",
-     "asOf": "2026-11-06",
+     "value": "4.88%",
+     "when": "Nov 9",
+     "asOf": "2026-11-09",
      "change": "+0.75 pts vs. a year ago",
      "dir": "up",
      "tone": "bad",
      "spark": [
-      4.42,
-      4.43,
-      4.43,
-      4.18,
-      4.15,
-      4.4,
-      4.52,
-      4.55,
-      4.67,
-      4.78,
-      4.6,
-      4.55,
-      4.43,
-      4.62,
-      4.5,
-      4.29,
-      4.29,
-      4.27,
-      4.24,
-      4.38,
-      4.06,
-      4.4,
-      4.34,
-      4.29,
-      4.33,
-      4.37,
-      4.43,
-      4.51,
-      4.46,
-      4.49,
-      4.46,
-      4.3,
-      4.26,
-      4.34,
-      4.46,
-      4.4,
-      4.38,
-      4.22,
-      4.24,
-      4.29,
-      4.24,
-      4.17,
-      4.01,
-      4.11,
-      4.18,
-      4.1,
-      4.14,
-      4.02,
-      4.02,
-      4.11,
-      4.11,
-      4.13,
-      4.04,
-      4.09,
-      4.18,
-      4.15,
-      4.18,
-      4.18,
-      4.19,
-      4.17,
-      4.24,
-      4.26,
-      4.22,
-      4.04,
-      4.03,
-      4.05,
-      4.12,
-      4.23,
-      4.34,
-      4.35,
-      4.34,
-      4.3,
-      4.26,
-      4.35,
-      4.45,
-      4.42,
-      4.61,
-      4.5,
-      4.46,
-      4.53,
+      4.31,
       4.43,
       4.41,
-      4.48,
-      4.54,
-      4.57,
-      4.71,
-      4.68,
-      4.69,
-      4.63,
-      4.69,
+      4.19,
+      4.2,
+      4.39,
+      4.59,
+      4.58,
       4.67,
-      4.77,
+      4.66,
+      4.65,
+      4.52,
+      4.45,
+      4.52,
+      4.42,
+      4.24,
+      4.32,
+      4.31,
+      4.25,
+      4.27,
+      4.01,
+      4.48,
+      4.42,
+      4.23,
+      4.36,
+      4.45,
+      4.46,
+      4.43,
+      4.46,
+      4.47,
+      4.39,
+      4.29,
+      4.3,
+      4.35,
+      4.47,
+      4.43,
+      4.37,
+      4.23,
+      4.29,
+      4.33,
+      4.22,
+      4.1,
+      4.06,
+      4.14,
+      4.2,
+      4.13,
+      4.05,
+      4,
+      4.01,
+      4.13,
+      4.13,
+      4.12,
+      4.01,
+      4.06,
+      4.13,
+      4.16,
+      4.15,
+      4.19,
+      4.18,
+      4.24,
+      4.22,
+      4.29,
+      4.22,
+      4.05,
+      4.04,
+      4.06,
+      4.15,
+      4.2,
+      4.39,
+      4.3,
+      4.33,
+      4.26,
+      4.3,
+      4.36,
+      4.43,
+      4.46,
+      4.67,
+      4.48,
+      4.49,
+      4.55,
+      4.49,
+      4.4,
+      4.49,
+      4.56,
+      4.55,
+      4.69,
+      4.75,
+      4.65,
+      4.68,
+      4.74,
+      4.73,
+      4.78,
+      4.97,
       4.96,
-      5.01,
-      5.17,
-      5.28,
       5.24,
-      5.15,
-      5,
-      4.91,
-      4.86
+      5.31,
+      5.21,
+      5.12,
+      4.99,
+      4.95,
+      4.88
      ],
      "source": "Federal Reserve"
     }
@@ -5267,20 +5267,28 @@
  "news": {
   "top": [
    {
-    "title": "Homeowners tap equity as HELOC balances post biggest jump since 2005: New York Fed report",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/10/heloc-balances-new-york-fed.html",
-    "at": "2026-11-10T19:30:12.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108548197-1794327735144-gettyimages-2221889482-donedsc04430retocada.jpeg?v=1794327820&w=1920&h=1080",
-    "desc": "The rise in balances on HELOCs marks the 18th consecutive quarterly increase, according to a new report from the Federal Reserve Bank of New York."
+    "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+    "at": "2026-11-11T02:15:00.000Z",
+    "image": "https://images.mktw.net/im-49247042",
+    "desc": "There is already a demographic ‘run’ on Social Security."
    },
    {
-    "title": "Corporate America is making a trillion-dollar mistake about retirement",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
-    "at": "2026-11-10T19:29:00.000Z",
-    "image": "https://images.mktw.net/im-43763907",
-    "desc": "The market is dramatically underpricing the economic impact of Americans age 50 and older."
+    "title": "Nvidia's trillion-dollar bind: Can it afford to lose Jensen Huang?",
+    "source": "CBS News",
+    "link": "https://www.cbsnews.com/news/jensen-huang-affair-nvidia-ceo-dilemma/",
+    "at": "2026-11-11T01:02:52.000Z",
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/10/09c045e3-d878-444e-af00-3f332554c88a/thumbnail/1200x630/9dce37ca103c46ecae835d57156dfca0/gettyimages-2300708840.jpg",
+    "desc": "Other CEOs have been ousted over undisclosed relationships, but Nvidia's inquiry shines a spotlight on how closely the chipmaker's fortunes are tied to its co-founder."
+   },
+   {
+    "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+    "at": "2026-11-10T23:53:58.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108414079-1794318539817-108414079-1792067685758-gettyimages-2275677175-l1081559_c7svuif5.jpg?v=1794318549&w=1920&h=1080",
+    "desc": "The report comes at a critical juncture for the Federal Reserve as it considers its next move regarding interest rates."
    },
    {
     "title": "Falkland Islanders face ‘devastating consequences’ if Argentina blocks oil project, says UK",
@@ -5289,14 +5297,6 @@
     "at": "2026-11-10T19:01:33.000Z",
     "image": "https://i.guim.co.uk/img/media/5d2b5e1b9e781a1b5a8dd0e647c4fd2a9b8b0afb/295_244_2470_1977/master/2470.jpg?width=700&quality=85&auto=format&fit=max&s=801d6e7a295bce768e6cf6ef522dec8e",
     "desc": "Countries clash over Sea Lion project as Hamburg tribunal risks deepening sovereignty dispute The people of the Falkland Islands face “devastating consequences” if Argentina is successful in blocking development of its o"
-   },
-   {
-    "title": "Hotter-than-expected October CPI raises chances of Fed rate hike",
-    "source": "CBS News",
-    "link": "https://www.cbsnews.com/news/october-cpi-report-elevated-inflation/",
-    "at": "2026-11-10T18:56:00.000Z",
-    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/09/bc3bd2b0-80c3-4cb8-a8db-b3fc9dbcfb80/thumbnail/1200x630/9bd0f79f29fe48dbf3726d40cff997a8/gettyimages-2300217762.jpg",
-    "desc": "Inflation rose at a monthly pace of 0.4%, hotter than economists had forecast and raising expectations that the Federal Reserve will increase interest rates in December."
    },
    {
     "title": "Elevated Inflation Keeps Pressure on Fed to Raise Rates",
@@ -5315,20 +5315,28 @@
     "desc": "Gasoline prices fell below $4 a gallon Tuesday for the first time in three months — but the overall cost of living remains stubbornly high."
    },
    {
-    "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
-    "at": "2026-11-10T16:47:05.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108414079-1794318539817-108414079-1792067685758-gettyimages-2275677175-l1081559_c7svuif5.jpg?v=1794318549&w=1920&h=1080",
-    "desc": "The report comes at a critical juncture for the Federal Reserve as it considers its next move regarding interest rates."
+    "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+    "at": "2026-11-11T00:30:00.000Z",
+    "image": "https://images.mktw.net/im-41887542",
+    "desc": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”"
    },
    {
-    "title": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
-    "at": "2026-11-10T19:17:00.000Z",
-    "image": "https://images.mktw.net/im-86112590",
-    "desc": "It’s one thing for money to shift between stocks, but it’s another thing for customers to shift their supplier relationships."
+    "title": "24% of Americans with a credit record are behind on their debts",
+    "source": "CBS News",
+    "link": "https://www.cbsnews.com/news/americans-behind-on-debts-analysis/",
+    "at": "2026-11-10T20:14:49.000Z",
+    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/10/5bd32e8f-c50d-4d44-a835-77d0aee1b25b/thumbnail/1200x630/93c4733dcd1cd47eec920e57f784f51d/gettyimages-1433614455.jpg",
+    "desc": "More U.S. households are falling into debt as they grapple with medical bills, student loans and other expenses, data show."
+   },
+   {
+    "title": "Homeowners tap equity as HELOC balances post biggest jump since 2005: New York Fed report",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/11/10/heloc-balances-new-york-fed.html",
+    "at": "2026-11-10T21:37:43.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108548197-1794327735144-gettyimages-2221889482-donedsc04430retocada.jpeg?v=1794327820&w=1920&h=1080",
+    "desc": "The rise in balances on HELOCs marks the 18th consecutive quarterly increase, according to a new report from the Federal Reserve Bank of New York."
    },
    {
     "title": "US inflation rose 0.4% in October as price increases cooled and gas costs dipped",
@@ -5337,14 +5345,6 @@
     "at": "2026-11-10T15:38:48.000Z",
     "image": "https://i.guim.co.uk/img/media/edd11372dd6a075792b3425571de06722515ec38/886_0_6138_4911/master/6138.jpg?width=700&quality=85&auto=format&fit=max&s=769505a3eb688944c9fd47d3a5f6d283",
     "desc": "New data comes after Republicans’ midterms losses – which were largely seen as a rebuke of the party over high prices US inflation rose 0.4% from September to October, slightly above expectations but still a cooldown in "
-   },
-   {
-    "title": "Gas prices slip below $4 a gallon for first time since July",
-    "source": "CBS News",
-    "link": "https://www.cbsnews.com/news/gas-prices-below-4-gallon-november/",
-    "at": "2026-11-10T18:55:23.000Z",
-    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/09/5d303671-64fb-4852-843e-566e65462dab/thumbnail/1200x630/1dbc6f09fea9d24be51a582218c239d3/gettyimages-2302796388.jpg",
-    "desc": "Petroleum expert Patrick De Haan predicts prices will continue to sink and reach $3.75 a gallon by Thanksgiving."
    },
    {
     "title": "Here’s why last year’s government shutdown will haunt October’s inflation data.",
@@ -5368,15 +5368,27 @@
     "title": "Homeowners tap equity as HELOC balances post biggest jump since 2005: New York Fed report",
     "source": "CNBC",
     "link": "https://www.cnbc.com/2026/11/10/heloc-balances-new-york-fed.html",
-    "at": "2026-11-10T19:30:12.000Z",
+    "at": "2026-11-10T21:37:43.000Z",
     "image": "https://image.cnbcfm.com/api/v1/image/108548197-1794327735144-gettyimages-2221889482-donedsc04430retocada.jpeg?v=1794327820&w=1920&h=1080",
     "desc": "The rise in balances on HELOCs marks the 18th consecutive quarterly increase, according to a new report from the Federal Reserve Bank of New York."
    },
    {
-    "title": "Bright MLS October 2026 Housing Market Report: Housing Market Momentum Slows Considerably",
+    "title": "Housing Market Predictions For 2026: When Will Home Prices Drop?",
+    "source": "Forbes",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSU9xYzQ3cnBpZ2NDSTBMeXJXUmoyWkNGX1NNLUpHQUhzdTVONG5CcGVxWW5KUDhBN1ZnME9XNDczZjZtZzc5aF9uQ0xDS3NfMUI3b2hPSDV5Sk5ZUWpyc2JGcjJDVnhqOE16cnppVlpmMHBQT21sXzdYMEU5TlhSOFRERGRydmc?oc=5",
+    "at": "2026-11-10T22:11:00.000Z"
+   },
+   {
+    "title": "Zillow Economist Gives Somber Outlook on Housing Market, Mortgage Rates",
+    "source": "Newsweek",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWHRMbXdsXzBwSlEtUUMwU1Zxd2pISGRsYmF1SGROQTZLR1BXN0VxbjNrTHcxWFlfLTE0RjRjejRZNEdTNUNCQTk5SUNPZS05RjA1RnU0dm4tLVBoRjZzbXdsLVJoU3BwTURTSGYtNUkwMC1rUDdyMTVmY2c5SVBZSlY3cFk5MU1qNXNsemtHaW50cmNDbVlUT0dUaXZ5ZlU5V3NKUW5sRQ?oc=5",
+    "at": "2026-11-10T21:48:00.000Z"
+   },
+   {
+    "title": "U.S. housing market positioning risks as mortgage rates hold near 7.4%",
     "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSGszYU5KaExWc2plQktmWjJyaXozT1JYODEzb0hORi1ueEROXy1KUGdOVlAxVmhGTEZSU2FsRnk0UW1xZVpTbmlpal8weEhlN3JJY2dsVTFwQWtxMndnSE9pMmQyaUVyYmp4SFhLX0c3R3dNdVNrZ3h2SmxGYUgzNjlYcndYYzRIbWxfZEswQjlZNGZJbGx2Sg?oc=5",
-    "at": "2026-11-10T16:48:00.000Z"
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZURnSkpxbnZLNDctampWdExUekJENmRIX2RjUElEN19aSmlPSnZkUTZ0UWlMOUlBM0NFOGwxcFJ2cVY2UXJXRXpYNW1ORDlRQ0twTFJLdjd3OHU0Y2psY0YxUkNZd3NmLTNoZ3dGX1J5S3cxMUw5ZldBTTNtN211U0JoZ2ZBeWQ0MHpVWm5Rd1hrXzNHNmIxemNQeUQ?oc=5",
+    "at": "2026-11-10T20:46:35.000Z"
    },
    {
     "title": "Will the housing market crash due to the affordability crisis?",
@@ -5388,7 +5400,7 @@
     "title": "Zillow CEO Jeremy Wacksman: The housing market is definitely getting more challenged",
     "source": "CNBC",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRzNiMTluWkJnTmlqM1NwVmlKaXhOOWVBUmVhTGl0VEZKWmxYYUh2RUl6cEtNbFQ4QVZKUXRxSU1XSVN4MHlUV2E1c0s1Vnd0Wi1hem9pZXU4UFQ4aWo1NjR5TWVCdjJnTDZlZU82bEJXWG9MZ0lTTHV6QUo5bEFzX2RnSEd4Z09RZmpLRlI0czVfRHh2V1I1aVFCa2lSS2s1SkItY3pjekNndllOZmxDNlVaaGZaTWdwdWp1SndfODFySkky?oc=5",
-    "at": "2026-11-10T16:25:59.000Z"
+    "at": "2026-11-10T16:25:00.000Z"
    },
    {
     "title": "Mortgage Rates Today, Tuesday, November 10: A Little Lower",
@@ -5397,27 +5409,23 @@
     "at": "2026-11-10T15:12:15.000Z"
    },
    {
-    "title": "Mortgage Rates Forecast For 2026: Experts Predict Whether Interest Rates Will Drop",
+    "title": "Compare Today’s Mortgage Rates",
     "source": "Forbes",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kMlJHRWhRY2owbnpsZWhWOHVVZFR1ZmM3NzhqTUVEVnpHR2xlMHp0QnR2eXFwV2wzQ2FMbXZTN3lTLUJ5OHgxdnk0S3Z2Q3hEQ2pEYW9xcWhrRktVS3B0RXB0NkdnM0hPMzBReG5neWZ1TTdvVWs4bWgxdWFNUkk?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZWTRCWTZjV2FtYlpMOFBxWjVNRF9EbGN0QUJYRHVXY1VyMTdSdGc2blVoM2lFYkI0elJNRVY2VER1RTJZNGEwendkNEFGejdfZkNOVTRTa3FWSkdISHNTcmNfYlBTY3M?oc=5",
     "at": "2026-11-10T13:33:00.000Z"
-   },
-   {
-    "title": "Building Industry and Major Canadian Banks Collaborate on New Sustainable Housing Market Report",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS1pKUWVUSWc1Tk51M2JNM1VQVlRCUXpocHU0SzIxM0l4WmQwUWd0RHAzcmtjTlNZc3U2TUpJZW9vMmJvdko3ai01aUFCN0tEZ0thV3RscUlvSWZGbGY1Q0YxTzgxOW1TUlMxbXZpWVVZRTZtSE8zZkkyeU1XTl93TlNxTlFoX2NhS2NSTkpmSTVGQmJMQ0J6TXdSem5lNzg2Tnc?oc=5",
-    "at": "2026-11-10T11:01:00.000Z"
-   },
-   {
-    "title": "Mortgage and refinance interest rates today, Tuesday, November 10, 2026: Purchase mortgage rates see first daily increase in two weeks",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQY0d5clFmMkFjWUpad280TkFhQmh3YU5Bb3FkVjQwc2F0ZXVPNGZRUHd1eWduV2FlRVdwSlVvYzhPZmZaMmp0QVNfOGxReXRaZTRaSDlENExxeVZaVXQtZVZPZ0pzbGozc01Wb1NCSmNyaW9MLXc2RS1qS2tpakpIRHU2NmRxT0dCVW11VlppVlVpVFFPc2ZHMTBEOGNabjN2OV9MakdoZzJrVS14bVlqYkQxc0hQTVBlMzRlMHNUN291QWViSzF3R21ia2VINjBHZzFfZFV6THBkdU9ieWhrM1RZWUhOVkZqRG9VMjVNUE40RmlkV2pZMzNRMmRJLUYxSnlkT1VUWEtuQUV0QzcyNXJzeUstSWhubk56Q0xBTmVCLWFpSHZuMU9IeHFJSW8?oc=5",
-    "at": "2026-11-10T11:00:00.000Z"
    }
   ],
   "inflation": [
    {
-    "title": "Hotter-than-expected October CPI raises chances of Fed rate hike",
+    "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+    "at": "2026-11-10T23:53:58.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108414079-1794318539817-108414079-1792067685758-gettyimages-2275677175-l1081559_c7svuif5.jpg?v=1794318549&w=1920&h=1080",
+    "desc": "The report comes at a critical juncture for the Federal Reserve as it considers its next move regarding interest rates."
+   },
+   {
+    "title": "Hotter-than-expected inflation raises chances of Fed rate hike",
     "source": "CBS News",
     "link": "https://www.cbsnews.com/news/october-cpi-report-elevated-inflation/",
     "at": "2026-11-10T18:56:00.000Z",
@@ -5431,14 +5439,6 @@
     "at": "2026-11-10T17:18:01.000Z",
     "image": null,
     "desc": "October’s Consumer Price Index report showed a broadening of price pressures that has stoked concerns about the Federal Reserve’s grip on inflation."
-   },
-   {
-    "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
-    "at": "2026-11-10T16:47:05.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108414079-1794318539817-108414079-1792067685758-gettyimages-2275677175-l1081559_c7svuif5.jpg?v=1794318549&w=1920&h=1080",
-    "desc": "The report comes at a critical juncture for the Federal Reserve as it considers its next move regarding interest rates."
    },
    {
     "title": "US inflation rose 0.4% in October as price increases cooled and gas costs dipped",
@@ -5457,6 +5457,14 @@
     "desc": "Gasoline prices fell below $4 a gallon Tuesday for the first time in three months — but the overall cost of living remains stubbornly high."
    },
    {
+    "title": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+    "at": "2026-11-09T21:03:55.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108405599-17919312802025-05-28t072704z_2039027556_rc23zdahp1s8_rtrmadp_0_usa-trump-tariffs-chinatown.jpeg?v=1791931344&w=1920&h=1080",
+    "desc": "The CPI headline reading is expected to show an increase of 0.3% while the core is forecast to increase 0.2%."
+   },
+   {
     "title": "Gas prices slip below $4 a gallon for first time since July",
     "source": "CBS News",
     "link": "https://www.cbsnews.com/news/gas-prices-below-4-gallon-november/",
@@ -5471,14 +5479,6 @@
     "at": "2026-11-10T10:48:00.000Z",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10-live-blog-20261110-inflation-header-qhfv/10-live-blog-20261110-inflation-header-qhfv-videoSixteenByNine3000.jpg",
     "desc": ""
-   },
-   {
-    "title": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
-    "at": "2026-11-09T21:03:55.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108405599-17919312802025-05-28t072704z_2039027556_rc23zdahp1s8_rtrmadp_0_usa-trump-tariffs-chinatown.jpeg?v=1791931344&w=1920&h=1080",
-    "desc": "The CPI headline reading is expected to show an increase of 0.3% while the core is forecast to increase 0.2%."
    }
   ],
   "jobs": [
@@ -5507,42 +5507,42 @@
     "desc": "Under a proposed federal rule, Americans seeking unemployment aid would have to conduct more job searches each week."
    },
    {
+    "title": "Unemployment among German university graduates hits record high",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTG5BcVdlZUJKRkpsemJUcUtjRlZlc0NWaTQ0WFFtNVlMdEkxZjJjX3hSYmkzX0ZKUzFNMTFGaU9DbldVWlBBWG93WWxJYXRJMVBOTUlERHNvSm5qeWx3amE5OVNRSnlCbGRBMXhocFROTHF0NlVILXJ2T2ZMcVZySmtMaFdMbFY1a20wR1F6RWlMVmlIZ1FwR0lFeW5tMEt5RVdyNGdUcw?oc=5",
+    "at": "2026-11-11T06:03:00.000Z"
+   },
+   {
+    "title": "89 N.J. jobs disappearing as 2 corporate giants announce more layoffs",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNWxvRHJ4aXFZbGhUckxVWnVUdnJSYmZTSnRlR2VWQVpITHFHWEZuS3czcmJUVnFEdFQ5VW1rcGo1SzA0MUdvajhzNWF1RkRMa0NON2VZUDFKM3dYVnE3R25WV3I4QldqRkkycEhGN3JLbTF6cW5qZFluWFY4cFFCOXpxOGhXVlVDVUE?oc=5",
+    "at": "2026-11-10T21:58:15.000Z"
+   },
+   {
+    "title": "BlackRock's John Kelly talks investment environment, job market and more in wake of blue wave | POLITICO at B20 USA",
+    "source": "Politico",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUmRsSkVoTEhBdVV3M3ljS3RXS1R6RlBocEptWXgwSDFNVEFiT2ZENUlSYkJuVG52cjFoYUFuR3R1UUhTUkxwVzBhLV81dVAwLUFvc3FiY0NaaXpHelcxYzhDQnd5cF9OTHB5bW1KQnhfVW5BblRtSGhpWkFoYlBLSG1ydXdlUmtVdDQtdDhnUmpISFF4LVNZbWxfejlfamlvV1pqeTIzUXlVVWhLQ3ZwMm5kR2pSSDhYai1MeFh5TUZVdi1aNUNnR00zZEFNY3VnZUthcXN3SUx1bEt0eWhlNkx5SGc2YUd2cm81TFROY3BXeGM?oc=5",
+    "at": "2026-11-10T21:36:08.000Z"
+   },
+   {
     "title": "Before taking an employee buyout, make these 3 considerations, says employment law attorney",
     "source": "CNBC",
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaVNCd2xmLWZmWjNQX21IQkdTZWRvZ0VFTzlJRkZRZVhQNkltWmI0NlpxalZla3ZtVmpldnR5N3ZKUWFsUFdyempNdGQ4cTlpRDdVZG5HV0FROWVuQjlqMTRwdVNpcVhTeHBOczhPNzdpdkFueHZGN2NsY2o5bjM0ckVXRTNJLTVkNXpyWg?oc=5",
     "at": "2026-11-10T18:44:09.000Z"
    },
    {
-    "title": "Read the memo Boeing sent staff as it plans 2,500 job cuts in its airliner business",
+    "title": "Read the memo Boeing sent staff announcing 2,500 job cuts in its airliner business",
     "source": "Business Insider",
     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNGhfcm1FN09aZDAyVGpRd1dKdGNJVWlucGZoT29iMEhScUM5SUhQdGdkbF9oaXlYekxoSWFzaEVFN2MteHNsUVVmSkN3aEQxd0syaUpVSmN2U3BmZktLYkVBU1BnRGEtQklVYXBNTFdDZWRRSW9zYkNpVXJUaGlWT0lhbDEwYlBDWnl3?oc=5",
     "at": "2026-11-10T17:09:00.000Z"
-   },
-   {
-    "title": "PepsiCo is cutting about 1,000 jobs in North America as sales lag",
-    "source": "Quartz",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xTXFWTkpDQmtfVTZPVGpJZjEycThsRWFNbzdkRWM5b2c4anllQW0xZ3dVMkU4ZW9mWHlwMU9VZlphRE5WUmdCdDg2VVBVX2dUN2thRTJpamtvcFVnMFZQMktJb0xrXzBJcnROVEF3?oc=5",
-    "at": "2026-11-10T14:35:44.000Z"
-   },
-   {
-    "title": "Does anyone feel safe from layoffs right now?",
-    "source": "CNBC",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMUhsRDBjWEtpekVKV3k5Y015cGRDT05BblRwLW1qbzlOWW1vcERDeG5YTENLdC1HMzlScmI3TXhzMElTQkNFWURBb0N3QWtRV05YOWRTTnhwaENnTUpMSzVCSXF2NmxQX2lWQkFLdTJScTdmY2p0MGpZbXlFNWlWV2lyYThEUzl1MTRRUjQ3UmEyYVA0VzB6OW1DejlRX1hrNVlGU1FKNVRwZFhBMG1kM0pTMA?oc=5",
-    "at": "2026-11-10T14:30:56.000Z"
-   },
-   {
-    "title": "South Africa's unemployment rate edges up, highlighting key voter concern",
-    "source": "Reuters",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT19WZ0FIUHZaYVB5aW9BU0hLbVhrYmZRNlBfRml3Nm1yMHZWdDh5alh1WnQtRXIzOG5WQnp6c0Z1YzktcHJzcWhLMVVsS0xfRGI5R0Z0V3lnLVdhVzE5ZzJJNFhRSFhmdUVlMEFOUzVxaFZWSlFoTjUzblJ0V3l4MjRJbEZqOHkzOURSU19DS25kZDV6R1IxSThISjZtYlo2N05aUzV3?oc=5",
-    "at": "2026-11-10T10:19:30.000Z"
    }
   ],
   "debt": [
    {
-    "title": "Stocks fall as the 10-year Treasury yield reclaims 5%",
+    "title": "Stocks fall as the 10-year Treasury yield nears 5% mark",
     "source": "MarketWatch",
     "link": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
-    "at": "2026-11-10T17:34:00.000Z",
+    "at": "2026-11-10T21:42:00.000Z",
     "image": "https://images.mktw.net/im-19226741",
     "desc": "“I don’t think they should be raising another 25 basis points,” one portfolio manager said about the Federal Reserve’s benchmark interest rate."
    },
@@ -5555,16 +5555,22 @@
     "desc": ""
    },
    {
-    "title": "U.S. 10-Year Treasury Tops 5% on Expectations of Higher Interest Rates",
+    "title": "Treasury Yields Rise on Strong Jobs Data",
     "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM0tnS0Z3WEZsbnlFMG8xUXBhNlZjNllnVmhQTGRybWdQQThyMnk2b19EZlc0OWZXQjZjUl9XTlAxbmpSc2RCSG1zZzdIc0dIWUJ2TDBsQWZhTXNVd3JpY3BLSnFUdUc4VXBwZlVId0FIYVdIU2lBQ0tTRWtPX2ZpZjZ4U3kzM1FGQVUxV3RkbmM0Rm9mTFlfWVgwM1Jjd25sd0RBa0Npaw?oc=5",
-    "at": "2026-11-10T18:07:00.000Z"
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTjNsSlBvQ2VnWnZFM1RMRHEyUjM0RnlaRnByUDlZajM3VWFvSjMzeU1QYXktM0llSmtNRTQ4aGNkWFdYVnR1S2w5TXhiM1dlbWxaZk5UVy1tcFd0TnVUOXh6N1FfdlcxTDZxaWN1TWVYNE9GOTcydWJ2RmpkUnpkdmNxcGF5ZUVnR0RiT09lYklIUU1DbklyQzM5cUZHZFNJSVEzVTNKZkE?oc=5",
+    "at": "2026-11-10T20:53:25.000Z"
    },
    {
     "title": "Treasury, European Bond Yields Tumble as Markets Lifted by U.S. Democrats’ Victory",
     "source": "WSJ",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdld4SERJUnFrU2lIQ2NMNTJkZy1mVGZUbUFRaEtBQllGTHdQODM2WkhrV1lwd0tCaEd0UUJWclh4M2t6Y0RxMEZWTTBGRHRvNkpMaUV6YkZweVR5MlFwVThma29VWEI4dzdPMTNaSGR1Y28wRnBDWGZQWk02SnhXbnNQbWkycmo0QU50Wm9MNnFGa2lLR2czVU5Vd0thSTNkUEZyTGZDVHR6dWd2RkhoQ18zdnl3b1k0U3QxdWs1Qk5kQQ?oc=5",
     "at": "2026-11-10T17:44:41.000Z"
+   },
+   {
+    "title": "U.S. 10-Year Treasury Tops 5% on Expectations of Higher Interest Rates",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM0tnS0Z3WEZsbnlFMG8xUXBhNlZjNllnVmhQTGRybWdQQThyMnk2b19EZlc0OWZXQjZjUl9XTlAxbmpSc2RCSG1zZzdIc0dIWUJ2TDBsQWZhTXNVd3JpY3BLSnFUdUc4VXBwZlVId0FIYVdIU2lBQ0tTRWtPX2ZpZjZ4U3kzM1FGQVUxV3RkbmM0Rm9mTFlfWVgwM1Jjd25sd0RBa0Npaw?oc=5",
+    "at": "2026-11-10T15:19:22.000Z"
    },
    {
     "title": "After a summer of reorganizing national debt, the Treasury borrowed more than $100 billion a week in October",
@@ -5583,12 +5589,6 @@
     "source": "Yahoo Finance",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY2NNcnZLQ1VVWFZCNkVLSlhQRkFTNW4xTTh1UHlXT0Vpd3d4QWVDaG41YV9Bdi1DcVlaUUo4Y3NoczM2eVJIRjBJOXpFRTRVUkV1S3cwRURmNDhNUmZjOVc5OTd0c2dCM2JPbzFmbVVCTllCekNMN2VWNlByMVFpa0RCclNsUFBHQURhbWdSNGZmcXU3T1RZQ1ZJYUQ?oc=5",
     "at": "2026-11-10T10:30:00.000Z"
-   },
-   {
-    "title": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
-    "source": "CNBC",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00TGg2Rk5HQzViV3NxTHZvREFib0dkOURuR3VIUHZJbjZHWTRzOERZelY0WVZlcVZSNGhCS094UTJDXzM2b3NLeVFSMG5jckhkMndFeG9pc0VvM0JnTUsxN2pTckFuQ3NTMTNZWnQ2MA?oc=5",
-    "at": "2026-11-10T10:25:50.000Z"
    }
   ]
  }
