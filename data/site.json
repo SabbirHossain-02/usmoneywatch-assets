@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T19:56:00.257Z",
+ "updated": "2026-11-13T06:47:50.984Z",
  "ticker": [
   {
    "name": "Mortgage, 30-yr",
@@ -31,10 +31,10 @@
   },
   {
    "name": "10-yr Treasury",
-   "value": "4.88%",
+   "value": "4.98%",
    "dir": "up",
-   "asOf": "2026-11-09",
-   "when": "Nov 9"
+   "asOf": "2026-11-10",
+   "when": "Nov 10"
   }
  ],
  "videos": [
@@ -4722,114 +4722,114 @@
     },
     {
      "name": "10-year Treasury yield",
-     "value": "4.88%",
-     "when": "Nov 9",
-     "asOf": "2026-11-09",
-     "change": "+0.75 pts vs. a year ago",
+     "value": "4.98%",
+     "when": "Nov 10",
+     "asOf": "2026-11-10",
+     "change": "+0.85 pts vs. a year ago",
      "dir": "up",
      "tone": "bad",
      "spark": [
+      4.3,
+      4.42,
+      4.27,
+      4.23,
+      4.22,
+      4.4,
+      4.59,
+      4.57,
+      4.68,
+      4.61,
+      4.63,
+      4.58,
+      4.49,
+      4.47,
+      4.4,
+      4.16,
+      4.22,
       4.31,
-      4.43,
+      4.34,
+      4.23,
+      4.15,
+      4.38,
       4.41,
       4.19,
-      4.2,
-      4.39,
-      4.59,
-      4.58,
-      4.67,
-      4.66,
-      4.65,
-      4.52,
-      4.45,
-      4.52,
-      4.42,
-      4.24,
-      4.32,
-      4.31,
-      4.25,
-      4.27,
-      4.01,
+      4.3,
+      4.49,
       4.48,
-      4.42,
-      4.23,
-      4.36,
-      4.45,
-      4.46,
-      4.43,
-      4.46,
       4.47,
-      4.39,
-      4.29,
-      4.3,
-      4.35,
-      4.47,
-      4.43,
       4.37,
+      4.41,
+      4.38,
+      4.26,
+      4.35,
+      4.43,
+      4.44,
+      4.4,
       4.23,
-      4.29,
-      4.33,
-      4.22,
-      4.1,
-      4.06,
-      4.14,
-      4.2,
-      4.13,
-      4.05,
-      4,
-      4.01,
-      4.13,
-      4.13,
-      4.12,
-      4.01,
-      4.06,
-      4.13,
-      4.16,
-      4.15,
-      4.19,
-      4.18,
-      4.24,
-      4.22,
-      4.29,
-      4.22,
-      4.05,
-      4.04,
-      4.06,
-      4.15,
-      4.2,
-      4.39,
-      4.3,
+      4.27,
       4.33,
       4.26,
+      4.23,
+      4.05,
+      4.05,
+      4.15,
+      4.15,
+      4.18,
+      4.03,
+      3.98,
+      3.99,
+      4.1,
+      4.08,
+      4.13,
+      4,
+      4.11,
+      4.14,
+      4.12,
+      4.14,
+      4.17,
+      4.19,
       4.3,
+      4.24,
+      4.28,
+      4.16,
+      4.09,
+      4.05,
+      4.09,
+      4.21,
+      4.26,
+      4.33,
+      4.33,
+      4.29,
+      4.29,
+      4.3,
+      4.42,
       4.36,
-      4.43,
       4.46,
-      4.67,
+      4.57,
+      4.45,
+      4.47,
+      4.45,
+      4.46,
+      4.38,
       4.48,
-      4.49,
-      4.55,
-      4.49,
-      4.4,
-      4.49,
-      4.56,
-      4.55,
-      4.69,
-      4.75,
+      4.62,
+      4.6,
       4.65,
-      4.68,
-      4.74,
-      4.73,
-      4.78,
-      4.97,
+      4.7,
+      4.72,
+      4.72,
+      4.7,
+      4.75,
+      4.8,
+      5,
       4.96,
-      5.24,
-      5.31,
-      5.21,
-      5.12,
-      4.99,
-      4.95,
-      4.88
+      5.26,
+      5.27,
+      5.19,
+      5.13,
+      5.05,
+      4.9,
+      4.98
      ],
      "source": "Federal Reserve"
     }
@@ -5271,20 +5271,28 @@
  "news": {
   "top": [
    {
-    "title": "The Face of the A.I. Boom Powering the U.S. Economy Is Gone",
-    "source": "The New York Times",
-    "link": "https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html",
-    "at": "2026-11-12T19:50:28.000Z",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-live-economy-mktc/12biz-nvidia-live-economy-mktc-mediumSquareAt3X.jpg",
-    "desc": "Jensen Huang, Nvidia’s ousted leader, was a unique rhetorical and financial booster for investments that are driving economic growth."
+    "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+    "at": "2026-11-13T04:46:00.000Z",
+    "image": "https://images.mktw.net/im-49247042",
+    "desc": "There is already a demographic ‘run’ on Social Security."
    },
    {
-    "title": "Trump administration is hiring debt collectors to go after defaulted student-loan borrowers for first time in 6 years",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/trump-administration-is-hiring-debt-collectors-for-first-time-in-6-years-to-go-after-defaulted-student-loan-borrowers-8bae13ad?mod=mw_rss_topstories",
-    "at": "2026-11-12T19:46:00.000Z",
-    "image": "https://images.mktw.net/im-75780824",
-    "desc": "The Treasury Department proposes to pay debt collectors much less than in the past to help borrowers get out of default."
+    "title": "Nvidia turmoil continues as Jensen Huang resigns over affairs scandal and company appoints interim CEO – as it happened",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+    "at": "2026-11-12T21:33:08.000Z",
+    "image": "https://i.guim.co.uk/img/media/ee87aa39a5285390ddbdaa26b7ca3472a48da292/0_0_1500_1200/master/1500.jpg?width=700&quality=85&auto=format&fit=max&s=445f94a071e7ca092b6838b527ca470f",
+    "desc": "This live blog is now closed. Analysis: Jensen Huang built an AI kingdom. What now? Full report: Jensen Huang resigns as Nvidia CEO Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting"
+   },
+   {
+    "title": "Jensen Huang, Nvidia’s Ousted CEO, Was the Face of the A.I. Boom Powering the U.S. Economy",
+    "source": "The New York Times",
+    "link": "https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html",
+    "at": "2026-11-12T21:05:50.000Z",
+    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-live-economy-mktc/12biz-nvidia-live-economy-mktc-mediumSquareAt3X.jpg",
+    "desc": "Nvidia’s ousted leader was a unique rhetorical and financial booster for investments that are driving economic growth."
    },
    {
     "title": "Bain Capital’s head of real estate uses this strategy to counter the economy’s ‘cocktail of disruption'",
@@ -5293,14 +5301,6 @@
     "at": "2026-11-12T17:50:59.000Z",
     "image": "https://image.cnbcfm.com/api/v1/image/108547198-ryan_cotton_1.jpeg?v=1794279524&w=1920&h=1080",
     "desc": "Ryan Cotton, Bain Capital's head of real estate, sits for an interview with the Property Play video podcast."
-   },
-   {
-    "title": "Home sales hit 16-year low in October amid record-high mortgage rates",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
-    "at": "2026-11-12T17:26:07.000Z",
-    "image": "https://i.guim.co.uk/img/media/861fa365835f36d65c4fe3a0adf09f6b63ba43ad/142_0_2344_1875/master/2344.jpg?width=700&quality=85&auto=format&fit=max&s=15aa077619dc9d50ee52c2911dd0f5e5",
-    "desc": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year high US existing home sales hit a 16-year low in October as buyers were driven away by record-high mort"
    },
    {
     "title": "Hotter-than-expected inflation raises chances of Fed rate hike",
@@ -5319,20 +5319,28 @@
     "desc": "Gasoline prices fell below $4 a gallon Tuesday for the first time in three months — but the overall cost of living remains stubbornly high."
    },
    {
+    "title": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
+    "at": "2026-11-12T22:16:00.000Z",
+    "image": "https://images.mktw.net/im-73097292",
+    "desc": "Fed Chair Warsh’s quiet style of communicating interest-rate policy has led to more volatile markets."
+   },
+   {
+    "title": "Home sales hit 16-year low in October amid record-high mortgage rates",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
+    "at": "2026-11-12T17:26:07.000Z",
+    "image": "https://i.guim.co.uk/img/media/861fa365835f36d65c4fe3a0adf09f6b63ba43ad/142_0_2344_1875/master/2344.jpg?width=700&quality=85&auto=format&fit=max&s=15aa077619dc9d50ee52c2911dd0f5e5",
+    "desc": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year high US existing home sales hit a 16-year low in October as buyers were driven away by record-high mort"
+   },
+   {
     "title": "Could the Voter Backlash Against A.I. Actually Help the Economy?",
     "source": "The New York Times",
     "link": "https://www.nytimes.com/2026/11/09/business/economy/ai-bubble-democrats-midterms-economy.html",
     "at": "2026-11-11T20:16:30.000Z",
     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/00biz-ai-econ-01-lwvk/00biz-ai-econ-01-lwvk-mediumSquareAt3X.jpg",
     "desc": "Voter backlash could threaten the data center boom. Some economists think that could be a good thing."
-   },
-   {
-    "title": "The bond market now has an even bigger fear than AI fallout",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
-    "at": "2026-11-12T19:29:00.000Z",
-    "image": "https://images.mktw.net/im-76319039",
-    "desc": "Carnage in tech stocks made Treasurys look more attractive in recent weeks, but fears of more Fed rate hikes are now driving yields higher"
    },
    {
     "title": "UK economy expands 0.7% in third quarter as AI provides 'extra engine of growth'",
@@ -5343,20 +5351,12 @@
     "desc": "The U.K. economy grew 0.7% in the third quarter of the year, in line with estimates."
    },
    {
-    "title": "Democrats’ US election sweep brings the price of their promised social contract into focus",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/11/democrats-election-medicaid-costs",
-    "at": "2026-11-11T11:00:46.000Z",
-    "image": "https://i.guim.co.uk/img/media/07a0f439eb97562ba66c202a2de731facf252107/569_0_5465_4372/master/5465.jpg?width=700&quality=85&auto=format&fit=max&s=e3bc285be1a14407736f0d58c08b0ae6",
-    "desc": "‘The post-election wish list is about to run into harsh fiscal reality: there is no money’ Is this an opportunity for a new America? As the Reagan revolution four decades ago launched US society down the path to low taxe"
-   },
-   {
-    "title": "Nvidia's trillion-dollar bind: Can it afford to lose Jensen Huang?",
+    "title": "24% of Americans with a credit record are behind on their debts",
     "source": "CBS News",
-    "link": "https://www.cbsnews.com/news/jensen-huang-affair-nvidia-ceo-dilemma/",
-    "at": "2026-11-11T01:02:52.000Z",
-    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/10/09c045e3-d878-444e-af00-3f332554c88a/thumbnail/1200x630/9dce37ca103c46ecae835d57156dfca0/gettyimages-2300708840.jpg",
-    "desc": "Other CEOs have been ousted over undisclosed relationships, but Nvidia's inquiry shines a spotlight on how closely the chipmaker's fortunes are tied to its co-founder."
+    "link": "https://www.cbsnews.com/news/americans-behind-on-debts-analysis/",
+    "at": "2026-11-10T20:14:49.000Z",
+    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/10/5bd32e8f-c50d-4d44-a835-77d0aee1b25b/thumbnail/1200x630/93c4733dcd1cd47eec920e57f784f51d/gettyimages-1433614455.jpg",
+    "desc": "More U.S. households are falling into debt as they grapple with medical bills, student loans and other expenses, data show."
    },
    {
     "title": "Why did California's billionaire tax fail to surf the blue wave?",
@@ -5404,36 +5404,28 @@
     "title": "Home sales in worst slump since the aftermath of the Great Recession",
     "source": "The Washington Post",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQmttNnNqVm1jQmstQ2pvWl9aOUYzaklQNmpYaEFuMVdyLUdyWEZqOWU4R0luSldvNlhURDcyeng0VG5NQTVSejFOTFhmOEJlSUt1aGRadmg2c1FSTGdCb2tpbzVuRnJYbXRvYkFsQ0xrUlB3Ui1IMFZyZklhcGpoWW9Rc09Menk0LXBGVlV0MkpsMW53R01kckdKVnRtMWRZc0kzaEFvdk51MnNDbGF3?oc=5",
-    "at": "2026-11-12T19:20:24.000Z"
+    "at": "2026-11-13T01:47:38.000Z"
    },
    {
-    "title": "Where Denver homebuyers have the upper hand",
-    "source": "Axios",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZkUzTWJHOHZfbUJMQXJrRWc3eXR4NzhaUXNzU0hCZFVvY1JEeno5bDRBZ0VOdTY1LVpRaktoZXBpNUNjbnB4akdHT19LLV9oSEwxdE1ISjJwTmhwOGJSTUpaV19NTkdQUU10czlZZF9DR0VlX0dMSmtTUjdXeUpjZDhtOEhUaVlBM19lTVZqOUU4WERjYUE?oc=5",
-    "at": "2026-11-12T19:18:36.000Z"
+    "title": "Weekly Mortgage Rates Drop to 6.99%, but Don’t Exhale Just Yet",
+    "source": "NerdWallet",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QbWU3dXJlNzc1Y1ZwZC04S1U3ZTVLR3M4b0lHMW5saU5hQXhQV2E0VlRTS2txWDRDcTVsd3RoMnRhbnRxcmpuYmdZZTVieTBiTkZwODA5ZlNJcWxQaG9ZYnNXVUhWSnhqZ2tOU184UTQ5WWRNcnZueFhtdzY?oc=5",
+    "at": "2026-11-12T22:13:16.000Z"
    },
    {
-    "title": "When will mortgage rates go down? A drop to a 7-week low",
+    "title": "Will mortgage rates ever drop to 3% again?",
     "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWG9QcVU4b1JGdVJsc2FOalgtQ1liRmtEdjVCQl9wLXVQUFVLLWdsek9YM2tXZVljTXR1aEFRWHJtVFpZUTZSTnVtOTBzUTF1WFN5ZWs1Z2llTVlNeXVjT0tTNThrZHE5eFRobkxoNFlBNTJoTURoMDRRb2RyNEdKZ3lYUXRMRzMzWVVTdldJZ2dmTGZSTHZLUnVPN05HdHc3QUl0M2tuZGF5aERkWG4wZGhYZVJrSVVkc1pJclhCZGxyNFktTXB5TjhZVQ?oc=5",
-    "at": "2026-11-12T18:22:33.000Z"
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRHcwU2NXTUJsbGZ5aDJWYXlFOE9iZGhLRXBSRWNFQjQ3NTB1cXk4WVBYaU4zLVpMMWQxUUo5UVQzVmhMa3FuRElucl9xLWRiZDN3UG9NcVg2WWVZS2pRYVlMYmxmdjJGTlNqeEZZVjUzTzRnVGdfWTVKMmhpaW5tb0tQUUhQcnoyRG5FTTRrV0R1eVgxcXNSaDF3cW9mSDh2TUp0MF9JRW9tQXgzSUdwSQ?oc=5",
+    "at": "2026-11-12T21:31:18.000Z"
    },
    {
-    "title": "US home sales fall to lowest level since 2010 as mortgage rates soar",
-    "source": "Financial Times",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdTFLUXEwMGczMGIxWWMwRGxGM1hoUmcxcGp5V0pzOUNzcFp5aEVfODRwal9Td1J2U21kYlh4elljeFlvRU01bGJPMVRzOThEQWFoaXNiVVNzclJmVWFjYVFzTC1heUJkV1pnNkl2MU56ZWtxT1dWSWxIbl9XODJ3RE9haDM?oc=5",
-    "at": "2026-11-12T18:03:44.000Z"
+    "title": "Homes aren't selling. Here's the new playbook for selling yours",
+    "source": "USA Today",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTjBZaWdHaHJHcGpzY21IX2pVMm5Lc2tfWnludXpKRFJGUy15WTROYVV5TVhqXzVMSGNtNWM3bmhsZG95Rkk0N0E3QUtfUzgwYVBvTjBjdVVIdmUxYkQ3V2lMMk1iWDRVVTRuVUZyVXJPYjhFSkhtRGdFWngwd3JOMnB4UGstSkJSM2N4aDZMTTBZaDJXcmI2VFFfd2tDWkxlMlY4VXV6R2NfT2d0dWRhRmxmVkZVVEFtaXBmNjNFTzh5MEE?oc=5",
+    "at": "2026-11-12T21:22:00.000Z"
    }
   ],
   "inflation": [
-   {
-    "title": "U.S. inflation is already bad enough. It might get worse.",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/u-s-inflation-is-already-bad-enough-it-might-get-worse-bae54da9?mod=mw_rss_topstories",
-    "at": "2026-11-12T18:39:00.000Z",
-    "image": "https://images.mktw.net/im-89036594",
-    "desc": "Federal Reserve Chairman Kevin Warsh has vowed the Fed will smite high inflation — but the death blows won’t come fast or easy."
-   },
    {
     "title": "Hotter-than-expected inflation raises chances of Fed rate hike",
     "source": "CBS News",
@@ -5475,64 +5467,42 @@
     "desc": "Gasoline prices fell below $4 a gallon Tuesday for the first time in three months — but the overall cost of living remains stubbornly high."
    },
    {
-    "title": "Gas prices slip below $4 a gallon for first time since July",
-    "source": "CBS News",
-    "link": "https://www.cbsnews.com/news/gas-prices-below-4-gallon-november/",
-    "at": "2026-11-10T18:55:23.000Z",
-    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/09/5d303671-64fb-4852-843e-566e65462dab/thumbnail/1200x630/1dbc6f09fea9d24be51a582218c239d3/gettyimages-2302796388.jpg",
-    "desc": "Petroleum expert Patrick De Haan predicts prices will continue to sink and reach $3.75 a gallon by Thanksgiving."
+    "title": "Here’s why last year’s government shutdown will haunt October’s inflation data.",
+    "source": "The New York Times",
+    "link": "https://www.nytimes.com/live/2026/11/10/business/inflation-cpi-report-october/heres-why-last-years-government-shutdown-will-haunt-octobers-inflation-data",
+    "at": "2026-11-10T10:48:00.000Z",
+    "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10-live-blog-20261110-inflation-header-qhfv/10-live-blog-20261110-inflation-header-qhfv-videoSixteenByNine3000.jpg",
+    "desc": ""
    },
    {
-    "title": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
-    "at": "2026-11-09T21:03:55.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108405599-17919312802025-05-28t072704z_2039027556_rc23zdahp1s8_rtrmadp_0_usa-trump-tariffs-chinatown.jpeg?v=1791931344&w=1920&h=1080",
-    "desc": "The CPI headline reading is expected to show an increase of 0.3% while the core is forecast to increase 0.2%."
+    "title": "Oil prices fall to lowest since August as Trump says Iran war is ‘effectively over’",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets",
+    "at": "2026-11-10T10:28:47.000Z",
+    "image": "https://i.guim.co.uk/img/media/16ccda76da166c6543538e5a98c8b9b5f2481d15/0_0_5039_4031/master/5039.jpg?width=700&quality=85&auto=format&fit=max&s=64d0072a8af7fcb05b689abb15ad4f66",
+    "desc": "Brent crude drops below $90 and markets climb after president downplays prospect of further strikes Oil prices have fallen to the lowest level since late August while stock markets climbed higher, as markets reacted with"
+   },
+   {
+    "title": "INFLATION REPORT",
+    "source": "NPR",
+    "link": "https://www.npr.org/2026/11/10/nx-s1-6034517/inflation-report",
+    "at": "2026-11-10T09:37:52.000Z",
+    "image": null,
+    "desc": "Gasoline prices are falling, but the overall cost of living remains stubbornly high. The Labor Department reports on October inflation Tuesday morning."
    }
   ],
   "jobs": [
    {
-    "title": "Trump administration is hiring debt collectors to go after defaulted student-loan borrowers for first time in 6 years",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/trump-administration-is-hiring-debt-collectors-for-first-time-in-6-years-to-go-after-defaulted-student-loan-borrowers-8bae13ad?mod=mw_rss_topstories",
-    "at": "2026-11-12T19:46:00.000Z",
-    "image": "https://images.mktw.net/im-75780824",
-    "desc": "The Treasury Department proposes to pay debt collectors much less than in the past to help borrowers get out of default."
-   },
-   {
-    "title": "Trump admin. proposes stricter unemployment work search rules",
-    "source": "CBS News",
-    "link": "https://www.cbsnews.com/news/trump-work-search-rules-unemployment-benefits/",
-    "at": "2026-11-09T22:41:00.000Z",
-    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/21/92c030d7-07b4-4d13-ab43-201d163e130c/thumbnail/1200x630/ff92c3d63b0f8baa22045a9d58cdc22b/gettyimages-179125086.jpg",
-    "desc": "Under a proposed federal rule, Americans seeking unemployment aid would have to conduct more job searches each week."
-   },
-   {
-    "title": "3 unexpected reasons the October jobs report was so strong",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html",
-    "at": "2026-11-09T22:23:56.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108303908-1778178630285-gettyimages-2273898253-jr_17705_klqohmye.jpeg?v=1778178878&w=1920&h=1080",
-    "desc": "October's jobs report blew past economist forecasts. Here are three reasons."
+    "title": "Super-low jobless claims expected to continue",
+    "source": "Axios",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJYmRGMElOaGVXYmF1NnF0dDFaZGZaM1BqdF82Y2xCaG1QSDRHcXlsVGNwSmU1MUFvZERYWWtydVNEaElpWDhrZjktR01EaTRWbEJKUE1MOUh2cDFpU05XVkI1d1JrQmVCclFLb0hvZ1pPUmhRTTByaA?oc=5",
+    "at": "2026-11-12T22:13:15.000Z"
    },
    {
     "title": "US labor market resilient; existing home sales hit more than 16-year low in October",
     "source": "Reuters",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUTZla1JsS2tMLXNSZGhQOXg4VnpnUkQxelh0RVlFQnl5b0ZGYXBwTXNVd3hWMVM1c0d5WjhPR3hGbnRPV3dDSloxV2w2Wm83a24wSUNHdTN0UmpHbzlTSHJ4VnVRNTBVdUlHTkdrZ21SdkFIZ09VMnRWZ1ZSU3ZFbk1SQnA4ZUJBVWxzSWpVTjRodDFqQlRiQzRRWHRzdzU3?oc=5",
     "at": "2026-11-12T17:49:06.000Z"
-   },
-   {
-    "title": "Boeing layoffs raise new fears about its financial future",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTzVKY2JGbmdBaTdSajdGMFlyZ0cxZXJUVkpxdjgwMElFc2xpTnJLcDNqcW5Mc0xPVFA3S0pDQVVkbEh4QVJKcWhGQVhhQkhkWFZYcC1mcFFWRnc2eWdNX2YtZ296ZEhveU9Cbk0tT3RFc0ppRmJCZzRwQ1RyeGRxN2U5R2RfRTZhLW95V08wemE5cGtXenJtdkg4aVQ4RWluMVVN?oc=5",
-    "at": "2026-11-12T17:33:00.000Z"
-   },
-   {
-    "title": "Super-low jobless claims expected to continue",
-    "source": "Axios",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJYmRGMElOaGVXYmF1NnF0dDFaZGZaM1BqdF82Y2xCaG1QSDRHcXlsVGNwSmU1MUFvZERYWWtydVNEaElpWDhrZjktR01EaTRWbEJKUE1MOUh2cDFpU05XVkI1d1JrQmVCclFLb0hvZ1pPUmhRTTByaA?oc=5",
-    "at": "2026-11-12T17:11:42.000Z"
    },
    {
     "title": "Cancer institute backed by Larry Ellison plans major layoffs in Los Angeles",
@@ -5545,16 +5515,40 @@
     "source": "Fox Business",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT25KNkRVM3Z2VWtmaTA0X2JncjB5VENwUGlZMG9qUUl3Q0dGNkFwcEM4eHktTENNWXN1R2pMQmkxZzgyTV8waDhvWnRtTklhTXdFRkdINXRoOWdDWF9odmZqOUV1MXBpQ05xWkxfcmxnWWl0MHFfSkhtYXVaY0VqanRtd2V0MjJVXy1BdWJhdXBVWkc1UHA2R3JsOUNZNEV1WTg3Y0JYTkItWEg0R2NRSl82MnFSdnVf0gG-AUFVX3lxTE1FcmlfdEI1NVlZTlVKRGFLc2xIcnV0TzJjWXg5ZWRmUjVDMzBSXzhrRkhVUlBwYkItMjhtZGhEdDZWMHB3dlQ5a2c4S2YzclI2c3BSbU9zbEdkWjZwakdDQzhFd0dGMjAyWTR1ODFiSzlXZnhCU0J0d0JWNWFaekh5ZTdDR01vTktJcTBFd3lLbVBWbjU2LVJ0Y3VfYm1lamZVNTBYOEFuWDZ0c3F2d3IxN21PVXp0eGlBMDZ6Nmc?oc=5",
     "at": "2026-11-12T04:08:00.000Z"
+   },
+   {
+    "title": "Canva's layoff memo is getting rave reviews, but some disagree with the 'flood of applause': 'Why are we celebrating a layoff?'",
+    "source": "CNBC",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQkZJN1VYOEJPdWl2S2hDUEdPYk5WT0ZveEZjTWN1MU5NdktJZXMzdkI4UzZYNnl2b0lDdE1Jb0J0Z1dkOGFZODNUdmpqTlFwWWE0MmdQZzUxY1lqc2Q1MjlKVEp1eXBfTHJVdE9QVm9nQ2tNbHlKQlpXalE0OTQxaXJxRFXSAYoBQVVfeXFMUFVFUXkzNTR1V1Y5UmVTbmZWeFRRcUNGVXNiT0YyRktCODdqb3hnZkdfYUlHdGZMSkw4d2IxalV3SWd3WnBOUjdhc1ZPQ2dfak1xYWdlZmR1eHhmYTBOTDdsQW5iWWJpS1dEZlpiblZ6R3pLbXNfanlQTDItYk9fRTZrdFlXV1pZd3F3?oc=5",
+    "at": "2026-11-11T18:51:04.000Z"
+   },
+   {
+    "title": "The job market is tough for young people. Older workers are thriving.",
+    "source": "The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY2Z4TUZGNm56WTRDc1hGLWdqbHc0ZDlYN1U5Z2VXdkM2R1Yyb0pvTzdUUklQNzJMOTZSVnViSTlzdE56WjAzRm84eEZvclAzZ2RnSjBmRWRnYUZuVzRNejViWTZZV1Q4eTdZZjV3eGc3U3ZoSGI1Y1FrWW5RX3pwdzN1dzBHWEJRd3FkSXNUREtaNklVQXFYY3VrSmNEX0hzcTlaenpDU3pwdE03Zk94SUExQ2lkTk13Rlgw?oc=5",
+    "at": "2026-11-11T18:00:00.000Z"
+   },
+   {
+    "title": "Is the job market hibernating?",
+    "source": "Financial Times",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLUkwcGVsUEpZa3BsN3VNZUpRRE8waHpMcnBUY0RpV0h0c05GdEIxR3BQbHE3RDJmNklQdzhZOGNmUE1pbFgySWxBYm1CcG04YVBDT2ZIWk5vWjNCbjBycFRjSUFHT2lVcW1UNXR6Y1FHdUhqWk5fc2JrSExmMU1jcHAxXzA?oc=5",
+    "at": "2026-11-11T17:00:08.000Z"
+   },
+   {
+    "title": "South Africa’s unemployment crisis worsens",
+    "source": "Semafor",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeFFWY2FRTnVaN3ZqYmg5RkR3QWFMRmNBRUJndm9WWnE1TThzZjY4T05vZ21Kek42bEdNVG5Gd0U5SzJOckRySGxoQks3TmZ2UVNmdUx3elVDdE1XeDBoeExLc29WeWZRakNPTk1XWU9RdXBBSmFFT19uaWFsUC1acDBvNFJyVlNBTWpYcl9xdGJwLUVJUWpoM0N0RmdHN3poSUgwUW5Tcm1weXRON1lSUlFtWXYtdmxxOXc?oc=5",
+    "at": "2026-11-11T14:02:00.000Z"
    }
   ],
   "debt": [
    {
-    "title": "The bond market now has an even bigger fear than AI fallout",
+    "title": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
-    "at": "2026-11-12T19:29:00.000Z",
-    "image": "https://images.mktw.net/im-76319039",
-    "desc": "Carnage in tech stocks made Treasurys look more attractive in recent weeks, but fears of more Fed rate hikes are now driving yields higher"
+    "link": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
+    "at": "2026-11-12T22:16:00.000Z",
+    "image": "https://images.mktw.net/im-73097292",
+    "desc": "Fed Chair Warsh’s quiet style of communicating interest-rate policy has led to more volatile markets."
    },
    {
     "title": "Here’s why last year’s government shutdown will haunt October’s inflation data.",
@@ -5565,16 +5559,30 @@
     "desc": ""
    },
    {
+    "title": "The bond market now has an even bigger fear than AI fallout",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
+    "at": "2026-11-12T20:44:00.000Z",
+    "image": "https://images.mktw.net/im-76319039",
+    "desc": "Carnage in tech stocks made Treasurys look more attractive in recent weeks, but fears of more Fed rate hikes are now driving yields higher"
+   },
+   {
+    "title": "Treasury Yields Down Following Democrats Midterm Win",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdkVMZXBIOElzYmpRaVNwbmNZOWxvT1ZsUWgwamhobmRBNklNOGZGSGNWNG5jZjZPTUtPT2c2V0ZTNmM0SU1MNGdhV2plaVZNbDVOclUzSXMxa3NGM3ZQMl9feDdEQWhramMzMnVycHpCTm1haEFhRFZnYnpNb0hJcjVOR3pTazJ5b1FXeHFkQWRNRUszNEZFVkpmYVNoOWJKclNnM3JYTnY4bWVrdEhkalNxMGIxR2ttRFI3czliVjVXaVh4SHpNSEVR?oc=5",
+    "at": "2026-11-13T00:44:11.000Z"
+   },
+   {
+    "title": "Treasury Selloff Accelerates, European Bonds Follow Suit",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc0VSTVFyMVRIR1EtM1J2eWU0MW45b3BmWVMwTWRwbmQzcmhvVlBuTEFQNWowTEI2SUd2cngzbmZ3VXMwYTVxc2NaSTg0WnZ4VndDaHVGNWZGcFcxN1NOUWsyMHd2RTJVNjJqZ2JiQy1XRDNpM2VGRFpiX1RVaTBnM01FSTVLUXJOYkFSRnhKaFBhNzZfUUZsZGJTWlBZbjRxV29UR0k5NVJ5U3ZVdXpYZ2NLeVlKb2ZC?oc=5",
+    "at": "2026-11-12T20:53:00.000Z"
+   },
+   {
     "title": "Treasury Yields Rise on Strong Jobs Data",
     "source": "WSJ",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTjNsSlBvQ2VnWnZFM1RMRHEyUjM0RnlaRnByUDlZajM3VWFvSjMzeU1QYXktM0llSmtNRTQ4aGNkWFdYVnR1S2w5TXhiM1dlbWxaZk5UVy1tcFd0TnVUOXh6N1FfdlcxTDZxaWN1TWVYNE9GOTcydWJ2RmpkUnpkdmNxcGF5ZUVnR0RiT09lYklIUU1DbklyQzM5cUZHZFNJSVEzVTNKZkE?oc=5",
     "at": "2026-11-12T17:14:45.000Z"
-   },
-   {
-    "title": "U.S. 10-Year Treasury Tops 5% on Expectations of Higher Interest Rates",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM0tnS0Z3WEZsbnlFMG8xUXBhNlZjNllnVmhQTGRybWdQQThyMnk2b19EZlc0OWZXQjZjUl9XTlAxbmpSc2RCSG1zZzdIc0dIWUJ2TDBsQWZhTXNVd3JpY3BLSnFUdUc4VXBwZlVId0FIYVdIU2lBQ0tTRWtPX2ZpZjZ4U3kzM1FGQVUxV3RkbmM0Rm9mTFlfWVgwM1Jjd25sd0RBa0Npaw?oc=5",
-    "at": "2026-11-12T16:52:39.000Z"
    },
    {
     "title": "U.S., Eurozone Bond Yields Rise Ahead of Inflation, Rates Outlook",
@@ -5583,22 +5591,10 @@
     "at": "2026-11-12T16:36:21.000Z"
    },
    {
-    "title": "Treasury Selloff Accelerates, European Bonds Follow Suit",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc0VSTVFyMVRIR1EtM1J2eWU0MW45b3BmWVMwTWRwbmQzcmhvVlBuTEFQNWowTEI2SUd2cngzbmZ3VXMwYTVxc2NaSTg0WnZ4VndDaHVGNWZGcFcxN1NOUWsyMHd2RTJVNjJqZ2JiQy1XRDNpM2VGRFpiX1RVaTBnM01FSTVLUXJOYkFSRnhKaFBhNzZfUUZsZGJTWlBZbjRxV29UR0k5NVJ5U3ZVdXpYZ2NLeVlKb2ZC?oc=5",
-    "at": "2026-11-12T14:35:00.000Z"
-   },
-   {
-    "title": "Treasury Yields Rise, European Bond Yields Fall",
+    "title": "Wall Street set to dip as Nvidia storm continues, Treasury yields bob at 5%",
     "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVnlnaU1LNXJWTUZPQ2lYcHhQZkZ5VXFWVVJPXzFjQVpNWHBhb2dMXzlGNGtXS0d4aVVjTjVNSXF4Sk1OUUNkYlFkdlZ0N0YtUHNocGRMcmN5QjJoOXJ2QVBLNTV1dkcySzJ5S0hxRUg2dzVpMTExMk9WeXczaFEzZVoyNGZtS3FYWVRoSDZyTnd3bEljSGM3X29Zd1h1MW9l?oc=5",
-    "at": "2026-11-12T10:02:00.000Z"
-   },
-   {
-    "title": "10-year Treasury yield jumps back above 5% as oil gains and more Fed rate hikes expected",
-    "source": "CNBC",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kS2N1QmprS3IzX3ZuTHRrNlBkaERHTlNMTEdzMkk3bUR3eXo5cDcyMGpiSF9xUVpPQzZHaDBZN2NrbHdFVGpmWTZ1ZXAxMXBuOHlkdzNEcEdRQU44Rm14a3llS1VOUFhPaTByWThqaw?oc=5",
-    "at": "2026-11-12T07:38:45.000Z"
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV3B6b0hjZ0hod2RPeGhEbGNER2dVUk1vTU90aUI2V0U0WDJxVW9fUTBFc3NjRzEwXzZaNWYtY3VBcUhpZUlWS056MjItbGE0QTZvS2E1Q2tsdnYwd24yZU5aS1REMzVINTBjWTV3OWYwX1RGM21NdW9BeVBBUjRSMXZkcHRXd0tPUTBpNE5FWnBpdHVMcmhTMkd0bHVodnFxQUpR?oc=5",
+    "at": "2026-11-12T12:57:53.000Z"
    }
   ]
  }
