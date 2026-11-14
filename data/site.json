@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T18:05:21.617Z",
+ "updated": "2026-11-14T22:26:13.338Z",
  "ticker": [
   {
    "name": "Mortgage, 30-yr",
@@ -5271,12 +5271,12 @@
  "news": {
   "top": [
    {
-    "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
+    "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-    "at": "2026-11-14T18:00:00.000Z",
-    "image": "https://images.mktw.net/im-61252759",
-    "desc": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”"
+    "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
+    "at": "2026-11-14T21:31:00.000Z",
+    "image": "https://images.mktw.net/im-83882608",
+    "desc": "“I have a net worth of $2.3 million and my only debt is a 15-year mortgage.”"
    },
    {
     "title": "How Nvidia scandal, Anthropic IPO may impact your 401(k)",
@@ -5311,12 +5311,12 @@
     "desc": "Nvidia’s ousted leader was a unique rhetorical and financial booster for investments that are driving economic growth."
    },
    {
-    "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
+    "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
-    "at": "2026-11-14T17:50:00.000Z",
-    "image": "https://images.mktw.net/im-95193263",
-    "desc": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes"
+    "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+    "at": "2026-11-14T18:00:00.000Z",
+    "image": "https://images.mktw.net/im-61252759",
+    "desc": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”"
    },
    {
     "title": "Never bought Nvidia stock? Its slide could still hit your 401(k).",
@@ -5343,20 +5343,12 @@
     "desc": "Supplies outstripped demand by almost 2m barrels a day in October as market shows ‘tentative signs of rebalancing’ The world’s oil supply is swinging back to a surplus for the first time since the start of the US-Israeli"
    },
    {
-    "title": "Could the Voter Backlash Against A.I. Actually Help the Economy?",
-    "source": "The New York Times",
-    "link": "https://www.nytimes.com/2026/11/09/business/economy/ai-bubble-democrats-midterms-economy.html",
-    "at": "2026-11-11T20:16:30.000Z",
-    "image": "https://static01.nyt.com/images/2026/11/09/multimedia/00biz-ai-econ-01-lwvk/00biz-ai-econ-01-lwvk-mediumSquareAt3X.jpg",
-    "desc": "Voter backlash could threaten the data center boom. Some economists think that could be a good thing."
-   },
-   {
-    "title": "The trillion-dollar mistake corporate America is making about retirement",
+    "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
+    "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
     "at": "2026-11-14T17:50:00.000Z",
-    "image": "https://images.mktw.net/im-43763907",
-    "desc": "The market is dramatically underpricing the economic impact of Americans age 50 and older."
+    "image": "https://images.mktw.net/im-95193263",
+    "desc": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes"
    },
    {
     "title": "Family Dollar to pay $63M after FTC says it overcharged customers",
@@ -5365,6 +5357,14 @@
     "at": "2026-11-13T20:57:42.000Z",
     "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/13/140a983a-4db2-42da-8ed0-036289b08a0b/thumbnail/1200x630/4ff54a8df1934a4fcaeed89d918ffb92/gettyimages-2071873164.jpg",
     "desc": "The discount retailer failed to honor prices displayed on store shelves, on price tags and in ads, the FTC and multiple states alleged."
+   },
+   {
+    "title": "Bain Capital’s head of real estate uses this strategy to counter the economy’s ‘cocktail of disruption'",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/11/12/bain-capitals-head-of-real-estate-on-the-cocktail-of-disruption.html",
+    "at": "2026-11-12T17:50:59.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108547198-ryan_cotton_1.jpeg?v=1794279524&w=1920&h=1080",
+    "desc": "Ryan Cotton, Bain Capital's head of real estate, sits for an interview with the Property Play video podcast."
    }
   ],
   "housing": [
@@ -5393,6 +5393,12 @@
     "desc": "Ryan Cotton, Bain Capital's head of real estate, sits for an interview with the Property Play video podcast."
    },
    {
+    "title": "Tens of thousands march in Portuguese cities against surging home prices",
+    "source": "Los Angeles Times",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeTZSendpY3JaM2xQNnlsT0pYUXh4LWwxSWxkeUl0dEZweEN4b2tKSll3M2huZm1wNjVWT1dxbVJUVndhZWtjVFFQa1JJaHhZNVQtdlBXSURHcTYxWXpkVE9za1dqRmcwY0dMT0IxUXRKMGdKRmhtbkR3cEtfQ1VRYlJiUWxZaTYtelYxMS05cmpTUGt3djRpN0x3LXl2eXVRR0kxVFFFVFdHeEVaeHdGdmhFOFFxSFo4N0pvVlZNZEVHcWp5?oc=5",
+    "at": "2026-11-14T20:45:00.000Z"
+   },
+   {
     "title": "Tucson Housing Market Enters 2027 Balanced Overall but Divided by Neighborhood and Price Range",
     "source": "USA Today",
     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbWVVVkVDQi1UcVNDeWVLUnZQZWhHN2FrU09HQUdnSTR2cU9yeFlIcFhKNlJTMWh6ZzU4eWtkYUJxazIzakt1aXUxdUhOUll6SUVxdEkxR2lpODFnc1dBT0pZNV9BQVFEYXJwcEhLU3FSc1lEX1UxWmlfMVlkWThzUFlWVm5kYUR0WFhfTlVabG1rUmFyS2xibHhOSFRPNk9PTDlyeWRhYTJhU2QtZVI1Y1paNUVBNjlscnF4ZUVieUxUSm80X05BcWRFaWY0MldadURYUUVRaTJvYVVCRXA4?oc=5",
@@ -5415,12 +5421,6 @@
     "source": "Fox Business",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0takdYNXZEMkRVQTRnbTkyRWtRM0hOejRtQ2xOaTVxZW9DQmJTSEl5anFrNUNLby14enVPZG94Tk1teFhjbjl5OE1Lc2g2THRRSE9qaml5VDJoVjA?oc=5",
     "at": "2026-11-13T22:09:52.000Z"
-   },
-   {
-    "title": "Mortgage rates hit a 7-week low. This is the No. 1 lender of November 2026",
-    "source": "MarketWatch",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVmlnZUEyNWVTSzdFVFROTDAtME4xenFUZlROSHpyYzB5SU1fZ3dOQU9SVlgzRnMtbzJEN3pONGNxYzhLbWpfaEdkZ3I3UWNKMG5vS2gyLVQwSFo1N3RtaHQzejVubGVDSTRMM3dVRW9ab3lRaFZ3NklTZWY4aEVZUmtURFFpblltajdLb0hEaEtQSTNPQjNzOGYyMXRFMWJnX2podlZRNURnMGkxT2RHMnp0clVTUQ?oc=5",
-    "at": "2026-11-13T18:05:00.000Z"
    }
   ],
   "inflation": [
@@ -5433,10 +5433,10 @@
     "desc": "As inflation seeps deeper into the U.S. economy, the Federal Reserve may have to step up the pace of rate hikes, according to Wall Street analysts."
    },
    {
-    "title": "The Inflation Fight May Be About to Turn Painful",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM0taZlpLMjZNSHV5LVZIWktScXlHVHB3Ri1SMElOR3UycjRibjRfTUM1Y05nQW1SYkljelpjVkdkaGFXRVQyeHVpZTB1T1h1SWQwNHRPTUlTTUJFS0tFVHR1R0c5M1ZLWWlxYmN0aEVqSzZRYkROWlhqTEo2Q2daZEZ2S1lwaDAwRV9lU1lGcEgyM00yOTZBVW9MYw?oc=5",
-    "at": "2026-11-14T17:03:39.000Z"
+    "title": "A rapid interest rate rise seems inevitable – and UK households are expected to pick up the tab",
+    "source": "The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZWg2eXA2U2I2QTRzRWFjcVV2X1hQaURhamh1aGJId3lGUWRRUkZySEdHWm5TOUdxOW5lZ3VISVZGTmxBTERqNjlxLTVqVXlaRkdxNzJSYTBoNlJWeFNzeFI4Sld4d2R5NkZuWmhHdUR2MWF1RGN6UG1sbkR6VC11NFViWUxpbHg0X1R0aHp3eVJ4WnpRdVlKUG5NMEVERmNL?oc=5",
+    "at": "2026-11-14T16:55:00.000Z"
    },
    {
     "title": "Boston Fed’s Collins Backs Gradual Rate Increases as Inflation Broadens",
@@ -5451,10 +5451,10 @@
     "at": "2026-11-14T16:02:41.000Z"
    },
    {
-    "title": "BoE's Greene says acting proactively now on inflation would 'screw' things up the least",
-    "source": "Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM0szVHlEQVpiTXpBWkZXclIxQ0ZXaDdjQnhSdlZVdUt1N0ZXUjdLaXo5a3Y2TG10a3p5d2w0czgwSGcxTjl6a2ZnR0Znd0hrc0dDajZDV21ZX2tDcnRScUswd29RWlFRSl9PNTJjRzVRd2JyT0Z5NHp4ZWhSdDg2b2d1Z1RmNTJMLWZKM0g4NE4xYTlIYzYxNTR2V0NoWE5wenhxXzM0UzBBQXhCV0RaMTdXQXJKeThRTHItZU9kZWpQT0F6cVdZMWl3?oc=5",
-    "at": "2026-11-14T12:58:19.000Z"
+    "title": "China Producer Inflation Accelerates to Over Four-Year High",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcm1tR2Voci0zUnpsNlVhbzdXQ19DNDB3anhvdU9HZGRtYjE0akY0b0VHZi0xUndnYTkxOExkOHUyTmxHNnJMZzFldjRDRXFxNDE1S2ZZX014aWhxdFFqR1ExbGFEV0FDNHBuMElPOVNwZjYwY20ydlJna2hoN3N5OTJEbGRJbmxwOXZFZWdzMjd6UklTZTRabVBiNkE?oc=5",
+    "at": "2026-11-14T15:01:26.000Z"
    },
    {
     "title": "Falling gas prices, tax rates and tech CEOs: FP Video Examines",
@@ -5477,54 +5477,52 @@
   ],
   "jobs": [
    {
-    "title": "Medicare at age 50? What ‘Medicare for more’ could mean for American workers.",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
-    "at": "2026-11-14T17:50:00.000Z",
-    "image": "https://images.mktw.net/im-17509627",
-    "desc": "It’s not “Medicare for All,” but a new bill would lower the Medicare age to 50, expanding coverage for 60 million adults"
+    "title": "A slowing economy could mean higher youth unemployment, economist warns",
+    "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVVZGcTd2OWhwdnFBM3BFYkU0MkJIcFY0ZTlvVzFkNWNIeVRwU185NjlXZUVwSEZwRkozYkVNVFBqTnNhR2FGWkozX0Q1RVUwVmcxTHcyRy1DUXlEVzRkZndmNVB2cmxxZkZObDZmWU1zWnZrYVg2cTV1R3pXVEhPMi1HTXg4cjVJZ0V5SXU1V3liQVkwUlgtOE84clVaQQ?oc=5",
+    "at": "2026-11-14T21:18:23.000Z"
    },
    {
-    "title": "Himachal reels under high youth unemployment, second-highest in country",
-    "source": "The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORXo0MEZXNzExeTBULTE0RE9FY0tzODBaSTdqRkRPWkxSVXBPQmpXTWZaUmNsT1lYSzYtbVkzeXBJX2E2cURsalJtbjR4b3lGOTgzRnJHTkZkaVNhdG55T3NrSDFXaWk2Z085MG5kM0VMblY2MUxGY09RQ292U19lQXpqQS1UcmZ1ZXB1bkV0LTRtNDl0VkRxY0h6VmZUWmJjbm01TTR0QXg4dkZrZk9UalRaeGc2clRDNVV1RVZRWVg1ZEJsVVRMYWh0aDM2bU43R04ybjNkNm9QeFZZcUprcFZ30gHnAUFVX3lxTFBUbEFkUV9FbFFMZGNBV0ItZklsRkJ1aVo5MlhuU2tTQXY0OXlIcHZIMGxIRmdrekNXcU01ZWNCa0pjaDlvWUlwT29SZEktN0NDMXRscVJ5Y05QTFg5bW5GOUtHTm8tRWZEb0p4YXZlRlY4X2R4LThReTh4NC1GRDEwVHlvc2ZOQU9Pc2JRUXFYZnppbVBsRGhKa09UcXUzQlhfN3hmakpYTWJQdUxQTUtJSGNuVUMyV0VTak5DT21XTFk5MzJPaUVLcnRWRndFYUhPSFRaOUhyV1Z4QkVvdjJ6U2Q3cXZ5TQ?oc=5",
-    "at": "2026-11-14T17:37:00.000Z"
+    "title": "Jobs market to hold steady as economists eye ‘early signs’ of layoffs",
+    "source": "Capital Brief",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSk1DODhIaUZzaENOU1RtMGJnSllhTmhBeE9zY1dSQjlQTWNDS1FxZ1c2MGJJaTNQM2pnYVRqLWpERk9FdTVEQmtnY3hkbXc0OEJBT2N0ZFpJc0laNG1GaVdKUVJ6UU81V2toR0M5aEI5NHN0d01yM2o2Q1JTbXc4aUNnQWJ4a3o0bGtTYWRnbV92T1o4SzNFSHpFcFBaNFN2YTRzWkt2WVZncEtMNUp4MElJWG8zVG51eTBoRlpaYWYtbTN0UTBtV1hyYlUwWHZzRmxNeVJFem5lcUU?oc=5",
+    "at": "2026-11-14T21:00:00.000Z"
    },
    {
-    "title": "Personal Finance: Jobs report confirms stable labor market",
-    "source": "Chattanooga Times Free Press",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQXzRyRkJkd2VldGNnbmdxYzFWejRKejBtZnh4ajlzRDVpc3M5RlAzSnZWMXI2SXpnVVU5YXUtS3NPaldkeHV6VFZaX2pCYmxELUtVQndVQU84b01oY1p0RTlpOFBObnFQdEVlOWI5TkpzRG9hOXZQQjJlOEo5UHRqSExvekVpZjN4TnFyYnVNNHdabW8?oc=5",
-    "at": "2026-11-14T17:00:00.000Z"
+    "title": "Russian big business is preparing for mass layoffs",
+    "source": "UA.NEWS",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQelpSU1VNblZyRjVnMFphMU5tNlphLXNObUN4VHZaM1lkNnMwRXdlTXREX19ucUptNGc0dFZPNWJ1bXg5cWFBT2lpR0J1Nm5MTldoalB1TUtPTzVZUzJfcXpZRlYtM2NZaWIxYUxGX1lfN3NkRjVNSGpBXzVCbzEwYWpVdnRsX3c?oc=5",
+    "at": "2026-11-14T20:54:52.000Z"
    },
    {
-    "title": "Registered unemployment in Kyrgyzstan falls 18% in January-September 2026",
-    "source": "AKIpress News Agency",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdVBKemsyMWRreUpBZDlFTTdvYk1sTUc5WDkyMDNDUjVPT2RoTFFyU3d1bVItaGN4eTJta1gxZTI4aDNDTlhKR0g5TjNULXNodVlkRUNMNWxIcC1KYm9MY1B6eGVfMlhDVjRITUNrcGtFVkNrbFNBVGZGeUlOZHZOMnVFUk05MTQzZkRuMnVFWm82UERwbV9NaHJ4TWRuNWtVbFNUeHdFcFloSWc?oc=5",
-    "at": "2026-11-14T12:55:00.000Z"
+    "title": "AIP questions govt over youth unemployment in J&K",
+    "source": "Rising Kashmir",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRGZ0VUZrbTZid09mMGh1M3gyYWU5M1pmLUJmSXp4QjdqRmt2M3d0cGhpaUw5ZjdLMHZrc1FJcFdyQVJ1SENZbHdURFlPekRkcDBQRDV1VENkdzMxQnU4QlE4aXoyRmNibkc3cUxVRzJfem1TRUhvT0RBMS1BX2xHNl8yX1ljQ2l0ZlQ5ZzZ6cUtHY1JRa0RMWHpfUW81QjhBU0VB?oc=5",
+    "at": "2026-11-14T19:53:37.000Z"
    },
    {
-    "title": "Longtime Rowan County plant to close, layoffs loom as parent company exits metering business",
-    "source": "Yahoo",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMW1QMGluUV9VMUF2UWlQNm9IRXI4aXF2TWZJTzRNbWxFOHRPdmtQdTI3WjM5X29XOHY0S2JnenZFXzlBRHNldERqcE9YdmlyZjlfVEY3MzAxUkdVQVRtX0ZSMWhUcG1zVGItX3E0c2ZwdkNXYjd6dVdlX3kwUkxrM2plV1N6aVAtRkphVTY1enE?oc=5",
-    "at": "2026-11-14T12:41:03.000Z"
+    "title": "ServiceNow spends $211 million on acquired talent while layoffs continue",
+    "source": "www.calcalistech.com",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWd0hKNDBmeWtnQTVtRXd5YWdCcm5jako5dUxZemdjak44cHZldjVYYjFBaFFSclJwdUlhZ1FKODk3LWlCcWN4eERacHpYU0c1Q2JkSl9SZVFPdlRGbXlCRjhjTGdWaFE?oc=5",
+    "at": "2026-11-14T19:50:00.000Z"
    },
    {
-    "title": "With trona workers facing layoffs, union opposes pending $13 million state grant",
-    "source": "WyomingNews.com",
-    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPV21qZ1VmRDFjdC1LRFNMdVo2cjhsSG8wendiZEpWelRWRFcyY0xab0x6QW1nZWxFeHpwS3B1V1pyeUV3MlFGOU1FN01DTUVHaHhJWDA1SWo0WkVQMG81djJtUzNtZGo1ZktrNkhoWGdtUTFvZ2hEZkhvLWpORklxd1NTOFZZTWQ3VUY2MTdwM2tkdWdfVEFMbVVsWG5xbWdreXJCQkhYN0pIeU9vTGk0cjE5TTE3OS12Z3lZSkpmQm9BSlZXRTNPWWtQVHJiM2VOT2VHVzlRWDlGRjIzaGFkWE96bERrSmZZQ1Uzd0N5SHY0NTJ2d2lZX1BYT0YxZC1DZ215UlMxaDBxdw?oc=5",
-    "at": "2026-11-14T12:00:00.000Z"
+    "title": "Tech Layoffs Hit 206,817 as AI Spend Estimate Nears $700B",
+    "source": "shattered.io",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNEU4WTZmdmx0RVE3YzBOTG5DbGgxcnppSzlpVVhMUks4eXdBUFJsdDJiVFFSRXZScWFNN1dROS1xSWsyRHZHekxuMDJKS1hHc1l0LUhGNHVnQzh5dllxbGxSSm9sUmxNUDZkY1dNUURScGZMVUZDc25uRk5STGNMRjhZN2h5Tk1haTA2RVphaw?oc=5",
+    "at": "2026-11-14T19:19:24.000Z"
    },
    {
-    "title": "Full-Time TikTok Shop, UGC Roles More Than Doubled Their Share of Marketing Hiring Since 2023, Report Finds",
-    "source": "Net Influencer",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTU52Z1hCMHpPVFd6YmdiNEVNaWpQUlhBOGV2bHllV3lCdmhWRFdsTnE5TGFaeURJTGJqRjlXaGpTQVpldXNJTVlYMzQ0cFp4WnpyTDhBcnl0dkNuMWZmSG9NNVFMZVZIeFY5a2dmcVpDNkRhV2Y4OXpEWW1rUXpETERDUEdXWG9aZ2ttNG5kSmlTRVA1WGZybWR6ZF9hTjEyNlgzWHprNjlINmRBZWJfTU5sTU5UWC1Zd21UV204WnVDVUM1?oc=5",
-    "at": "2026-11-14T11:00:00.000Z"
+    "title": "Connections or companies | Who’s to blame for the stagnant job market?",
+    "source": "Kansas State Collegian",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ1NoRkJ4c2tIT2puRnpqaGV0aFNhaWFSWHhOZHZMS0hzSjkxWnBlNU1uck5JbnJiaHdYY2VDQzB6RWNhZlJJbFNtM0xraTR5aFJwUjdZbEEzT0RsWHY5SFFOeG1Db1VxcFhwb3RoeC0tSjF4LXlRa3NxYUNZOWVySXM3aEs3dkRWMFkzWFpXUkNNU2hrbjQycEwxWVhFVWRsTlJaLUZHVlZEdw?oc=5",
+    "at": "2026-11-14T18:38:22.000Z"
    },
    {
-    "title": "Layoffs, closures tracker: Presbyterian to lay off 135 workers",
-    "source": "Modern Healthcare",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWEFkRExCUzBmZVlxZ0tYWXlBd2hyVW8zc3QteWxMaWdHWlVrM2hQaXpOTjhGYkszRW81cnB1eWJtaDBsNEhscTY5TnVubnN3S3EzN190aFFtVU95Mm5tMVRaOGprdTAxWVh4RTN0QzN4TTdGLXlUNFF2cC1GZUt2VnhCNzhUOEVpTzhoMFBIbExxbzVmc0MyYXZLUmw?oc=5",
-    "at": "2026-11-14T08:48:41.000Z"
+    "title": "Tech Companies Cut More Than 206,000 Jobs This Year While Pouring An Estimated $700 Billion Into AI Infrastructure",
+    "source": "Latin Times",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GRUpnNDlFSjVpSXdMaEliWmgxNXBPQUVTS0xnSXBHeS13VGZSM29Nd0ZkOVJHQXpiOXdldVNaQU5VblRURlNDdVpoR1h2UzkwZmtLVVFwdDZhcFpIOFlnX0RTOU5ULUxac2pzTWh3SEo?oc=5",
+    "at": "2026-11-14T18:35:56.000Z"
    }
   ],
   "debt": [
@@ -5563,12 +5561,6 @@
     "source": "CNBC",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iVEhaNGZvZDlvWlBGMldrUE5jUlVpUXp2d0YwdEFzZU5ScmVUOTk0ZDdORVhuMjhvRWZTWVQtR0JXWUlWVWVGVHlfOG4wdWZiZVVQNGZXTzByQ2tCRU5LQmFGajY3VDdtVnZIam9MSdIBdEFVX3lxTE1HYkdxR2dlMXVleXNjckE4Nm4xS1JNU1lQMC1JMGtkQ1FwRU0zWXNsSU45UnpYRjNqeVZkZEVwbmxZYmdnLTlfQkVNRW9iV210ZWtPYjdvRGVUc0ZDSDFMNy1FY2JiLTVjTlJ2eEc1VUxpbGZu?oc=5",
     "at": "2026-11-13T08:43:24.000Z"
-   },
-   {
-    "title": "Treasury Selloff Accelerates, European Bonds Follow Suit",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc0VSTVFyMVRIR1EtM1J2eWU0MW45b3BmWVMwTWRwbmQzcmhvVlBuTEFQNWowTEI2SUd2cngzbmZ3VXMwYTVxc2NaSTg0WnZ4VndDaHVGNWZGcFcxN1NOUWsyMHd2RTJVNjJqZ2JiQy1XRDNpM2VGRFpiX1RVaTBnM01FSTVLUXJOYkFSRnhKaFBhNzZfUUZsZGJTWlBZbjRxV29UR0k5NVJ5U3ZVdXpYZ2NLeVlKb2ZC?oc=5",
-    "at": "2026-11-12T20:53:00.000Z"
    }
   ]
  }
