@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T19:44:24.077Z",
+ "updated": "2026-11-14T06:26:22.186Z",
  "ticker": [
   {
    "name": "Mortgage, 30-yr",
@@ -31,10 +31,10 @@
   },
   {
    "name": "10-yr Treasury",
-   "value": "4.98%",
+   "value": "5.10%",
    "dir": "up",
-   "asOf": "2026-11-10",
-   "when": "Nov 10"
+   "asOf": "2026-11-12",
+   "when": "Nov 12"
   }
  ],
  "videos": [
@@ -4722,114 +4722,114 @@
     },
     {
      "name": "10-year Treasury yield",
-     "value": "4.98%",
-     "when": "Nov 10",
-     "asOf": "2026-11-10",
-     "change": "+0.85 pts vs. a year ago",
+     "value": "5.10%",
+     "when": "Nov 12",
+     "asOf": "2026-11-12",
+     "change": "+1.02 pts vs. a year ago",
      "dir": "up",
      "tone": "bad",
      "spark": [
+      4.43,
+      4.39,
       4.3,
-      4.42,
-      4.27,
-      4.23,
-      4.22,
-      4.4,
-      4.59,
-      4.57,
-      4.68,
-      4.61,
-      4.63,
-      4.58,
-      4.49,
-      4.47,
-      4.4,
-      4.16,
-      4.22,
-      4.31,
-      4.34,
-      4.23,
-      4.15,
-      4.38,
-      4.41,
       4.19,
+      4.26,
+      4.5,
+      4.58,
+      4.6,
+      4.77,
+      4.61,
+      4.53,
+      4.54,
+      4.51,
+      4.55,
       4.3,
-      4.49,
-      4.48,
-      4.47,
-      4.37,
-      4.41,
-      4.38,
+      4.22,
+      4.28,
+      4.29,
+      4.31,
+      4.17,
       4.26,
       4.35,
-      4.43,
-      4.44,
       4.4,
-      4.23,
-      4.27,
-      4.33,
-      4.26,
-      4.23,
-      4.05,
-      4.05,
-      4.15,
-      4.15,
-      4.18,
-      4.03,
-      3.98,
-      3.99,
-      4.1,
-      4.08,
-      4.13,
-      4,
-      4.11,
-      4.14,
-      4.12,
-      4.14,
       4.17,
-      4.19,
-      4.3,
-      4.24,
-      4.28,
-      4.16,
-      4.09,
-      4.05,
-      4.09,
-      4.21,
       4.26,
-      4.33,
-      4.33,
-      4.29,
-      4.29,
-      4.3,
-      4.42,
+      4.53,
+      4.58,
+      4.43,
+      4.4,
       4.36,
-      4.46,
+      4.38,
+      4.29,
+      4.4,
+      4.43,
+      4.38,
+      4.42,
+      4.22,
+      4.27,
+      4.34,
+      4.28,
+      4.28,
+      4.08,
+      4.04,
+      4.12,
+      4.16,
+      4.14,
+      4.05,
+      3.97,
+      4.08,
+      4.17,
+      4.11,
+      4.1,
+      4.02,
+      4.14,
+      4.19,
+      4.16,
+      4.12,
+      4.18,
+      4.18,
+      4.26,
+      4.26,
+      4.29,
+      4.18,
+      4.08,
+      4.02,
+      4.13,
+      4.27,
+      4.25,
+      4.42,
+      4.31,
+      4.29,
+      4.32,
+      4.34,
+      4.4,
+      4.41,
+      4.47,
       4.57,
       4.45,
-      4.47,
-      4.45,
-      4.46,
-      4.38,
+      4.55,
       4.48,
-      4.62,
-      4.6,
-      4.65,
+      4.51,
+      4.38,
+      4.55,
+      4.58,
+      4.63,
+      4.61,
+      4.63,
       4.7,
-      4.72,
-      4.72,
-      4.7,
-      4.75,
-      4.8,
-      5,
+      4.71,
+      4.64,
+      4.79,
+      4.83,
+      5.01,
+      5.11,
+      5.29,
+      5.28,
+      5.1,
       4.96,
-      5.26,
-      5.27,
-      5.19,
-      5.13,
-      5.05,
-      4.9,
-      4.98
+      4.98,
+      4.84,
+      5.1
      ],
      "source": "Federal Reserve"
     }
@@ -5271,12 +5271,20 @@
  "news": {
   "top": [
    {
-    "title": "Budget airlines are going upscale with first-class seats and faster wifi",
+    "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
-    "at": "2026-11-13T19:40:00.000Z",
-    "image": "https://images.mktw.net/im-04466235",
-    "desc": "Forget no-frills: Frontier and JetBlue are chasing luxury flyers, and Wall Street is buying in."
+    "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+    "at": "2026-11-13T23:12:00.000Z",
+    "image": "https://images.mktw.net/im-49247042",
+    "desc": "There is already a demographic ‘run’ on Social Security."
+   },
+   {
+    "title": "Never bought Nvidia stock? Its slide could still hit your 401(k).",
+    "source": "CBS News",
+    "link": "https://www.cbsnews.com/news/nvidia-stock-slide-401k-index-funds/",
+    "at": "2026-11-13T21:32:01.000Z",
+    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/13/e3cd870c-a43f-45dc-be5a-4045e4b60d41/thumbnail/1200x630/832cf0d0dd0e95c512fa1af0da6e461b/gettyimages-2304264971.jpg",
+    "desc": "Millions of Americans are exposed to Nvidia shares through their retirement plans. That's not as bad as it sounds (really!)."
    },
    {
     "title": "Home sales hit 16-year low in October amid soaring mortgage rates",
@@ -5303,12 +5311,20 @@
     "desc": "Nvidia’s ousted leader was a unique rhetorical and financial booster for investments that are driving economic growth."
    },
    {
-    "title": "Medicare at age 50? What ‘Medicare for more’ could mean for American workers.",
+    "title": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
-    "at": "2026-11-13T19:26:00.000Z",
-    "image": "https://images.mktw.net/im-17509627",
-    "desc": "It’s not “Medicare for All,” but a new bill would lower the Medicare age to 50, expanding coverage for 60 million adults"
+    "link": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
+    "at": "2026-11-13T22:04:00.000Z",
+    "image": "https://images.mktw.net/im-74466420",
+    "desc": "It’s official: the world is expected to soon have more oil than it needs for the first time since the Iran war began in February. But more oil doesn’t automatically lead to lower diesel prices."
+   },
+   {
+    "title": "Family Dollar to pay $63M after FTC says it overcharged customers",
+    "source": "CBS News",
+    "link": "https://www.cbsnews.com/news/family-dollar-stores-price-transparency-settlement/",
+    "at": "2026-11-13T20:57:42.000Z",
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/13/140a983a-4db2-42da-8ed0-036289b08a0b/thumbnail/1200x630/4ff54a8df1934a4fcaeed89d918ffb92/gettyimages-2071873164.jpg",
+    "desc": "The discount retailer failed to honor prices displayed on store shelves, on price tags and in ads, the FTC and multiple states alleged."
    },
    {
     "title": "Global oil supply returns to surplus for first time since start of Iran war, says IEA",
@@ -5335,36 +5351,20 @@
     "desc": "Voter backlash could threaten the data center boom. Some economists think that could be a good thing."
    },
    {
-    "title": "Washington’s efforts to block Beijing’s access to Nvidia chips could spark a ‘short-lived U.S.-China trade war’ that rattles markets",
+    "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/washingtons-efforts-to-block-beijings-access-to-nvidia-chips-could-spark-a-short-lived-u-s-china-trade-war-that-rattles-markets-83078d84?mod=mw_rss_topstories",
-    "at": "2026-11-13T19:19:00.000Z",
-    "image": "https://images.mktw.net/im-76010631",
-    "desc": "Meanwhile, top officials from Nvidia and the Commerce Department face a series of congressional hearings next month."
+    "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+    "at": "2026-11-13T22:00:00.000Z",
+    "image": "https://images.mktw.net/im-61252759",
+    "desc": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”"
    },
    {
-    "title": "Democrats’ US election sweep brings the price of their promised social contract into focus",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/11/democrats-election-medicaid-costs",
-    "at": "2026-11-11T11:00:46.000Z",
-    "image": "https://i.guim.co.uk/img/media/07a0f439eb97562ba66c202a2de731facf252107/569_0_5465_4372/master/5465.jpg?width=700&quality=85&auto=format&fit=max&s=e3bc285be1a14407736f0d58c08b0ae6",
-    "desc": "‘The post-election wish list is about to run into harsh fiscal reality: there is no money’ Is this an opportunity for a new America? As the Reagan revolution four decades ago launched US society down the path to low taxe"
-   },
-   {
-    "title": "UK economy expands 0.7% in third quarter as AI provides 'extra engine of growth'",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/12/uk-gdp-third-quarter-2026.html",
-    "at": "2026-11-12T08:02:15.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108337711-1784611875869-gettyimages-2286321572-3b9a0914.jpeg?v=1784611922&w=1920&h=1080",
-    "desc": "The U.K. economy grew 0.7% in the third quarter of the year, in line with estimates."
-   },
-   {
-    "title": "Lebanon Faces Economic ‘Catastrophe’ After War and Years of Mismanagement",
-    "source": "The New York Times",
-    "link": "https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html",
-    "at": "2026-11-11T09:31:18.000Z",
-    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-lebanon-economy-01-vlbp/11int-lebanon-economy-01-vlbp-mediumSquareAt3X.jpg",
-    "desc": "Hezbollah’s conflict with Israel and the U.S.-Israel war with Iran have made systemic problems worse, causing the cost of living to soar and driving many Lebanese to despair."
+    "title": "Inflation isn't going away. Here's what that means for interest rates.",
+    "source": "CBS News",
+    "link": "https://www.cbsnews.com/news/interest-rates-federal-reserve-inflation/",
+    "at": "2026-11-13T20:19:31.000Z",
+    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/13/08a13be7-41af-4113-a104-0a836b2e38d1/thumbnail/1200x630/f6072399f5313e69d6671ffd1d903653/gettyimages-2165462299.jpg",
+    "desc": "As inflation seeps deeper into the U.S. economy, the Federal Reserve may have to step up the pace of rate hikes, according to Wall Street analysts."
    }
   ],
   "housing": [
@@ -5393,12 +5393,10 @@
     "desc": "After falling for a month, mortgage rates jumped sharply higher on a hotter-than-expected inflation report."
    },
    {
-    "title": "Homeowners tap equity as HELOC balances post biggest jump since 2005: New York Fed report",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/10/heloc-balances-new-york-fed.html",
-    "at": "2026-11-10T21:37:43.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108548197-1794327735144-gettyimages-2221889482-donedsc04430retocada.jpeg?v=1794327820&w=1920&h=1080",
-    "desc": "The rise in balances on HELOCs marks the 18th consecutive quarterly increase, according to a new report from the Federal Reserve Bank of New York."
+    "title": "Bilt CEO highlights housing market pressures and AI innovation",
+    "source": "Fox Business",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0takdYNXZEMkRVQTRnbTkyRWtRM0hOejRtQ2xOaTVxZW9DQmJTSEl5anFrNUNLby14enVPZG94Tk1teFhjbjl5OE1Lc2g2THRRSE9qaml5VDJoVjA?oc=5",
+    "at": "2026-11-13T22:09:52.000Z"
    },
    {
     "title": "Mortgage rates hit a 7-week low. This is the No. 1 lender of November 2026",
@@ -5427,116 +5425,112 @@
   ],
   "inflation": [
    {
-    "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
-    "at": "2026-11-10T23:53:58.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108414079-1794318539817-108414079-1792067685758-gettyimages-2275677175-l1081559_c7svuif5.jpg?v=1794318549&w=1920&h=1080",
-    "desc": "The report comes at a critical juncture for the Federal Reserve as it considers its next move regarding interest rates."
-   },
-   {
-    "title": "Fed likely to need to raise rates amid worsening inflation: Daly",
-    "source": "Reuters",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaHBuM0FNRHlsWlNrX090Q3F6R2VZUTFYRkF3bFZwbDNQMUwxZXpiYmROVUJWWTVKZHRoOExqUkxpcktRYUZodDVncmNVSEdIMDktTDYxMXlWM1hvdXVKRmVfMmtvbTBUd1MyWkxFR3RqTlNJNVk1WFNtc2pnQ0w4QjRTdjlmcFdPUkVUZFVndGdCRWRPMEw3cFZHcjBlc3lhdDY2Vw?oc=5",
-    "at": "2026-11-13T18:48:40.000Z"
-   },
-   {
-    "title": "‘People are chucking stuff like gold and Bitcoin’ as rising inflation leads investors to seek yield",
-    "source": "Fortune",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVDFwLXU1QjZxajVKVGFyYW1CX3Q4WldOTzFOQ1JZNElTRmRFeGRuY3N0Q0xnck9ING9hMUd4YnJDeGsyeHlhYWFYRFY5UHZQdW0tMTFMbHhiZVc0TXRha253TV9SSzNjV0JTU3JldnhiYVNuck5sN19ZeUItMGprZnpCX211a1AxTkVVQlR4MFREbkJ1a2pqVg?oc=5",
-    "at": "2026-11-13T18:37:00.000Z"
-   },
-   {
-    "title": "U.S. Stocks Fall as Nvidia Shares Slide Again",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcEdLelU4VXpMTmdPeTgxTjBhZkd3NEIyZDg5ZnZCWXdtVnVFd3Fxbm95Z2ZfbkNZRnh2WVppWUhnR0pvZXZsRHdEaWdkaEJ1emVweFpFbG9WUTBPV3B1UktyeVNodWY0SXBtOGNUbXZQWXcyRmNWUnRGR21vYWt0WmxraHFsZ2haSGRCdHZacG1uTkpMTTlNQUpsNEFSRUY4Z2MzaUZn?oc=5",
-    "at": "2026-11-13T18:22:30.000Z"
-   },
-   {
-    "title": "The Fed chief said AI would tame inflation. His colleagues disagree.",
-    "source": "The Washington Post",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYWx2S1gybU5lYjJCbEl5OXkyekl3YXdnd2RuWnJPQU9VODlSSnpLM1ZDeGVfT19LdEF4OThPMGZQM1NDNXloMzFGcjdmZDE4ZU90dDBuX2xsX2lUZTJjLU5HNEZCNnJJRFJQT0tmR2FwZVBXT1Q3cURtZHFTYTJtUDVOVHZESnNfWlBkZXdoT1pQXzNkYldpWklrdEZiRWxiVjJRaHNxOXpMVXhPOFR1ZERmc09uWXJEcWR1dUdKblUzQjdkTkM0?oc=5",
-    "at": "2026-11-13T18:00:00.000Z"
-   },
-   {
-    "title": "US producer prices rise moderately in October, but inflation broadens out",
-    "source": "Reuters",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTNDTVIxbVNEWDkyN3QzVk9YR2stVjFURXFqcDNXeGZ2S3FUcmhJNzJqcEp5R3JMY0dDdnl3MDEyRXVKRnB1ZGhMVHpQeTRYNnZwZDQ3UlpnTG5mR1o0akdxWDRhWDU1dm1CY2M3bFZQNHhNRHZyaUZFU1VPODZIdFJrbXBaM2UzTnRXOA?oc=5",
-    "at": "2026-11-13T17:46:45.000Z"
-   },
-   {
-    "title": "Gas prices drop below $4 a gallon in Massachusetts",
+    "title": "Inflation isn't going away. Here's what that means for interest rates.",
     "source": "CBS News",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWms0bE1IdmVkcHh5cV9taTY0MWFxVjZEOEU0bFE0ZTNILW5nYXllV3NFWjViU3FncXplak50eHJ5M0t0ejUwQjVQMElXZEhENnNIXzdJM01FcVhhRm5xU2RoMVVPb04zWGJDcnZBTnFuOHp1RnlqSmdKYTFHUDNveWNJNUliTDBaX0lJeGhJYUM?oc=5",
-    "at": "2026-11-13T17:27:00.000Z"
+    "link": "https://www.cbsnews.com/news/interest-rates-federal-reserve-inflation/",
+    "at": "2026-11-13T20:19:31.000Z",
+    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/13/08a13be7-41af-4113-a104-0a836b2e38d1/thumbnail/1200x630/f6072399f5313e69d6671ffd1d903653/gettyimages-2165462299.jpg",
+    "desc": "As inflation seeps deeper into the U.S. economy, the Federal Reserve may have to step up the pace of rate hikes, according to Wall Street analysts."
    },
    {
-    "title": "High transportation costs drive wholesale prices",
-    "source": "Axios",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xVnJVZi1HUkJCcGxsV3l1cE9oMktWMFVJazBfQkZQM3lhdlZGM1JldzZ2ZkhTSlhVY2NZQTM4ak51VUdxR20telZ5X2E4emppZXFoemRXeHBpREdGclZvOWZleEtzMGVHNWlfam9MSHd3T0pVRGlV?oc=5",
-    "at": "2026-11-13T17:19:40.000Z"
+    "title": "3 US Energy Stocks With Pricing Power as Inflation Keeps Rates Higher",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYmZVME9KYXhTLXdZaV9Xb0lGZFo0RTcwdUdqYjFjclMxMGloanFaYjc2OFhsUEpoTFNZcTd3M2VGRWlrb1ZUQ2hZMnNDM2wyV2NYYS1WV01YaEY2RmFGNHBqMDlzZjBaSGNROUZvMzJ3Z1FaNjhhLWJXSU8wZk4zQjlKMThoMmdNWDFz?oc=5",
+    "at": "2026-11-14T05:33:53.000Z"
+   },
+   {
+    "title": "BoE chief economist says further rate rises needed to combat inflation",
+    "source": "Financial Times",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeTJBZmNHSzM3d2RiV3RfdWVIaGdWbXc3YS05LWRUUENvMmVaakRlSXBndzNEd1lqbHJjSUk4Um1nTFRraXBqLUVWVHA4SUlBSXVLZHBBUGJlZmNnejc0aXM5alNITDdxZnUyb3FvV3ZiNXg2dGltSWFZT241WDAtV050WTE?oc=5",
+    "at": "2026-11-14T05:02:24.000Z"
+   },
+   {
+    "title": "US Fintech Weekly: Coinbase Secures Federal Trust Charter, While Hot CPI Pressures Rate-Sensitive Lenders",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQajNlaF9KRlNpcGRESWpOdV9JWmFkY1dnN0dodktHb2R5SjVoQWx2SkpGM25CRDJtY2psN3JrME5KTk01Uk9USTk5aGVWVDZ1V1lCYnJlS3BJMVl5akRCcWYtY1RSSE00QXJFX1hjMHVvV1ItNHpKTFZua0hmRHpPRUpkS3hYOTlLeVJhUFlnbVcwWUlDV2N1VTc1UTJSUWdU?oc=5",
+    "at": "2026-11-14T01:33:00.000Z"
+   },
+   {
+    "title": "The Next Wave of Food Inflation Is Coming",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGtfSTVyazhhZjA4UEJWRVFWTlJWV0dUREtpa3pndDRsN0cyQkFiQjBpVFJ2UHFtbXA5MTMwZTFCQUhENld5QUpiV1c1ZmM5My1HNWFvYk1oOUM4ZmNXZFZCVkJRejNkbmRJTS1UbDJwV1pJd3VOd2k4d0VPNW1Rd1RTTFV4ZEluN1dsYVg4b3NjQQ?oc=5",
+    "at": "2026-11-14T01:00:00.000Z"
+   },
+   {
+    "title": "3 US Cash Yield Stocks Retail Investors Are Watching After The Inflation Surprise",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU3QteVk1bjdzdzZldEpveFZjbGxVb3drcUxodXVwY2xoeVFpdUhodFJhMmJZOTU5SS14S0g1R0E1TzEyMXpMMW9aN1Vab2xDWmIyX04zZElreWpBRzJzZG9wbkhqdDdNcEp3RG1wVUlha1oyNHJhMGQySmhqRUx2dlVUMHYyXzVuOUdHenkyMXI?oc=5",
+    "at": "2026-11-14T00:23:00.000Z"
+   },
+   {
+    "title": "Fed's Jefferson says he is taking his policy cues from inflation",
+    "source": "Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZW1TY0lTUklmN2JmVC0zMm5qMUdfOUFjWk43S1NTS1RpcGx1Ni0tWkJCX1NXWDg1cHdzazZsQUZlREpWRkl2UER3S2t0TjFON1lXeTNNLXA4SXZYYjFjbXh0SnJzcXFGV2FPZkhoc1dNc1ZhUXNTRjdmX3R2SUR0ZlZwcHlnT2F2ZzdLdnNkQ1I5Sy1tRmVGTS1GTEpUTmRTWVlkYXRR?oc=5",
+    "at": "2026-11-14T00:03:00.000Z"
+   },
+   {
+    "title": "Massachusetts gas prices drop below $4 a gallon for the first time since July",
+    "source": "CBS News",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVEJDRFI1U1NnV0JVcGQyc0pRRUdvMVpfUHp6SWF4SklqSXNBMzc2R0IwSUNobE9fTE1aNGlqV3pkUERzd2NZMlJnd3A0QkVQcHRYVEROVmdoM1g3VmdRQ3RzWnkyVkFXMENVWndYU19xaGRRWlVQSHI1NldTTGp1QUYyVGc3SDJweGRjTlBIOWNJTkRaXzVtYkRLN3A1VnBzaGVtNjRMVzVKaTZzcjI2SHliREE?oc=5",
+    "at": "2026-11-13T23:17:00.000Z"
    }
   ],
   "jobs": [
    {
-    "title": "Medicare at age 50? What ‘Medicare for more’ could mean for American workers.",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
-    "at": "2026-11-13T19:26:00.000Z",
-    "image": "https://images.mktw.net/im-17509627",
-    "desc": "It’s not “Medicare for All,” but a new bill would lower the Medicare age to 50, expanding coverage for 60 million adults"
-   },
-   {
     "title": "The US Job Market Narrative Shifts Toward Inflationary Risks",
     "source": "Bloomberg.com",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUjU4Rkxkc2Y1a19LZy1GRW9Yb3BDblM4Um1Vd2tqVmc2RHgxaVRRZzlVemJkVzlLWXRLc0swbVFsWEkzbzZVM2hJYWpDVC1Yb3Utb25zWHhKWUpXTy0xN1VTYkNHU3pBRURzVWdGNlpEVnpmRl9wVlFUS3FBMFdRVG5oeGJ1TTZLMjlrOXFpUVU5aG5LUlRPcElEY3ZTd2xqU0htWlpiYWd6enc4dkNad3VFVVI?oc=5",
-    "at": "2026-11-13T19:31:08.000Z"
+    "at": "2026-11-14T06:01:08.000Z"
    },
    {
-    "title": "Microsoft outage happening after massive layoffs is ‘incredibly concerning’: tech analyst",
-    "source": "CTV News",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYUlVNGZOSE9yUWlYVHJPeG53MG9XM3FkdGY4RVp1UDQ3Rkw1dWJ1a0ktX2NZX1lHUGJvUi1FWnk4SmZWbUFCS1VMVDg3ZDhVREhobE5lb3JCQzBPM01rdmNIRTJxMXZ0VS1OQTFuTEQxVWNrRmV2UmhJWG1ZNGlqWUNrNmxYbV9xNUZ3TkZXVTBjVW9IUGpIdXZVMHZtRjFLNmw2b1VWMG9YUmdtMl9jVGlHb0VVR3dOZXdlSkwtcU1WLU8zakE?oc=5",
-    "at": "2026-11-13T19:21:48.000Z"
+    "title": "Five Years Into Taliban Rule, Filmmakers in Afghanistan Battle Poverty and Unemployment",
+    "source": "8AM Media",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qbi1WWDlJZ1ZackE2RUNqRXRwZkhZWUpIUk9kSkVUTlZMNkp4b0RkRGk3dVpmb3JrdFp4bE4wQi01cFo3b2pmb0NYbXA1d2xnOHNmMGhnbTV6cVVPVGRYLW14cnc5cExqYk9RX1NNRnVHS1BRUC1paVVrcFk2Sjg?oc=5",
+    "at": "2026-11-14T05:50:35.000Z"
    },
    {
-    "title": "Microsoft’s massive outage puts its AI-driven layoffs under scrutiny",
-    "source": "Fast Company",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVnVZS3BidTV5eFVIMmpnbUtlLVNKekwyUmowcmstODhFVnNkS213VE8wcl9lY2xDUU9LVmdYR2JhaHF1cFYybThQNjZmdHMzSUpJdEpfWmE5NjRZT251bmRMRi1fUEF6NVpQU2JGenYtTml3ZmJrNVR6eVJaNDNsY1h5MENxRzBiWTh2d29sYnJ2TldEam9GbFZEclF6ZGF3eGtLNExHbw?oc=5",
-    "at": "2026-11-13T19:10:42.000Z"
+    "title": "Toledo unions learn how many members face layoffs in 2027 budget",
+    "source": "WTVG",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOXzNTN2dMTkVudEM2bkktOFhxYTZ0RTZjbXlBRUtNV2ZCNkQxRVlVbGhZTjZIWWpkdnRxUndEYUtwZHVCZUJDazVnUUFmNEZNVFcxT3N1V05QOEJCWE54RUpiT2hzZ25Oa0FCcDBKcnhYM0I2OGNZdDhOV3ZBTUc1c1NYVVF4U1dVd19BQWk2X2l2eHBEOFcyUjZYWdIBrwFBVV95cUxORHZldXZMaFIzaExFOXBpQmNRNlRMSjV0QnNoY2k1T0czWkp6dmJwYWNqZkM5MnNsV0lTaGFYbTZ4MTNrS2RlbjQ4WTdUczR4c3UwWmYxUHhMb1V3bkdIMUNaT3JRUy01cWE0LTZiOW5Pa2VhbURkYU5QS200SEdUZkVDcnZWVmZLRDlSeHMwZjJ6VEF1c1lDaFNCQUl1X1lMaE5BYWhrZndfamNUYWRN?oc=5",
+    "at": "2026-11-14T04:30:00.000Z"
    },
    {
-    "title": "Pete the Planner: Unemployment can lead to cascading challenges",
-    "source": "Indianapolis Business Journal",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcnNZazkyUkdMNlhOOUNJTGlWZnRnd1pFLVgzdlFuVTZ1RjNUbE41RW4yYUxYUDVoODZaZHNERWtBVERielFlSk5BNjFLMXo2N3hqNkxLYWxYdFpKWmlXY1JlMHFKTm94NFlQdVdRUzBqdVVOWkpGbVhtbGNYUzVlT3I4b0VDa09vUkVPejR3bER1WnlWT3c?oc=5",
-    "at": "2026-11-13T19:00:00.000Z"
+    "title": "How did unemployment in Germany affect support for the Nazi Party?",
+    "source": "Britannica",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUHQ3LVg4TEpqREtuRUctVmVuNU1Hd0hxekRIYzlOOFFSNF90eVFzMlkxQTVQQ3pMZHY1bUxXU0hCZC01MS03djA2MkNQdFNsam04VTcyRDMxZm14X09acGVob0pxRmpjeE85NzBSMTBmRFVmQlNjaE05aWVoRU9vQlpTbUc3ejJTbXBGWllOME9TWWpvQ25DVnNaSzJJVEFIcHNoTw?oc=5",
+    "at": "2026-11-14T02:54:20.000Z"
    },
    {
-    "title": "Microsoft's massive Outlook outage collides with bad optics—from layoffs and buyouts to confusing updates",
-    "source": "Fast Company",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMG9Ma3E2aGNZYTh4a1ZmVURtNHV0b05ISXNheEswU1NSZzJYSi1tYkxsNDc3QVNEeG9aXzF5X3VMYk1HV1VzWDJaOWVXeGJLZUJJWnRzekFMdEtMOTVaOWNZMWdyRXhIbFhPNy0waTNZUHVra3FnRzRJT2FuUXJ1V0lnT0pNUkY1Zy1ONnlQTEhMX1NSYzRoLXk0eUxUcmdHMHNn?oc=5",
-    "at": "2026-11-13T18:56:57.000Z"
+    "title": "Toledo police, fire unions anticipate different impacts from city layoffs",
+    "source": "Toledo Blade",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ3MtRi00UFJJVk0zMjFIRlpRcHNfUVVjNHF1UEJxSVBSTEZuVEg0UnJzTk1OVFNnbGwxbzV4azNDcFFpcGFwU0JLMDI3SDRQbGJmWWNWVk1jck1nSnhGSk9SUHlyRGFFRzMyVGlNT0FwbU8tN1g2OVJKZE9fQVprbHVZaGt3WHJjbEZNMWN0b21BcnVqd0FCUWI2VThMMExhUW5MM0FTZjBRcm56ZHNzaUlBV1I0OXFldXhoX0JPNElkQjEzLVRkaVU4QzNTTGRTRTFB?oc=5",
+    "at": "2026-11-14T02:10:25.000Z"
    },
    {
-    "title": "10 tech layoffs in 2026 and what drove the job cuts at each company",
-    "source": "qz.com",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1MamFYbjJoTWxaWkJWNEg1emRPSFptMjNpWmlJUXp0WTRzR0thSTBKSGlROUhfNEkzdWpDUUh6TmE3UEI5QVpkLW5mNldQUmYtakJ3SlA5eElYVWswV1ZDZWQ3aTBZWEh5UFZzb1l3eUVKV29kUG1uMHpyZw?oc=5",
-    "at": "2026-11-13T18:15:35.000Z"
+    "title": "Ohio Jobless Claims for Sunday, November 1, 2026, through Saturday, November 7, 2026",
+    "source": "Ohio Department of Job & Family Services (.gov)",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jSDhIRUFnbkliTGY1MnAwLWRzYTB4cW8teVVvVE05aTlGRkpvV0Y4UjQybjQ4akp0dXdrZGduMXM5bTNwcFMybFlQbW5Eb2VEcXBQbVhBaGk3aWx5?oc=5",
+    "at": "2026-11-14T00:43:52.000Z"
    },
    {
-    "title": "Microsoft Discovers AI Can’t Keep the Email Going. Workers Rejoice",
-    "source": "Bloomberg.com",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWG9QSGRuclBSN0NVcjhfaU9GM1M4dmQ5eDdWdFA1NUJocHV3TXpEVU5kZmVpVV9wemdhWXlIRHRoTHdmVkVyYUhiRElFQlB2ekNWV01xRHREWWs3bzRNRmxxdkx1bzloQVhjNEUxQmJ1b3ZGSkxYYmVWQk9rdWVDZjRCNEQyTTBXRXdQSFNHc3g5dl9GcDVfa25qTV9JNE1jR3J6Um5NYzNoSDZDZUE?oc=5",
-    "at": "2026-11-13T18:13:24.000Z"
+    "title": "Five job searches a week for unemployment is only a proposal; your state's current rule still applies",
+    "source": "Nacionale",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY2w0QU4tbm82ZlVtejFCTUhQeHZKek9Kb1VjcW5yMkhIMjZNTGp1TzFGbFh2aklpdzVKZE1yM2FNUjRRbVJhUUU4a1ZmaHhOQjlPWjhGbWVPLUVvSzF6c3NrVzBYUTA3b2ZRU3ZmUlpOa1ZDT0ctQVZPLU5GTjF3NFBHLWo2bnZpUXdRSG9LZW1Ha0lyQ2pWRHhHVUF4MDNCZFBDVy02UEROdTRhamp1MkxjNVY0bXQ5SFQw?oc=5",
+    "at": "2026-11-14T00:24:26.000Z"
+   },
+   {
+    "title": "Once-thriving manufacturing plant north of Charlotte will close and lay off 70 people",
+    "source": "Charlotte Observer",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BdzZ6WEpqTWs1SXRpMlJtXzB1NzR0VVkzckRFdXB3MmczZTZLUXpDdWRfMVVDQm1yUk40SmdLWWlYZXNUeUhwVnVyMS1WcXNHdGloU0FwdGVzc1dMd2xVUjBQV0phWnpVZjBBbzNENlN4TDdSWEHSAXZBVV95cUxPVkRBZGc2RVA0dFItcHlwREZWS0hwNXZRMFB5VGs4a29ic1lRQmQxZnEtZ3FlVmotZzlRTThtTWtSRGxvdDhLM2RsVVI3RTJ3U1pLaEpLSHBVbkpDQ3EtOFFGUEEzY2xhQkdPUG9XRTdFR3JfbGh3?oc=5",
+    "at": "2026-11-13T23:36:16.000Z"
    }
   ],
   "debt": [
    {
-    "title": "Budget airlines are going upscale with first-class seats and faster wifi",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
-    "at": "2026-11-13T19:40:00.000Z",
-    "image": "https://images.mktw.net/im-04466235",
-    "desc": "Forget no-frills: Frontier and JetBlue are chasing luxury flyers, and Wall Street is buying in."
+    "title": "AMD Sinks 9%, Marvell Down 5% as Chip Rally Reverses and Treasury Yields Hit 5%",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNS05Y2s5ZHQxNGh6WDQtUFZLZGNGSF8wbWJsbUNuMFVzRklBckRTdjNsOFdSSFFUZWlucl9WZEFuSFprZjZ2d0JjNzgtN3RDbFRHSlVWMzNyMWNzanFjSUl6c3VKckU1Z1ZPcERCcFlyT3N1aUFwckFuUGllSUJLX3NXTkhWYkNMVHU2NTBlU21LOUk?oc=5",
+    "at": "2026-11-13T22:05:40.000Z"
    },
    {
     "title": "U.S., Eurozone Bond Yields Rise",
@@ -5549,12 +5543,6 @@
     "source": "Fortune",
     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8ySkl6Z1F0UXNSUU8yQkpZdVJqSlhWZHNHYmtRQzlPUndQZmtwWUFncXpfUmcxNE9Fa0ptM2hRa29fMUVyQnh0Q2FkcVZfSV90UGxPd01mMkE2a3JYWFJHblZtX2RsNFV4LU5JTWFwV2xPazQxUFE5UA?oc=5",
     "at": "2026-11-13T16:04:00.000Z"
-   },
-   {
-    "title": "Stock Market Today: Nvidia Rebounds After Huang’s Exit as Treasury Yields Top 5%",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNXzlMTHZnaTJnNUd0aEZLZW5FZDlPb3ZZQUpOb3Utc3paUGtFX1NoQm5xVlphX1hMZ0RseUNpTEN3ejRvUnBXZFNTM3g5Vjd4LTg2YlJXZUdpRWJkVDBDLUEwNDh4UkxRVDNJV2w0SWZhOGV6a3JpQ0JWNVFLSTNhcTlDbGVnS2lKLWlEcEJqb3NITFNMaVhKeXFIMkczNXFf?oc=5",
-    "at": "2026-11-13T14:15:44.000Z"
    },
    {
     "title": "At 67, He Sees 10-Year Treasury Yields Near 5% and Considers Living on Savings. Waiting Three Years for Social Security Would Raise His Monthly Check 24% for Life",
@@ -5579,6 +5567,12 @@
     "source": "WSJ",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU0N5Skk5WEFjeFZaU2hkdnczUWd0Y2QzNEFJNFF0Mk9UdTd0LUhCRGI4aVBldGpNaDRoWFdJT0xDcldjX0p0OG5yS1lBQktuSVo3alNaTkVSNmI3WWZ2M25WSnJ4Y1BkTGEzM05NamtJYlBQSk1pdVdMNHg2MTJVd0Yxc29Xc3ZOUkFPYkJxdWQtU3BINU42NjVlSl85Z0ZG?oc=5",
     "at": "2026-11-12T16:36:21.000Z"
+   },
+   {
+    "title": "10-year Treasury yield jumps back above 5% as oil gains and more Fed rate hikes expected",
+    "source": "CNBC",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kS2N1QmprS3IzX3ZuTHRrNlBkaERHTlNMTEdzMkk3bUR3eXo5cDcyMGpiSF9xUVpPQzZHaDBZN2NrbHdFVGpmWTZ1ZXAxMXBuOHlkdzNEcEdRQU44Rm14a3llS1VOUFhPaTByWThqa9IBdEFVX3lxTE5OUnhZZGZVQnFtc2lvNXpxdE9iMDJnV3MyYU1iQmpaYnRRaVQ3aWg1LW5ReWZmR0tTeWVSWlE2ZHRXZnBwLXRMWU5VaGF2Wk9HTlhOVkcxR0lJSnZVLVFSSHR6TmJaWTZjVktaZk5WRjV5RHRX?oc=5",
+    "at": "2026-11-12T07:38:45.000Z"
    }
   ]
  }
