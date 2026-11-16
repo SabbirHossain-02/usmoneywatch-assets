@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T18:52:31.948Z",
+ "updated": "2026-11-16T06:32:43.674Z",
  "ticker": [
   {
    "name": "Mortgage, 30-yr",
@@ -5271,12 +5271,20 @@
  "news": {
   "top": [
    {
-    "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+    "title": "A big chunk of your 401(k) is likely invested in Nvidia",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-    "at": "2026-11-15T16:00:00.000Z",
-    "image": "https://images.mktw.net/im-41887542",
-    "desc": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”"
+    "link": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
+    "at": "2026-11-16T03:11:00.000Z",
+    "image": "https://images.mktw.net/im-61305338",
+    "desc": "The scandal at the computer-chip giant is exactly what’s wrong with the S&P 500."
+   },
+   {
+    "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+    "at": "2026-11-16T02:56:24.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108551661-1794785886757-gettyimages-2288262163-Stanislav-Kogiku-1440900.jpeg?v=1794787901&w=1920&h=1080",
+    "desc": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war."
    },
    {
     "title": "When the boss has an affair, the whole family business can pay the price",
@@ -5295,28 +5303,20 @@
     "desc": "Nvidia's stock tumbled following a scandal involving former CEO Jensen Huang. Meanwhile, Anthropic prepares for its IPO. Kelly O'Grady explains what you should know."
    },
    {
+    "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
+    "at": "2026-11-15T21:32:00.000Z",
+    "image": "https://images.mktw.net/im-53662543",
+    "desc": "Jensen Huang’s sudden departure has made Tuesday’s earnings call “the most important in the company’s history.”"
+   },
+   {
     "title": "Rising rents draw Wall Street money to industrial outdoor storage lot investments across the U.S.",
     "source": "CNBC",
     "link": "https://www.cnbc.com/2026/11/14/real-estate-rental-income-industrial-storage-market.html",
     "at": "2026-11-14T15:14:57.000Z",
     "image": "https://image.cnbcfm.com/api/v1/image/108549406-1794431992526-gettyimages-2228684594-dji_20250805110916_0215_d_jsenib21.jpeg?v=1794433155&w=1920&h=1080",
     "desc": "A real estate investment in markets across the U.S. called 'industrial outdoor storage' is attracting Wall Street giants including Brookfield and Blackstone."
-   },
-   {
-    "title": "Jensen Huang, Nvidia’s Ousted CEO, Was the Face of the A.I. Boom Powering the U.S. Economy",
-    "source": "The New York Times",
-    "link": "https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html",
-    "at": "2026-11-12T21:05:50.000Z",
-    "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-live-economy-mktc/12biz-nvidia-live-economy-mktc-mediumSquareAt3X.jpg",
-    "desc": "Nvidia’s ousted leader was a unique rhetorical and financial booster for investments that are driving economic growth."
-   },
-   {
-    "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
-    "at": "2026-11-15T15:00:00.000Z",
-    "image": "https://images.mktw.net/im-53662543",
-    "desc": "Jensen Huang’s sudden departure has made Tuesday’s earnings call “the most important in the company’s history.”"
    },
    {
     "title": "Home sales hit 16-year low in October amid soaring mortgage rates",
@@ -5335,20 +5335,20 @@
     "desc": "Millions of Americans are exposed to Nvidia shares through their retirement plans. That's not as bad as it sounds (really!)."
    },
    {
+    "title": "Budget airlines are going upscale with first-class seats and faster wifi",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
+    "at": "2026-11-15T21:31:00.000Z",
+    "image": "https://images.mktw.net/im-04466235",
+    "desc": "Forget no-frills: Frontier and JetBlue are chasing luxury flyers, and Wall Street is buying in."
+   },
+   {
     "title": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
     "source": "CNBC",
     "link": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
     "at": "2026-11-13T15:44:16.000Z",
     "image": "https://image.cnbcfm.com/api/v1/image/108548603-1794349961058-gettyimages-2304504735-anotherday36810201_9ykwsppz.jpeg?v=1794350087&w=1920&h=1080",
     "desc": "The producer price index was expected to increase 0.4% in October, according to the Dow Jones consensus."
-   },
-   {
-    "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-    "at": "2026-11-15T14:00:00.000Z",
-    "image": "https://images.mktw.net/im-49247042",
-    "desc": "There is already a demographic ‘run’ on Social Security."
    },
    {
     "title": "Global oil supply returns to surplus for first time since start of Iran war, says IEA",
@@ -5385,6 +5385,12 @@
     "desc": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year high US existing home sales hit a 16-year low in October as buyers were driven away by high mortgage ra"
    },
    {
+    "title": "Drop in China's new home prices narrows to 11-month low",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdFhRMWNhdXZ5M2VvWlR4OEhQZjRhTFVzVWVwZjhHQjQ3Y2hUOWxPUkpoUTFjMl9TMEJXSEM4TXdZay1KaC1yM0tHLWNfS2dnRU90SE5fbTRsMjJyaHZ1QjJxbTJSWUNHWFQwOVFDUzFIX0RKTlBqZUxHWFl2cWFOdjFkUXN0T1R3bVo4RG9pYnMtRXB3R2tOTw?oc=5",
+    "at": "2026-11-16T01:44:00.000Z"
+   },
+   {
     "title": "The typical homebuyer in 2026 is older, richer, and loves the suburbs",
     "source": "Business Insider",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWlpUNDNJTzUwSW5OM1M5TjltNTNzOURwQlhtNUpRRWRINEQxSVJJQkdYVTVobm93M2RzWENaSlVuNnRkSnh4MVJxMmxkQ0tVWHdCMUdIQ096amRHWEpWRFhobzM1anJQN3g3MHhJX0twcmwwRDg3WnJSWjV4Mld2MHlkYjZsSE0?oc=5",
@@ -5403,33 +5409,19 @@
     "at": "2026-11-14T20:45:00.000Z"
    },
    {
+    "title": "Tucson Housing Market Enters 2027 Balanced Overall but Divided by Neighborhood and Price Range",
+    "source": "USA Today",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbWVVVkVDQi1UcVNDeWVLUnZQZWhHN2FrU09HQUdnSTR2cU9yeFlIcFhKNlJTMWh6ZzU4eWtkYUJxazIzakt1aXUxdUhOUll6SUVxdEkxR2lpODFnc1dBT0pZNV9BQVFEYXJwcEhLU3FSc1lEX1UxWmlfMVlkWThzUFlWVm5kYUR0WFhfTlVabG1rUmFyS2xibHhOSFRPNk9PTDlyeWRhYTJhU2QtZVI1Y1paNUVBNjlscnF4ZUVieUxUSm80X05BcWRFaWY0MldadURYUUVRaTJvYVVCRXA4?oc=5",
+    "at": "2026-11-14T12:14:03.000Z"
+   },
+   {
     "title": "Sellers Are Cutting Home Prices the Most in These Markets—Led by One ‘Weirdly Nice’ City",
     "source": "Realtor.com",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONWNXRXFkajNrZnpzeV83RlhGcDVSVGNKeEQtOHZFaFEwbnRfaEtYVmFYWFVYekdIVVNaMFZkSzNJYmxaeC0zNUxDQmNYYnNjcGk2TjhPbzBWOFh0dFNCLTBlXy1Uek9NZDNvdDVheXE4ellzOFc4Szd2WUh4MnJZVmUtX2htWmhUX0MzaWh0U3BicFBwNDl1MEttSW1PaW1URDRYMHk3amwxU3k5MVR4SFdlaUlOQQ?oc=5",
     "at": "2026-11-14T11:00:00.000Z"
-   },
-   {
-    "title": "Mortgage and refinance interest rates today, Saturday, November 14, 2026: Mortgage rates rose all week long",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQSTV4WnhBYmp6TlRwNDI4YU15MzFRWXB1aUxmSlR0OXY1OU82WERYWWtBZ3FrcUdab3lWMHNiOERmT0w5bnZCUW9IR2UtV1RkZW5WZm1Jb2RRV0dYTWo5SllxTFQwcml0bGx5UDMyQlh1aGxXak1JUkNTdFFUTDdSOENQZ2tuZ0doM1RUREN6M3RhWV9MOVRJUUhYWm0xVWZuWTFjQldUajlHN1BzSk16VmkzaXZCTG9QSDVfOXE4em5EcW9nY0lYWlh4aEdCVmZ2ZnR3MTVrcXdDaUNHVTZON01MemVlZUNXTk1aM045VFlZMVd6bjI2TldodlpFY3FIWmRNTDJmUWFnU00?oc=5",
-    "at": "2026-11-14T11:00:00.000Z"
-   },
-   {
-    "title": "Mortgage Rates Today: 13 November 2026",
-    "source": "Forbes",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RNjQ3M0x3M1JqQ1BhbVFVRFlhWXpMMHhvVnBjWmdNY1RtdkhJeTBXSlpUOTUydnI2ZU5XMnd1d0RaM3FRX2lGaDV6NkxoX2FvMUtDUnFpRkhWNXFvUTkwSENQZnhxYUU2azFn?oc=5",
-    "at": "2026-11-13T23:38:00.000Z"
    }
   ],
   "inflation": [
-   {
-    "title": "Gold and silver are supposed to protect against inflation. So why are both metals tumbling instead?",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/gold-and-silver-are-supposed-to-protect-against-inflation-so-why-are-both-metals-tumbling-instead-1735eca7?mod=mw_rss_topstories",
-    "at": "2026-11-15T12:30:00.000Z",
-    "image": "https://images.mktw.net/im-66354924",
-    "desc": "Charts show the potential for more pain ahead"
-   },
    {
     "title": "Inflation isn't going away. Here's what that means for interest rates.",
     "source": "CBS News",
@@ -5439,140 +5431,148 @@
     "desc": "As inflation seeps deeper into the U.S. economy, the Federal Reserve may have to step up the pace of rate hikes, according to Wall Street analysts."
    },
    {
-    "title": "Fed 'has some work to do on inflation,' KC Fed chief says",
+    "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+    "source": "NBC News",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
+    "at": "2026-11-16T04:54:36.000Z"
+   },
+   {
+    "title": "Gold, TIPS, Or Commodities? Which Inflation Hedge Works When Real Yields Rise?",
+    "source": "Forbes",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcWluUHJJbThsQm5XODBQZ3BpTXNRc05ENnlpYkt2ZWdLNjUteEpkczU3OUZhTktvU2VzR3ZJNDZSeEhpZzF5TXp2QTEtdHBrQ21YNFFmdHMyZnJEbmNWSGhzMFFDT0pBcjdtNE1IaHNRQ3d1TnFhUjdodVhVSFVud0hpNGo4Y0FPT3d3Vmk3ei1vUm1lUHdWUm1xUVcwQUlXclU0SUs2VTZVOXMyNVpQUjFQUzM4ck5JX3NQa0xOVHBjc0syYnc?oc=5",
+    "at": "2026-11-16T04:14:00.000Z"
+   },
+   {
+    "title": "The Next Wave of Food Inflation Is Coming",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGtfSTVyazhhZjA4UEJWRVFWTlJWV0dUREtpa3pndDRsN0cyQkFiQjBpVFJ2UHFtbXA5MTMwZTFCQUhENld5QUpiV1c1ZmM5My1HNWFvYk1oOUM4ZmNXZFZCVkJRejNkbmRJTS1UbDJwV1pJd3VOd2k4d0VPNW1Rd1RTTFV4ZEluN1dsYVg4b3NjQQ?oc=5",
+    "at": "2026-11-16T04:01:22.000Z"
+   },
+   {
+    "title": "Japan’s Economy Contracts Amid Inflation Squeeze",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnNPaXBmZFY0ZFJKNkNqcTNfdXgwNVV2U19YRzZRQTFtbXVNX3ZJRmR0NnlOaTZsZFJ4aGFwOTRaUU9YUHl3NkJhUE9fOUY2LUtUdU5Xdld2OExGMFhfbXQ1M09FWmt0STVDd2NaN1Btb1Q4dlVra0pCQWRqd1lTbnVuSXZMMlNqek0wdW9ZVVJjemxpT1hz?oc=5",
+    "at": "2026-11-16T02:54:00.000Z"
+   },
+   {
+    "title": "Japan's economy unexpectedly shrinks as inflation squeezes households",
     "source": "Reuters",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORXg3dWdlUEMzckhPaldaYlFrSXlzQnVLeEJLRGtnMFFpeWh5VXI3akUxWEtLQ3JwSk92b2pvWi1FdjNFWVpBZm9Jck56NDUwQkZDUGZpUG01X3RDLS02enpGcWpnXzc3ZWctengxamdOTDY1MzdYMzgxR0V2THk3Zl9xbXZhTEcyWHEzRDU2YWZ2dTZVaFVpNA?oc=5",
-    "at": "2026-11-15T18:43:43.000Z"
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeXFYOEg3cHpDTUFrTU9IRlQyWDlvRGVMVVN3VmxOelY3WnhCREJNdElKcEY5ZWpBSmhoalMzWDdaM0Y5Z0VXbkxVemg3YmdhSUg5UmYybnhFOHhWbVhXdjdoT1BUUGNQUFVtX2o1SkJRSnBJNEdLX081amJyUll6WHFpUk5SaWlkd2JGN0VnRFZKYi1WT1B0NzFUOUVKdkFfcTQ5RmdFeHdvcWI5c2pRaXF6MFBydw?oc=5",
+    "at": "2026-11-16T00:13:00.000Z"
+   },
+   {
+    "title": "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
+    "source": "CNBC",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM2g2VXJDaFI2Q0NVa0xEUFZSSWFDbE1pRE1fajNpUldOYXlXSGtySFdzWGxKbldPYkRPdzVmWW1LaHlBMWdqN2JRdmw2THVGYWFWcmtQTXRlMFAycThoLXRzcWZweTNDYi1xYzVpWnRxMkxJdmlNR0Y1ZlVuWno4TmFlR0JrT1FrUWFzNWVhQTFFMkxrM3dkRnQ3c0FvUWxUc0E?oc=5",
+    "at": "2026-11-15T18:58:22.000Z"
    },
    {
     "title": "Gas Prices Drop to $3.91 Ahead of Thanksgiving, But Remain 92 Cents Higher Than Last Year",
     "source": "Yahoo Finance",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVFHTHF6d2ZDY3ZMa1RkN21JVDVoTG9xUlY1MXlFMVYwS1ZxOG1DOVNKVzdXUkltN2V2NDVnMmJjd1BnTjR1bUt5ZEZNa1Vrb05jUkFwTkZKRUQwU2RRNmI5Nk1Vb2RtR2dlTDBOQm5lWFpKUjFFZlQzeG5jZkM3cjlwcw?oc=5",
     "at": "2026-11-15T17:00:45.000Z"
-   },
-   {
-    "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-    "source": "NBC News",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
-    "at": "2026-11-15T16:55:24.000Z"
-   },
-   {
-    "title": "3 Indian Consumer Staples Stocks With Pricing Power When Inflation Stays High",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcGk2X2ttYmNVNm8taG5iSjl2N2pzUkVyTV9pOUhqR0tHMVA2ZHFQNGNHRDU4WEMydTVFQlMzOURzeVROQV9nZGxxd2hJNk1OV09yVzBod195dGFNZ28xcTFvbmJfWlpyS0RaWDU0dFNUaXVLeXp0SnZLZ1Z6TURjamIzb0hVMGdTM0stenlodXBZdko3NjBWOGpJX1Vrdw?oc=5",
-    "at": "2026-11-15T15:12:32.000Z"
-   },
-   {
-    "title": "How High Are Gas Prices Where You Live?",
-    "source": "The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONFFyMEw4dDc1S2JPR0dWakJ3ZHVweTNnX29SUl9KbUEtTnI1ZjVyME96MFRxdkZEY3pNNl85SDkyVklUdm5nTTBKTUdodmdKaDhXNENnX2V2MUlDZ3Jpcks3RTVRTWV6cHo3SjZfU1hKU0szdzhFRXZ2a0R5LUlCaHBUR0RyNl9tRzcwUlk1WWlwYzZKMXFVanA0aENpNFd1a3cw?oc=5",
-    "at": "2026-11-15T11:20:00.000Z"
-   },
-   {
-    "title": "President Donald Trump Claims, \"Tariffs Don't Cause Inflation, They Cause Wealth\" -- but Economic Data Says Otherwise",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcEFBb2VRbzM5SGExQkZ4SUprQ01IRmNrVDNtalk1Vmp3NnJJb3VNODBaUVVRY19abG1LQkV6S2VMbGVhaVh2bUQ3SkJtRVBFcENrOHBjS0dsVWlRQjZzZlRVcUJvMHMzUU1GRjIxbEsxbDRxRFRXSmxhYzhOR19uWVlUTkxqVGFTc29NelVQLXUxMk1lY0VMU092bl9zaC13eTllNA?oc=5",
-    "at": "2026-11-15T09:26:02.000Z"
    }
   ],
   "jobs": [
    {
-    "title": "UK Considers Welfare Cuts Amid Rising Youth Unemployment",
-    "source": "BW People",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbDQ5c2hRRFJVNm9qQUZ1LWg4c2NIbjdmY1ExeFZrNmQxbVBnRUtIVlVvRHFvcDRGbE5QYXBkaHFwTFM4YU1mbnpWWE1fdDRUNVV2aENDMHZKbEY2VXRpRFlzdkZGblVtY1JzVE1OMUhvVzNLVDU0bGtIT1Rwd0xSSVU5WXNDQWNQVUo0T1cwVTE5LTFoNDV5SDN4bw?oc=5",
-    "at": "2026-11-15T18:46:47.000Z"
+    "title": "eToro plans second round of global layoffs as Q3 net income falls 74%",
+    "source": "Wocult",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15eDBMR044RXlhcnlPQWZNY2YtOWFsekExSzdOdUlxbDZtQUthalAyclhCZTJpWi15NzdYblNNTlEyc2hRRWllM3E4YUcwaE5XWmUwbnRrRUxkdUFaVVU1UDlrc0tyUHM0U2xyMlJ1cWRKWEtrVlE?oc=5",
+    "at": "2026-11-16T06:18:04.000Z"
    },
    {
-    "title": "Government faces pressure to tackle rising youth unemployment",
-    "source": "ITVX",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVHpHbllZMU5RbU1VcF9UME9VODNldkZSX2otd2VycnB2SlpIOGVIRGk4LU5ZVGMxTTl6M1lxb1ZfdVA4WUx0Yzc3aDZjTFhGNUFncUFOd1JEdWU1MjdfcXVCNXE2Sk1EdTVvYjVvYTcxY0xZckVhQ0c4WC1rVlpLaUVKOVJhXzlIVkFiY1c4dDZkSmY1eUF2TzFNQ0tMdU01a0E?oc=5",
-    "at": "2026-11-15T18:25:00.000Z"
+    "title": "etoro planning (another) round of layoffs following poor Q3 showing",
+    "source": "FX News Group",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTENZc0lHMDFySkQxWjZXYnpUaXhCRVRoRnBpcFVYbGVKOXNXVGYxclJycFphdDZUbDZ3WEt6TFJJazNJUGVLUEZ4M1pyT2ZHdFVNZVV3c09qQVA5QU9kRTJwTXl0aU5ndHdoQjRVdV9VcVhhSk1vWjFqOVFOMlFDSE5oc0Y4Z0dBa1RIRU1CWDhEcUpycHdsa2FtTEZ6SUMtUW8zcjQtS0VWaG1LQ2VWN2hkYWc?oc=5",
+    "at": "2026-11-16T06:11:15.000Z"
    },
    {
-    "title": "President urges universities to align education with job market demands",
-    "source": "dailyasianage.com",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSXZDYVpKNTI2OWZDd0hoTEVXNzRNWFY1UDRRVTR2eGk3Sk9nYXJYVlY2Qm1NT0ZkVW53UkRTYzRMRGN4UFFrTTlvbUtRVGJVRXFqQUk5S2FDWXNRc0VkaVdFTHJyb3dZSlFaM1FOLUhjamhITi1weGVjcXprYTFnZHVxY0tFMnlzQWFaSmEyZjQwb1lSajVGbDZ5SndUV0NmcGZGNWxFQnM0MEJUVWc?oc=5",
-    "at": "2026-11-15T18:10:00.000Z"
+    "title": "Nangarhar: Poverty and Unemployment Drive Women and Children to Beg",
+    "source": "8AM Media",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaW5KVFFSTlQtc3JHdWpiQ2xETThIcF9xa2E3d1dUZHc5LTBzZmVQTVgwZGZqRmxOV2hacnZoR2p1Nzd2N0t4RUs3QklvbnJsUUN0SHZJNTQtOGdfS2NyZk0tNE9ZRTkycEVRWmFyRE1xbG5SWW5WTXh0QVBBZm1mSlZn?oc=5",
+    "at": "2026-11-16T06:04:48.000Z"
    },
    {
-    "title": "How will MPs react to Alan Milburn’s review of youth unemployment?",
-    "source": "The Times",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdTN0MjRYWFY1NVc1TGQtVVFYckpRaEFwVjRYV203YUNYRHhpMWtGUXQ1TW85SE9fNk5rOFA5ekQ1U3dYc3pBNFRLYXBKZGN3WWJjd1lZRFVjU0dJQTJxaWU2U1FLanlzOFJmbkdZNkx6emVJQ1BGalZiRWZ5ZUxNOENWdU82Nm0tM3hqQTBtQ01Va2NyQ2E1VXNueGc2R1k?oc=5",
-    "at": "2026-11-15T18:00:00.000Z"
+    "title": "Welfare changes for young would be a start in reducing youth unemployment",
+    "source": "The Scotsman",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObkpsMVp2RmtuOURWZkRKOFhOUmdrdXI1R21fZkVNLXZ6ak4wbXcya21ldWowRU4wLWgwY29taUxQMHllal9yNng4VjJmYndLOVh3QlF1eDRRUC0zbmhmNXZISmdMNl8tQzE0QU9uOTgwSWhfWU5UanV4MXR5TzZiQnpTX0FxYklBUUJuRWhYekxyWXJQWml0YVBneXBqRnJtbE1NazZlTzhJeUVuUzJYV29hd0NsX0VXcnZv?oc=5",
+    "at": "2026-11-16T06:00:00.000Z"
    },
    {
-    "title": "No job for life: the new world of work and unemplyoment",
-    "source": "RNZ",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcmFWZTZoWmhJaW1OY1lhU1YyZWpvQ1F1MGNEWUxwM05iU21kQnlydGxqRmkxdGE5NWNZdDgyOURSOGJmNWFMV05vUEJXV3ROWm1qcEZ3M2k3amt5SHFxRXc0Nk42VEtRVmF0Y3FnRldHYnhzazBPZzFiUV8xQjMxMnBjR19qd1Q2STE5bG9pdjV3ZGVMdzhlWHdZVE9mTXM?oc=5",
-    "at": "2026-11-15T17:28:00.000Z"
+    "title": "South Africa’s 47.3% youth unemployment rate puts skills development under pressure",
+    "source": "The South African Star",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOUZrMV9XM0Q5R0ItWktSdTZoREFyX1dRZlZkMnJPcF9CRENRNTdCSDRlZHhHOGZQWmJYcWMyQTRVRElmcm12T2w1QXpXTVdfQmg2MWliTmdkWlF3b2VFMlNpSy0yV2ZBNEhQSmpsU0JlWnpFLWhxSUxZVXlXTV9BSFpBUm5ucE9oUzJkNENfZm16XzVneHd6cmRyS3Bja2hFZ2sxYjF2N1c1bE9JaF9JSW1BMHdJYjMzNUVleHBERQ?oc=5",
+    "at": "2026-11-16T05:42:54.000Z"
    },
    {
-    "title": "AI is set to change the graduate job market. Here’s how unis can respond",
-    "source": "The Conversation",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWkw0S3hGM1laTlJlSHlpTmVGSDVObFFidFBfaDBYSzVkWS16dnZzNlROdDRzV2RLZlBldE85NEtVVU9rbG02TDQtZU9sWTY0WXIyRVRCT2ZIazhCOVhyUFVwRjc1YWlrSW1EeS0tQTVFWjFYczk3dXNzbWpkR0loaGVuU3lBbDJMeTc0Uk9xUGt3ME92XzU3UkVtYUVRNjVEZFdSeU5rb3U?oc=5",
-    "at": "2026-11-15T17:25:31.000Z"
+    "title": "President Calls for Enhancing Quality of University Education in Line with Job Market Demands",
+    "source": "https://businessinbangladesh.com.bd/",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOazQ4QUZIenpVTHhyMncySVpZRmV4N2tzWUlYS0lTT3NkVmRYeHNmaUp1cXpITVlXNlAxOTEtT21YVm5ycTEycTJwOXM5bWFDVGR0eHhrUDZ3ODRSVWRZUXpidFFiTG5rTTFXbHpiUjB3d2NzYlVZQW9pS245MDFMRDhnRE1kQ3I1OVpWdHVGcERaTXYzR1NVNENaQ0sxSTlGLTQ0ZGJmajY2N0hIaXpaMWhRS1ZzVHpVR3l4RGNTcmZnU1VONHRObDhB?oc=5",
+    "at": "2026-11-16T05:40:25.000Z"
    },
    {
-    "title": "eToro to Cut Dozens of Staff in a Second Layoff in 12 Months: Report",
-    "source": "TradingView",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSk1wc3E1M19BT3YyMnVuMFlVMVg5bjZBVXd3TWVGNWVON0tGaEdGSjdLX2FfN2ZxS2U0bFM3dnc4RDZnZUozUGVPMGNZTHc4MUNOUFd4M0pNNl92WnBsbENIN19NakplWDRRamRJcVc1RkszUllGd1J3WDdYRlFnTmxjVGEtWXFJa0EtTVZaUjBoSHAyM1g0aFFKeWc5bC1zUzF4U0xRSzQzODRuQ3dEVHc0RFh6VUhxVmQzNTVabE5EbnlSMHpJWURaZ29xdw?oc=5",
-    "at": "2026-11-15T17:24:12.000Z"
+    "title": "Young Europeans Are About to Walk Straight Into the UK’s Jobs Crisis",
+    "source": "Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYUpRa1JjejZoQkVOdFRJdl8wVzVDQTlQUXNwNGlLV292SnRIZEdkYkhqZ2ZCQWs2R29XVHVkLVpBMkszNm80ZnlBMXhKTFZoSEV5ZEJMNjV4enBsRUgxRVlqQjhZWkZGc3pTOXA4YWU4bGl5aWxTUHJ0MXRxM0dsQWwwbnRqZlNRMmJqUTFQQWRfM2RiSHZ1QzJKWnNaR19vcW5TLVNoOXFpY0wyMjNfdkx4WHpiWW9sVGlv?oc=5",
+    "at": "2026-11-16T05:30:00.000Z"
    },
    {
-    "title": "Saskatchewan news roundup: Métis forest project, rising unemployment and policing updates",
-    "source": "DiscoverEstevan",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONmZfVDNOZVNFVDA5NFFmaDdzQkFZcFJFeU01WGNLQXhiUWZreV9MaXFrWWhSS0ZkcUJ1blJjcFNxcW5YQWZreF9QR2Q2S2ZhRUhtVGw1VHdJVGpFN0JLSzNpSDdQb28yWDJIcVktV0RWVDVJS3JHMUd5YTRndjZYOU9lRi1wSElUQTBDakY0QXJRY3FEbmNYWXVvNGpjQlBzdG50eW1IUzI5TUFYdUZSSllQWi04OVUzc0JQTlk5Zmg?oc=5",
-    "at": "2026-11-15T17:04:59.000Z"
+    "title": "Peter Burke: Why is it controversial to say that those who can work should have a job?",
+    "source": "Irish Independent",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQVBBX0owNlJjWnVCUFFmZ1gxSkxIYlhqTFVMdHJWdjc4OEd2RENNcjZLQUxjMkl3Ty1BQ1k2WVhNeDltc0VRNXVMUkJqVjhTQWUzeENNWEFkQlliQXdFQTExdU96STBsY0RHRXZkb05MRUpnOGxJWnhJRU1oeXhtdUoxc1hBbElrN0poM05aU09WSTRfbkthNlFlZmEyeHNRSlg4QndCeUtvNVpxdG1weHRLRGJOR21zV2JUOGlyRkJsMFBEYWtSTC1PQkJyRGhVOEpIRmU1UVVVRkZW?oc=5",
+    "at": "2026-11-16T05:30:00.000Z"
    }
   ],
   "debt": [
    {
-    "title": "Silver Price Forecast: Silver Slides Below $50 as Treasury Yields Jump",
-    "source": "FXEmpire",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVFltaFh4T2FEbVUydE1kOGtIWWZGMVF5NUxNRHlvSkQ3Q2hTWmRqZkRldk9nVWUzc3ZZZ1lYaTRGOUlaaGF0clVoYmhOSjdnTTNnWG9uNmdtTHQ0dHE2Z0JOOWhteDl1Y1U0RHZTS2JXUXFPNFFmVWI0WlpmQ3hKSFNjTGNQaWRDRVJaMVlDd1pHbGxObWQteWtoM1NpTnhMMGcySFdEcTlHV1FsN2xma1c3Z0FuTGNZQURJ?oc=5",
-    "at": "2026-11-15T17:55:31.000Z"
+    "title": "Budget airlines are going upscale with first-class seats and faster wifi",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
+    "at": "2026-11-15T21:31:00.000Z",
+    "image": "https://images.mktw.net/im-04466235",
+    "desc": "Forget no-frills: Frontier and JetBlue are chasing luxury flyers, and Wall Street is buying in."
    },
    {
-    "title": "The Hidden Link Between Post-1981 Tax Cuts, Defense Spending, and America’s Debt Crisis",
-    "source": "The Fulcrum",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWXEtdVZsUUd0TldrTl81Q0didGQ1eS05WENyVlFJX2w3U2hsRGFoVnVjY05QUEZZWjRmRzNLYXhSTXVKQzlnREMyNUljY3FqMEQ0ak5kRWsyVGV5U29Wa01YYll1YzVzVjl0YnBSQXJtam9HblpmdUV0OEJ2dnNqQ2M1Y1NOa1NWSnZBbmdR?oc=5",
-    "at": "2026-11-15T13:42:10.000Z"
+    "title": "Opinion: Base closure commission offers model for addressing our national debt",
+    "source": "Bangor Daily News",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSnFhamZzZlFJNDQybXVMbDdCbXNSZ2ZwVDdaZl9RZDNmYXdxQWk3MzdDWWV6RzhIMFZESHN0NE1zZm90UW1DWnB0R0liM1ptbTE1TTVPMjhwYXdFNjFrb05IT0JaTHJ0QW5nTlJOYlFkQTZRUmxiaWZsOHYxc1g5U25Qd2ZiemlRUDR2R2xZSFpRZ1lvdlZHT3BpMi1ac1NYZDBhMHhqalVCSTNTTlpndjlzY0VrSzB2SVBLVFhVaUJ6ckEzWnpDRktXZGFiRlo1cEoxMFZsT0Y?oc=5",
+    "at": "2026-11-16T06:00:00.000Z"
    },
    {
-    "title": "USD/JPY Nears 160 as Intervention Risks Loom and Rising Treasury Yields Support the Dollar",
-    "source": "SSBCrack",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTFhoTXoxMTJQZDQ4WllneWthMk9yc2dOLWJ6UjE1ak9PRVN4Nkd2X2VWNWJaYy1yMUVvZGRKQ3Q3ZE55YUhXV1M4YWZzUjIwWDk4a3BUMGRWdHRuc2E2d2xqbk1PTXN1NkI2R05ydWNsNW9fdmNGNjRCZVE4QjllN3Z0MmhqQ0dsZlNjV3RpRFlDTDN5OXpfc0JIbzRTb1ExcU5nbFFCcnROSlJUM0VEYTRLc2VZU2Fa?oc=5",
-    "at": "2026-11-15T11:19:13.000Z"
+    "title": "Silver Falls Below $50: Hawkish Fed Bets, Rising Yields And Dollar Trigger Fresh Selloff",
+    "source": "TradingView",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcWxmT1E4Y1ZaTU8tSHBUeWppMGxGdGxvWlZtcHd2SzRqQUFVaWFhSkVrUm96ejFFNFc1Y2dwLW9xUlVoa0tSbUwxQ0t3bTlYY2I3NExDNDNnQ2xGUmFISWdiUTV6NVBMM1lhQWpjTjlkSzFTRlhMaEpXU3hqOU5WYjM3a0pFLTFNb0Y3U1NjcmpDNVVEZXk3a3ZWYVpicmpFUTZsN0RvYVlRZVM5b01rY1VMSlJPeGlIYlBROS1Hak51Vk1JVGVuRDJLTFZ5cVJsRGNERDJQT1MyWFBTV0ln?oc=5",
+    "at": "2026-11-16T05:23:00.000Z"
    },
    {
-    "title": "Philippine Treasury yields seen mixed as Fed, BSP tightening outlook shapes auctions",
-    "source": "Traders Union",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVXdxVThnS1lnRHFTTUtIRm1Oallsb1AwVlp4UVdQSVV3YUV4TGNicWF3aHc4eVI3U2NUaTFkSTNEV0UzS2FGenJZOW9mQXc0N0VEVDNWWU1aaUowek9tTUJzQ3pMc0N4cWdpd2x2dGhCZ1dtM0NmRlF4T2JGMTVlSUtxRWdMUTBNc2lFSTBvVDZlTXZJZWJZLXBJN05zSkU?oc=5",
-    "at": "2026-11-15T10:25:23.000Z"
+    "title": "Rupee rises 6 paise to 94.13 against US dollar in early trade",
+    "source": "The New Indian Express",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN1I1RUxiN2UyOFQ2anNOME4xeGtoTHExSDNKV2MzV0ZiQlczSWNGZnhIbXRiX2tGeThqY0NkLXN5TWJhb2labjFBM2Y0QVlFanBrUEJaVzhib3IxUWVNaWtBdjN4cF81OGsxQVBTUFJja0tlVVIyNlBzOHp6ZVdLZ3RWcUYyQ0l2dzlldDhIb21TeGtBNmxqTC1mYVFhZU1RMzRWX1JZNkJ1aE1IY3hDNDdjV0rSAcIBQVVfeXFMTV9CdFd3QTBxamhWb2hVNHpxTDdOOFZMVGhSLW90aFVxbmVjMHB6cUhqZVpfalVudTdabWlKdXBEbVhaMVNfdl90b0VuaUtpVjBTQ2padHBSa2lnaGpTVmJRMmE3TEFqbzlET0FGTkxYbkxHaEFsd2hJYUttRVZLNTg0SHhxaEVaSDc1NXJWTHY1R1NuZGNfMm14bWQyd3ludFNDSHVWRkQzU0ZnNk9uVnY4VXJOYzJXTThqOFJXN0ZmaFE?oc=5",
+    "at": "2026-11-16T05:22:42.000Z"
    },
    {
-    "title": "On national debt: A reply to Obasanjo — by Tope Fasua",
-    "source": "Western Post",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeGZ5ek1NWGN2RkFuMFFvVTAxLUVicmMxeVFJV2lzRWpBaDVoeFozWjhGOU5Nb2puc1lGOHBIV0hIMDF2VXhZUXFvSzZGV1doZnZwN1VrOGFnOGdjOVZxbHFVTjVnNzRBNklhN3VOUDduRHhieWEyYmcxZkVwSWxVRDdHbXA?oc=5",
-    "at": "2026-11-15T09:41:55.000Z"
+    "title": "Rupee Gains Ground Amid Dollar Strength, Rises 6 Paise To 94.13 As FII Inflows Lift Sentiment",
+    "source": "Free Press Journal",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaTkzUklZTHM4aTk3UFdSOVYyMlg0TGlpcl81bllIemU0eDJTZnZvcms3YnlEY3FGVjJ5cVJuMEFRUnlUT0hZTUs5Qm0tN21GZ09TMDRMVmR4OGI2YnluYlZlYTZXdUpWWk4zODBIcVhvb3Q4RmN3VG9BdmNCSlZvWVFsYU1uVWNXV2x2V2p2UV9nUnY2eDg5LU13QnU4NUJSN1p1VlpNem4wYTZLanNIandDTE1heENSSWVkYXNmcWc0MXY2ZGFCUXM5eljSAdIBQVVfeXFMT3psdDJuSlJxbFhNdVYxczlYQVZDUVVHUHdUa1VDUTJHZGZFbGRudk5ZS2JqcUhHUkt6b2h2MnpZcWRBcVIzbzVQZVl5d2lNa2l2ckJuV014QkNVYzhHb0RrZGpiZ0NZQVFfQkExQWtSbEhHV3I1QnF1RXJhVlBnQTA5TzNqSzNyNFA1MTBYaVZiSjJ3bTB6Uy1qcFF4QmJxTEs0Si1OZ3hQNHY1VDVNdEhnU09wUjBHbjRMUkpCUmFOcHRzVlpmZDBzazh1TjZjeTdB?oc=5",
+    "at": "2026-11-16T04:48:56.000Z"
    },
    {
-    "title": "U.S. National Debt Rises by $1.1 Trillion in Four Months as Trump Proposes $1.5 Trillion Military Budget",
-    "source": "Hokanews",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdXFFQlVDenUzN3JXLWNyNklNZE9VZHd3bVctcnk5MW1GZlpiN29USzk5b0tobi1jWU9va2xkaUxVWXByR2NpTWZNU0llS2VIUUxEbjdjSmxiV0FES1E2dEE1ZEFBdXVEcWdyYlJPX2N0MlIxTGo0WExzS3VnX181cA?oc=5",
-    "at": "2026-11-15T06:04:00.000Z"
+    "title": "Silver Falls As A Stronger Dollar And Rising Treasury Yields Fuel Fed Hike Bets By Kedia Advisory",
+    "source": "Investing.com India",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVGtJcnY0Y202S2ljSlFlOHZJREh4VFZPSTlCQllDYzdvYzd2Y2M0UVVDY3NSTUJfMEJ1dGRZM3dpempmWTQ4NlBFWUNTSHFWWEM5enJIcXhWV05DdE5rZXhBcllsX2J6UGxWeDZxbFlRN3k4MzA2dlNNUE80WDFOMXQ0WWwwQVVDOVd4LTJKdTctNE85T2NsQVhFbzBMckI3czIxcmZmZi1peWVDZVQ1QkVoODdOUTk4ZThVbk1uRGFoQzFTZDRVMms1cC1zWmM?oc=5",
+    "at": "2026-11-16T04:40:08.000Z"
    },
    {
-    "title": "Treasury Yields Snap Back on Ugly Inflation, Rough 10-Year & 30-Year Treasury Auctions. Bond Bloodbath Returns",
-    "source": "Wolf Street",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYjJXazFzLW5xNFM3WXBKTHdmeGl5U1hfVjZtdFJhdmlWZ1ozQnNiWFlGdEtYRDluZWhnSTZjOGFjNi1ldmtoRV9TTWZUdlhJT2RrYndYMUtra2FmV0R5U1kzbU1Pbzc5VnU4NkJfcDE3SUZGWnBNN052c3ZIX3BGUWo1MHZjSGdnMWo2emd2NmtFRThhTldVQnI0ZzZ0Z0pRUlppLU8xZUdaMVA2MUlvN3JKY3lCSl9JN09oS19lTFlaTmQwUEota2tvaEFBM2UyTThzZ1cwdGU?oc=5",
-    "at": "2026-11-15T02:13:33.000Z"
+    "title": "US national debt keeps rising after years of tax cuts — and this will make policymaking all the more difficult",
+    "source": "Canadian Accountant",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdWRqaDdHVFJtOU5xUG1kSVk2SzlBdlNKb29FcHM1WDhlRW82OENhZmJ5ZE1laFNDWDJhb2NFOTlWX1U3NTNpdjJ0M0lCYjB2MHBaT1Npa3NUWnFibGZpeGtJVzRSQmlHVjdJZm90U1hxaF9wc21CTklNbEJkX09XMDExbzJMRXpFZEE?oc=5",
+    "at": "2026-11-16T04:37:14.000Z"
    },
    {
-    "title": "Around $12.2 trillion, roughly 30% of the total, was added during Trump’s two presidencies.",
-    "source": "Moomoo",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdEpwU1MyZjE1WDlRWDFacXJGc3FCclVVamk1eU93THVPemNuR2RRTkl3MlhOUG5fOUtpaEpvSjkxZW4zaHlzNmdfQXFkRFU3czJ3dFFjTkFjc2wza0V1bU9DMFlrcTFMTHc3S0VUQ0RPRm5nbUh6Y0gwR3hVMDAwbGNEXzVOUEh2VXdWTXpqRUIwQ1U1czdraF95VWMwV3RSTjRObHZvRnlWNmUxTDc5cmF4Vmg2d1Fn?oc=5",
-    "at": "2026-11-14T22:48:00.000Z"
+    "title": "The US dollar moves higher as Treasury yields extend their gains",
+    "source": "investingLive",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaVZRdFczUjZoVzBlWjdJcngwRUNpM1VNcENKVTNTQlBnVVdiWGZrTzBHZFhvT0VyODNzUFN0dW51c1ZWQmM3SmUzUDc1b1MwWXhKQkRTRUpMNE1tTFYzYWExdW02TTJ0dnpUVnlHV2lrd0Y4bGppSlRzMGJxcGFzUmpoSWkyVl9fX2ZPM0Q2d0ZBd1Y5V2VHdGRObWFyZFh6QW5scDVPRWZTNVdMZWsw?oc=5",
+    "at": "2026-11-16T04:10:50.000Z"
    }
   ]
  }
