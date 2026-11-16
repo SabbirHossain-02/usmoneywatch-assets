@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T06:32:43.674Z",
+ "updated": "2026-11-16T22:05:35.295Z",
  "ticker": [
   {
    "name": "Mortgage, 30-yr",
@@ -31,10 +31,10 @@
   },
   {
    "name": "10-yr Treasury",
-   "value": "5.10%",
+   "value": "5.15%",
    "dir": "up",
-   "asOf": "2026-11-12",
-   "when": "Nov 12"
+   "asOf": "2026-11-13",
+   "when": "Nov 13"
   }
  ],
  "videos": [
@@ -4722,114 +4722,114 @@
     },
     {
      "name": "10-year Treasury yield",
-     "value": "5.10%",
-     "when": "Nov 12",
-     "asOf": "2026-11-12",
-     "change": "+1.02 pts vs. a year ago",
+     "value": "5.15%",
+     "when": "Nov 13",
+     "asOf": "2026-11-13",
+     "change": "+1.04 pts vs. a year ago",
      "dir": "up",
      "tone": "bad",
      "spark": [
-      4.43,
-      4.39,
-      4.3,
-      4.19,
-      4.26,
-      4.5,
-      4.58,
-      4.6,
-      4.77,
-      4.61,
-      4.53,
-      4.54,
-      4.51,
-      4.55,
-      4.3,
-      4.22,
-      4.28,
-      4.29,
-      4.31,
-      4.17,
-      4.26,
-      4.35,
-      4.4,
-      4.17,
-      4.26,
-      4.53,
-      4.58,
-      4.43,
-      4.4,
-      4.36,
-      4.38,
-      4.29,
-      4.4,
-      4.43,
-      4.38,
-      4.42,
-      4.22,
-      4.27,
-      4.34,
-      4.28,
-      4.28,
-      4.08,
-      4.04,
-      4.12,
-      4.16,
-      4.14,
-      4.05,
-      3.97,
-      4.08,
-      4.17,
-      4.11,
-      4.1,
-      4.02,
-      4.14,
-      4.19,
-      4.16,
-      4.12,
-      4.18,
-      4.18,
-      4.26,
-      4.26,
-      4.29,
-      4.18,
-      4.08,
-      4.02,
-      4.13,
-      4.27,
+      4.44,
+      4.41,
       4.25,
-      4.42,
-      4.31,
+      4.17,
+      4.32,
+      4.57,
+      4.62,
+      4.62,
+      4.79,
+      4.57,
+      4.55,
+      4.52,
+      4.54,
+      4.53,
+      4.25,
+      4.28,
+      4.32,
+      4.25,
+      4.35,
+      4.2,
+      4.34,
       4.29,
       4.32,
-      4.34,
-      4.4,
-      4.41,
-      4.47,
-      4.57,
+      4.25,
+      4.37,
       4.45,
-      4.55,
-      4.48,
+      4.54,
+      4.41,
       4.51,
+      4.41,
+      4.34,
+      4.24,
+      4.42,
+      4.5,
+      4.35,
+      4.34,
+      4.22,
+      4.29,
+      4.3,
+      4.26,
+      4.22,
+      4.04,
+      4.06,
+      4.16,
+      4.12,
+      4.13,
+      3.99,
+      4.01,
+      4.11,
+      4.11,
+      4.14,
+      4.06,
+      4.09,
+      4.17,
+      4.18,
+      4.17,
+      4.14,
+      4.15,
+      4.15,
+      4.26,
+      4.24,
+      4.21,
+      4.09,
+      4.08,
+      3.97,
+      4.15,
+      4.28,
+      4.39,
+      4.44,
+      4.35,
+      4.31,
+      4.26,
+      4.31,
+      4.39,
       4.38,
+      4.59,
+      4.56,
+      4.47,
+      4.56,
+      4.47,
+      4.5,
+      4.44,
+      4.56,
       4.55,
-      4.58,
+      4.67,
+      4.67,
       4.63,
-      4.61,
-      4.63,
-      4.7,
-      4.71,
-      4.64,
+      4.68,
+      4.65,
+      4.66,
       4.79,
-      4.83,
-      5.01,
-      5.11,
-      5.29,
-      5.28,
-      5.1,
-      4.96,
-      4.98,
-      4.84,
-      5.1
+      4.95,
+      4.94,
+      5.18,
+      5.24,
+      5.22,
+      5.09,
+      5,
+      4.94,
+      4.86,
+      5.15
      ],
      "source": "Federal Reserve"
     }
@@ -5271,12 +5271,36 @@
  "news": {
   "top": [
    {
-    "title": "A big chunk of your 401(k) is likely invested in Nvidia",
+    "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
-    "at": "2026-11-16T03:11:00.000Z",
-    "image": "https://images.mktw.net/im-61305338",
-    "desc": "The scandal at the computer-chip giant is exactly what’s wrong with the S&P 500."
+    "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+    "at": "2026-11-16T21:45:00.000Z",
+    "image": "https://images.mktw.net/im-04093243",
+    "desc": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”"
+   },
+   {
+    "title": "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
+    "source": "The New York Times",
+    "link": "https://www.nytimes.com/2026/11/16/business/economy/warsh-ai-economy.html",
+    "at": "2026-11-16T21:08:30.000Z",
+    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16dc-fed-thwl/16dc-fed-thwl-mediumSquareAt3X.jpg",
+    "desc": "Kevin M. Warsh, chairman of the Federal Reserve, has assigned a task force to explore how productivity gains tied to new technologies could impact the labor market."
+   },
+   {
+    "title": "Several companies are using Trump tariff refunds for corporate bonuses",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/16/companies-trump-tariff-refunds-corporate-bonuses",
+    "at": "2026-11-16T17:52:13.000Z",
+    "image": "https://i.guim.co.uk/img/media/976a600cf5e5d4314c2ee38b26b60463569d5dbc/665_0_4653_3722/master/4653.jpg?width=700&quality=85&auto=format&fit=max&s=14b85154dad5c4bb0508d9e14633135a",
+    "desc": "Some firms are directing refunds to corporate leadership instead of reimbursing consumers, ProPublica finds Several companies that received refunds for paying Donald Trump ’s tariffs have put those funds towards corporat"
+   },
+   {
+    "title": "Diesel prices dip below $6 a gallon for first time since September",
+    "source": "CBS News",
+    "link": "https://www.cbsnews.com/news/diesel-prices-fall-below-6-gallon/",
+    "at": "2026-11-16T16:38:07.000Z",
+    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/16/eca76e68-ca36-494a-ba39-e180d490b277/thumbnail/1200x630/b458e464fdf2abd24830f2180f557571/gettyimages-2302849429.jpg",
+    "desc": "Diesel around the U.S. now averages $5.99 a gallon, down from a record high of $6.53 in September, according to AAA."
    },
    {
     "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
@@ -5287,28 +5311,28 @@
     "desc": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war."
    },
    {
-    "title": "When the boss has an affair, the whole family business can pay the price",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/15/nvidia-ceo-jensen-huang-affair-business",
-    "at": "2026-11-15T15:00:16.000Z",
-    "image": "https://i.guim.co.uk/img/media/6b7d531b60f99a928397b882d7518a377a68074d/0_0_4583_3668/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=e88d7192972064aea6f11b06b04c0119",
-    "desc": "Fallout from ex-Nvidia CEO Jensen Huang’s affair is the latest reminder of the shared toll paid when patriarchs cheat From Profumo to Petraeus to Gary Hart , Bill Gates and Bill Clinton , history is littered with older m"
-   },
-   {
-    "title": "How Nvidia scandal, Anthropic IPO may impact your 401(k)",
-    "source": "CBS News",
-    "link": "https://www.cbsnews.com/video/how-nvidia-scandal-anthropic-ipo-may-impact-your-401k/",
-    "at": "2026-11-14T15:44:15.000Z",
-    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/14/facce96b-2cb3-445b-8cf5-a3d309672019/thumbnail/1200x630/e4e20a6d0e4ec72ecc094cb7bf825511/cbsn-fusion-how-nvidia-scandal-anthropic-ipo-may-impact-your-401k-thumbnail.jpg",
-    "desc": "Nvidia's stock tumbled following a scandal involving former CEO Jensen Huang. Meanwhile, Anthropic prepares for its IPO. Kelly O'Grady explains what you should know."
-   },
-   {
-    "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
+    "title": "Nvidia investors will be clamoring for these answers during a historic earnings call",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
-    "at": "2026-11-15T21:32:00.000Z",
-    "image": "https://images.mktw.net/im-53662543",
-    "desc": "Jensen Huang’s sudden departure has made Tuesday’s earnings call “the most important in the company’s history.”"
+    "link": "https://www.marketwatch.com/story/nvidia-investors-will-be-clamoring-for-answers-to-these-questions-during-the-companys-hotly-anticipated-earnings-call-a49ec19d?mod=mw_rss_topstories",
+    "at": "2026-11-16T21:05:00.000Z",
+    "image": "https://images.mktw.net/im-66279294",
+    "desc": "There’s a lot that Nvidia investors want to know about the post-Jensen Huang era — although management is likely to be tight-lipped on the topic of succession."
+   },
+   {
+    "title": "Americans relying on heating oil brace for harsh winter: ‘We’re often cold in our own home’",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/16/heating-oil-price-increase-winter",
+    "at": "2026-11-16T11:00:58.000Z",
+    "image": "https://i.guim.co.uk/img/media/d01f4f4effab01ef64a2fc21dcdf4c74f6e88da5/412_0_2439_1952/master/2439.jpg?width=700&quality=85&auto=format&fit=max&s=7f5e91bc7f5baee9260d105007c2e0ba",
+    "desc": "Surge in prices is forcing many to cut back on spending, with a projected 21% increase in costs of those households Millions of homeowners in the US will pay hundreds of dollars more this winter to heat their homes as ri"
+   },
+   {
+    "title": "Thanksgiving travel likely to dip a bit due to prices, AAA says",
+    "source": "CBS News",
+    "link": "https://www.cbsnews.com/news/thanksgiving-travel-likely-dip-prices/",
+    "at": "2026-11-16T11:48:36.000Z",
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/27/da5048f4-438d-45c4-9179-3fa3448fd4a7/thumbnail/1200x630/f12db13ca05ab4cb5c3cfc1f0b2bfdbf/gettyimages-2247755065.jpg",
+    "desc": "Pricey plane tickets and expensive gasoline are expected to keep some Americans from traveling this Thanksgiving, but not enough to make much difference in airport security lines and highway traffic, AAA says."
    },
    {
     "title": "Rising rents draw Wall Street money to industrial outdoor storage lot investments across the U.S.",
@@ -5319,52 +5343,28 @@
     "desc": "A real estate investment in markets across the U.S. called 'industrial outdoor storage' is attracting Wall Street giants including Brookfield and Blackstone."
    },
    {
-    "title": "Home sales hit 16-year low in October amid soaring mortgage rates",
+    "title": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
     "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
-    "at": "2026-11-13T17:20:32.000Z",
-    "image": "https://i.guim.co.uk/img/media/861fa365835f36d65c4fe3a0adf09f6b63ba43ad/142_0_2344_1875/master/2344.jpg?width=700&quality=85&auto=format&fit=max&s=15aa077619dc9d50ee52c2911dd0f5e5",
-    "desc": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year high US existing home sales hit a 16-year low in October as buyers were driven away by high mortgage ra"
+    "link": "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks",
+    "at": "2026-11-16T04:39:20.000Z",
+    "image": "https://i.guim.co.uk/img/media/2e7e78e8ef011abb9ba52ca72738b8f88e4616f9/14_0_3840_3072/master/3840.jpg?width=700&quality=85&auto=format&fit=max&s=a3fc2d2190c565a2c43b9c5e5dfca7b3",
+    "desc": "Ahead of Apec summit, PM says ‘Canada is going to move forward either way’ when asked if Chinese investment was leverage in US negotiations The prime minister of Canada, Mark Carney, said the country could turn to Chines"
    },
    {
-    "title": "Never bought Nvidia stock? Its slide could still hit your 401(k).",
+    "title": "How Nvidia scandal, Anthropic IPO may impact your 401(k)",
     "source": "CBS News",
-    "link": "https://www.cbsnews.com/news/nvidia-stock-slide-401k-index-funds/",
-    "at": "2026-11-13T21:32:01.000Z",
-    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/13/e3cd870c-a43f-45dc-be5a-4045e4b60d41/thumbnail/1200x630/832cf0d0dd0e95c512fa1af0da6e461b/gettyimages-2304264971.jpg",
-    "desc": "Millions of Americans are exposed to Nvidia shares through their retirement plans. That's not as bad as it sounds (really!)."
+    "link": "https://www.cbsnews.com/video/how-nvidia-scandal-anthropic-ipo-may-impact-your-401k/",
+    "at": "2026-11-14T15:44:15.000Z",
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/14/facce96b-2cb3-445b-8cf5-a3d309672019/thumbnail/1200x630/e4e20a6d0e4ec72ecc094cb7bf825511/cbsn-fusion-how-nvidia-scandal-anthropic-ipo-may-impact-your-401k-thumbnail.jpg",
+    "desc": "Nvidia's stock tumbled following a scandal involving former CEO Jensen Huang. Meanwhile, Anthropic prepares for its IPO. Kelly O'Grady explains what you should know."
    },
    {
-    "title": "Budget airlines are going upscale with first-class seats and faster wifi",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
-    "at": "2026-11-15T21:31:00.000Z",
-    "image": "https://images.mktw.net/im-04466235",
-    "desc": "Forget no-frills: Frontier and JetBlue are chasing luxury flyers, and Wall Street is buying in."
-   },
-   {
-    "title": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
-    "at": "2026-11-13T15:44:16.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108548603-1794349961058-gettyimages-2304504735-anotherday36810201_9ykwsppz.jpeg?v=1794350087&w=1920&h=1080",
-    "desc": "The producer price index was expected to increase 0.4% in October, according to the Dow Jones consensus."
-   },
-   {
-    "title": "Global oil supply returns to surplus for first time since start of Iran war, says IEA",
+    "title": "When the boss has an affair, the whole family business can pay the price",
     "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/13/global-oil-supply-returns-to-surplus-for-first-time-since-start-of-iran-war-says-iea",
-    "at": "2026-11-13T13:35:45.000Z",
-    "image": "https://i.guim.co.uk/img/media/5b2b569f416b13096426488b7fd081de3679354e/759_0_4585_3669/master/4585.jpg?width=700&quality=85&auto=format&fit=max&s=21463915d39b5d2dd9426cc279de6eac",
-    "desc": "Supplies outstripped demand by almost 2m barrels a day in October as market shows ‘tentative signs of rebalancing’ The world’s oil supply is swinging back to a surplus for the first time since the start of the US-Israeli"
-   },
-   {
-    "title": "Family Dollar to pay $63M after FTC says it overcharged customers",
-    "source": "CBS News",
-    "link": "https://www.cbsnews.com/news/family-dollar-stores-price-transparency-settlement/",
-    "at": "2026-11-13T20:57:42.000Z",
-    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/13/140a983a-4db2-42da-8ed0-036289b08a0b/thumbnail/1200x630/4ff54a8df1934a4fcaeed89d918ffb92/gettyimages-2071873164.jpg",
-    "desc": "The discount retailer failed to honor prices displayed on store shelves, on price tags and in ads, the FTC and multiple states alleged."
+    "link": "https://www.theguardian.com/business/2026/nov/15/nvidia-ceo-jensen-huang-affair-business",
+    "at": "2026-11-15T15:00:16.000Z",
+    "image": "https://i.guim.co.uk/img/media/6b7d531b60f99a928397b882d7518a377a68074d/0_0_4583_3668/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=e88d7192972064aea6f11b06b04c0119",
+    "desc": "Fallout from ex-Nvidia CEO Jensen Huang’s affair is the latest reminder of the shared toll paid when patriarchs cheat From Profumo to Petraeus to Gary Hart , Bill Gates and Bill Clinton , history is littered with older m"
    }
   ],
   "housing": [
@@ -5377,150 +5377,148 @@
     "desc": "A real estate investment in markets across the U.S. called 'industrial outdoor storage' is attracting Wall Street giants including Brookfield and Blackstone."
    },
    {
-    "title": "Home sales hit 16-year low in October amid soaring mortgage rates",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
-    "at": "2026-11-13T17:20:32.000Z",
-    "image": "https://i.guim.co.uk/img/media/861fa365835f36d65c4fe3a0adf09f6b63ba43ad/142_0_2344_1875/master/2344.jpg?width=700&quality=85&auto=format&fit=max&s=15aa077619dc9d50ee52c2911dd0f5e5",
-    "desc": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year high US existing home sales hit a 16-year low in October as buyers were driven away by high mortgage ra"
+    "title": "Home Depot Earnings Will Test If Home Improvement Can Outrun a Sluggish Housing Market",
+    "source": "Barron's",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTi0yVWlvVTk2VUZ3SzVCdnAyWWFfOHhQcHpyeEZ2VjRsaXFPSUJpQzZFTmN5QWNGcHBrTEkzSG45TTRrTGRNSVJuZ0tocEtSRGxrTmFWUF9vYUVMUUFSWGloUkJBeWFVUlVxM0VNTEg3ZnJXdmVwaUl3NEtlXzB6c2xqWm1vNHltU3d3bkstN09INExNc0tTbUhqa0VfR1EyajBXeGhzWWI0MGtxTXhXbWFmU0txT0FRUlcyM3VuRHNLRkRqZnloU28tTTNrSnhnZ2c?oc=5",
+    "at": "2026-11-16T22:00:00.000Z"
    },
    {
-    "title": "Drop in China's new home prices narrows to 11-month low",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdFhRMWNhdXZ5M2VvWlR4OEhQZjRhTFVzVWVwZjhHQjQ3Y2hUOWxPUkpoUTFjMl9TMEJXSEM4TXdZay1KaC1yM0tHLWNfS2dnRU90SE5fbTRsMjJyaHZ1QjJxbTJSWUNHWFQwOVFDUzFIX0RKTlBqZUxHWFl2cWFOdjFkUXN0T1R3bVo4RG9pYnMtRXB3R2tOTw?oc=5",
-    "at": "2026-11-16T01:44:00.000Z"
+    "title": "Existing home sales just hit their lowest level since 2010",
+    "source": "Fortune",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZTRmeXNaNHhMNjRLeF9lRi1ra0FmOGlnbTRiRmJYMFlBS1dyZlJ0M3FMeXM4QUQyQVczd25oamtXZFZ0MFU3Sk1uSzBCMmdHb0JfYkhHZW8tY1M0bnlkMlJmbEVHUzVoUDRtMUt6WjlEUTlSeEJuS2lOTGQ2VUdwNXJ4WW9GY0hCX0dERXZQN1ZmeEVuM0ZoVnF3eVE?oc=5",
+    "at": "2026-11-16T14:51:00.000Z"
    },
    {
-    "title": "The typical homebuyer in 2026 is older, richer, and loves the suburbs",
-    "source": "Business Insider",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWlpUNDNJTzUwSW5OM1M5TjltNTNzOURwQlhtNUpRRWRINEQxSVJJQkdYVTVobm93M2RzWENaSlVuNnRkSnh4MVJxMmxkQ0tVWHdCMUdIQ096amRHWEpWRFhobzM1anJQN3g3MHhJX0twcmwwRDg3WnJSWjV4Mld2MHlkYjZsSE0?oc=5",
-    "at": "2026-11-15T14:36:00.000Z"
+    "title": "Mortgage Rates Today, Monday, November 16: A Little Higher",
+    "source": "NerdWallet",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSFhyRDBHVU56U2ZsVUZXNVlzNEtoV2xtNjFsSDdiZl9JaGI1MVV4MzRMT0U1Qmh3SXZodVM2X2FmSlhIRHF3bEdlMkRKbm9GTlJHc2p5NGtvbjFqYkJaRHNic29UQmNOY3lWZGtiUlllRDlCaHdpdlFtQW5YRGpJWEY0VDBOckFjN0dXMkZSYw?oc=5",
+    "at": "2026-11-16T14:46:28.000Z"
    },
    {
-    "title": "Homebuyers are cringing at a 7% interest rate, and their parents can’t relate. Why it’s so hard to afford a home now",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPemE0NEVrZDBmT050U2IwV1IxNzBHT1pBR1c3T3VxME1xMGpQSldkdHRwV0hCSDZWSnluWDY3WTM3LTR0b3pDR2RYVmhGazRCT3JMUkRTY184RkNQQV9zajZVZG04QkJJd2hlTVRaTXgtdXBLaUQycVZ4LTBpWEpITjYydU5NUmN5d1k2enpTWlJHNUpuUkpKNkZBMXVaUQ?oc=5",
-    "at": "2026-11-15T11:30:00.000Z"
+    "title": "Mortgage Rates Today: 16 November 2026",
+    "source": "Forbes",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RNjQ3M0x3M1JqQ1BhbVFVRFlhWXpMMHhvVnBjWmdNY1RtdkhJeTBXSlpUOTUydnI2ZU5XMnd1d0RaM3FRX2lGaDV6NkxoX2FvMUtDUnFpRkhWNXFvUTkwSENQZnhxYUU2azFn?oc=5",
+    "at": "2026-11-16T14:18:06.000Z"
    },
    {
-    "title": "Tens of thousands march in Portuguese cities against surging home prices",
-    "source": "Los Angeles Times",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeTZSendpY3JaM2xQNnlsT0pYUXh4LWwxSWxkeUl0dEZweEN4b2tKSll3M2huZm1wNjVWT1dxbVJUVndhZWtjVFFQa1JJaHhZNVQtdlBXSURHcTYxWXpkVE9za1dqRmcwY0dMT0IxUXRKMGdKRmhtbkR3cEtfQ1VRYlJiUWxZaTYtelYxMS05cmpTUGt3djRpN0x3LXl2eXVRR0kxVFFFVFdHeEVaeHdGdmhFOFFxSFo4N0pvVlZNZEVHcWp5?oc=5",
-    "at": "2026-11-14T20:45:00.000Z"
+    "title": "Mortgage Rates Today, November 16, 2026: 30-Year Rates Climb to 7.28%",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcFFXRm9QMTc2bFdjTWRRNkZaTTRLRm5TeW1BbW1KTDVFRzFSdldnMkl1WkFSRE02SThZaGJTTEhyNWhzV2VzdzNacHViM0l6OE1HNkZRS2FQZUFoTU5kLTBFbmNGeF9ISnY5T1h1U0I0WW41RFJNVGRmYkhoSlF1c1ktT3F5ZDRJZDdiYTJB?oc=5",
+    "at": "2026-11-16T13:54:30.000Z"
    },
    {
-    "title": "Tucson Housing Market Enters 2027 Balanced Overall but Divided by Neighborhood and Price Range",
-    "source": "USA Today",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbWVVVkVDQi1UcVNDeWVLUnZQZWhHN2FrU09HQUdnSTR2cU9yeFlIcFhKNlJTMWh6ZzU4eWtkYUJxazIzakt1aXUxdUhOUll6SUVxdEkxR2lpODFnc1dBT0pZNV9BQVFEYXJwcEhLU3FSc1lEX1UxWmlfMVlkWThzUFlWVm5kYUR0WFhfTlVabG1rUmFyS2xibHhOSFRPNk9PTDlyeWRhYTJhU2QtZVI1Y1paNUVBNjlscnF4ZUVieUxUSm80X05BcWRFaWY0MldadURYUUVRaTJvYVVCRXA4?oc=5",
-    "at": "2026-11-14T12:14:03.000Z"
+    "title": "Compare Today’s Mortgage Rates",
+    "source": "Forbes",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZWTRCWTZjV2FtYlpMOFBxWjVNRF9EbGN0QUJYRHVXY1VyMTdSdGc2blVoM2lFYkI0elJNRVY2VER1RTJZNGEwendkNEFGejdfZkNOVTRTa3FWSkdISHNTcmNfYlBTY3M?oc=5",
+    "at": "2026-11-16T12:34:00.000Z"
    },
    {
-    "title": "Sellers Are Cutting Home Prices the Most in These Markets—Led by One ‘Weirdly Nice’ City",
-    "source": "Realtor.com",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONWNXRXFkajNrZnpzeV83RlhGcDVSVGNKeEQtOHZFaFEwbnRfaEtYVmFYWFVYekdIVVNaMFZkSzNJYmxaeC0zNUxDQmNYYnNjcGk2TjhPbzBWOFh0dFNCLTBlXy1Uek9NZDNvdDVheXE4ellzOFc4Szd2WUh4MnJZVmUtX2htWmhUX0MzaWh0U3BicFBwNDl1MEttSW1PaW1URDRYMHk3amwxU3k5MVR4SFdlaUlOQQ?oc=5",
-    "at": "2026-11-14T11:00:00.000Z"
+    "title": "Mortgage Rates Forecast For 2026: Experts Predict Whether Interest Rates Will Drop",
+    "source": "Forbes",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kMlJHRWhRY2owbnpsZWhWOHVVZFR1ZmM3NzhqTUVEVnpHR2xlMHp0QnR2eXFwV2wzQ2FMbXZTN3lTLUJ5OHgxdnk0S3Z2Q3hEQ2pEYW9xcWhrRktVS3B0RXB0NkdnM0hPMzBReG5neWZ1TTdvVWs4bWgxdWFNUkk?oc=5",
+    "at": "2026-11-16T12:34:00.000Z"
    }
   ],
   "inflation": [
    {
-    "title": "Inflation isn't going away. Here's what that means for interest rates.",
-    "source": "CBS News",
-    "link": "https://www.cbsnews.com/news/interest-rates-federal-reserve-inflation/",
-    "at": "2026-11-13T20:19:31.000Z",
-    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/13/08a13be7-41af-4113-a104-0a836b2e38d1/thumbnail/1200x630/f6072399f5313e69d6671ffd1d903653/gettyimages-2165462299.jpg",
-    "desc": "As inflation seeps deeper into the U.S. economy, the Federal Reserve may have to step up the pace of rate hikes, according to Wall Street analysts."
+    "title": "Several companies are using Trump tariff refunds for corporate bonuses",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/16/companies-trump-tariff-refunds-corporate-bonuses",
+    "at": "2026-11-16T17:52:13.000Z",
+    "image": "https://i.guim.co.uk/img/media/976a600cf5e5d4314c2ee38b26b60463569d5dbc/665_0_4653_3722/master/4653.jpg?width=700&quality=85&auto=format&fit=max&s=14b85154dad5c4bb0508d9e14633135a",
+    "desc": "Some firms are directing refunds to corporate leadership instead of reimbursing consumers, ProPublica finds Several companies that received refunds for paying Donald Trump ’s tariffs have put those funds towards corporat"
    },
    {
     "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
     "source": "NBC News",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5",
-    "at": "2026-11-16T04:54:36.000Z"
+    "at": "2026-11-16T20:50:25.000Z"
    },
    {
-    "title": "Gold, TIPS, Or Commodities? Which Inflation Hedge Works When Real Yields Rise?",
-    "source": "Forbes",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcWluUHJJbThsQm5XODBQZ3BpTXNRc05ENnlpYkt2ZWdLNjUteEpkczU3OUZhTktvU2VzR3ZJNDZSeEhpZzF5TXp2QTEtdHBrQ21YNFFmdHMyZnJEbmNWSGhzMFFDT0pBcjdtNE1IaHNRQ3d1TnFhUjdodVhVSFVud0hpNGo4Y0FPT3d3Vmk3ei1vUm1lUHdWUm1xUVcwQUlXclU0SUs2VTZVOXMyNVpQUjFQUzM4ck5JX3NQa0xOVHBjc0syYnc?oc=5",
-    "at": "2026-11-16T04:14:00.000Z"
+    "title": "October CPI Shows Inflation Contained Outside of Gas Prices. Here’s What It Means for Interest Rates",
+    "source": "Morningstar",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVU9MaDlnOU5iYXdrVGpVWFl2eHFodzJ2enRBdFJFMEtnSFJZcWtmcUhyaGNJbVlSVVY1SDZCY0QwcVBxeHRQY0hadExLX1RoM1VMU0NIX1ZnV0tDTndqX2RtVXlaM05jR2hLUHpORTJKOHhmWVZoQ29VOGpjZDVRbXpablpBblVtLTFjS2FYZmo0VUM0TmIyc0Z6X0lMVWhCbWdJU3lvdzJnWWdFQldZWXduTFVVTGlkOEh0TFdKaDlkenNZOG1jcGJ1SlZmc3IzMUE?oc=5",
+    "at": "2026-11-16T20:00:15.000Z"
    },
    {
-    "title": "The Next Wave of Food Inflation Is Coming",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGtfSTVyazhhZjA4UEJWRVFWTlJWV0dUREtpa3pndDRsN0cyQkFiQjBpVFJ2UHFtbXA5MTMwZTFCQUhENld5QUpiV1c1ZmM5My1HNWFvYk1oOUM4ZmNXZFZCVkJRejNkbmRJTS1UbDJwV1pJd3VOd2k4d0VPNW1Rd1RTTFV4ZEluN1dsYVg4b3NjQQ?oc=5",
-    "at": "2026-11-16T04:01:22.000Z"
+    "title": "AAA sees fewer Thanksgiving travelers as gas prices hit records and airfares climb 17%",
+    "source": "Quartz",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Cck1FR05haHJTaU1hRFZZZjdQcnJtZ0FWZm1kTUhDUGZjOUpCZTV6UjloRzRlU0lmSzFDZ0hfeXlKVkVJUEg3ZnRXaTFncktMNGpWYmxpYlAyYVZ1VVFfTklUbGJKUjAxWlEtU0xDRmF6cjFWOUE?oc=5",
+    "at": "2026-11-16T19:30:19.000Z"
    },
    {
-    "title": "Japan’s Economy Contracts Amid Inflation Squeeze",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnNPaXBmZFY0ZFJKNkNqcTNfdXgwNVV2U19YRzZRQTFtbXVNX3ZJRmR0NnlOaTZsZFJ4aGFwOTRaUU9YUHl3NkJhUE9fOUY2LUtUdU5Xdld2OExGMFhfbXQ1M09FWmt0STVDd2NaN1Btb1Q4dlVra0pCQWRqd1lTbnVuSXZMMlNqek0wdW9ZVVJjemxpT1hz?oc=5",
-    "at": "2026-11-16T02:54:00.000Z"
+    "title": "Airfare, gas prices expected to impact Thanksgiving travel: AAA",
+    "source": "The Hill",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTG1XN2hUS1l4SDB6S1EzS1cwbnc1eWJXcThPeE52VzF6dW93d2lGZ1JPVmdHT0RzRzNkTUNIZlRkYUEyaEZyOENFUXk5RTM5Y1FWZUVWZjI3U1FXazJrMll6a2lRTHIxcUZ6RUFFdVp5WW1WVGIwX1BfN1FNMGhWU3NGQW8zWUtJdDhubjZFMVMyaGxlZzRKdGpPTkRmR0FmQ2tBZVJVTFFlUHBPSVHSAbMBQVVfeXFMTXUwS19NUXVEU244b0FvSFJUVGIzb3otZlg4WmNfY0FoRWQwNThoQkNCd3Q2d0J3N0l1enp2V0pISTF4WVZUOVdDTXZvVk1rbmVwUGlSWjF0UnNYTXZpRWROOVRIa25ZbHRrWjZrQ09fN3N5STdBa2Q4aWw3Qy02UGowMWV6d1JWNk5SX0ZSTWNyTWZIbFdvb2ZxeXlHSkRvaDZxbUlsTmdQU3dDelNXaG1DX0U?oc=5",
+    "at": "2026-11-16T19:24:00.000Z"
    },
    {
-    "title": "Japan's economy unexpectedly shrinks as inflation squeezes households",
+    "title": "Gas prices are falling. Why Thanksgiving travel may still dip",
+    "source": "USA Today",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM09vZkdjN2JzRmR0bFM3b0tiZXdQTFU0ZHlHcHBvZEU4NEZHV3VqMVN4c2lEOC13QW9PaUpTY0p4UVpoRXlxTjNCWUZ3ck1IbHVYald2cWRHNWNKOVVZbUxDMlVWXzFmOHV6M1p5TnBhM1lyNnp2OXA0eUZMcnBMdzJTS2NhRlhnMTh6Y2NidlNPZ2FwTG85T1RVdHp1YWRNY0tsSFJURQ?oc=5",
+    "at": "2026-11-16T19:16:00.000Z"
+   },
+   {
+    "title": "India raises diesel, jet fuel export levies as inflation stays elevated",
     "source": "Reuters",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeXFYOEg3cHpDTUFrTU9IRlQyWDlvRGVMVVN3VmxOelY3WnhCREJNdElKcEY5ZWpBSmhoalMzWDdaM0Y5Z0VXbkxVemg3YmdhSUg5UmYybnhFOHhWbVhXdjdoT1BUUGNQUFVtX2o1SkJRSnBJNEdLX081amJyUll6WHFpUk5SaWlkd2JGN0VnRFZKYi1WT1B0NzFUOUVKdkFfcTQ5RmdFeHdvcWI5c2pRaXF6MFBydw?oc=5",
-    "at": "2026-11-16T00:13:00.000Z"
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQUR1T3FvYTAxZENpTnZnX0FmZlZsRUE1SjVHMWsxSjhhUHhRTFBkVFBiVVdiTUlzUE5jVW5Xbng5azJHRHF0aWdZUk5YUVJzbVdRQTFWMGtYb3JaZXZiX0tPWlR3RGd5RVRuUGJxSTJOaHlDZ01aS0ZrRFMxVkE5di11QkRTZTNuT0tIcVJDdzB1WmJFLThwTFV1NVZ2NG5CQ3dsUEdfbkdubk1tMUcwbTkxZHVmRXkzMWMw?oc=5",
+    "at": "2026-11-16T18:15:43.000Z"
    },
    {
-    "title": "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
-    "source": "CNBC",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM2g2VXJDaFI2Q0NVa0xEUFZSSWFDbE1pRE1fajNpUldOYXlXSGtySFdzWGxKbldPYkRPdzVmWW1LaHlBMWdqN2JRdmw2THVGYWFWcmtQTXRlMFAycThoLXRzcWZweTNDYi1xYzVpWnRxMkxJdmlNR0Y1ZlVuWno4TmFlR0JrT1FrUWFzNWVhQTFFMkxrM3dkRnQ3c0FvUWxUc0E?oc=5",
-    "at": "2026-11-15T18:58:22.000Z"
-   },
-   {
-    "title": "Gas Prices Drop to $3.91 Ahead of Thanksgiving, But Remain 92 Cents Higher Than Last Year",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVFHTHF6d2ZDY3ZMa1RkN21JVDVoTG9xUlY1MXlFMVYwS1ZxOG1DOVNKVzdXUkltN2V2NDVnMmJjd1BnTjR1bUt5ZEZNa1Vrb05jUkFwTkZKRUQwU2RRNmI5Nk1Vb2RtR2dlTDBOQm5lWFpKUjFFZlQzeG5jZkM3cjlwcw?oc=5",
-    "at": "2026-11-15T17:00:45.000Z"
+    "title": "Explained: What causes gas prices to swing dramatically from one week to the next?",
+    "source": "CBS News",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQUtyQ3RoTmNsQUtmaW91M0dOODJtYlZReFdScG9NclFsVU8teTFSZTExdzJlaF85VXJRMk5XNy1iTkZNeDhrZm5DcUlPdnpRbDlhZmdoUHhEYS1wZ2QyUXg3ZkJKZ19zSE1aZ3o1c2wtQ2JHYk1QcDN1UmZIODhzLVNaY0N3MzhnVmtzcjltUG1QOUsxbWlVSHNyaklKaWZtT2tTUnBhbGFmT1JzcHpqdjIyWm1MdDg?oc=5",
+    "at": "2026-11-16T17:26:08.000Z"
    }
   ],
   "jobs": [
    {
-    "title": "eToro plans second round of global layoffs as Q3 net income falls 74%",
-    "source": "Wocult",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15eDBMR044RXlhcnlPQWZNY2YtOWFsekExSzdOdUlxbDZtQUthalAyclhCZTJpWi15NzdYblNNTlEyc2hRRWllM3E4YUcwaE5XWmUwbnRrRUxkdUFaVVU1UDlrc0tyUHM0U2xyMlJ1cWRKWEtrVlE?oc=5",
-    "at": "2026-11-16T06:18:04.000Z"
+    "title": "Man's sentenced to 6 more months in prison for using identities of inmates for unemployment benefits",
+    "source": "Magnolia State Live",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORG4yWENXWTUwRnNvbzJXSTZJaE1iaE1HZGdCcC0wNnBiTkx4WExqMkdYZW1weWw1eDl5Wi1MTERScElZOFpQdHloWVlYVUxwX1hIVGZEZ1pzZWFUcjlqbkVOSVdCa3FzVkdYc3NJX2NFNnNRQWxaMFN2LTlhaFlxcDR3ZXBJVFhCaEZwUjVEWlhZY1JUUzYwTDZ4SE96d0Q4VXkzT2xrdjdZZ1E4N3VrbW1LNmsxRWRwOFBMdWdRcGt2YWNyWkJkeFB2UGRJMG53QV83TXhFMVQ?oc=5",
+    "at": "2026-11-16T22:03:11.000Z"
    },
    {
-    "title": "etoro planning (another) round of layoffs following poor Q3 showing",
-    "source": "FX News Group",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTENZc0lHMDFySkQxWjZXYnpUaXhCRVRoRnBpcFVYbGVKOXNXVGYxclJycFphdDZUbDZ3WEt6TFJJazNJUGVLUEZ4M1pyT2ZHdFVNZVV3c09qQVA5QU9kRTJwTXl0aU5ndHdoQjRVdV9VcVhhSk1vWjFqOVFOMlFDSE5oc0Y4Z0dBa1RIRU1CWDhEcUpycHdsa2FtTEZ6SUMtUW8zcjQtS0VWaG1LQ2VWN2hkYWc?oc=5",
-    "at": "2026-11-16T06:11:15.000Z"
+    "title": "GRCC To Host Workshop Discussing WE Soda Layoffs, Declare Vacancy",
+    "source": "SweetwaterNOW",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcWNzWHNjRVplUE5WU1VweUFpOWozUkVsSm5IQklwckNuaGc0QzJJSy15a1RIZ3NrdGRsSk1helBuTzRuaVpCc3ZBZjBSWGlBWWgxM1Y0Nzc4ZGtCWXhneDZvOWxtRi1oMWNvUlpqREtPMkpNQmVZSjRRSnZ3QkR6M1pjQldZVnRHZWp4N1I2ZFppdGVnUjlLM2hmRQ?oc=5",
+    "at": "2026-11-16T21:30:25.000Z"
    },
    {
-    "title": "Nangarhar: Poverty and Unemployment Drive Women and Children to Beg",
-    "source": "8AM Media",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaW5KVFFSTlQtc3JHdWpiQ2xETThIcF9xa2E3d1dUZHc5LTBzZmVQTVgwZGZqRmxOV2hacnZoR2p1Nzd2N0t4RUs3QklvbnJsUUN0SHZJNTQtOGdfS2NyZk0tNE9ZRTkycEVRWmFyRE1xbG5SWW5WTXh0QVBBZm1mSlZn?oc=5",
-    "at": "2026-11-16T06:04:48.000Z"
+    "title": "Study: Manufacturing Among Industries With Most Layoffs",
+    "source": "Advanced Manufacturing",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVE9HZldNS19JU1ZtcGlLQmlLVGRPZzdBbGhyU2RTbmV2WkVpSGUtbVoxVFJSaFJrNGdlei1Nd3VwRE50X2FEeG95RmxUQ3EzOGUxVWtRNHE0MmFhRXpaLU5xSE5YYVc1bjJvZGk3ZFRfekRJQXY0R2NBcEQ0TEZ5cmJNcmlscmNfYVBRT1Q2N3lyOGZ0MDlkOVBoeFRrTmFZYnlYdnRoaUxJek1VdTBEYnFubHFiUm5JdUlCOFFfMDZZLTBlOWVHb202ckRpWjVuQllibzBtTndoZkppblhVS2ZDd3duVk0?oc=5",
+    "at": "2026-11-16T21:27:00.000Z"
    },
    {
-    "title": "Welfare changes for young would be a start in reducing youth unemployment",
-    "source": "The Scotsman",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObkpsMVp2RmtuOURWZkRKOFhOUmdrdXI1R21fZkVNLXZ6ak4wbXcya21ldWowRU4wLWgwY29taUxQMHllal9yNng4VjJmYndLOVh3QlF1eDRRUC0zbmhmNXZISmdMNl8tQzE0QU9uOTgwSWhfWU5UanV4MXR5TzZiQnpTX0FxYklBUUJuRWhYekxyWXJQWml0YVBneXBqRnJtbE1NazZlTzhJeUVuUzJYV29hd0NsX0VXcnZv?oc=5",
-    "at": "2026-11-16T06:00:00.000Z"
+    "title": "Unemployment rate in Arizona is the 6th highest in the country",
+    "source": "12News",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNENUbFprc0NYeFFtbW5aQzRUTjgyREVZNkJ3S2xqSUpwYnNTSUxQNG9PWEtWTjY1S3Yzb1o2UmtWMkxnd01feDRlQldkclBGWm9NVmZQQXNqY1JxNXB1aGwyV1E4MWtoRlBUODR2XzhIMTJXQ2VOaGd2d3A3Rk54YW9CbXJIT013bDZBRUswOVhFMjhmNDF0c3JlRGd6cndUMnBDQnF2VkloR3ZCRVQweVF5YkdEX2FXc3g2a2xfTzNnX3p4UlJ3bjBnRk00alMyUTlPeWhnS2lyYnduMnhJTk9tMm15bmF6?oc=5",
+    "at": "2026-11-16T21:20:00.000Z"
    },
    {
-    "title": "South Africa’s 47.3% youth unemployment rate puts skills development under pressure",
-    "source": "The South African Star",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOUZrMV9XM0Q5R0ItWktSdTZoREFyX1dRZlZkMnJPcF9CRENRNTdCSDRlZHhHOGZQWmJYcWMyQTRVRElmcm12T2w1QXpXTVdfQmg2MWliTmdkWlF3b2VFMlNpSy0yV2ZBNEhQSmpsU0JlWnpFLWhxSUxZVXlXTV9BSFpBUm5ucE9oUzJkNENfZm16XzVneHd6cmRyS3Bja2hFZ2sxYjF2N1c1bE9JaF9JSW1BMHdJYjMzNUVleHBERQ?oc=5",
-    "at": "2026-11-16T05:42:54.000Z"
+    "title": "Morton Salt workers sue over layoffs, said company was warned before mine flooded",
+    "source": "Cleveland.com",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWnFBXzA5WmlEQ1BBTVlYNktFM2tMTkZqcUJlcmdRTGc3VVF0NWFDa29LNnRKLVU1clNaWDVLb3BtZHZTOFI1b3dwSzRYTHN2SVo5SjFoNlJ1SFl3d0RnbHRaMEdKV1J4VENKVXgzak8xbFoyZ2diM1p2a0Jqd2VId1BZdU10Z1hpdnNPT2JMenEzN24xX2w3ZHZxbnp5T25wMk42cXZmOTQxb2ZnUHJCRXVsTkRCeXlhSU9OaDR1dDhGUQ?oc=5",
+    "at": "2026-11-16T21:13:00.000Z"
    },
    {
-    "title": "President Calls for Enhancing Quality of University Education in Line with Job Market Demands",
-    "source": "https://businessinbangladesh.com.bd/",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOazQ4QUZIenpVTHhyMncySVpZRmV4N2tzWUlYS0lTT3NkVmRYeHNmaUp1cXpITVlXNlAxOTEtT21YVm5ycTEycTJwOXM5bWFDVGR0eHhrUDZ3ODRSVWRZUXpidFFiTG5rTTFXbHpiUjB3d2NzYlVZQW9pS245MDFMRDhnRE1kQ3I1OVpWdHVGcERaTXYzR1NVNENaQ0sxSTlGLTQ0ZGJmajY2N0hIaXpaMWhRS1ZzVHpVR3l4RGNTcmZnU1VONHRObDhB?oc=5",
-    "at": "2026-11-16T05:40:25.000Z"
+    "title": "Heather and Poolboy out at Alice 107.7 after surprise layoffs",
+    "source": "Arkansas Times",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNXhXYjFCc2UzTUFzMFJPUFB5aWZTdVZ4UFFORURjRVduUjdKZGl0UHo0MUlzZnB5SU9zdnEzNm5CaEd0d3hEMEZKQklFUm1jb2pJckpxejNPQ0t6enZpMWZHVTA3M3pNbUZ6dXE2aW1XRl9nbGRrTE9RTG1nUE1xSkF2R29DejhyMEFLOHp5aXotY0hxS09wNWxzdWI3b1lMME9vZGtHSU9zaWpQSXhF?oc=5",
+    "at": "2026-11-16T21:07:54.000Z"
    },
    {
-    "title": "Young Europeans Are About to Walk Straight Into the UK’s Jobs Crisis",
-    "source": "Bloomberg.com",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYUpRa1JjejZoQkVOdFRJdl8wVzVDQTlQUXNwNGlLV292SnRIZEdkYkhqZ2ZCQWs2R29XVHVkLVpBMkszNm80ZnlBMXhKTFZoSEV5ZEJMNjV4enBsRUgxRVlqQjhZWkZGc3pTOXA4YWU4bGl5aWxTUHJ0MXRxM0dsQWwwbnRqZlNRMmJqUTFQQWRfM2RiSHZ1QzJKWnNaR19vcW5TLVNoOXFpY0wyMjNfdkx4WHpiWW9sVGlv?oc=5",
-    "at": "2026-11-16T05:30:00.000Z"
+    "title": "Mississippi man pleads guilty to unemployment fraud using inmates’ identities",
+    "source": "WLBT",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMHN4bXV3bmNRNVJhRzhESG5KSG93dGdEMGYtNmxaNGljdmQtM04ySklhYWEzLW9HNWk2eEJPaUphd2ctRmlBQjZRemxzMGg3OFZ2bVdUVUdaUVhmTmQzb1k3UC0wVGZIbTg3bHR2RUR5MHBsbDE4MnppbENlTjJfejRRT01lR0pVYlEwWWlJdzlweG8tMUU1WnFOTHM2N29WN1oydUM4eTRkUdIBvgFBVV95cUxOa3hWUHhyMmhxS0NVYXZiUzJCSXRJWXlFajNyMm94VDRkV3RjSlNrR01FSndYX080R0hEbjhpOU9LMlJYRC1mc0d4RTY2RjRvWFdnNUJjd0xWTkk5QUQzNHkyVVd5WFdrVjRnMjF2cFdtYWVDemZPN3lNV3RDWmoxNjRFa0E3MVlpajM0T2g2Tk90Y3NiS0FGeUt6SVpVaGpyY1V1WHRReW45ZEdvZmJDNUlMSTRQNHZ6TUlwOTVn?oc=5",
+    "at": "2026-11-16T21:04:00.000Z"
    },
    {
-    "title": "Peter Burke: Why is it controversial to say that those who can work should have a job?",
-    "source": "Irish Independent",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQVBBX0owNlJjWnVCUFFmZ1gxSkxIYlhqTFVMdHJWdjc4OEd2RENNcjZLQUxjMkl3Ty1BQ1k2WVhNeDltc0VRNXVMUkJqVjhTQWUzeENNWEFkQlliQXdFQTExdU96STBsY0RHRXZkb05MRUpnOGxJWnhJRU1oeXhtdUoxc1hBbElrN0poM05aU09WSTRfbkthNlFlZmEyeHNRSlg4QndCeUtvNVpxdG1weHRLRGJOR21zV2JUOGlyRkJsMFBEYWtSTC1PQkJyRGhVOEpIRmU1UVVVRkZW?oc=5",
-    "at": "2026-11-16T05:30:00.000Z"
+    "title": "City of Toledo confirms 89 layoffs in $373.2M proposed 2027 budget",
+    "source": "wtol.com",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNmNZSEZWRnRsdVoxdC00bi1XTTNkLWprVUxvVm9iQ1JNY1hwdmVrU2RCRGd1S2VQejdrWlp4Z0hkUlNPM2JWbjdhMmhIa0dpT01TT1ZoQnVXaGZDTDFGR1F5ajkxeUY4N3UwcW9RUFVaOVRfYTVEQ1E2RER5TGdGZHJIZDlvMktsSkVxRzVmM2pQYzZvS25DOWV4NmFCOXZtekx0YWR3?oc=5",
+    "at": "2026-11-16T20:56:00.000Z"
    }
   ],
   "debt": [
