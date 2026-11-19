@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-19T07:29:11.776Z",
+ "updated": "2026-11-19T20:39:28.421Z",
  "ticker": [
   {
    "name": "Mortgage, 30-yr",
-   "value": "7.11%",
-   "dir": "down",
-   "asOf": "2026-11-12",
-   "when": "Nov 12"
+   "value": "7.28%",
+   "dir": "up",
+   "asOf": "2026-11-19",
+   "when": "Nov 19"
   },
   {
    "name": "Gas, regular",
@@ -94,14 +94,13 @@
    "cards": [
     {
      "name": "30-year mortgage rate",
-     "value": "7.11%",
-     "when": "Nov 12",
-     "asOf": "2026-11-12",
-     "change": "+0.87 pts vs. a year ago",
+     "value": "7.28%",
+     "when": "Nov 19",
+     "asOf": "2026-11-19",
+     "change": "+1.02 pts vs. a year ago",
      "dir": "up",
      "tone": "bad",
      "spark": [
-      6.84,
       6.81,
       6.69,
       6.6,
@@ -204,7 +203,8 @@
       7.32,
       7.24,
       7.18,
-      7.11
+      7.11,
+      7.28
      ],
      "source": "Freddie Mac"
     },
@@ -2610,6 +2610,10 @@
      [
       "2026-11-12",
       7.11
+     ],
+     [
+      "2026-11-19",
+      7.28
      ]
     ]
    }
@@ -5271,20 +5275,20 @@
  "news": {
   "top": [
    {
-    "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+    "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-    "at": "2026-11-19T03:45:00.000Z",
-    "image": "https://images.mktw.net/im-04093243",
-    "desc": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”"
+    "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
+    "at": "2026-11-19T20:28:00.000Z",
+    "image": "https://images.mktw.net/im-92945277",
+    "desc": "While executives typically buy shares to signal confidence, CoreWeave co-founder Brian Venturo is turning to the bond market to calm AI jitters."
    },
    {
-    "title": "Two new housing reports point to bleak winter ahead, with record low sales",
+    "title": "Rising rents draw Wall Street money to industrial outdoor storage lot investments across the U.S.",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/18/two-new-housing-reports-point-to-bleak-winter-ahead.html",
-    "at": "2026-11-18T15:09:45.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108504894-1793638641411-gettyimages-2228117832-dji_20250801174214_0047_d_tncpqsfz.jpeg?v=1793995121&w=1920&h=1080",
-    "desc": "Two new reports on the state of the housing market show things are just getting worse, as high mortgage rates and inflation plague builders and buyers."
+    "link": "https://www.cnbc.com/2026/11/14/real-estate-rental-income-industrial-storage-market.html",
+    "at": "2026-11-19T16:40:23.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108549406-1794431992526-gettyimages-2228684594-dji_20250805110916_0215_d_jsenib21.jpeg?v=1794433155&w=1920&h=1080",
+    "desc": "A real estate investment in markets across the U.S. called 'industrial outdoor storage' is attracting Wall Street giants including Brookfield and Blackstone."
    },
    {
     "title": "Nvidia sees strong growth in first earnings report without Huang",
@@ -5311,28 +5315,20 @@
     "desc": "While the rise of AI continues to fuel the debate over whether college is worth the cost, apprenticeships in the skilled trades are having a moment, drawing in people of all backgrounds including college graduates."
    },
    {
-    "title": "Several companies are using Trump tariff refunds for corporate bonuses",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/16/companies-trump-tariff-refunds-corporate-bonuses",
-    "at": "2026-11-16T17:52:13.000Z",
-    "image": "https://i.guim.co.uk/img/media/976a600cf5e5d4314c2ee38b26b60463569d5dbc/665_0_4653_3722/master/4653.jpg?width=700&quality=85&auto=format&fit=max&s=14b85154dad5c4bb0508d9e14633135a",
-    "desc": "Some firms are directing refunds to corporate leadership instead of reimbursing consumers, ProPublica finds Several companies that received refunds for paying Donald Trump ’s tariffs have put those funds towards corporat"
-   },
-   {
-    "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+    "title": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-    "at": "2026-11-19T03:30:00.000Z",
-    "image": "https://images.mktw.net/im-96657818",
-    "desc": "“Our financial and healthcare situation has become increasingly concerning.”"
+    "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+    "at": "2026-11-19T19:15:00.000Z",
+    "image": "https://images.mktw.net/im-64330534",
+    "desc": "“We have a house worth $450,000. Our combined annual income is $125,000.”"
    },
    {
-    "title": "Mortgage demand turns lower, as interest rates shoot back up to the highest level in three weeks",
+    "title": "Two new housing reports point to bleak winter ahead, with record low sales",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/18/mortgage-demand-turns-lower-as-interest-rates-shoot-back-up-to-the-highest-level-in-three-weeks.html",
-    "at": "2026-11-18T14:17:18.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108550427-1794511293397-gettyimages-2304810339-_73a8594_edokdhsx.jpeg?v=1794511390&w=1920&h=1080",
-    "desc": "Mortgage rates moved sharply higher last week, causing demand for both mortgage refinances and home purchase loans to drop. Rates hit the highest in 3 weeks."
+    "link": "https://www.cnbc.com/2026/11/18/two-new-housing-reports-point-to-bleak-winter-ahead.html",
+    "at": "2026-11-18T15:09:45.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108504894-1793638641411-gettyimages-2228117832-dji_20250801174214_0047_d_tncpqsfz.jpeg?v=1793995121&w=1920&h=1080",
+    "desc": "Two new reports on the state of the housing market show things are just getting worse, as high mortgage rates and inflation plague builders and buyers."
    },
    {
     "title": "Nvidia earnings report beats expectations, raising predictions for next year",
@@ -5351,30 +5347,38 @@
     "desc": ""
    },
    {
-    "title": "Americans relying on heating oil brace for harsh winter: ‘We’re often cold in our own home’",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/business/2026/nov/16/heating-oil-price-increase-winter",
-    "at": "2026-11-16T11:00:58.000Z",
-    "image": "https://i.guim.co.uk/img/media/d01f4f4effab01ef64a2fc21dcdf4c74f6e88da5/412_0_2439_1952/master/2439.jpg?width=700&quality=85&auto=format&fit=max&s=7f5e91bc7f5baee9260d105007c2e0ba",
-    "desc": "Surge in prices is forcing many to cut back on spending, with a projected 21% increase in costs of those households Millions of homeowners in the US will pay hundreds of dollars more this winter to heat their homes as ri"
+    "title": "The surprising reason the U.S. economy is speeding up — and might have more room to run",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/the-surprising-reason-the-u-s-economy-is-speeding-up-and-might-have-more-room-to-run-9016c8db?mod=mw_rss_topstories",
+    "at": "2026-11-19T19:13:00.000Z",
+    "image": "https://images.mktw.net/im-25062036",
+    "desc": "The main engine of U.S. growth is in overdrive."
    },
    {
-    "title": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
-    "at": "2026-11-19T01:02:00.000Z",
-    "image": "https://images.mktw.net/im-839193",
-    "desc": "The company boosts its outlook in the face of the “current threat environment and demand we see ahead of us.”"
+    "title": "Mortgage demand turns lower, as interest rates shoot back up to the highest level in three weeks",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/11/18/mortgage-demand-turns-lower-as-interest-rates-shoot-back-up-to-the-highest-level-in-three-weeks.html",
+    "at": "2026-11-18T14:17:18.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108550427-1794511293397-gettyimages-2304810339-_73a8594_edokdhsx.jpeg?v=1794511390&w=1920&h=1080",
+    "desc": "Mortgage rates moved sharply higher last week, causing demand for both mortgage refinances and home purchase loans to drop. Rates hit the highest in 3 weeks."
+   },
+   {
+    "title": "Stocks Down Just Ahead of Nvidia’s Earnings Report",
+    "source": "The New York Times",
+    "link": "https://www.nytimes.com/2026/11/17/business/economy/stock-market-nvidia-earnings.html",
+    "at": "2026-11-17T20:38:02.000Z",
+    "image": null,
+    "desc": "The chip maker is scheduled to release its quarterly results amid broader jitters about the A.I. trade."
    }
   ],
   "housing": [
    {
-    "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-    "at": "2026-11-19T00:30:00.000Z",
-    "image": "https://images.mktw.net/im-49247042",
-    "desc": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves."
+    "title": "Rising rents draw Wall Street money to industrial outdoor storage lot investments across the U.S.",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/11/14/real-estate-rental-income-industrial-storage-market.html",
+    "at": "2026-11-19T16:40:23.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108549406-1794431992526-gettyimages-2228684594-dji_20250805110916_0215_d_jsenib21.jpeg?v=1794433155&w=1920&h=1080",
+    "desc": "A real estate investment in markets across the U.S. called 'industrial outdoor storage' is attracting Wall Street giants including Brookfield and Blackstone."
    },
    {
     "title": "Two new housing reports point to bleak winter ahead, with record low sales",
@@ -5401,28 +5405,28 @@
     "desc": "Homebuilder sentiment fell to a 14-year low amid high mortgage rates and higher prices for energy, labor and materials. That caused more builder price cuts."
    },
    {
-    "title": "Angry America and its housing market",
-    "source": "Financial Times",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd1Z0UjJGeGdKamFlSTRuZFBuWHowVmhHdkwwbTh2VVBuVmExcnQwMWtRbTVpUWhyNjlPSHNva2JMNmw5WWJRX3VyNG5CdlNLM3EtVFVmaFhjZGRnenVHUzZNbWpBQS1pWmJXaDZiWHBNZlprQ1ZiWWRoVndhNkUtcVpDYVE?oc=5",
-    "at": "2026-11-19T05:00:17.000Z"
+    "title": "US mortgage rates rise for the first time in five weeks | CNN Business",
+    "source": "CNN",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91NEFmZlVFa3B6ZWd2Snd0ZzJ5WDZxd2VVZzMtMWpxWjNwdWltMEg5cFliRG5sQ2xROGRheDlrMWNGWVBsS2I2SWJqa05ybkFSV0Q2TWNpcXlmQ04tV1c3RXpTNVpKUDhfZFIta3h3?oc=5",
+    "at": "2026-11-19T18:39:27.000Z"
    },
    {
-    "title": "Today’s Refinance Mortgage Rates | Rates Chart",
+    "title": "With Mortgage Rates Rising, Should You Hibernate Until Spring?",
     "source": "NerdWallet",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fWlF1X1h3N25UOUQ2SXphbHpiZXlHb1l4eWdZOFhvT1FkTkNFNXVtc1pOVWhPRGNoYlJzcU1yZVp6NU83VUtoY3kzODItcDFIRWIta241QVFiNUc3dkdwOV9ydDlHWHhBWnBkeTlMQzlJM3YzY3c?oc=5",
-    "at": "2026-11-19T04:36:12.000Z"
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aTnIxTERXcGw1TXZPdUtWVUNuMC1hT0FLSnFBM3J6X09nSi1JZWFGZ1QyR2pnTXMtNHZVeTdSbzN3OGlTZG02ODM0TWdwLV9KcHppTkRmSHJobTQwVnlHQzM1VE9tM3FJNW5SSGF0MGV5VldoUUJIb0dMUkc?oc=5",
+    "at": "2026-11-19T18:29:08.000Z"
    },
    {
-    "title": "New York City's first-time homebuyer program can help potential buyers break into a tough market",
-    "source": "CBS News",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdjJ2Q29tTzlqcU9uSnNyX1N5TDE3VzhsOUZkb2ptajR5Q3p4V3R2N1JaSFlSZ0ltb2xqUnlfaW0wYXNqZ0RxeVphTkJkamJOenM4UGNnZnRFOVA5bkt5ejFYNGpQeWNFNVFnZmhjY29IY1NRZEVQWWtnNFlOVVROdWR3MEhRRGpjdlN0azJB?oc=5",
-    "at": "2026-11-19T00:11:00.000Z"
+    "title": "Rates Jump Again as Inflation and War Worries Persist",
+    "source": "Realtor.com",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRjlGcW03WUdLOVIxbW41S1hjQjJRRUEydWF5YU0tanR2YU9wWTZRV0Q1eFlYSEJUbktDSWR1aW5vUkRhMUVNaThmQWdPb3BXLUxuVWtFUklKbHhjTURYQXo3aGJnbllFZjZLelhQQk95eEoyc21GdXVDQUdtUjE2LXdRZw?oc=5",
+    "at": "2026-11-19T17:26:41.000Z"
    },
    {
-    "title": "Mortgage Rates Move Back Towards 7.5%",
-    "source": "Bankrate",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd0thVTZMeEFHTHotWGxpR1hENTZWak5vbThnamlOSlVuZUx2cFM3UkhwS1dORmZ3a29BU3BEbjNNRGpmRGZvcmZkTkhnbERXNjlkejBhYVVaUENLeDRGejRXUmZWLS1PNHMwNk9uZ0V6WUtCbFZhOGFibzdGZWVPdjlB?oc=5",
-    "at": "2026-11-18T21:50:10.000Z"
+    "title": "The average US 30-year mortgage rate rises to 7.28% this week, ending a four-week slide",
+    "source": "AP News",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbU5VcjZtVGoycThWMjhJUWhyM1B2cWYxckh1LWpod1JrU1VhZWQwOUhVa2lCRTI5SVY4UVNGTHN6LXF2aXFZZnJtcVlSSGt3ejBjZTFjRWFOSExNZENqN2xBU040WlBBM1AzUkVIUUFVNjA4QjJ5R2F5TlhmTkFuTm9SMzAzUVE2d0RFdnQzSUY1RjJQMTlvU2VkY0JpRDd2UEZYczNUYTJocTF5Vmpz?oc=5",
+    "at": "2026-11-19T17:26:22.000Z"
    }
   ],
   "inflation": [
@@ -5435,59 +5439,49 @@
     "desc": "It put the U.K.'s annual inflation rate at a 1-year high."
    },
    {
-    "title": "Several companies are using Trump tariff refunds for corporate bonuses",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/us-news/2026/nov/16/companies-trump-tariff-refunds-corporate-bonuses",
-    "at": "2026-11-16T17:52:13.000Z",
-    "image": "https://i.guim.co.uk/img/media/976a600cf5e5d4314c2ee38b26b60463569d5dbc/665_0_4653_3722/master/4653.jpg?width=700&quality=85&auto=format&fit=max&s=14b85154dad5c4bb0508d9e14633135a",
-    "desc": "Some firms are directing refunds to corporate leadership instead of reimbursing consumers, ProPublica finds Several companies that received refunds for paying Donald Trump ’s tariffs have put those funds towards corporat"
+    "title": "‘Most people haven’t run that math.’ How to test if your portfolio can withstand inflation",
+    "source": "MarketWatch",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZEpZUlQySzFDM3NoYmdLUWlKQXdlMVpwZl9TR1UtTkptVjRsck5OcWpHODNuNklkN2VfSEpmUHhGa3d0UVVUa2h1Q3djTjVqVG41d215V2V2NG43TkdsS0Zqei1ncmhwYWFNdVc2bGNPYUZHNXpVN2ZtbmpCM0diVUZTTHdfLUI2aE11UzBWb2lxcGQtQlFlUE53Q2xlR0xmTk1Rdkh5RnIxaVNPNXFR?oc=5",
+    "at": "2026-11-19T19:36:00.000Z"
    },
    {
-    "title": "The Inflation Fight May Be About to Turn Painful",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM0taZlpLMjZNSHV5LVZIWktScXlHVHB3Ri1SMElOR3UycjRibjRfTUM1Y05nQW1SYkljelpjVkdkaGFXRVQyeHVpZTB1T1h1SWQwNHRPTUlTTUJFS0tFVHR1R0c5M1ZLWWlxYmN0aEVqSzZRYkROWlhqTEo2Q2daZEZ2S1lwaDAwRV9lU1lGcEgyM00yOTZBVW9MYw?oc=5",
-    "at": "2026-11-19T05:53:45.000Z"
-   },
-   {
-    "title": "Have High Gas Prices Made You Change How You Drive? Tell Us About It.",
-    "source": "The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMlhOSFhnS0gxeWJ6VmVuUWJENWVFMUFfZVlVd25TQnJRUEpRS0hJWHppUHZYbno5bURZZ0lBM19CclJNQ2VvNDlZR2o0ZVFyVHFfcnE2ODl2X25BMVdGaHRjZG1hVUo0T0MtWHIxSlBVOUF4X2Ruc2JneGtnUmxpYmFXbmVHNWFoc3FOQTVuSTV1cERpRzE5ZzJwWjExOWdGWmhjZHFn?oc=5",
-    "at": "2026-11-19T05:00:13.000Z"
-   },
-   {
-    "title": "Trump touts U.S. trade deals, inflation despite increased rates",
-    "source": "NBC News",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN2FLWjVnZEU0VzI3N004RXN6RFc5dTl4V25ZTDc4M0pfX2dJZ3c4RnNZV2NkYm40cEZmVGd5ZXRySUtxOXpxLVhhbUlnVzRFT3lBUzhzeF9SejY1WElMN1FQNzFIblJxYjdmOGRJWGFGUlRKWkdvd1o0TkNEbnJwNXJMaV9XazMwRFJOWjdnbV9CMUJfd2lQd2trMHVxWWRJSGNnb1Z3QQ?oc=5",
-    "at": "2026-11-19T04:03:38.000Z"
-   },
-   {
-    "title": "Global inflation calls for monetary policy tightening in many economies, IMF head says",
+    "title": "J.P. Morgan sees Fed rate hikes at next three meetings as inflation persists",
     "source": "Reuters",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNek12QlczdG01emR1MWtEdU8zWXFZalNKUWE3cDR4Vm9YbFNVaU51Y3RxT0Ywak8yV2FrSUQxelVFRDBRZlFwblRqMWctbmw5TUFja2xjSEh3UW1PQUJtTEVmb0FkMVpoYkg0UWVFYkNOZXhSSU54RUJxOTVOdDNQaEk4N2FqUjdWQjNpSk1yZndSZjhzcURKc2dUT2RLOUVqb3dwUGExZG1KUm4tdk05VzBDN0N4SGhvbFdxZg?oc=5",
-    "at": "2026-11-19T02:43:00.000Z"
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWkZwc3MzeGxPMldOWGxwZnk4UFBSWGtfVC1pTnBnQXVRZzBrNTBzdGxCc05WSU5KNjVoTk1XSm82Q2UxSms1WnhkT05tTG5xU3JULWRtUTVOSlpmeXgyNTFWRVVOX1BTS3ZNaDZEendqbkJJNXlMSndLb0JiQjJ0dEhnMWs3bm5RX0hDNTZ4SVlaamJTU2ZDZVJ1VG8ycVpNdXR3NFdKMHhDVjdlUWMyWmhwVQ?oc=5",
+    "at": "2026-11-19T18:53:15.000Z"
    },
    {
-    "title": "Inside India newsletter: Foreign flows helped the market recover. Now it faces the inflation test",
-    "source": "CNBC",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQXJzSFVRT3F5bTNfazJQNnFQZFVoeDJrYml1TjgzSnRmNVF0UFpMa2JMNkppaHI0SWM1US1qOHVYS1NrQkZqOGE1b3U4Uk1xMmwzOThXYmlkdG84V0dlN0NabEUxdUV1VVA4QkRacGdKTXJ0d05HdmdJd01maDV5aGVRQdIBiAFBVV95cUxQMlpRaFh0Nk54cDduSERwc3FJX1hDSXpPUmNlQVBxZWJKOTBtTEZUUUd5YlF2bzJ4c3locHNCSWJVRUdFSHJ4amRNa0FXTFkweklkdjFBUkJuOVhHODJYMXBhSUdkQ1YwVENNX2Zxc1U3a3EwOWs2bVYtM3hCd2ptWjJaUEthVURS?oc=5",
-    "at": "2026-11-19T00:01:00.000Z"
+    "title": "German growth and inflation set to accelerate, Bundesbank says",
+    "source": "Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdm9rYVJJOTRRR3ZKTUw2NnZmX3RQeGp1aVdXTnBza3RsSmhqZktMSzlMNDZpYkREQ2k4YTVYT3ZCQW1SSWRMV0VFVGlFa1U3NnZGZ3l1V1VXVmNMMlpaVlZuRjdiUHNEOG1Iazl1VG5iT1FNbkhHY1I2Y01uaVUzQ3hwWUlPVGQwdzZpR1BxeEhrZUY1ZEdXNWotTkJsYTFzS1FTRXdR?oc=5",
+    "at": "2026-11-19T18:27:52.000Z"
    },
    {
-    "title": "Fed minutes: Higher interest rates needed in December as inflation worries mount",
-    "source": "AP News",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd2Q1ZnpsMjBsaWNUMEJIVUxmTTNSeUYyOWphQWtydFJKbDIzN3JiUXpvcEQ0dnhBcFVhRHdGWTR4dTRCQW5FNi1BVE8ycGtnTXEtWkZJMS1COGc5M25oUmNWb1hMemNpZ0p3MlRGSjBRLU1rX2cwRUlrbjNCWEcxazRkazhVd2dTUUFuWU1KN1RiVHBURHc?oc=5",
-    "at": "2026-11-18T22:48:00.000Z"
+    "title": "Rates Jump Again as Inflation and War Worries Persist",
+    "source": "Realtor.com",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRjlGcW03WUdLOVIxbW41S1hjQjJRRUEydWF5YU0tanR2YU9wWTZRV0Q1eFlYSEJUbktDSWR1aW5vUkRhMUVNaThmQWdPb3BXLUxuVWtFUklKbHhjTURYQXo3aGJnbllFZjZLelhQQk95eEoyc21GdXVDQUdtUjE2LXdRZw?oc=5",
+    "at": "2026-11-19T17:26:41.000Z"
+   },
+   {
+    "title": "Mortgage Rates Surge Again As Stubborn Inflation Ends Brief Reprieve",
+    "source": "Realtor.com",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeFZOY0VKaHRrbEFzZkctWHl6Z1hnVzZXSktIdk5tZGRocmFreHppb0dxRTNpWEc4azVOeHlwTDdrZVJZQVgtcWQyT3V6Wl8wYl80a2lwbHhtX01RUXNGdXpGYlplQThsM3RUWmFENjY4MXF5aUswaEh1NU5Ha2ZvMDRhZk4?oc=5",
+    "at": "2026-11-19T17:00:00.000Z"
+   },
+   {
+    "title": "Mortgage rates move higher again as inflation jitters mount: Mortgage and refinance interest rates today, Thursday, November 19, 2026",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOZWxzVFZ5V29kVEJ4emJ6NndBMGZWLWVIWXVMS0ZrUS1xX1o2dk1jM3FtUTdaalVqal80cVVmNmNvMGVBRDlDdmFGVmh1WWxrUWhZSEU4U0pYUTY1eGNBZ2dXeWpzRkpmeHNPYjJXQjdndC1qSHRTM1JseVY5RlF5bXJra25XY0pIcWUybUprREpoZHFKYV9GNXpxaGZxWGcwRzM2OVlQelY0Z256VlQ5ZVVYZjFDck9feUc0VkRNR2xUaG0yR2FuRlE5QTlCbElaWm02U2g5V1ozcVVtUGx3SVRSdW1SVUplV2FxMnVYYlZWc0J5d3NtSzhQdUxiZzRaazVVQU5EYk1xdENRQ3FnU0xMeS1rY1M3U3RfRmtjamF2N3lsZ1dOcDZhMjVkZw?oc=5",
+    "at": "2026-11-19T17:00:00.000Z"
+   },
+   {
+    "title": "‘Anyone forecasting 2027 is forecasting data centers’: The Fed is about to hike into an AI boom it can’t cool, and Main Street gets the bill",
+    "source": "Fortune",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObW0tVzQxXzlMSW5fdDEtdFIwNzh2Qlctak1jZDJRVDVZdGZVbWUzX3FFdWpvRjd2MFE1Tjdld0xGUTlfUkpHU2VJU1RtYThnMTVsRkpobU12TW5DUE9qbmpHbjNYZEEta01kYS1Sc25UR0Q1R2VIZmRERnJHTTE4LUpQYlZyWG8xbVdNcmxOTmUxSlg4Uy1ULQ?oc=5",
+    "at": "2026-11-19T15:44:00.000Z"
    }
   ],
   "jobs": [
-   {
-    "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-    "at": "2026-11-19T03:30:00.000Z",
-    "image": "https://images.mktw.net/im-96657818",
-    "desc": "“Our financial and healthcare situation has become increasingly concerning.”"
-   },
    {
     "title": "Trump had urged Jensen Huang to fight for his job.",
     "source": "The New York Times",
@@ -5497,10 +5491,16 @@
     "desc": ""
    },
    {
-    "title": "UK Treasury opposes flagship plan to tackle youth unemployment",
-    "source": "Financial Times",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVEZ5RjJHTnY2ci1KUEl3WF9sU1FsMHMtX25HVnF1dHBTUlNFcXNtX1F3RnNQUWlRb2htc3RkRTE1ODVjSmZQQWNVR3NpbkRnRTJFal92ajBPZ1VVNm92UEpFaVR3UDZsdENHZ0FCZEFtYzl5NGY0Y1dDVlM3MWlQYWh0M1g?oc=5",
-    "at": "2026-11-19T05:00:28.000Z"
+    "title": "Here’s how we can give Neets a fighting chance | Letters",
+    "source": "The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMDc1Z0x3VFMtSlJvZUwxY2xWYi01akxwV1dMTmY2dzlmekdESVpYbW5hSlEwaWhRTWhEb2hXWmxNVE0zNlFyRHZ3ZmJMdFBVSUJ1Ui1GWjh1ajUwaEc1WmhSTFdTRkdENXdZejZGZkhDVmItRlBpQXItOTdsWnljX3ZVb0N0QWtOd0ozNFZQbXlWVEJtNVg2MQ?oc=5",
+    "at": "2026-11-19T19:01:00.000Z"
+   },
+   {
+    "title": "US weekly jobless claims edge up, but labor market remains resilient",
+    "source": "Reuters",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUjdpV0lCY3lUWlhjZzVkdTNNa1hrazREdFRCMjFSRlpzYmpXNlpYeXdOeXJyZk44NGQwT0FuN1cxdWRyUWtLenNCTGNDSVM0NERhNW5PemtfbTI1UkFtcDdvUklKdjZZM2c4NTZlUVBlYVF5SVBubVFnbkhueHNTWDhLd1c4MVJLM2g1ekQ3bHo?oc=5",
+    "at": "2026-11-19T17:06:57.000Z"
    },
    {
     "title": "Australia’s Jobless Rate Rises to Highest Level Since 2021",
@@ -5521,19 +5521,37 @@
     "at": "2026-11-18T22:12:46.000Z"
    },
    {
-    "title": "CRM Stock Layoffs: What to Know as Salesforce Reportedly Begins More Job Cuts",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdm4zYUtDcmZ2UU1FanE0Tl9KS01OaHZLRVJ5X3hkRV9wVVRxR05XZ3ZjNy0zLTR5MU9ZVzNLODJSUGVJZ3R2UmxneU9UN1puQ3JIWXh2cDVrcS13Ukl2cnBIMXgxZ3E3TGtvbF94N1QtMVFRWW1IakVnZFoxcE9ZVEN1aEk2eXhBSHNBOTM1SVpoaUowdTBDR3llMWhZSms?oc=5",
-    "at": "2026-11-18T22:01:29.000Z"
+    "title": "Tech layoffs flare up in San Diego with hundreds of layoffs at chipmaker",
+    "source": "Los Angeles Times",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUDdZUWJaRlNQeUtMa2V3dVlRUGQ2NmpNOU9PYWo1dnZBTjBHUkZ6V0tOSXVpRU94dWxySjdZM3RPNEpjQ3BQWTJkQjgxeHdPX1M0VExZSkxzbHNLUHpOYjRUd1NuNlNhTmtTaUs5cnV6Y2I2Z05wWGhkNnlnRUoyb2ZCYmRmTHlSOXZqZ3VBZXlHMEIyOTJhWWVlR1pBVVBYczdqVXNsaVF4eHY2TXNTUFZWSm1xOF9xODJncmZqRQ?oc=5",
+    "at": "2026-11-18T20:45:23.000Z"
    },
    {
-    "title": "Intel conducts another round of layoffs as part of ‘broader strategy,’ company says",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUktqTGZVSFJ3NHdhMERTb0k1OHh3V1ZGYWlZaUYxY0ZaeENUY3FZdUVwS3JQdzdQSldZU1pqUjFoaFlMNkpWWmk2U3NNeEd4bTFXbDVobVFiS2dMOWs4WHFIaGNhdEJiVU1OMHBoYTU1NHdXNjFVNzJqX2paZnF1U25Xd0xFOE44aWk1R2NWWG12TXNZNEc4R2MxMlZsX0Zfd3JB?oc=5",
-    "at": "2026-11-18T21:05:25.000Z"
+    "title": "Salesforce Suffers Stock Slide Amid Layoffs Report, Cyberattack",
+    "source": "Newsweek",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQODZNdDktcnhBSVVncFNJYW85UERBN3hYR2lzOFhtenBjaXNqSEdWdjBlc2lhWFJwMnVjX1cxNlpmaTFTMl9udkxxWTZCVzduRkd3RXVrcG55MU1RdWRySkxYTG9UTWxUWW5EVVpqTEVhTGFsdnk2bmsyU2JXSUdxRklBT0U3a2I5dXFmaHhub1JxRXltYlE?oc=5",
+    "at": "2026-11-18T17:48:00.000Z"
    }
   ],
   "debt": [
+   {
+    "title": "Treasury yields tick lower as investors weigh the state of the U.S. economy",
+    "source": "CNBC",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNkZZT1lIeU1WR19KR0NSTzF2YzA4dnQwalkwYTZKRUpJOW9DWldwNHdfZ1d1eXFmcHU0WHNlTXVocTNaQks3Tm9UalRQUFFGOXp3VkNNdDRHV1Y5czJQZ29fblFmcENfSnZUQWJsU3FjeWNfVTFVM1kxZzlUUWhuOTBB0gGHAUFVX3lxTE0ydXg2dUZCNEs4WnNRc2ZhUmFxR19LRkRzREFLOFc0aWxWSDJFTFJXaEQxdTJtQkg5Smo4azh3bXdRc1VveW9aYk5Rbzc0bGRxZng5dVhQWXhCV0syX09tVHRxclg1b2hiMnJjSzZjSm9LUWh1azA2bjZVbkNkY3cwRmpYT2ZiSQ?oc=5",
+    "at": "2026-11-19T09:52:58.000Z"
+   },
+   {
+    "title": "Treasury, Eurozone Bond Yields Edge Higher",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYUxqWVA1Y044cTZjWkE0VlVFR3hrRVh1S0ZsLW5VVDZfNlRsT0dmNElmUG1ocmh5Wi11eGhRZEFTbEJpbjVjM3F4b0t1TGtiYTZ5UFlMdFBZSXBQdlNUQ2gxMklZclRVOG9JSkVBNFRmMmVSckpzeFQyZ1RxN250RjZpWXJUTnBKQmhhRXBCV2FERE50STNlZU5n?oc=5",
+    "at": "2026-11-19T09:40:00.000Z"
+   },
+   {
+    "title": "Treasury Yields Fall, German Bunds’ Tick Higher",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0dsM2ttY3ctRTRCZzZPRzE4aG1RNzBCeUQzUEFRbGk1VzRqZGF4Z2J6NFFXVExyX0xROFU1bWFGc3U5ZXpWR21YQmh6S096RXVFS25wcjY4QmxDTUJhdkh5eG51UjVrRVlfZHBpX0pKZkJMOFI4eVVvV1BvSWxIOWQ3aFZId2xOcXJXeGI2SlZvd0RqUUhzT2NVck1jQ3VKLUNXSEFaYXhuNzVtbm1vaQ?oc=5",
+    "at": "2026-11-19T04:35:48.000Z"
+   },
    {
     "title": "The Debt Ceiling Arrives Early Next Year. It Could Hit Bonds.",
     "source": "Barron's",
@@ -5551,30 +5569,6 @@
     "source": "CNBC",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Hc0tPVG9tRHRYTVBHa2ZvTWQ2ODQ4NTJONXdHLTU4dGJmVjNvMTRFLWpDNG1OdmVIWk5INUxFV2V0dzZpNDUxWWVDNi1XVGtxa19jYkQ0OEFLeTJnQkJLOGxCeExfbUNmWVhtWkh3Y9IBdEFVX3lxTE1OTTltQng1Ukh2QnI2TkdkUGI5VWpLYi1Nb0VDS1A2d0xyOFpZTHN4dnIwbUlRS09sZWlTY1gzNkxJYVpqdWEteW5lbjJTZW5neXRGZkpWbEc0VEwyTkZDVVJUNlRjb0lPVkVKMGpNZ3FvdTFP?oc=5",
     "at": "2026-11-18T09:32:43.000Z"
-   },
-   {
-    "title": "Treasury Yields Fall, German Bunds’ Tick Higher",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0dsM2ttY3ctRTRCZzZPRzE4aG1RNzBCeUQzUEFRbGk1VzRqZGF4Z2J6NFFXVExyX0xROFU1bWFGc3U5ZXpWR21YQmh6S096RXVFS25wcjY4QmxDTUJhdkh5eG51UjVrRVlfZHBpX0pKZkJMOFI4eVVvV1BvSWxIOWQ3aFZId2xOcXJXeGI2SlZvd0RqUUhzT2NVck1jQ3VKLUNXSEFaYXhuNzVtbm1vaQ?oc=5",
-    "at": "2026-11-18T09:13:06.000Z"
-   },
-   {
-    "title": "Gold sinks to 1-year low as Treasury yields and dollar bite, set for worst year since 2015",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdjAwZXVEazFKX3M4Nl9yMHk0cUdqbzUtdmp6TVd5MmdjN3dOaGJ4N3NoNG12Nm9OQTFOM2JpS01TbklYdm1qTGJyaFZaQTdjaXVjMEZFV29FWXVxU05NcVdXci1JLU1iTWh1OWt2akRqcmNhUWNMOVpjUW1KQVB0LWQ2eE9oSjFLcHdVS0ZISERiY2g4YVJQb2lWcw?oc=5",
-    "at": "2026-11-17T13:59:52.000Z"
-   },
-   {
-    "title": "Treasury yields moderate as investors parse retail sales data",
-    "source": "CNBC",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xcWR1OGh2RVFmcDRsR1JtUDJUVFhqWFVjQ3R2V1ZjSFpqWmNtRXQweHFac0UxYllNRzJ2akQ0R2Q3dTFpTkhGeWFMS3d4MFNIX1pMWW5oUWxyQzh2bV8zcG91MlVCNm5kNlVXN3dmMG1pVWYycHFR0gF8QVVfeXFMTlpoUmZfei1Qbjl3OU9tR3A4MmlvbXNIR3FXa1JaRW5CMm5qQmgwcVBRMlFGa1BFc243bG5vR1hJVjBhYVJvMDVmNmstX2M3ME93cjZUbXc5dE5IWHJ5bndwRlJOLUNBTDBEY08tTUVMdG12c0VpemV3VUQtSw?oc=5",
-    "at": "2026-11-17T08:23:51.000Z"
-   },
-   {
-    "title": "Idealab Bill Gross: US entrepreneurs from AI could balance debt and wealth inequality",
-    "source": "Fortune",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdU42RlNCTG5oN21GODAyMkE2YlREbTlQeWtJTjlmSjNNTl9nN2dLS3dCQzRlcVZGeHZETDExT0hUbWp0TkxCMUxlOG5oOGV0VXJ6MjNnQlVWR254OWNpTlFoRm84UHNnQkJzYjhGOHNBaUw2UzdEd0czTXBadV92R0FZdFgzSEJ2M01qTE83SjNDMHhQVGNrbg?oc=5",
-    "at": "2026-11-17T08:06:00.000Z"
    }
   ]
  }
