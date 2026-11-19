@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T20:33:30.921Z",
+ "updated": "2026-11-19T07:29:11.776Z",
  "ticker": [
   {
    "name": "Mortgage, 30-yr",
@@ -31,10 +31,10 @@
   },
   {
    "name": "10-yr Treasury",
-   "value": "5.12%",
+   "value": "5.10%",
    "dir": "down",
-   "asOf": "2026-11-16",
-   "when": "Nov 16"
+   "asOf": "2026-11-17",
+   "when": "Nov 17"
   }
  ],
  "videos": [
@@ -4722,114 +4722,114 @@
     },
     {
      "name": "10-year Treasury yield",
-     "value": "5.12%",
-     "when": "Nov 16",
-     "asOf": "2026-11-16",
-     "change": "+0.99 pts vs. a year ago",
+     "value": "5.10%",
+     "when": "Nov 17",
+     "asOf": "2026-11-17",
+     "change": "+0.97 pts vs. a year ago",
      "dir": "up",
      "tone": "bad",
      "spark": [
       4.43,
-      4.43,
-      4.18,
-      4.15,
-      4.4,
-      4.52,
-      4.55,
+      4.41,
+      4.19,
+      4.2,
+      4.39,
+      4.59,
+      4.58,
       4.67,
-      4.78,
-      4.6,
-      4.55,
-      4.43,
-      4.62,
-      4.5,
-      4.29,
-      4.29,
-      4.27,
+      4.66,
+      4.65,
+      4.52,
+      4.45,
+      4.52,
+      4.42,
       4.24,
-      4.38,
-      4.06,
-      4.4,
-      4.34,
+      4.32,
+      4.31,
+      4.25,
+      4.27,
+      4.01,
+      4.48,
+      4.42,
+      4.23,
+      4.36,
+      4.45,
+      4.46,
+      4.43,
+      4.46,
+      4.47,
+      4.39,
+      4.29,
+      4.3,
+      4.35,
+      4.47,
+      4.43,
+      4.37,
+      4.23,
       4.29,
       4.33,
-      4.37,
-      4.43,
-      4.51,
-      4.46,
-      4.49,
-      4.46,
-      4.3,
-      4.26,
-      4.34,
-      4.46,
-      4.4,
-      4.38,
       4.22,
-      4.24,
-      4.29,
-      4.24,
-      4.17,
-      4.01,
-      4.11,
-      4.18,
       4.1,
+      4.06,
       4.14,
-      4.02,
-      4.02,
-      4.11,
-      4.11,
+      4.2,
       4.13,
-      4.04,
-      4.09,
-      4.18,
-      4.15,
-      4.18,
-      4.18,
-      4.19,
-      4.17,
-      4.24,
-      4.26,
-      4.22,
-      4.04,
-      4.03,
       4.05,
+      4,
+      4.01,
+      4.13,
+      4.13,
       4.12,
-      4.23,
-      4.34,
-      4.35,
-      4.34,
+      4.01,
+      4.06,
+      4.13,
+      4.16,
+      4.15,
+      4.19,
+      4.18,
+      4.24,
+      4.22,
+      4.29,
+      4.22,
+      4.05,
+      4.04,
+      4.06,
+      4.15,
+      4.2,
+      4.39,
       4.3,
+      4.33,
       4.26,
-      4.35,
-      4.45,
-      4.42,
-      4.61,
-      4.5,
-      4.46,
-      4.53,
+      4.3,
+      4.36,
       4.43,
-      4.41,
-      4.48,
-      4.54,
-      4.57,
-      4.71,
-      4.68,
-      4.69,
-      4.63,
-      4.69,
+      4.46,
       4.67,
-      4.77,
+      4.48,
+      4.49,
+      4.55,
+      4.49,
+      4.4,
+      4.49,
+      4.56,
+      4.55,
+      4.69,
+      4.75,
+      4.65,
+      4.68,
+      4.74,
+      4.73,
+      4.78,
+      4.97,
       4.96,
-      5.01,
-      5.17,
-      5.28,
       5.24,
-      5.15,
-      5,
-      4.91,
-      4.88,
-      5.12
+      5.31,
+      5.21,
+      5.12,
+      4.99,
+      4.95,
+      4.98,
+      5.1
      ],
      "source": "Federal Reserve"
     }
@@ -5271,12 +5271,12 @@
  "news": {
   "top": [
    {
-    "title": "Fed minutes show growing unease about the outlook for inflation",
+    "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/fed-minutes-show-growing-unease-about-the-outlook-for-inflation-59e3c13d?mod=mw_rss_topstories",
-    "at": "2026-11-18T19:38:00.000Z",
-    "image": "https://images.mktw.net/im-43212358",
-    "desc": "The minutes of the Federal Reserve’s October policy meeting showed growing unease among officials about the outlook for inflation, even as they decided to hold interest rates steady."
+    "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+    "at": "2026-11-19T03:45:00.000Z",
+    "image": "https://images.mktw.net/im-04093243",
+    "desc": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”"
    },
    {
     "title": "Two new housing reports point to bleak winter ahead, with record low sales",
@@ -5319,12 +5319,12 @@
     "desc": "Some firms are directing refunds to corporate leadership instead of reimbursing consumers, ProPublica finds Several companies that received refunds for paying Donald Trump ’s tariffs have put those funds towards corporat"
    },
    {
-    "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+    "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-    "at": "2026-11-18T18:30:00.000Z",
-    "image": "https://images.mktw.net/im-04093243",
-    "desc": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”"
+    "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+    "at": "2026-11-19T03:30:00.000Z",
+    "image": "https://images.mktw.net/im-96657818",
+    "desc": "“Our financial and healthcare situation has become increasingly concerning.”"
    },
    {
     "title": "Mortgage demand turns lower, as interest rates shoot back up to the highest level in three weeks",
@@ -5359,15 +5359,23 @@
     "desc": "Surge in prices is forcing many to cut back on spending, with a projected 21% increase in costs of those households Millions of homeowners in the US will pay hundreds of dollars more this winter to heat their homes as ri"
    },
    {
-    "title": "Social Security should be shut down, this Republican senator says",
+    "title": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
-    "at": "2026-11-18T17:46:00.000Z",
-    "image": "https://images.mktw.net/im-10870575",
-    "desc": "The program’s trust funds are expected to run out of money in the next six years."
+    "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
+    "at": "2026-11-19T01:02:00.000Z",
+    "image": "https://images.mktw.net/im-839193",
+    "desc": "The company boosts its outlook in the face of the “current threat environment and demand we see ahead of us.”"
    }
   ],
   "housing": [
+   {
+    "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+    "at": "2026-11-19T00:30:00.000Z",
+    "image": "https://images.mktw.net/im-49247042",
+    "desc": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves."
+   },
    {
     "title": "Two new housing reports point to bleak winter ahead, with record low sales",
     "source": "CNBC",
@@ -5393,45 +5401,31 @@
     "desc": "Homebuilder sentiment fell to a 14-year low amid high mortgage rates and higher prices for energy, labor and materials. That caused more builder price cuts."
    },
    {
-    "title": "Lowe’s Earnings: Even in a Weak Housing Market, Sales Growth Remains Achievable",
-    "source": "Morningstar",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd1VseFE1QVBUY1BTRU9rNVBURUU3SmJzc3hPeld3Y2htS1lBQ1dXSUR0MVJsRDlfRW9USXFiZXBlcm45eklxaXZONkF0ZllCcE8xSjZRNUFUS3NWZEdOY0VBYXhzcS03emxyS1lXMV8waWpmZFlIVUxJTHo1b3d2c0xvTkJzVm0yQkRrdmpGMnFCUGZLY0dxU0JTTDdQVHBNZ2tidEgtUDIyUQ?oc=5",
-    "at": "2026-11-18T17:40:21.000Z"
+    "title": "Angry America and its housing market",
+    "source": "Financial Times",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd1Z0UjJGeGdKamFlSTRuZFBuWHowVmhHdkwwbTh2VVBuVmExcnQwMWtRbTVpUWhyNjlPSHNva2JMNmw5WWJRX3VyNG5CdlNLM3EtVFVmaFhjZGRnenVHUzZNbWpBQS1pWmJXaDZiWHBNZlprQ1ZiWWRoVndhNkUtcVpDYVE?oc=5",
+    "at": "2026-11-19T05:00:17.000Z"
    },
    {
-    "title": "Nearly half of home builders are cutting prices and offering lower mortgage rates as they struggle to find buyers",
-    "source": "MarketWatch",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObU1aTTdQWGlnY0dIVXA3T1lrRmJKOEZsTldxTGZYdlR3VU11Y3JDTWFHMWxkVjk0c0VJWDhxNVA5OEpFOU45djF1SDFSa0prNmpDbHlkSGRhVVpRYzlSVzRzWU1yTy0zaTlyajFVRndVTm5CZmJrMTQyY1FTUDcxMmJseVhkLTRWZGpHYkFxZDJFdXo2ZW82SGF1QTE2RHlCRjhXdUN1UlpKVFBVcS14a1VzSHZGejNzNWlMVDdPaDl4SEVLNVpBVzJ4TlpZNTRFb3ZUX1ZoRmtrVHJJcmZSRUxSSy1jaUdDTG01Yg?oc=5",
-    "at": "2026-11-18T17:14:00.000Z"
+    "title": "Today’s Refinance Mortgage Rates | Rates Chart",
+    "source": "NerdWallet",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fWlF1X1h3N25UOUQ2SXphbHpiZXlHb1l4eWdZOFhvT1FkTkNFNXVtc1pOVWhPRGNoYlJzcU1yZVp6NU83VUtoY3kzODItcDFIRWIta241QVFiNUc3dkdwOV9ydDlHWHhBWnBkeTlMQzlJM3YzY3c?oc=5",
+    "at": "2026-11-19T04:36:12.000Z"
    },
    {
-    "title": "Homebuilders brace for weaker demand and higher costs",
-    "source": "Axios",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMGY4Zl9QX2NjbEhuRmhWdHlHbDNPRHFaMVcxajM5d09LWndIMHJxZkpVWlpTZllocWJQNXAxUWdWNkpCVjNyM3M4QXJvLWI5c2hDOGo4TEprTHkzUjN5MjZGVXNRRWtCSnZyTHAxODdaZlNXemVnWUtzelBfS09NenhrZXhHd3Rp?oc=5",
-    "at": "2026-11-18T17:13:54.000Z"
+    "title": "New York City's first-time homebuyer program can help potential buyers break into a tough market",
+    "source": "CBS News",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdjJ2Q29tTzlqcU9uSnNyX1N5TDE3VzhsOUZkb2ptajR5Q3p4V3R2N1JaSFlSZ0ltb2xqUnlfaW0wYXNqZ0RxeVphTkJkamJOenM4UGNnZnRFOVA5bkt5ejFYNGpQeWNFNVFnZmhjY29IY1NRZEVQWWtnNFlOVVROdWR3MEhRRGpjdlN0azJB?oc=5",
+    "at": "2026-11-19T00:11:00.000Z"
    },
    {
-    "title": "Lowe's CEO: 'We are basically at the bottom' of the housing market",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPandGOEdhWFFkaXlodlZFX3dyVU5GclZFeG1ndDNRM09wVmhzSTRHeV8tZWxaMjlWSVJwYnM0SWJNelA2U1VwZW5SYTZWNlZja21YakhqS2liVF92aE5mcE9JLUMzMjRLTnhHdkVxVTVzWG1Yem9VbnlMMXdPT3BLclVrTWlkdFJQbTNIRmNfLW9XLWl6TWd4OWp6SHJZQkQ4VzdvRVhVTjBqbGdwbnBDNFRTWkFSejQxTUF5SlM3dVA1WTFa?oc=5",
-    "at": "2026-11-18T16:42:14.000Z"
-   },
-   {
-    "title": "Housing Market Freeze to Send Home Sales to Lowest Level in Decades",
-    "source": "Barron's",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYThDaXBUS0VCTHQ4NFgwQXVacXFsSEJnX1c0dGFYQ1NtS3V1SVNvQ2w1aUx1aVo5MUJtSGVTeE9EWmxpbmdkSGZpTzFMVHptTWlRVGlMYURuYjVBR3JWOG9kcU5qcHo2RUtsRmhwVVlNZjBKemNrbWZMdFdMYUxORjJwWjRfcU8xRFE?oc=5",
-    "at": "2026-11-18T15:22:00.000Z"
+    "title": "Mortgage Rates Move Back Towards 7.5%",
+    "source": "Bankrate",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd0thVTZMeEFHTHotWGxpR1hENTZWak5vbThnamlOSlVuZUx2cFM3UkhwS1dORmZ3a29BU3BEbjNNRGpmRGZvcmZkTkhnbERXNjlkejBhYVVaUENLeDRGejRXUmZWLS1PNHMwNk9uZ0V6WUtCbFZhOGFibzdGZWVPdjlB?oc=5",
+    "at": "2026-11-18T21:50:10.000Z"
    }
   ],
   "inflation": [
-   {
-    "title": "Fed minutes show growing unease about the outlook for inflation",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/fed-minutes-show-growing-unease-about-the-outlook-for-inflation-59e3c13d?mod=mw_rss_topstories",
-    "at": "2026-11-18T19:38:00.000Z",
-    "image": "https://images.mktw.net/im-43212358",
-    "desc": "The minutes of the Federal Reserve’s October policy meeting showed growing unease among officials about the outlook for inflation, even as they decided to hold interest rates steady."
-   },
    {
     "title": "Record diesel prices drive UK inflation to 1-year high of 3.6%",
     "source": "CNBC",
@@ -5449,37 +5443,51 @@
     "desc": "Some firms are directing refunds to corporate leadership instead of reimbursing consumers, ProPublica finds Several companies that received refunds for paying Donald Trump ’s tariffs have put those funds towards corporat"
    },
    {
-    "title": "Fed Officials Expect Further Interest Rate Hikes After Pausing Last Month",
-    "source": "Realtor.com",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ1NVM253a3BDMGlBLWUtZHhkUnpOTWg2RHA0cDFpVUNKcGttaWdDVkhxdkowNWJxWEFybW92enZkaGVndlc3dGpJZWQ0STZoZlFsYXBIOFBJNGpIR1hpRHVpUnplbm1udUVLa3Zid1RNOTc3Skhjc2szMVhDMnpETWtiUDN2eVZnUmtZaEtickF0eVRQaE9sSkMxMWZpSTRU?oc=5",
-    "at": "2026-11-18T19:58:44.000Z"
+    "title": "The Inflation Fight May Be About to Turn Painful",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM0taZlpLMjZNSHV5LVZIWktScXlHVHB3Ri1SMElOR3UycjRibjRfTUM1Y05nQW1SYkljelpjVkdkaGFXRVQyeHVpZTB1T1h1SWQwNHRPTUlTTUJFS0tFVHR1R0c5M1ZLWWlxYmN0aEVqSzZRYkROWlhqTEo2Q2daZEZ2S1lwaDAwRV9lU1lGcEgyM00yOTZBVW9MYw?oc=5",
+    "at": "2026-11-19T05:53:45.000Z"
    },
    {
-    "title": "How high is UK inflation and how will you be affected?",
-    "source": "BBC",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44LTNVSURIN0s4Y2lsR1d2TFlqZXN4UFIxbDRVWkh6V1EwS1lHVVhjVDMzNHJxRThINXJNby1DLWVncmU3M0JQa1Z6dUVlZmhwa1ZWelViWTE?oc=5",
-    "at": "2026-11-18T19:37:27.000Z"
+    "title": "Have High Gas Prices Made You Change How You Drive? Tell Us About It.",
+    "source": "The New York Times",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMlhOSFhnS0gxeWJ6VmVuUWJENWVFMUFfZVlVd25TQnJRUEpRS0hJWHppUHZYbno5bURZZ0lBM19CclJNQ2VvNDlZR2o0ZVFyVHFfcnE2ODl2X25BMVdGaHRjZG1hVUo0T0MtWHIxSlBVOUF4X2Ruc2JneGtnUmxpYmFXbmVHNWFoc3FOQTVuSTV1cERpRzE5ZzJwWjExOWdGWmhjZHFn?oc=5",
+    "at": "2026-11-19T05:00:13.000Z"
    },
    {
-    "title": "Hourly workers are living with 7.86% inflation. No wonder they voted against the AI boom.",
-    "source": "Fortune",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTFlkM3BJcWFhbDlnRzJQcGxuS2ZKQlBTLUU4NGJtYVBuX1NPekhnTWxOODNGQVBXRENwa1NvTW04dVZSZWZIZXN6VWxmdVBabE5qQkNFV1lsTlZDMExBaEc0RndPVlFkVGtUcHpxYTVuemJhZFBkOWo4S2RGVTBoNmhLLU01UlV4S2IyRGxfcTYzUUFFeE1md0ZncXpsQ0JXb2c?oc=5",
-    "at": "2026-11-18T19:30:00.000Z"
+    "title": "Trump touts U.S. trade deals, inflation despite increased rates",
+    "source": "NBC News",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN2FLWjVnZEU0VzI3N004RXN6RFc5dTl4V25ZTDc4M0pfX2dJZ3c4RnNZV2NkYm40cEZmVGd5ZXRySUtxOXpxLVhhbUlnVzRFT3lBUzhzeF9SejY1WElMN1FQNzFIblJxYjdmOGRJWGFGUlRKWkdvd1o0TkNEbnJwNXJMaV9XazMwRFJOWjdnbV9CMUJfd2lQd2trMHVxWWRJSGNnb1Z3QQ?oc=5",
+    "at": "2026-11-19T04:03:38.000Z"
    },
    {
-    "title": "Fed minutes show officials want more rate hikes, flag AI buildout as inflation risk",
-    "source": "Quartz",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IdVM2X0x1QkdQenhTUjY0dENBT1FQbm9pQXAxc3Z1S2ptUkVDbHE5ZHB1ZUdwUVViUk1DWjZHcnRJcWxSQnd1OGd3Znk1b0EzeV9tQTllZ0tZMHhhbDB5ZVlnRVphVkRJWVlJcWxkUzFaeFNkUmZZUW5JakNDWkE?oc=5",
-    "at": "2026-11-18T19:16:15.000Z"
-   },
-   {
-    "title": "Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike",
+    "title": "Global inflation calls for monetary policy tightening in many economies, IMF head says",
     "source": "Reuters",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQWp0U1B6TG9KQU5oY25mQTRtbk5hTUZxNnI3azdIZDNNcU9iN1hzSndVckt3eU5ReUZockwxa1JOMVYyNTQ5d281c3NnU1pEU3pKaEZMSUZEdFQ3bG9DaXk4Umx1NG5WQ3ZvMko2VzBYdlgwYUI0Rm9ud1kzU1VMeWdZNXlkd3FJWTBvc25qV1ROWDZubGV4SF9QUk1EcG9BWGprZzRxcU9xa2g5TmRiUDRqR0FoYmNreUNicmFiWQ?oc=5",
-    "at": "2026-11-18T19:09:43.000Z"
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNek12QlczdG01emR1MWtEdU8zWXFZalNKUWE3cDR4Vm9YbFNVaU51Y3RxT0Ywak8yV2FrSUQxelVFRDBRZlFwblRqMWctbmw5TUFja2xjSEh3UW1PQUJtTEVmb0FkMVpoYkg0UWVFYkNOZXhSSU54RUJxOTVOdDNQaEk4N2FqUjdWQjNpSk1yZndSZjhzcURKc2dUT2RLOUVqb3dwUGExZG1KUm4tdk05VzBDN0N4SGhvbFdxZg?oc=5",
+    "at": "2026-11-19T02:43:00.000Z"
+   },
+   {
+    "title": "Inside India newsletter: Foreign flows helped the market recover. Now it faces the inflation test",
+    "source": "CNBC",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQXJzSFVRT3F5bTNfazJQNnFQZFVoeDJrYml1TjgzSnRmNVF0UFpMa2JMNkppaHI0SWM1US1qOHVYS1NrQkZqOGE1b3U4Uk1xMmwzOThXYmlkdG84V0dlN0NabEUxdUV1VVA4QkRacGdKTXJ0d05HdmdJd01maDV5aGVRQdIBiAFBVV95cUxQMlpRaFh0Nk54cDduSERwc3FJX1hDSXpPUmNlQVBxZWJKOTBtTEZUUUd5YlF2bzJ4c3locHNCSWJVRUdFSHJ4amRNa0FXTFkweklkdjFBUkJuOVhHODJYMXBhSUdkQ1YwVENNX2Zxc1U3a3EwOWs2bVYtM3hCd2ptWjJaUEthVURS?oc=5",
+    "at": "2026-11-19T00:01:00.000Z"
+   },
+   {
+    "title": "Fed minutes: Higher interest rates needed in December as inflation worries mount",
+    "source": "AP News",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd2Q1ZnpsMjBsaWNUMEJIVUxmTTNSeUYyOWphQWtydFJKbDIzN3JiUXpvcEQ0dnhBcFVhRHdGWTR4dTRCQW5FNi1BVE8ycGtnTXEtWkZJMS1COGc5M25oUmNWb1hMemNpZ0p3MlRGSjBRLU1rX2cwRUlrbjNCWEcxazRkazhVd2dTUUFuWU1KN1RiVHBURHc?oc=5",
+    "at": "2026-11-18T22:48:00.000Z"
    }
   ],
   "jobs": [
+   {
+    "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+    "at": "2026-11-19T03:30:00.000Z",
+    "image": "https://images.mktw.net/im-96657818",
+    "desc": "“Our financial and healthcare situation has become increasingly concerning.”"
+   },
    {
     "title": "Trump had urged Jensen Huang to fight for his job.",
     "source": "The New York Times",
@@ -5489,46 +5497,40 @@
     "desc": ""
    },
    {
-    "title": "A new wave of U.S. layoffs raises questions about how artificial intelligence is changing job security",
+    "title": "UK Treasury opposes flagship plan to tackle youth unemployment",
+    "source": "Financial Times",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVEZ5RjJHTnY2ci1KUEl3WF9sU1FsMHMtX25HVnF1dHBTUlNFcXNtX1F3RnNQUWlRb2htc3RkRTE1ODVjSmZQQWNVR3NpbkRnRTJFal92ajBPZ1VVNm92UEpFaVR3UDZsdENHZ0FCZEFtYzl5NGY0Y1dDVlM3MWlQYWh0M1g?oc=5",
+    "at": "2026-11-19T05:00:28.000Z"
+   },
+   {
+    "title": "Australia’s Jobless Rate Rises to Highest Level Since 2021",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX2hoZ3hxc29ReWFJd0lfRk9Od2xVbFhYMTAwMXZqakkxMkZPcHNVdmFqdmZDV3pWNDZidGt0ckxqdU5VZ2pKM05fblpwMm0tWm01aDhmajk5RGc1blVvR0Y5NWw4S0NhXzhXNk1SLWlvYmo2SjktLWRYZnZtTW9zVzlEcV9JSXdRbVdZMklGWjNHR1NLSWRpanRn?oc=5",
+    "at": "2026-11-19T02:03:00.000Z"
+   },
+   {
+    "title": "Australia may have ‘one foot in recession’ as unemployment surges to five-year high",
+    "source": "The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWmlPSTQ0b3dsQlNCZmd4M1M1MENnSmFFX0lXaGk1THlvUUhOelpzS0RLVVl0bDZyR2Fra3JmOUVPUllLUHZITmw0TWE4ZVpBcWxIMk1jTTNQSmNqVXJLck1lLXphWnBXRThFQ2JKZ3JHRTdLTlg1d1h2ejIwYV92V3JPUm1DSmtoc2ZVYndpUUxJZ2d5NllUYTVRNHRCcnR0OU56MGJJU3ZXOUlNc1E?oc=5",
+    "at": "2026-11-19T00:47:00.000Z"
+   },
+   {
+    "title": "Unemployment is low, but frustrations are high for job seekers",
+    "source": "NPR",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOVpLbm5qeG5pSWFROFNNOWh3TmJiNjB6MXRYVXdyamtVeVlQRHlvdGxpQm9iSXE0X2dIS2VNVVNIclpLRE1NQmxtd0tRZFUyeWpGN3JaaC0waWpjTXpwZmRNdmI5UzJpamtLMDViXzI0cmFsc3JBUVZtRkNGblZ6R1JDWmdPUTBEU0pXWF9QNWZYbHFLOGRzNUxkbktKSHdWT0xiX1d3YUNYZw?oc=5",
+    "at": "2026-11-18T22:12:46.000Z"
+   },
+   {
+    "title": "CRM Stock Layoffs: What to Know as Salesforce Reportedly Begins More Job Cuts",
     "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcjFOUFd4TXpLd1hDZ2t6MzU0MzF5d0NMR2o4aFZJeUc4TUFaeGJTMXRUc1ZUYXdtRi1oUDBTTTZ3NDVDT0xEb1NYUmdIMWhLYVNTZkdaTVBranlWaFoyUjA5OVZScnhVclo2YWxoM042VTNGTkNraU9GZkhKZWM2ZU1TbDJ6M3JwUDh2d040bHJMOS00dFU2Y2pkTQ?oc=5",
-    "at": "2026-11-18T19:00:00.000Z"
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdm4zYUtDcmZ2UU1FanE0Tl9KS01OaHZLRVJ5X3hkRV9wVVRxR05XZ3ZjNy0zLTR5MU9ZVzNLODJSUGVJZ3R2UmxneU9UN1puQ3JIWXh2cDVrcS13Ukl2cnBIMXgxZ3E3TGtvbF94N1QtMVFRWW1IakVnZFoxcE9ZVEN1aEk2eXhBSHNBOTM1SVpoaUowdTBDR3llMWhZSms?oc=5",
+    "at": "2026-11-18T22:01:29.000Z"
    },
    {
-    "title": "Salesforce Suffers Stock Slide Amid Layoffs Report, Cyberattack",
-    "source": "Newsweek",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQODZNdDktcnhBSVVncFNJYW85UERBN3hYR2lzOFhtenBjaXNqSEdWdjBlc2lhWFJwMnVjX1cxNlpmaTFTMl9udkxxWTZCVzduRkd3RXVrcG55MU1RdWRySkxYTG9UTWxUWW5EVVpqTEVhTGFsdnk2bmsyU2JXSUdxRklBT0U3a2I5dXFmaHhub1JxRXltYlE?oc=5",
-    "at": "2026-11-18T17:48:00.000Z"
-   },
-   {
-    "title": "Polymarket Layoffs: What to Know as the Prediction Market Makes Job Cuts",
+    "title": "Intel conducts another round of layoffs as part of ‘broader strategy,’ company says",
     "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd0lJTGFFd2dzbTZvY3lnc3BFeDc2S19mQjRXaVhpNWRpQnUyUDg3YUE3ZGk3RUt0aVhWMnRKZ2ZkXzB4R2d1RkJ2bHFTQ1lFSDRoMVhNSHRJc0ZNMnpnUThOTGI1MG5HdktjUk1CVkdSOUNncmk2Y1BydVRxa0tscGJ0QlYtUDRDaXFtSzFJbWhUa0VDbkJBQVk2NUNWWTgzNHJaa2JzVUdsUQ?oc=5",
-    "at": "2026-11-18T14:00:03.000Z"
-   },
-   {
-    "title": "The seeds of the next recession are being sown in today’s booming economy, warns top economist: ‘Icarus is flying towards the sun’",
-    "source": "Fortune",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTGplSks1RngyaEtlOUVRbDdlaXQxVVhiV19EXzVrNDhNQThpSGdyUDl6RVp1Mk1KWjdtdjIwMjVmOFQ3Q1RnUmt3Vnp0QnVQaWY4QnRWX2pmNDdCd0dhbDIxT2Q1NXZaai1KanFReE56eTB4dUhrUE9ZZGJhZnhkMk9NZlJlN3FyYXVzRm5jQ3JzRHM?oc=5",
-    "at": "2026-11-18T11:52:00.000Z"
-   },
-   {
-    "title": "The 'low hire, low fire' job market could finally crack in 2027",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSXZRYXZtZUpKSkZYRGM2X2d2Q0Voejh2TWdaUWxBYXVSaU03S3hLT0FXVDcwU0NPZGlBUmpZQkJ2cjVZRERfRXlfaWU0RW5lWDE0Unp4ZUp1c0F5UF9HaXN4OG5SMng5SkI0RDlMTWZLMXJRb3hvT24yajNXN3lXSXBvN29rVm9aS0I3OEhJT2c3TlhDOGwyMldweDFNeFVNOXFMOVNIbFFwZWh0UVFEOUM1N29zNVhD?oc=5",
-    "at": "2026-11-18T10:00:00.000Z"
-   },
-   {
-    "title": "Liverpool’s Conor Bradley, Giovanni Leoni return to team training after injury layoffs - The Athletic",
-    "source": "The New York Times",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUWVfTmRUd2dfMHFTTHRNa2c2S09FdDFnalo5eFpHWkg3UjhqaTl4MXFpQVRnRG9xOG1BQWd6aXJvMzlnMkd5MjIwb0pJdFh2dWJIZUgxZDRSeUlzanhzd0RWb2NBVzJlcWloc2xBVlB2R1hSbjh2VkNxYzlNV2xDbjh3OWtvWFJYRERhWWlOdmlDZUdYS1c5THhXejFQWmVzMGtXR2FiQlA?oc=5",
-    "at": "2026-11-18T09:22:49.000Z"
-   },
-   {
-    "title": "Your love of mermaids, french fries, and Robert Pattinson could land you a job",
-    "source": "Business Insider",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSVJ4dlJncUZoUl9QYkdhMnhwSHpJRm9Sbi1rM29LQnVQMmlqbWhKbTMyWWEzZUVfX2V2TzZENWRvOVdUdmZ5SUNkRklhTUJ3V0c2QUhzR3MwSEVad3NONklLNWpZcl9Za2UzV3p4bzlsdnVMTW9zOVNRVzhSZjFCNjA1cF9xUHZ4dXVnNDZuVDN1ZG9MQ1hEcDB3UF8?oc=5",
-    "at": "2026-11-18T09:00:00.000Z"
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUktqTGZVSFJ3NHdhMERTb0k1OHh3V1ZGYWlZaUYxY0ZaeENUY3FZdUVwS3JQdzdQSldZU1pqUjFoaFlMNkpWWmk2U3NNeEd4bTFXbDVobVFiS2dMOWs4WHFIaGNhdEJiVU1OMHBoYTU1NHdXNjFVNzJqX2paZnF1U25Xd0xFOE44aWk1R2NWWG12TXNZNEc4R2MxMlZsX0Zfd3JB?oc=5",
+    "at": "2026-11-18T21:05:25.000Z"
    }
   ],
   "debt": [
@@ -5545,7 +5547,7 @@
     "at": "2026-11-18T11:47:27.000Z"
    },
    {
-    "title": "2-year Treasury note yield is little changed as Waller warns that Fed may need to ‘shock people’ with half-point rate hike",
+    "title": "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
     "source": "CNBC",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Hc0tPVG9tRHRYTVBHa2ZvTWQ2ODQ4NTJONXdHLTU4dGJmVjNvMTRFLWpDNG1OdmVIWk5INUxFV2V0dzZpNDUxWWVDNi1XVGtxa19jYkQ0OEFLeTJnQkJLOGxCeExfbUNmWVhtWkh3Y9IBdEFVX3lxTE1OTTltQng1Ukh2QnI2TkdkUGI5VWpLYi1Nb0VDS1A2d0xyOFpZTHN4dnIwbUlRS09sZWlTY1gzNkxJYVpqdWEteW5lbjJTZW5neXRGZkpWbEc0VEwyTkZDVVJUNlRjb0lPVkVKMGpNZ3FvdTFP?oc=5",
     "at": "2026-11-18T09:32:43.000Z"
