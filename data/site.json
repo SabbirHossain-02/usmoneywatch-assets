@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T09:56:13.986Z",
+ "updated": "2026-11-24T22:28:25.810Z",
  "ticker": [
   {
    "name": "Mortgage, 30-yr",
@@ -32,9 +32,9 @@
   {
    "name": "10-yr Treasury",
    "value": "4.92%",
-   "dir": "down",
-   "asOf": "2026-11-20",
-   "when": "Nov 20"
+   "dir": "flat",
+   "asOf": "2026-11-23",
+   "when": "Nov 23"
   }
  ],
  "videos": [
@@ -4727,112 +4727,112 @@
     {
      "name": "10-year Treasury yield",
      "value": "4.92%",
-     "when": "Nov 20",
-     "asOf": "2026-11-20",
-     "change": "+0.82 pts vs. a year ago",
+     "when": "Nov 23",
+     "asOf": "2026-11-23",
+     "change": "+0.88 pts vs. a year ago",
      "dir": "up",
      "tone": "bad",
      "spark": [
-      4.41,
-      4.25,
-      4.17,
-      4.32,
-      4.57,
-      4.62,
-      4.62,
-      4.79,
-      4.57,
-      4.55,
+      4.43,
+      4.18,
+      4.15,
+      4.4,
       4.52,
-      4.54,
-      4.53,
-      4.25,
-      4.28,
-      4.32,
-      4.25,
-      4.35,
-      4.2,
-      4.34,
-      4.29,
-      4.32,
-      4.25,
-      4.37,
-      4.45,
-      4.54,
-      4.41,
-      4.51,
-      4.41,
-      4.34,
-      4.24,
-      4.42,
+      4.55,
+      4.67,
+      4.78,
+      4.6,
+      4.55,
+      4.43,
+      4.62,
       4.5,
-      4.35,
-      4.34,
-      4.22,
       4.29,
+      4.29,
+      4.27,
+      4.24,
+      4.38,
+      4.06,
+      4.4,
+      4.34,
+      4.29,
+      4.33,
+      4.37,
+      4.43,
+      4.51,
+      4.46,
+      4.49,
+      4.46,
       4.3,
+      4.26,
+      4.34,
+      4.46,
+      4.4,
+      4.38,
+      4.22,
+      4.24,
+      4.29,
+      4.24,
+      4.17,
+      4.01,
+      4.11,
+      4.18,
+      4.1,
+      4.14,
+      4.02,
+      4.02,
+      4.11,
+      4.11,
+      4.13,
+      4.04,
+      4.09,
+      4.18,
+      4.15,
+      4.18,
+      4.18,
+      4.19,
+      4.17,
+      4.24,
       4.26,
       4.22,
       4.04,
-      4.06,
-      4.16,
+      4.03,
+      4.05,
       4.12,
-      4.13,
-      3.99,
-      4.01,
-      4.11,
-      4.11,
-      4.14,
-      4.06,
-      4.09,
-      4.17,
-      4.18,
-      4.17,
-      4.14,
-      4.15,
-      4.15,
-      4.26,
-      4.24,
-      4.21,
-      4.09,
-      4.08,
-      3.97,
-      4.15,
-      4.28,
-      4.39,
-      4.44,
+      4.23,
+      4.34,
       4.35,
-      4.31,
+      4.34,
+      4.3,
       4.26,
-      4.31,
-      4.39,
-      4.38,
-      4.59,
-      4.56,
-      4.47,
-      4.56,
-      4.47,
+      4.35,
+      4.45,
+      4.42,
+      4.61,
       4.5,
-      4.44,
-      4.56,
-      4.55,
-      4.67,
-      4.67,
-      4.63,
+      4.46,
+      4.53,
+      4.43,
+      4.41,
+      4.48,
+      4.54,
+      4.57,
+      4.71,
       4.68,
-      4.65,
-      4.66,
-      4.79,
-      4.95,
-      4.94,
-      5.18,
+      4.69,
+      4.63,
+      4.69,
+      4.67,
+      4.77,
+      4.96,
+      5.01,
+      5.17,
+      5.28,
       5.24,
-      5.22,
-      5.09,
+      5.15,
       5,
-      4.94,
-      4.86,
-      5.12,
+      4.91,
+      4.88,
+      5.1,
       4.92
      ],
      "source": "Federal Reserve"
@@ -5275,28 +5275,36 @@
  "news": {
   "top": [
    {
-    "title": "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
+    "title": "Anthropic’s stock just broke below its IPO price for the first time",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories",
-    "at": "2026-11-24T09:14:00.000Z",
-    "image": "https://images.mktw.net/im-84195130",
-    "desc": "French drugmaker Sanofi on Tuesday agreed to pay $41 billion for U.S. biotech Insmed, a hefty price that will help the pharma giant offset the patent expiration on a key drug."
+    "link": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+    "at": "2026-11-24T21:46:00.000Z",
+    "image": "https://images.mktw.net/im-34075557",
+    "desc": "Shares are trading below their IPO price of $83, less than a week after their debut on the Nasdaq."
    },
    {
-    "title": "Why France is at risk of recession — and what could keep it out of one",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
-    "at": "2026-11-24T06:55:36.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108545221-1794127022121-gettyimages-2303992960-_dsf4095.jpeg?v=1794127088&w=1920&h=1080",
-    "desc": "Bank of France Governor Emmanuel Moulin told CNBC he still expects growth, pointing to resilience in sectors including defense, aerospace and electricity."
-   },
-   {
-    "title": "Taking on credit card debt to buy food",
+    "title": "Wendy's \"pricing scheme\" inflated menu prices, lawsuit alleges",
     "source": "CBS News",
-    "link": "https://www.cbsnews.com/news/taking-on-credit-card-debt-to-buy-food/",
-    "at": "2026-11-23T20:35:00.000Z",
-    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/21/45c9ee34-42e2-48fc-9703-2c5d065836f9/thumbnail/1200x630/5900ca5fe214c02c1d7829bbceaed4b5/supermarket-checkout-1280.jpg",
-    "desc": "According to a recent survey, about 63% of Americans are using credit cards to buy increasingly expensive groceries – and many are having trouble paying off that food debt."
+    "link": "https://www.cbsnews.com/news/wendys-class-action-lawsuit-dynamic-pricing/",
+    "at": "2026-11-24T20:19:43.000Z",
+    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/24/975a0ec0-3eff-401d-bc4f-65e6c8224473/thumbnail/1200x630/c8da7665c3b15d60ada625fec6b8ebf3/gettyimages-2290040952.jpg",
+    "desc": "In a proposed class action, a California resident alleges that Wendy's conspired with its franchisees to set and raise menu prices."
+   },
+   {
+    "title": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War",
+    "source": "The New York Times",
+    "link": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
+    "at": "2026-11-24T19:54:59.000Z",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24Biz-nvidia-Trump-01-vqpj/24Biz-nvidia-Trump-01-vqpj-mediumSquareAt3X.jpg",
+    "desc": "Presidents before him have bailed out companies in times of national crisis. Mr. Trump went further: He staked the fortunes of the United States on those of a favored chief executive."
+   },
+   {
+    "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+    "at": "2026-11-24T18:34:43.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108415078-1792082627963-gettyimages-2297167568-_dsc4023.jpeg?v=1792082682&w=1920&h=1080",
+    "desc": "The Conference Board survey released Tuesday showed improvement across the board, with the headline confidence index jumping to 103.3."
    },
    {
     "title": "From Wall Street to Main Street, how artificial intelligence is affecting the economy",
@@ -5315,36 +5323,28 @@
     "desc": "While Argentina and the UK dispute sovereignty over the islands and its vast oil reserves, environmentalists fear for one of the Atlantic’s richest ecosystems From the air, the main Falkland Islands form two large, jagge"
    },
    {
-    "title": "The Used Car Industry Is Booming. This N.J. Campus Is Setting the Price.",
-    "source": "The New York Times",
-    "link": "https://www.nytimes.com/2026/11/21/business/used-car-auctions-manheim-prices.html",
-    "at": "2026-11-21T17:59:58.000Z",
-    "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21biz-used-cars--02-hmwg/21biz-used-cars--02-hmwg-mediumSquareAt3X.jpg",
-    "desc": "As new car prices rise beyond the means of most buyers, the used market has become much more important for consumers and the auto industry."
-   },
-   {
-    "title": "Consumer stocks, seen as safe bet amid cracks in AI trade, were among the S&P 500’s biggest losers Monday",
+    "title": "How much more are richest Americans spending on the holidays compared to everyone else?",
     "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
-    "at": "2026-11-23T21:45:00.000Z",
-    "image": "https://images.mktw.net/im-05512747",
-    "desc": "Shares of Kroger and Tyson Foods fall, as Nvidia storms higher"
+    "link": "https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories",
+    "at": "2026-11-24T21:31:00.000Z",
+    "image": "https://images.mktw.net/im-06497984",
+    "desc": "Most households are getting “squeezed by rising costs of everyday goods,” according to Teneo, but upper-income households “are showing resilience.”"
    },
    {
-    "title": "Stuck: How a frozen housing market is hitting buyers, sellers and the economy",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/23/housing-market-real-estate-economy.html",
-    "at": "2026-11-23T15:22:03.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108356599-1788201400972-gettyimages-2291216152-260823_tohouses_117.jpeg?v=1788201449&w=1920&h=1080",
-    "desc": "A sharp spike in mortgage rates in September has pushed the already chilly real estate sector into a deep freeze."
-   },
-   {
-    "title": "Consumers expected to set Cyber Monday spending record this year",
+    "title": "What Jensen Huang's Nvidia return means for the economy",
     "source": "CBS News",
-    "link": "https://www.cbsnews.com/video/consumers-expected-set-cyber-monday-spending-record-year/",
-    "at": "2026-11-23T02:02:04.000Z",
-    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/23/c041e8be-3c5e-4582-be41-82153fe7b638/thumbnail/1200x630/2547dc06fb6e76987449b6aa479dd7e7/cbsn-fusion-consumers-expected-set-cyber-monday-spending-record-year-thumbnail.jpg",
-    "desc": "Americans are expected to spend big in this year's holiday shopping season, even as they struggle with the high costs of everyday needs. Akiko Fujita reports from the Glendale Galleria near Los Angeles."
+    "link": "https://www.cbsnews.com/video/what-jensen-huangs-nvidia-return-means-for-the-economy/",
+    "at": "2026-11-24T14:15:50.000Z",
+    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/24/abb51534-bf8e-47cf-8390-b18960a1e652/thumbnail/1200x630/eaedc1a19fe13181811263e5aaf09109/cbsn-fusion-what-jensen-huangs-nvidia-return-means-for-the-economy-thumbnail.jpg",
+    "desc": "The announcement of Jensen Huang's return to Nvidia immediately impacted the markets on Tuesday. Kelly O'Grady and The Atlantic CEO Nick Thompson break it down."
+   },
+   {
+    "title": "Commercial real estate activity falls 14% in October, as interest rates rise",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/11/24/commercial-real-estate-activity-falls-14percent-in-october.html",
+    "at": "2026-11-24T15:05:14.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108557487-1795449841343-gettyimages-2280806169-AFP_B62C3FB.jpeg?v=1795535821&w=1920&h=1080",
+    "desc": "Commercial real estate activity dropped 14% in October from September, according to an index from LightBox, a commercial real estate data platform."
    },
    {
     "title": "Chief economist for Moody's Analytics on why Anthropic's IPO caused market volatility",
@@ -5355,23 +5355,31 @@
     "desc": "NPR's Michel Martin speaks with Mark Zandi, chief economist for Moody's Analytics, about Anthropic's Wall Street debut and why it seems to have triggered recent market volatility."
    },
    {
-    "title": "Tech outages are fueling a new doomsday economy",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
-    "at": "2026-11-21T15:04:56.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108556652-1795196759983-261119_cg_32_doomsday_preppers_2.jpg?v=1795196815&w=1920&h=1080",
-    "desc": "Recent technology outages have left some worried about AI cyberattacks and the U.S. electricity grid. The doomsday economy is heating up as a result."
+    "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+    "at": "2026-11-24T21:30:00.000Z",
+    "image": "https://images.mktw.net/im-83830528",
+    "desc": "“Retirement is a financial status, not an age.”"
    },
    {
-    "title": "Transcript: Treasury Secretary Scott Bessent on \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026",
+    "title": "Is Gen Z Gambling Away Its Retirement? | Money Moves with Jill Schlesinger",
     "source": "CBS News",
-    "link": "https://www.cbsnews.com/news/transcript-treasury-secretary-scott-bessent-face-the-nation-with-margaret-brennan-nov-22-2026/",
-    "at": "2026-11-22T17:41:03.000Z",
-    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/22/2c31aa9f-7902-4892-b6c4-4edf5e3cee26/thumbnail/1200x630g2/d3e205612f1ab8d2660b363a7a26e72d/1-12-20261122-102939-ftn-segment1-cam3-mxf.png",
-    "desc": "The following is the transcript of the interview with Treasury Secretary Scott Bessent that aired on \"Face the Nation with Margaret Brennan\" on Nov. 22, 2026."
+    "link": "https://www.cbsnews.com/video/is-gen-z-gambling-away-its-retirement-money-moves-with-jill-schlesinger/",
+    "at": "2026-11-24T12:00:01.000Z",
+    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/23/629282ee-4e89-4be7-900d-1d5ceb6fc7d8/thumbnail/1200x630/e40ff1b8e5f0776092baee266f3af821/untitled-design.jpg",
+    "desc": "Gen Z is already skeptical they'll ever see a Social Security check. Now, a new survey suggests they're dipping into investment money to bet on sports. Jill, Mark and special guest Kayla Sabbagh unpack the headlines and "
    }
   ],
   "housing": [
+   {
+    "title": "Commercial real estate activity falls 14% in October, as interest rates rise",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/11/24/commercial-real-estate-activity-falls-14percent-in-october.html",
+    "at": "2026-11-24T15:05:14.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108557487-1795449841343-gettyimages-2280806169-AFP_B62C3FB.jpeg?v=1795535821&w=1920&h=1080",
+    "desc": "Commercial real estate activity dropped 14% in October from September, according to an index from LightBox, a commercial real estate data platform."
+   },
    {
     "title": "Stuck: How a frozen housing market is hitting buyers, sellers and the economy",
     "source": "CNBC",
@@ -5381,146 +5389,142 @@
     "desc": "A sharp spike in mortgage rates in September has pushed the already chilly real estate sector into a deep freeze."
    },
    {
-    "title": "Mortgage rates today, Nov. 24, 2026",
-    "source": "Fortune",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFLVMwV3lXcFk5WWlCNkEzbFJzVmRvcFhlMUQ4ZkxYZTkweW9IclRqT3JPcUhZWS01UG5kZ19NSzd5LXUyRWxWaENlX1p5YUtMaTNWUHE0V1ZUU1h6c0VnLV9fOUlvQ29ydWFiQm1Wdw?oc=5",
-    "at": "2026-11-24T08:01:00.000Z"
+    "title": "How a frozen housing market is hitting sellers",
+    "source": "CNBC",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYzNYYWdqMFN6X0VXMjRKbFdmVjBJalU1Tno5SWZBX3hIdHdmRy02MXJ0Slk1amhDZnBqS2ZHTmExREowWEFfRGFTNFF1bmpHc3R0QWJIX1B6SDFYZVpLTTRSUy16czR6OVh6dVlJeDNWVlVhNC1TMkhoTHpJRklCLVdFRDVlRVhLVFFGcll1SVk?oc=5",
+    "at": "2026-11-24T19:10:25.000Z"
    },
    {
-    "title": "Current refi mortgage rates report for Nov. 24, 2026",
-    "source": "Fortune",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9wUGR0dW52aTBudzlHYWpCeDEyTjhac3FSQ0FuczBvcG1HYnBKUkIzb0xxX3JZUEhwSjc3eHp4WEMxemJQRnJLR0VVeW9kZ1NzNGs5NjBVMEhCZkZ0c3h1cmVxMElJYl8wQVI5cVdRX2YydVE1?oc=5",
-    "at": "2026-11-24T08:01:00.000Z"
+    "title": "Is the housing market headed for a crash? Conditions look steady.",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY2NTN0tTNWIwZVV1eU9CRFFPZ2JSS3RhZk55T0o5akpRMGxrM0VMYzNZNlNiTDVsNERxQUZHdDdlQ0lWdThjaF85NDNKcWRrRWpjUGoxeHptNDRrSjF2WE93blE3N2s5RFNyUi1LX0NLX2I3M2puTzBZSjZsYXNqdkNLZ0drR0pXWS1hYmk3ckRiWHhod3B3a0VxZDFfN1ZYVERsdmxMNVJyanFRU09mSTdmY3NBcTBaZlhRNndlcmNCQi1LQUFHSnVGMm16ZE5MRFJZc0N3?oc=5",
+    "at": "2026-11-24T15:52:39.000Z"
    },
    {
-    "title": "Current ARM mortgage rates report for Nov. 24, 2026",
-    "source": "Fortune",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wbkJWT00yclFiZmEtWkphZjV0bmg5OHhsTnNMU3ZTT0p6QnlzQzdBd0xXbjV2QTE4bmEwUjE4cEpENVRUeGFmRTZtMTE0UnFtYVdXVjJackFWX2dzWWpRYkJOeEhPRUhHOW9GOGw2UExUcjg?oc=5",
-    "at": "2026-11-24T08:01:00.000Z"
+    "title": "Home prices rose 2.6% in September even as mortgage rates moved higher",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMF9YdGdQM2IxZ3RYSVo1VTNqZzFLTDZjNXhjamRvMGRTQVNtNkpicDdnLVpmR1F1TmZTWGhsLTJyUGtLbTZKdFZJWDItZUpSZkRaZy1HVmNYZkhxdEtNVmxfLTR5V25yWDFUTkpCNV9LeHZqek5ZaDdGVVJFcEllNGlYVGhtekFBeUpVMGl5anRaMTJfaGdab1FqNzRQTVJEZC1ZcVlWS3oxU2FzN2d2eXV4MHBrVnVwUzl1Skl6eWhKeVFCX3ZpTw?oc=5",
+    "at": "2026-11-24T15:26:54.000Z"
    },
    {
     "title": "Today’s Refinance Mortgage Rates | Rates Chart",
     "source": "NerdWallet",
     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fWlF1X1h3N25UOUQ2SXphbHpiZXlHb1l4eWdZOFhvT1FkTkNFNXVtc1pOVWhPRGNoYlJzcU1yZVp6NU83VUtoY3kzODItcDFIRWIta241QVFiNUc3dkdwOV9ydDlHWHhBWnBkeTlMQzlJM3YzY3c?oc=5",
-    "at": "2026-11-24T06:49:21.000Z"
+    "at": "2026-11-24T14:53:45.000Z"
    },
    {
-    "title": "Estate agent expects Guernsey housing market to slow",
-    "source": "BBC",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1iMk13Z3A1ekFOMm9oamZYN3FQNDYtRTdBLVczQU56VDdRNktqYmJTaFZsNFc5SVBPNXBETXdxTGJjQmpKVWc2UEVob2E2OC1sZzFuRXNiSi1EX2JFbkE?oc=5",
-    "at": "2026-11-24T06:04:05.000Z"
+    "title": "US single-family home prices flat in September, FHFA says",
+    "source": "Reuters",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV3VabHlrZjNqdmx5YkM3S1c2MG1YTUJoZVJ6UkxIUUlNSWNCczItYUY2bFJ2dUFiMy1kYlllVk9uMURDOEJQLXRlajhYQXhRZkRncU1DS3RhZHB0Z2JpN1ppLThNOTMwanhRTEdmRXgwY1hWWGc0ZmJiVk4xWDRiOWRuWnRxTEcySDhCNjZkaVl1NmFGUkltblAzZ1QyWHM?oc=5",
+    "at": "2026-11-24T14:08:45.000Z"
    },
    {
-    "title": "Southern California housing market down nearly 40% from 20 years ago, report says",
-    "source": "CBS News",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNTRzSUVObll0czl4LVFpRzhNc0VyWlVCNVRsWGltNGJtNlNHZERya253NXhZNkhnbEFvVzhQczFheFNJZlVFRy1lUGpTRkhRU19USjdFWFRBZTdQRERFQm0wZ0daa1NlMHJOQ3hMZXBhdDRhcC13Q0RzaHlKOEtZdHFudVZSeTF5emE5bm9MaU1qYUtzVG9RbFJYNzJlSGFEQV96QjduUU9zRGMyNl9NdFVrTFZhWTRMU0NtN0hR?oc=5",
-    "at": "2026-11-24T05:12:00.000Z"
-   },
-   {
-    "title": "Home builders pivot to remodeling and repairs as high rates slow new construction: report",
-    "source": "Fox Business",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUV81RVc1T25sS3k2cDM2YnNDS2RKeDNpNDhGM3VIaF9LdXN5UmhtNENoTXdRTXF6WjVNWlRQUDR6b1NhWmFEbUJpMVl1N1FFZGRhSDNIY3FmNFVwUFpoNjZCU18zLWxIclVOX3huSGRRTHJvNWM4U0RSSWZfZ0I3R0xka1JGelhtQnNULW5KVW1yNGQ3Y0VPeUdxT3BORnkyMVpOUjhlTURCSHh2M0pwR3B0LVFvZUkyZklHYVV0NNIBvwFBVV95cUxQUV81RVc1T25sS3k2cDM2YnNDS2RKeDNpNDhGM3VIaF9LdXN5UmhtNENoTXdRTXF6WjVNWlRQUDR6b1NhWmFEbUJpMVl1N1FFZGRhSDNIY3FmNFVwUFpoNjZCU18zLWxIclVOX3huSGRRTHJvNWM4U0RSSWZfZ0I3R0xka1JGelhtQnNULW5KVW1yNGQ3Y0VPeUdxT3BORnkyMVpOUjhlTURCSHh2M0pwR3B0LVFvZUkyZklHYVV0NA?oc=5",
-    "at": "2026-11-23T23:28:00.000Z"
+    "title": "Mortgage Rates Today, Tuesday, November 24: Lower, But …",
+    "source": "NerdWallet",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN2ZTQ2ZQMm1DZ2RQOHB0UlE4UVZQc2pCdHVqZG9QVURZYWJNODVHOF9yYjlBdDEwVWJicVIteFZIT19Hcm1fR0JfUXlWSV91RGJta1NjWUJ5YnpoNjZEbjdMUmFUN0FIRDlLVU52ZHM4anBWQU51dUJGa1Uwa0xSZkVGM0swNzNIZVYxc2tIbmM?oc=5",
+    "at": "2026-11-24T14:08:29.000Z"
    }
   ],
   "inflation": [
    {
-    "title": "The Inflation Math, Updated: The Fed Is Fighting Oil",
+    "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+    "at": "2026-11-24T18:34:43.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108415078-1792082627963-gettyimages-2297167568-_dsc4023.jpeg?v=1792082682&w=1920&h=1080",
+    "desc": "The Conference Board survey released Tuesday showed improvement across the board, with the headline confidence index jumping to 103.3."
+   },
+   {
+    "title": "Inflation, not markets, is driving Fed decisions, says JPMorgan's Michael Feroli",
+    "source": "CNBC",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY3hXUTZHU3dCY0FLT0RCQ0FiT2pET0lZdWpQTkFDQ0p0ckNDdnB1RWZvLWZaRG1BUzdNY2h1WkVBRWZXSWp5UUcySzNsVndzemp0WGR3RHhFeUh1a3h5bjl1R25HaGFHNmpxdFFjaEticE5tZmZ3WkZrQlk2QXNoblU0d25DNm1ZN0N6WUpqblFKQ29DS2l6UHRlWGpMQ0hRbF9WdVMwNG9vQWprTUhfREkzRQ?oc=5",
+    "at": "2026-11-24T22:15:01.000Z"
+   },
+   {
+    "title": "Stubborn Inflation Could Pose a Bigger Threat to Markets Than AI Worries",
+    "source": "Barron's",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa3FoY0YzbWhuWFh0ZTgyaC1MTTMxaEtUNUZ4T0lxanE2bWItUzhnSk1vUkxLWHZTX3BYRUJLTVg0cFRMc0ZzeUt2UGZQQ09qV2E3Vi02dG5qX0JxclFSOUtaaGgyY1F3TVBneHlZT1ZvSjJhZHh0Sm1JTF9DLUlHUEM4cE9kc3VoUjVsS25sU1UtR1oyVlVjd0Y3aEMteE5PQWwtOWQ2bS1WazZMc1dUVWhkTU4?oc=5",
+    "at": "2026-11-24T22:05:00.000Z"
+   },
+   {
+    "title": "Gas Prices Are Weak, but EQT (EQT) Made Our List of Dirt-Cheap Stocks for 2027",
     "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdWQ5VzRFR2V6aDNicVR3QXVMNkdlVDJ5bElMLTNsOVdWRWl1M0FINUEtWWxGb3ZIUExRd0UyZVphMEozRm5RZ0dISGxidXNxTWZtVHlkeUZwOENYcDZNQTdreG9XQXpielVXcnBtdVVLVXFyM2JCc3RSdjd6OTFIWGFabGM4NGp6NGczdzFlVkE5YWpyVmdEY3poSHQ1WVJnRkE?oc=5",
-    "at": "2026-11-24T05:06:00.000Z"
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYVBvZl92dnRKWjFfUndPMURHRG5oUUJGOHluekxCMGhadTdROGxMNWlwMml6WnBzRElUclZtaDE4RWJaODZOT084S1hWN1d3djZXT2lDdzc1d2dTZ0dBa0hOaVFHUGxrZmFCajhlSXpsU2xyVXgxd0w5SDFCbGUtU01VN1hvXzRncmV1YU1JbGxhZw?oc=5",
+    "at": "2026-11-24T21:35:08.000Z"
    },
    {
-    "title": "Exclusive | Cost Pressures Already in Pipeline to Fuel Higher Inflation",
+    "title": "How to make holiday travel less of an expensive hassle and get home safely",
+    "source": "AP News",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa2Y0UHV1T05GbHo0Z1NaSFc0WDlwcmNWdUs5UXlHRVp2eUhiN0UtU1RfVmM2dDByWFhhUG4xd2tPc1c3M2Vhd2xCdDJ0eTNGcHNOZ0VNbUJydTFKT0hxTm9oYUhieUk3c25FTUJPUjduTTJTSTZ5OWowZ09Kb1NRZjNvYXBwVVFsWVY2Q2Fod3Q5Z1dBTjNXR1JiTy0wcWFhUUF0S3F3MjY?oc=5",
+    "at": "2026-11-24T21:33:00.000Z"
+   },
+   {
+    "title": "Can the Fed Tackle Stubborn Inflation?",
+    "source": "Kiplinger",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUU5UFJoR3BuVUxLeVBkQy1LN05jSmRFTjJXanc5WWNJOWhlYldXcGlRenpYaWhVcWo0NnJMOVZyX1dNSUlQaGlYT19zVXJNWGRDbkphU21lSDJ3T29oQTdZR2xLMmJDdXRHbnN0S2NCRDFSLUR1ZUQtNVFELXB0NXF0YzZ4Mngz?oc=5",
+    "at": "2026-11-24T20:15:00.000Z"
+   },
+   {
+    "title": "Options Action: Traders brace for inflation action",
+    "source": "CNBC",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSW5TZ3Rlbm1RandqTldPVDA5ZlJZRk5CQVBCam5DdTVxVjcxUnVxeG1Oa3V4UUdwbEF5bEp0V01qWkRGcXBvTTdadFVZSHl4QmZydEN4MDF2WW1ibDhCVzBYeDk4anlpY0V5NUNyeFNYYUR2dWNpTXB6aTBKeHZveFV2SmRaSGx6WUlRUWxIb2pmclNtNzhZ?oc=5",
+    "at": "2026-11-24T18:41:56.000Z"
+   },
+   {
+    "title": "Bank of Canada Gov. Macklem Expects Inflation to Remain Persistent",
     "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaHROaGlMV1FteF9zZlkyZGE5ZUdHa2tFRzZDTnR3QUJXWkdRZ3dlelRhWHNlNWJQTzlsNkxCeWpHb2luR2d5NGk0ZC1fS3RyOW5vYVdsYXptclBfa2VZVHNnMzVSNTIyZFNVdjZ5S204OTM4MjBZT1JrdTd2Z0JKbDZjemNsX0p3ck53Xy1MY254dGhjSC0yczlRakcxSm1GaWpxRGlB?oc=5",
-    "at": "2026-11-24T04:35:08.000Z"
-   },
-   {
-    "title": "Gas prices in Michigan fluctuate before Thanksgiving travel",
-    "source": "CBS News",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQjNtTnJnOTI5endBdkE2aV9RaXFEVUZ3U1NmM3cwYWpacndWczJEUmpETnRTRTViMFpvSERzTkh0WXZPd1V1dUhtRUF3b21JcE1Gb0ZsaHUtbU5IRWVQc05aWkJqa3Y4NFlmTUFVMC1jQUJja1J4eV9CWk5ObUlBOTJ6NXhocWlhZVlmei1jWkVXQTJFT0Z0dzhGUnlMbVE?oc=5",
-    "at": "2026-11-24T04:08:00.000Z"
-   },
-   {
-    "title": "Gas prices drop in Massachusetts ahead of holiday travel",
-    "source": "CBS News",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVnZTRVVZUjE0aHhBQXRscGdFT0hpMFY1Q0xpV1ZBdVZyUm9VLW9XUE4yXzBiNDVkSHlGbVpGSGhjOXk0UkxFZm9ibm5RMWxmb2cyUXpQSTdiY2hnUnhsQzByOU5yMTIxYi0xdlBQdjlJRUVpMkxqQ0NOdFhzUkx2RDV3aHFNdEg5TjZTMl9SN2NaUkViaDV0NUdn?oc=5",
-    "at": "2026-11-24T04:06:00.000Z"
-   },
-   {
-    "title": "Gas prices in Europe surge as forecast cold snap feeds supply shortage fears",
-    "source": "The Guardian",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYUV4REl4S2dSTTdBQmlTRTBnSUsxeDk4WDV4YUpHOEJLR0pLemF5Qm9tOF9oSGQ3ZTNqSDFmR054WllsMjR3VXh2R1lGQWRkSzBraEtGbi1pQ0x3cFUxTzRfMVhlQ2o3WnhPNzRzWXJvNVI0aXA5dHc5Xy15bkwyYzA1OWxLT0FNTTY0N0ZCa28yZldDV1dJQmlpdXNfYWdEUXpWUFMwejJIVUt0Rm16SEN5RW5jVHkxRnVpWUVFcTM5MUk?oc=5",
-    "at": "2026-11-24T02:30:00.000Z"
-   },
-   {
-    "title": "Gold edges lower as markets await US inflation data",
-    "source": "Reuters",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX2lLRXdXdmpCM0FsdHVpNkdYTWttMDRZd294U3VSZGtqczloSEN5N1VfTzBpbjJLZGYwWm55RDlXSmY0b2tod0tBUl9lbkl4TW13VDBuWEVDYjgxamc4anBNdGhtWTdvUUNiYUp5MDlJVU81Sl9qa283bUIzTUNCU0lZZ1VBdXo2UW5hQmoyT191dFpWODY2aldnOVJmRzVaaV9tZDF2U0hKbmRubUg0TllIendaRzg?oc=5",
-    "at": "2026-11-24T00:57:00.000Z"
-   },
-   {
-    "title": "Fed's Williams says inflation still too high, signals more rate hikes possible",
-    "source": "Reuters",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa3lvbHFTMGFKUm9paUJYVzFoQzd1QnQtSzAtTlZmSlFyRW5Sc1hic3p2MVV0VWVrYjFkNDdQZlFTUWMzZGFueG5yMTVMcGhLWUxwQi16Ujk5b2ppMVRWTGowaHlMZDQ4Z19xbWpCQTRFVzFHSHhxeW9kbG80OTVtSEZsb3REX29FRFFPR0xzTnFjYXh6?oc=5",
-    "at": "2026-11-23T23:38:48.000Z"
-   },
-   {
-    "title": "Gas prices continue to fall in Massachusetts",
-    "source": "CBS News",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc2MydURrVFg2TE0tUTZUSWRmQ3pHNjFlNjIzRFh1LUVBeW1yZS1CS21jSVhTZnBjVWVSRGU0M3RxZGNGbzc1Y2U5Wnl2dlZOTUlvNjUyaWUzSkxyazRTbkRLOUV6Q0hMRGZDeGR5Yndzal9ZZm5KaXp3UXRDaDVNdWdyR2xNVk11R2c?oc=5",
-    "at": "2026-11-23T22:11:00.000Z"
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdmV5U2pibTRfUmJObWdlQl9rS1JlZ2xqQ0hkTTE5UG4zODdpTWRjbFNyQUxaY2pYRHdhTG1JNHFFUExBWV96S1dXaWRTV1llaEh3U0ZkeU9oLU5VRGVBajVhcmRpemh4SkZncUlvb2ROUlVwdVQtSzJZU2Z3WEREMXp2SndmeW0wTWI4RWpIaDlwS2dNYzZXN2FfYkhURmlPUENCX1hqMnV0MWdxX2xPWGh5bmlfLW10VGc?oc=5",
+    "at": "2026-11-24T18:41:00.000Z"
    }
   ],
   "jobs": [
    {
-    "title": "JioStar Layoffs 2026: Around 150 Employees to Lose Jobs Amid Fresh Restructuring; Why Is the Media Giant Cutting Its Workforce?",
-    "source": "Jagran Josh",
-    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNbHNkRGxvQzlKY1lfVTFjVUtyWjh3c1Jic3VuYXZuUGo4VnY1TXhzZ0d0X0tobDAyNGl4Vk1zVEtjYS1meXpqSXRwUkRqWkZwWEJTQ2JVQmIxWUxhZkF2ZVptU2dmMlBPR3ZrbXJEQjdRbU5GQkI5M2dZejhLaE5UWnNxUjBuSjctTmc0YURITzA1bHBsd1JVWTljdHhZMm44Q3Q5TlgwdExsU0hKakwyNzFNc1Z5UFVpSEdCSUtnWm5rUXJPREYtVHVETW5UZTY4TGgyVjNsV3pmTE5vOU9UODZkMFV0eHQwYTZGRUZZWEJsMDc3VC03WWN6eXVScExVa2tzaDczUDJqQ2tjd2440gGWAkFVX3lxTE9VV3pkQ2w1WmNDbkpFSU1nLUpJREVrcEszaTZHR1FORnVRSWg4dVEwX3E5LW0yZUc3ZlY2cWxTdVhiaXpZT0NhMWoyZC1XVkpiS1Jwd3czM09UWFFSX3d0NTAwOE9fMWMwUm1rV2hhZWx1UjVxTEttMjllMHp1bTF1YXkzNGpkVVZ4dEN0dDM4dzY4THBxQjNEaUJrNWVtcWJscHI1bHVhTU1Ed3RUNXRBeVMyQVhBa3Ryb2U4QUlXVjU4Q2JlZk10a2FwWkJMNFdKaGcteV9yOU92akh0WkRLQ2xrZmpqQmtOcV9iMmpReDBqMXJwMmFKZEtSZzZKTVU3VzFoOUFtQXVTWjBVYjVhY1lKMWJR?oc=5",
-    "at": "2026-11-24T09:11:00.000Z"
+    "title": "Las Vegas metro job market 2nd-most active in US, attracting college-educated workers",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPblJIbVNSMVVkMDJ1VVRLZFpabU9RTjQ2NWR0bTNZQ05jSHJWTklTeXdwREgyRFRzZ0RvTkRUYU9JMG9xWTVDeFZLR1EzdFdEQk0tYmNuTEtmNkI5ZGlYUnMzTC1IV0J0cWVvaGtNYXJ3QldLdGdwUFlzVzJrMmZpUlB2TGVETzM4TV81cA?oc=5",
+    "at": "2026-11-24T20:12:51.000Z"
    },
    {
-    "title": "Another round of JioStar layoffs? Company breaks silence on restructuring",
-    "source": "People Matters - HR News",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSlpwUDlIejJSdFk3N3ZFRzRiWE5XZzFzb25teE84THBleVhJSUZxQkVudlFVdU5nYjJnc1VpVFlQbHhyVlRWdE5WWmlvcDB2ejEzdTJTMGxFakZXY1B2M0tPcDZ0cTZSQnM2b2t5ZTNnNS16NzFJQTRzNTR0S2RZYjVab29RV2NadTY2UkJCUWwzOGJ6RmxZbWlvSFVSTERsbUpjMFg5bXdvZ3hGNzlQVG9XMjV1RGFnT3hZZ1N3YnMzY1k?oc=5",
-    "at": "2026-11-24T08:41:04.000Z"
+    "title": "Australia’s Jobless Rate Rises to Highest Level Since 2021",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX2hoZ3hxc29ReWFJd0lfRk9Od2xVbFhYMTAwMXZqakkxMkZPcHNVdmFqdmZDV3pWNDZidGt0ckxqdU5VZ2pKM05fblpwMm0tWm01aDhmajk5RGc1blVvR0Y5NWw4S0NhXzhXNk1SLWlvYmo2SjktLWRYZnZtTW9zVzlEcV9JSXdRbVdZMklGWjNHR1NLSWRpanRn?oc=5",
+    "at": "2026-11-24T19:20:33.000Z"
    },
    {
-    "title": "Businesses Are Learning the Cost of Rehiring AI-Driven Layoffs The Hard Way",
-    "source": "International Business Times",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbUoyZDNsaHVra1oxYUo5RUVxQkxxUEdXZlFSZnQyQWJFS3VDZTl1ZEpWYjJ0OGFQT2R3SnotNUhPN2VXb1RYd3ZJdzBTUVJIUjc5Z29GWndGbEZJTmMyR2VzUWhJOTc0V1lQXzhCQUg0QkJreUhXdEZoSlFQbVY5RWRpVXY4dw?oc=5",
-    "at": "2026-11-24T08:33:25.000Z"
+    "title": "Britain's youth unemployment crisis analyzed by panel",
+    "source": "Fox Business",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByaDBMWjRXa3BOalN0emhOMGk4YXk4TXpSRVBMVTRBbG9GWDgwNTFsVG9iaXlkTHRxZkxJY3E0SGM1cVFpSU5SNk1MdGlnVVJ5Ny16R1BGM01BT0k?oc=5",
+    "at": "2026-11-24T18:45:26.000Z"
    },
    {
-    "title": "An ex-Microsoft employee who spent 24 years at the company said she received an invitation to a layoff meeting while delivering a 90-minute training session on how engineering teams could use AI tools to create their own documentation. In a LinkedIn post,",
-    "source": "Instagram",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xMHZoUWpkckY2WFJHVDEzUzM0Z1RWdVhjLWI5a25FOGtVQXZkT0dyNXAybVVyU2NwcERzZFZoLUtzQTVpcjdrS0g3eHhpSnhpWFE?oc=5",
-    "at": "2026-11-24T08:31:50.000Z"
+    "title": "South Korea’s Digital Part-Time Job Market Offers Lessons for India’s Growing Gig Economy",
+    "source": "USA Today",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcG83SUxFN0s3V2pDVms5Q0k2dTdhRVB4YS1GaXlYX0lZU2lwR0NxWUdEWUZtVHNBYnVPQmdROHphclREZENWblFnUElNa3FBRVNHUEhkN3ZOc21wSjFNaXhEaU1SZ2p2ZWVPbFJhNkdpVkRKeUNWbUMweDFobEk2Si16SzViNmhRd3Bxd0R3ajlucHJlcE9TbHg3dk5lQS1KRno0Sk5wYUtCeTNlWGRWMUJnM091cVE4bllhazVPQVRKX0FMOGVwR2ZfMW5iOGkxUllsdktR?oc=5",
+    "at": "2026-11-24T17:55:00.000Z"
    },
    {
-    "title": "Google says 30 Cloud jobs were cut in India, denies large-scale layoffs in Bengaluru",
-    "source": "The South First",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRHYxeUVrMHJPLUM5UG9VRGhlTmZVTVlBWXI0Q2NfZG12NkJUZERXMmlDZFUwUWltdUJWM3FXdDFBc2dKNEFENVhNMHFQN2t1OVJoV3F0Y0FsQnhEdThQcG1oZEh0QVJUemRXV3FxSlgxWm9ENWI3X3Y4VTFzMloydm5GS1NLN0FUc2dhd0JITWFsTDBvS3pzRmRkUWQ2eXZOdUppY0F3Q0V6WTZDeF80Z2VCdEdHdWs4aG1BMmd5SmNTUQ?oc=5",
-    "at": "2026-11-24T08:06:38.000Z"
+    "title": "5 economic trends to be thankful for",
+    "source": "Axios",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTEVHNG9sdVBKV1FwcjhUN3JoT1RxXzBIdkNsT0hoV080emFNajhNcFp1Q0pvU1hUYUF5WmtwMkdQc2ZPQm1PS2N6Smlhclp5T0xyVkhTc1ItNHNMWWJfS1dYa0FMRlJQd0pLU0x2SjhBX212WW9JdnNUZW9MQUNkUVdxSzBOM1hjSGpvNg?oc=5",
+    "at": "2026-11-24T17:00:11.000Z"
    },
    {
-    "title": "Weed-outs, layoffs, and budget cuts: How Princeton students have changed their academic and career plans over time",
-    "source": "The Daily Princetonian",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSzRlbXVkQW5zNWE3SzdDY1UzWkZueVBKNjM2YUxpZmFROHRibTFXaUlQSWVXaUowOGtYSS13dFlKR2pRdG50ZDhXMEQxOHZEbUJabjR4SnhlVDFyeGp4M1R3UEN0VDZaTXVhZm5qOUpTQ1JGWVNnNmM0TnIyU2o0eEQ4ZXA0RUx0NWV6T0RfV09kRGJSNmtoVVlfTmlJTzM5SHc?oc=5",
-    "at": "2026-11-24T07:06:00.000Z"
+    "title": "Oprah And Canva Teach Us How To Conduct Layoffs Humanely",
+    "source": "Forbes",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0huZ0RlVFJOXy1CVkVJYzQ4MzFOU1F4TnphRDNtYV9zNDRvWWFxNk1sbUI2SDRoMWhQejBkT3paYUJrRnk3WXlYZHVwRnBpY2RIN0RDTzNLcnJuelhhclhrLWM3MmprenpMekwtc2RxWXhoRHQ0dXVqYUM2anBoV0VkZEY0c0FUczRoQTVleVY3N2pOQ09ONGZSWTItTE9ReFRNVEFFSE5ETmla?oc=5",
+    "at": "2026-11-24T17:00:00.000Z"
    },
    {
-    "title": "JioStar responds to e4m report on 150 layoffs, says portfolio rebalancing underway",
-    "source": "Exchange4Media",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORTVuM2FCZnhZby1qNzZFUkw5VEZoX1FFTEx2TEw4bWp1cTZaOHFzaG51emtSVk9Mc3E0UV9sbWNidTMteEpBQ1B1dTVUcHFOMG1GNjVxTTFNajNldXRHd0d0Q0NuTHByNmNuRHlzX0xLenB0Wlo4TjVwRW9BNEJJUHBCcTB5WmZSUE9zamVqVWhDLXpONzMxa1NmdVhGR003MjNfRy1oMy1sQjdka1NpTGRPRmJWTmhVdlRzcWRkd0VWSkdvbGRZb1YwVDItMUhVOTg1Mg?oc=5",
-    "at": "2026-11-24T06:17:30.000Z"
+    "title": "Goldman Sachs says an unusual pattern in the job market could hit workers’ pay",
+    "source": "Business Insider",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNmlDOHJ2WmIzc2U0R2NhWHBvYk44WlRhVU5fQXVQWkdoc2Uzd1JDTndYcmJNSldzd2lGLUJmTDZPSzNhdHVPQnpVWmZ6cGxPLUVtam9qYUptOHBmbHBWNzVhaU85SXkwZlRLZlh3TFZveGxaTkl2MDZKMFdSUmdIcVQyTEg0QW9jWFRwTjhEaXdWTXlpSUFhTk1IZTc?oc=5",
+    "at": "2026-11-24T15:40:00.000Z"
    },
    {
-    "title": "[Opinion] What bank layoffs tell us about job security",
-    "source": "联合早报",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdDI0Z05CX211MDFkNHhWZzZ4RXB3dkdVOFo0aV9BbHZTZWFYUTBudU1OMExMVUFlbm9HWU9qMWs1NHhoSTZ6V1J2dGcwakszTTQxdDhsemp2S3BXR05VRzI0d084VVFOZ0hqREUzRGtFbVNOQ2FzUjJvNm9UaHVFQWNFSFRIWTNZc2lpaWtRX0tJQi1NamtKVQ?oc=5",
-    "at": "2026-11-24T05:43:50.000Z"
+    "title": "New Layoff Data Show Job Cuts Down 41% So Far This Year",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tRUQ3eGRWZVptRTlGZFB0TlFkS2dtWEZ3Tm4zeDBYeHFOQ1dyUm5nQ2J2TmtNWERob2s5TmlMQVg1aXNFaC1tSk5abVNKOHpsYXQ0bTNRT01ob3Vsb0lqUVNldDJEZWVrMzctdDlhSQ?oc=5",
+    "at": "2026-11-23T22:27:12.000Z"
    }
   ],
   "debt": [
@@ -5533,46 +5537,40 @@
     "desc": "The following is the transcript of the interview with Treasury Secretary Scott Bessent that aired on \"Face the Nation with Margaret Brennan\" on Nov. 22, 2026."
    },
    {
-    "title": "Willing to chip in P170K? Cayetano seeks way to let Filipinos help pay national debt",
-    "source": "ABS-CBN",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNjEzT1dSc3F1aGd0UjNyb1BSdkFDLW9QdXJDT0dlZzFUaTZnaVF6Z0YxNFFLUmpNVkJEallaTzB2SmI0LTFuQWtNTTdPTzY0SGhCbWhVdlNvN3JPR2xOemtZUVdqSmJadEszQi1JQWxQWDdvUVBqWk9MYWFra2ZxOWk3cmJ5TEQ0eThOUzl6RzF6SmxyaDI2MzRpQmxtSldZdDFKdC1Ob0NiQUZLcEZCMTU4WGQ?oc=5",
-    "at": "2026-11-24T09:32:54.000Z"
+    "title": "Treasury yields are steady as investors await more economic data",
+    "source": "CNBC",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kVk10NWJKZmMxSHlDRjExaTRUbnMtRmhRTGFta21UaHg4NGNSZndMYTRxczhZSmg5TllvWi1LekdUcGc2c2hfcnVrQnhPR0NTSjI0QU0yZHpFZldCSndPWENKaXNKV0VubXYtTW9ndVllY3hRek1B0gF8QVVfeXFMUGg3N2J0czVpMHZ6dzNPbjdfb2dmYk9NQUw2ZmVQUG00UWlJeDdEaUkzSjJQMU5DOVVXQXg4YzBkYlJldkV0aFRjNXZJM2hKckRRR3lYc2xhemdhMk9rLTk4Q2Uxc3k0Xy1yOE9QZWVpM095amUwdk1BLXlHXw?oc=5",
+    "at": "2026-11-24T10:04:17.000Z"
    },
    {
-    "title": "Senator Alan Peter Cayetano proposed allowing Filipinos to make voluntary contributions toward paying off the country's national debt during Senate deliberations on the proposed P7.2-trillion 2027 national budget. With the national government's debt reachin",
-    "source": "Facebook",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQTBQUldQYmF0U0kxdm15ZDMwTThva0o0SnlkN0dSUjFQdHJZajBvQkJUaXJpV2pMX1pVMlB1eDFVb3JWS1NhaHlHMVhwYUxwTlV1Z0pPUzEwVTNxWnRYY3NTYlh3ZmM4S0wtSmZ4dkJsdG4yWFNMbnJBRjhhTVd0Rnp1aFBEM0NnX0JtQzd2QmY4ZE9IRXVNY25tRzNwR3dyTnVTTDZ6endwQjhGQ3JZZEtVUkVBa0dVNGo4YWpZQ1VOTzZGX2MtempFUm9aOGJvRmNCUlFUX0hvYkpnMGdB?oc=5",
-    "at": "2026-11-24T07:53:45.000Z"
+    "title": "Treasury Yields Rise After Huang Returns as Nvidia CEO; European Bond Yields Slip",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ01XVnNSdmRPYmYxOWNxejJQZ3Zsa3Ywa21rWWNDSi0ydnk5N0RjZ1BNQS1BRnNuSlZDcXpkUkZ4QkQ0V25rLUQ1MjRMa2hsRWlOQy1HOVRadlBZcG5TT3NIZ0duRDJvb0JGVHc4ZFE4dlVQSDBQcDhuMTFsdkRuRGQ4djl3bDE4c3lpMjEzU0dZWHo1dlNRTWo5LThIMHZtVk9iVjhoWGR1azJKUEE?oc=5",
+    "at": "2026-11-23T21:15:00.000Z"
    },
    {
-    "title": "Ambagan na! Alan Cayetano floats voluntary donations to help pay off P19.66-T national debt",
-    "source": "politics.com.ph",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMHdDWERjeG4yaGpCVnE2d3NTYWdvM20tRzZOR3pCdXBpM3g3c0c1LUk5SGt1VmV4UDRLeEJGNW9GZWN0dng5S1FVYXEzYm5aZ1VZT3RHLW14MkJJR293T09vLVdXaXZLbDFodzNiWXZFOWhqcmRSdXg4OTRsTDNSWkI2SEF6MkZhMktFV3JMYVVVWTRrUXlQeE1xNTA4WkFscDBOLUl2TjVZdEwza1M0Nk5XWlNXdw?oc=5",
-    "at": "2026-11-24T06:26:10.000Z"
+    "title": "U.S. Treasury yields rise as Nvidia's board reinstates Jensen Huang as CEO",
+    "source": "Quartz",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MeXQ4Z1JFdWJGT3BOdWVBVVItU2VoZnJrcUpWa1RtcGpGOElENXZuc2NFUjJIbXBxZ0dzblk2anh2VlhLcjUwVHBjZ05HSFYyZ1lPT0oydDVwa004MmFzcnFKMERwb3pwejlaaTVR?oc=5",
+    "at": "2026-11-23T14:46:23.000Z"
    },
    {
-    "title": "Want to chip in? Cayetano suggests allowing Filipinos to voluntarily contribute P170,598 each to national debt",
-    "source": "Philstar Life",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQkNyZTZvdkpnVU5FUjhrLUQxdm9rTXhLZFNuTFIyUy1SSkpjbzN2Vk9qZzR3UTFfNTJwTFBXaHk2cDdyLXM3cXFVNmd3TGMwRzdzVzZCcFpyR0tWby1ZSEVGckNmeURISzRPZ1dwSEVmbW1NX2JibklrZ3RmRGtFWnVONkFlaTgyVy1DYWlaTHY5TTV2aDNLNlM1VkpQZUZ0VU5BX2Z1eVVQd2NLNFHSAaoBQVVfeXFMTWJ1VHk3Q3hfTzBMNU1lM3ZMQjFuNm4tTkhoZEJQZldWVkMwZU1peGVZa2hCSmVueUJabkVHNUpHeEQ4Zm5zV2YtZFcyam90ZEZaYWphUjdHZXFYc1JFS3ktZFJmLXRadkh1bTZjV2NWcGx5QlFkSUg0a1QxblFPY1hBWU1KeTN0cGxtQnRtR25KS2Utc3NGaEZTOWhoaWN0Nm9nTlJFSkVaRkE?oc=5",
-    "at": "2026-11-24T05:37:42.000Z"
+    "title": "2-year Treasury yield jumps as stocks rebound, investors await New York Fed President Williams speech",
+    "source": "CNBC",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QemJ4Zi1KUVFXdk1NTDJLQWtnQmpPSnBiZTY3ZFV3SmRwZmFFay1kLTZoNk1MclNIZW5SVzh4MzlfRHBZTWR5N003aU9udHVCczNUd3R5SWxmMnIzb3QyS0R6akhuUzFJMlkyT2ZUd9IBdEFVX3lxTE1EVlVKZHJ6WUhjRGtoM2RrSjMtT0ZaanpZeThYZXNkdHRyY2FtNFc3SGJiREt5Rm5fc29DWWtMZ0FKVzNES09RMHBOVjVMY0Y4R0xHdW5ybW9fVW9CenRxWGtwYnRnVUZJQlNJR1RpUk9lbzNU?oc=5",
+    "at": "2026-11-23T10:15:19.000Z"
    },
    {
-    "title": "WATCH: Senator Alan Peter Cayetano suggested that the government set up a mechanism for “generous” Filipinos who want to help pay off the country's national debt, which he calculated at P170,598.03 per Filipino. During a Senate plenary session on the 2",
-    "source": "Facebook",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcTBYZEtNTjNiUGhoOVV1ZG44d3cxMWhVX0U2WGZpUXBXcmk0UEhBTzZnQ0pZMFVEeGlPNEgtUWJDOEZaR0NSVmE0SWtpUWNSWFVaR3lsTDdpd094TFd1X2FGdUlFSDlFTmprVVB6LVBKZjVUTU5kdTljVE41VEgxaTFNSnU0SmtIVFJMN2JIeGJ2S2FCVGlBREppSlNtNHhhNEJKQVRra0hYNlFOb3JwNlJiZFk1Si1kbHFPeEUtZk9GVi1OYWthdmM2VXQ0WmxpNHhTRzdoU2x3TTQ?oc=5",
-    "at": "2026-11-24T04:45:40.000Z"
+    "title": "The National Debt Rose $2.4 Trillion in a Year to $40.6 Trillion. The S&P 500 Gained 9% Anyway.",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMVhLZTgzem4xRVVlMjR4Z3otM25WZTIxczhabEFTYzEwdTFtZDlSSVJIbl9OSzdBWWlGLTlPWWhodnhSNlZKczhvUDdabzUxNWNkOG5rSGVXaWZiNzVwTmx0ZnFjaWpISkNsMWtPT2pWTFZQSGcxWDAyMG1Ua2R0dDlLQ0l3VUR5alZJVGNxMEM?oc=5",
+    "at": "2026-11-23T07:50:00.000Z"
    },
    {
-    "title": "Each Filipino owes P170,000 in national debt, so Cayetano wants a way to donate",
-    "source": "The Global Filipino Magazine",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcm02VDYzVmJRVDlVbEJRamluUWhpc05HLVZOeEUxYTZJc1RPR1l5S2J0b01DQnlHU1E1bnBlUDg1RXI2N2VEZTVoMzBfa1lwX0VYbkpaYXNSX0taRzN3Q0VTQTE0cnE5UWdzTnhOYzJqemk1d1l0azBfSnlrMUQtRzNtbTRkcWVlenlUOW5ZV0lyY1kzT0JVd3Y4cXNVdkpodF8xT3M1X1ZPendLek9pLW5nWkl2Nm8?oc=5",
-    "at": "2026-11-24T04:13:39.000Z"
-   },
-   {
-    "title": "Want to chip in? Cayetano wants option for Pinoys to help pay P170K share of national debt",
-    "source": "Manila Bulletin",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ2V1a0pISEFQTU5OYTc4dHNjTjZqYWpKQ0hOMm9uMU5BYjFRUkpULS1KRG1PaDdvSDFLNU1HTmxYZHF0QmgtVTZkVjVxUVZDdFBRZzVfaDUxUVljSUJwQXZvdVc2S0hMZ0poMXUyRjhTNHVSblZLYkJVcG1nY2t3NkhuTC1wdHNqOENaUHAwckoyOFRRbWpHdmxqenN5TXktcnQxOFdjblRKYnlVVjRNZm9uSHlDUGxCSUE?oc=5",
-    "at": "2026-11-24T04:01:52.000Z"
+    "title": "Wall Street soars on Huang's return to Nvidia, Treasury yields rise",
+    "source": "Reuters",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR2c4ZVNmcHBzVFctOTBkRUd2d0VHTklseUhCcEtZT2VHbU1WbWprMUk2aDZSQ2tkZHNYVE9EWUgyaEkxeWtyN0M2V2NzR2ZCTHFmMEhvbHFDeExTNUdTeDF3WkxJZ2RSdmZ2cHBxWlFjTXdoa1hXdlZQRWtyTFFKVlJjMA?oc=5",
+    "at": "2026-11-22T23:44:00.000Z"
    }
   ]
  }
