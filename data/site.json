@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-25T08:37:41.935Z",
+ "updated": "2026-11-25T21:43:29.964Z",
  "ticker": [
   {
    "name": "Mortgage, 30-yr",
-   "value": "7.28%",
-   "dir": "up",
-   "asOf": "2026-11-19",
-   "when": "Nov 19"
+   "value": "7.21%",
+   "dir": "down",
+   "asOf": "2026-11-25",
+   "when": "Nov 25"
   },
   {
    "name": "Gas, regular",
@@ -31,10 +31,10 @@
   },
   {
    "name": "10-yr Treasury",
-   "value": "4.92%",
-   "dir": "flat",
-   "asOf": "2026-11-23",
-   "when": "Nov 23"
+   "value": "4.91%",
+   "dir": "down",
+   "asOf": "2026-11-24",
+   "when": "Nov 24"
   }
  ],
  "videos": [
@@ -94,14 +94,13 @@
    "cards": [
     {
      "name": "30-year mortgage rate",
-     "value": "7.28%",
-     "when": "Nov 19",
-     "asOf": "2026-11-19",
-     "change": "+1.02 pts vs. a year ago",
+     "value": "7.21%",
+     "when": "Nov 25",
+     "asOf": "2026-11-25",
+     "change": "+0.98 pts vs. a year ago",
      "dir": "up",
      "tone": "bad",
      "spark": [
-      6.81,
       6.69,
       6.6,
       6.72,
@@ -204,7 +203,8 @@
       7.24,
       7.18,
       7.11,
-      7.28
+      7.28,
+      7.21
      ],
      "source": "Freddie Mac"
     },
@@ -2614,6 +2614,10 @@
      [
       "2026-11-19",
       7.28
+     ],
+     [
+      "2026-11-25",
+      7.21
      ]
     ]
    }
@@ -4726,114 +4730,114 @@
     },
     {
      "name": "10-year Treasury yield",
-     "value": "4.92%",
-     "when": "Nov 23",
-     "asOf": "2026-11-23",
-     "change": "+0.88 pts vs. a year ago",
+     "value": "4.91%",
+     "when": "Nov 24",
+     "asOf": "2026-11-24",
+     "change": "+0.87 pts vs. a year ago",
      "dir": "up",
      "tone": "bad",
      "spark": [
-      4.43,
-      4.18,
-      4.15,
-      4.4,
-      4.52,
-      4.55,
+      4.41,
+      4.19,
+      4.2,
+      4.39,
+      4.59,
+      4.58,
       4.67,
-      4.78,
-      4.6,
-      4.55,
-      4.43,
-      4.62,
-      4.5,
-      4.29,
-      4.29,
-      4.27,
+      4.66,
+      4.65,
+      4.52,
+      4.45,
+      4.52,
+      4.42,
       4.24,
-      4.38,
-      4.06,
-      4.4,
-      4.34,
+      4.32,
+      4.31,
+      4.25,
+      4.27,
+      4.01,
+      4.48,
+      4.42,
+      4.23,
+      4.36,
+      4.45,
+      4.46,
+      4.43,
+      4.46,
+      4.47,
+      4.39,
+      4.29,
+      4.3,
+      4.35,
+      4.47,
+      4.43,
+      4.37,
+      4.23,
       4.29,
       4.33,
-      4.37,
-      4.43,
-      4.51,
-      4.46,
-      4.49,
-      4.46,
-      4.3,
-      4.26,
-      4.34,
-      4.46,
-      4.4,
-      4.38,
       4.22,
-      4.24,
-      4.29,
-      4.24,
-      4.17,
-      4.01,
-      4.11,
-      4.18,
       4.1,
+      4.06,
       4.14,
-      4.02,
-      4.02,
-      4.11,
-      4.11,
+      4.2,
       4.13,
-      4.04,
-      4.09,
-      4.18,
-      4.15,
-      4.18,
-      4.18,
-      4.19,
-      4.17,
-      4.24,
-      4.26,
-      4.22,
-      4.04,
-      4.03,
       4.05,
+      4,
+      4.01,
+      4.13,
+      4.13,
       4.12,
-      4.23,
-      4.34,
-      4.35,
-      4.34,
+      4.01,
+      4.06,
+      4.13,
+      4.16,
+      4.15,
+      4.19,
+      4.18,
+      4.24,
+      4.22,
+      4.29,
+      4.22,
+      4.05,
+      4.04,
+      4.06,
+      4.15,
+      4.2,
+      4.39,
       4.3,
+      4.33,
       4.26,
-      4.35,
-      4.45,
-      4.42,
-      4.61,
-      4.5,
-      4.46,
-      4.53,
+      4.3,
+      4.36,
       4.43,
-      4.41,
-      4.48,
-      4.54,
-      4.57,
-      4.71,
-      4.68,
-      4.69,
-      4.63,
-      4.69,
+      4.46,
       4.67,
-      4.77,
+      4.48,
+      4.49,
+      4.55,
+      4.49,
+      4.4,
+      4.49,
+      4.56,
+      4.55,
+      4.69,
+      4.75,
+      4.65,
+      4.68,
+      4.74,
+      4.73,
+      4.78,
+      4.97,
       4.96,
-      5.01,
-      5.17,
-      5.28,
       5.24,
-      5.15,
-      5,
-      4.91,
-      4.88,
-      5.1,
-      4.92
+      5.31,
+      5.21,
+      5.12,
+      4.99,
+      4.95,
+      4.98,
+      5.07,
+      4.91
      ],
      "source": "Federal Reserve"
     }
@@ -5275,20 +5279,44 @@
  "news": {
   "top": [
    {
-    "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
-    "at": "2026-11-25T04:06:01.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108558993-1795573681967-gettyimages-2264019212-AFP_99QN8VR.jpeg?v=1795573693&w=1920&h=1080",
-    "desc": "The UAE is optimistic about achieving 7%-8% economic growth next year, banking on a \"different\" economic model."
+    "title": "HP’s stock is a standout gainer in the tech selloff, as an earnings beat still matters",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
+    "at": "2026-11-25T21:36:00.000Z",
+    "image": "https://images.mktw.net/im-59545420",
+    "desc": "PC maker’s ‘low-quality’ beat is enough to propel its shares amid the tech rout."
    },
    {
-    "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-    "at": "2026-11-25T00:05:00.000Z",
-    "image": "https://images.mktw.net/im-93318812",
-    "desc": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”"
+    "title": "Why are investors freaking out even as the U.S. economy surges?",
+    "source": "CBS News",
+    "link": "https://www.cbsnews.com/news/us-economy-stocks-ai-inflation/",
+    "at": "2026-11-25T19:45:38.000Z",
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/14/8a669d76-97f2-4c2c-a80f-9d7943352665/thumbnail/1200x630/1d9a7a9e421e26231d5accbc63b75918/gettyimages-1158933034.jpg",
+    "desc": "The economy is sending mixed signals, with growth jumping while stocks gyrate. Here's what economists say is going on."
+   },
+   {
+    "title": "UK food inflation could hit 5% next year, Bank of England says",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
+    "at": "2026-11-25T19:25:57.000Z",
+    "image": "https://i.guim.co.uk/img/media/6dc206e833865c9dd5429c7d1b0d08abb0b3bfde/79_0_3491_2793/master/3491.jpg?width=700&quality=85&auto=format&fit=max&s=e94fb6f6732d7f6ca6e6f9de80513f05",
+    "desc": "Sharp rise expected as cost pressures mount, with experts factoring in energy price cap hike and potential impact of El Niño Food price inflation in the UK could hit 5% next year, the Bank of England has said, despite ri"
+   },
+   {
+    "title": "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
+    "source": "The New York Times",
+    "link": "https://www.nytimes.com/2026/11/25/business/economy/inflation-pce-interest-rates.html",
+    "at": "2026-11-25T19:13:30.000Z",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25dc-inflation-gvjc/25dc-inflation-gvjc-mediumSquareAt3X.jpg",
+    "desc": "The Federal Reserve is widely expected to raise interest rates next month."
+   },
+   {
+    "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
+    "at": "2026-11-25T16:17:13.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108559208-1795612724128-108559208-1795612564049-gettyimages-2306242882-BLACK_FRIDAY_SHOPPING.jpg?v=1795612731&w=1920&h=1080",
+    "desc": "U.S. consumers face higher food, travel and gift costs in 2026 as inflation and Iran-war energy shocks pressure holiday budgets."
    },
    {
     "title": "Many families are cutting corners at the grocery store to pay their other bills",
@@ -5299,12 +5327,28 @@
     "desc": "Cash-strapped consumers are changing they way they spend money. As essentials like rent and utility bills gobble up more of their budget, some families are dialing back on groceries or eating out."
    },
    {
-    "title": "Wendy's \"pricing scheme\" inflated menu prices, lawsuit alleges",
+    "title": "The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/the-fed-says-inflation-hasnt-gotten-any-better-ahead-of-its-key-december-vote-to-raise-rates-65024d33?mod=mw_rss_topstories",
+    "at": "2026-11-25T19:39:00.000Z",
+    "image": "https://images.mktw.net/im-60296598",
+    "desc": "Just ahead of pivotal December vote to raise U.S. interest rates, the Federal Reserve on Wednesday said stubborn inflation remains a thorn in the side of an expanding economy."
+   },
+   {
+    "title": "Trump administration to issue new tariffs on China, EU and others",
     "source": "CBS News",
-    "link": "https://www.cbsnews.com/news/wendys-class-action-lawsuit-dynamic-pricing/",
-    "at": "2026-11-24T20:19:43.000Z",
-    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/24/975a0ec0-3eff-401d-bc4f-65e6c8224473/thumbnail/1200x630/c8da7665c3b15d60ada625fec6b8ebf3/gettyimages-2290040952.jpg",
-    "desc": "In a proposed class action, a California resident alleges that Wendy's conspired with its franchisees to set and raise menu prices."
+    "link": "https://www.cbsnews.com/news/trump-administration-tariffs-14-trading-partners/",
+    "at": "2026-11-25T17:26:56.000Z",
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/25/e48e4774-0ff1-4bda-bb51-9c1749ecd1fb/thumbnail/1200x630/efed0bf7a9a47eb0cb1cd55cbc4ebf17/gettyimages-1238576937.jpg",
+    "desc": "The U.S. will increase tariffs on Chinese goods by an additional 20% and raise import taxes on goods from other major economies."
+   },
+   {
+    "title": "US inflation hits highest since May after prices climb 3.8% over the last year",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
+    "at": "2026-11-25T15:46:15.000Z",
+    "image": "https://i.guim.co.uk/img/media/4e5a7cc9ec40010fd1b1fd13ff4e575e0ee71cca/309_0_3091_2473/master/3091.jpg?width=700&quality=85&auto=format&fit=max&s=69f11e4a212f57fb1305845584886a2b",
+    "desc": "Rise occurs amid soaring energy prices, according to last inflation reading before a crucial Fed board meeting The sell-off in the US tech stocks continued Wednesday as investors reacted to continued concern over the AI "
    },
    {
     "title": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War",
@@ -5315,28 +5359,12 @@
     "desc": "Presidents before him have bailed out companies in times of national crisis. Mr. Trump went further: He staked the fortunes of the United States on those of a favored chief executive."
    },
    {
-    "title": "‘Once installed, there’s no getting rid of it’: what Falklands oil plans mean for its seals, whales and penguins",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/global-development/2026/nov/23/falkland-islands-argentina-sea-lion-oil-environment-sovereignty-wildlife-pollution",
-    "at": "2026-11-23T06:00:49.000Z",
-    "image": "https://i.guim.co.uk/img/media/71177c27dff46278555eaf88bb75c6bd92f88f22/184_463_4260_3409/master/4260.jpg?width=700&quality=85&auto=format&fit=max&s=2ea9619a14f93bd98386c9af6c0abb28",
-    "desc": "While Argentina and the UK dispute sovereignty over the islands and its vast oil reserves, environmentalists fear for one of the Atlantic’s richest ecosystems From the air, the main Falkland Islands form two large, jagge"
-   },
-   {
-    "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
+    "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
     "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
-    "at": "2026-11-24T18:34:43.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108415078-1792082627963-gettyimages-2297167568-_dsc4023.jpeg?v=1792082682&w=1920&h=1080",
-    "desc": "The Conference Board survey released Tuesday showed improvement across the board, with the headline confidence index jumping to 103.3."
-   },
-   {
-    "title": "Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
-    "at": "2026-11-24T23:11:00.000Z",
-    "image": "https://images.mktw.net/im-752810",
-    "desc": "Steeply higher security expenses of $764,748 for Mehrotra were part of a $39.7 million total compensation package in the latest fiscal year."
+    "link": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+    "at": "2026-11-25T14:18:45.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108361509-1789075754512-gettyimages-2294573112-l1082579_copy_ud26kegt.jpeg?v=1789075971&w=1920&h=1080",
+    "desc": "The personal consumption expenditures price index was expected to show an annual inflation rate of 3.8% in October, according to the Dow Jones consensus."
    },
    {
     "title": "From Wall Street to Main Street, how artificial intelligence is affecting the economy",
@@ -5345,33 +5373,17 @@
     "at": "2026-11-23T11:46:29.000Z",
     "image": null,
     "desc": "Artificial intelligence is sending shock waves through the stock market, as investors try to predict how their big bets will pay off. Meanwhile some real businesses are putting AI to work, with mixed results."
-   },
-   {
-    "title": "What Jensen Huang's Nvidia return means for the economy",
-    "source": "CBS News",
-    "link": "https://www.cbsnews.com/video/what-jensen-huangs-nvidia-return-means-for-the-economy/",
-    "at": "2026-11-24T14:15:50.000Z",
-    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/24/abb51534-bf8e-47cf-8390-b18960a1e652/thumbnail/1200x630/eaedc1a19fe13181811263e5aaf09109/cbsn-fusion-what-jensen-huangs-nvidia-return-means-for-the-economy-thumbnail.jpg",
-    "desc": "The announcement of Jensen Huang's return to Nvidia immediately impacted the markets on Tuesday. Kelly O'Grady and The Atlantic CEO Nick Thompson break it down."
-   },
-   {
-    "title": "Commercial real estate activity falls 14% in October, as interest rates rise",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/24/commercial-real-estate-activity-falls-14percent-in-october.html",
-    "at": "2026-11-24T15:05:14.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108557487-1795449841343-gettyimages-2280806169-AFP_B62C3FB.jpeg?v=1795535821&w=1920&h=1080",
-    "desc": "Commercial real estate activity dropped 14% in October from September, according to an index from LightBox, a commercial real estate data platform."
-   },
-   {
-    "title": "Anthropic’s stock just broke below its IPO price for the first time",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
-    "at": "2026-11-24T21:46:00.000Z",
-    "image": "https://images.mktw.net/im-34075557",
-    "desc": "Shares are trading below their IPO price of $83, less than a week after their debut on the Nasdaq."
    }
   ],
   "housing": [
+   {
+    "title": "New-home sales just hit a 2026 high as builders dangle low mortgages and Black Friday deals",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/new-home-sales-just-hit-a-2026-high-as-builders-dangle-low-mortgages-and-black-friday-deals-291a3b62?mod=mw_rss_topstories",
+    "at": "2026-11-25T19:20:00.000Z",
+    "image": "https://images.mktw.net/im-829639",
+    "desc": "Sales of newly built homes surged to the highest level of the year in October, as home builders offered aggressive discounts to buyers."
+   },
    {
     "title": "Commercial real estate activity falls 14% in October, as interest rates rise",
     "source": "CNBC",
@@ -5389,43 +5401,77 @@
     "desc": "A sharp spike in mortgage rates in September has pushed the already chilly real estate sector into a deep freeze."
    },
    {
-    "title": "Mortgage rates today, Nov. 25, 2026: Rates show small decrease",
-    "source": "Fortune",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lNFZKQVNleXNfeW5IYjNyUUVnYVpHWFRPdjZfYXFTOEFnR3BjMjRfeVIybzZ4RmMzODktU2ZwUkZLUkdDNGNrV0w1M05pT3BUQmREOU1oTDlCZzVVVHZMY0NwdjZSMWdwTWRhcHVtWQ?oc=5",
-    "at": "2026-11-25T08:01:00.000Z"
-   },
-   {
     "title": "Anthropic’s New Millionaires Turbocharge San Francisco’s Red-Hot Housing Market",
     "source": "WSJ",
     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11SHBETmFkYWF4Z3d4VEluVmI3bW1ReGhyNU9iSExzOUZZeGVLdGpBTUc0WEFkYXh4VXJYTmM0R01kWVY0bjJUYlhsRFJ2TlB5ZUMzZ3dQcXphelRvSDZ1UU4teW5ZdGRIWFpsRGZWWUxPT0cwN3kyclQwNHc?oc=5",
-    "at": "2026-11-25T07:31:20.000Z"
+    "at": "2026-11-25T21:01:24.000Z"
    },
    {
     "title": "Today’s Refinance Mortgage Rates | Rates Chart",
     "source": "NerdWallet",
     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fWlF1X1h3N25UOUQ2SXphbHpiZXlHb1l4eWdZOFhvT1FkTkNFNXVtc1pOVWhPRGNoYlJzcU1yZVp6NU83VUtoY3kzODItcDFIRWIta241QVFiNUc3dkdwOV9ydDlHWHhBWnBkeTlMQzlJM3YzY3c?oc=5",
-    "at": "2026-11-25T06:27:08.000Z"
+    "at": "2026-11-25T19:14:27.000Z"
    },
    {
-    "title": "Southern California housing market hits the breaks. Why?",
-    "source": "CBS News",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa3lkS3N2OVVoX2VDS3hOYm9SNmNxajR3RE5mVlFITGRmMzgzbVpnN3NCWHRfYkxycHJ2a1c1alVwTDlxdkRNa0JaTm5FT0drY3N2LXFQMFIyc3ZDRmNCY1JBajJUZno5aTR0RzlKcE9oQS15WEVzREY3RS1tbXlQd0N0djhkanlSV3laNjhyMEowNHZwN0tfTjFGSHk?oc=5",
-    "at": "2026-11-24T22:32:00.000Z"
+    "title": "When will mortgage rates go down? Thanksgiving for slightly lower home loan rates",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZHJiYVFYOHI3ZHlCV05fbTFYUzVpRzVURUlORUFLcGdqY1JoRHRrdzFqRkhXb3JlbWp5aFlQcENsektDNVlXWDlQMXNXNGlta2g4OU5xQ1RRLVkxQW9aZFpKbG90aWhyYUV0ODN6cHl1bUlXX2JuNGxuYnlydVNQSFVTOXV6bExwNGUxdlRWLU9Pb1pZQWJfZkhrMl9VOVZsMHIyektzMmpkb0xGRzBHZTRBOFEwcmlYVGl2bjN1MmQ3Y0licDRDWTRJeVkxQ1Z1M1hDdWRmS3FMaGdxUWstcEdHV1hDWHpHTXItNA?oc=5",
+    "at": "2026-11-25T18:55:07.000Z"
    },
    {
-    "title": "How a frozen housing market is hitting sellers",
-    "source": "CNBC",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYzNYYWdqMFN6X0VXMjRKbFdmVjBJalU1Tno5SWZBX3hIdHdmRy02MXJ0Slk1amhDZnBqS2ZHTmExREowWEFfRGFTNFF1bmpHc3R0QWJIX1B6SDFYZVpLTTRSUy16czR6OVh6dVlJeDNWVlVhNC1TMkhoTHpJRklCLVdFRDVlRVhLVFFGcll1SVk?oc=5",
-    "at": "2026-11-24T19:24:47.000Z"
+    "title": "Freddie Mac: AI investment Volatility Prompts Rates to Pull Back",
+    "source": "Realtor.com",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaVlfZVpTTTlGVGpiQTVkb2RjYi00WmtFemVrTjVNU0dYVkJmUkI2ZHhOYThKQnVSOUtiWFNsTzYxQUxXcU92Z012eVR6NDdaUVMxSEF1X21kcTh1UklJelpSZDQ4UFhyZ01GYW1FSVVTRnNyamZ3b3NKY01URTNUYnFYVQ?oc=5",
+    "at": "2026-11-25T17:52:36.000Z"
    },
    {
-    "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
-    "source": "MarketWatch",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQng5LWk2YXZ4SWEzWnh3NVhwakpKYWprb1ZpcERSUDdFRHNRNkdnYWUtTV9ZTGlfcnhZNUgzNi13X1pMZVZzMEFWeC1tZWxvSVZxWDZraXZWRWtJTXhJX0pfRUdDUE5PZU4wd21RNEl6dEdEMlllaFB3LVpZbTB0R0N2U2l5RENCRy05SEFpamJMaDNsb0tmbU01WTBtOVJaOGJTdTZHbXBvZThOVnJn?oc=5",
-    "at": "2026-11-24T17:10:00.000Z"
+    "title": "Maryland Listings Announces New Homebuyer Guidance on the Impact of Mortgage Rates and Purchase Prices",
+    "source": "USA Today",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWC1aa3l3WGJucEJOUVE3UWdrdlJQRDc2b0VZZzZGM0g2Y2M1b2RtV3RQbjVPNDFqUmRPT0VMazR5VGR1MmdvdHlGcU1pcU56SjVWYnZCdk9nM1N2b0F1cmdEanRXN0luM0Fmd3VDZEpBYXNaTkdJUHczY2hlTGpVbXBScTZYTlNDNHllVjFVb24yeU5tWFJLSjBZOTJhOTU2eWRwcmVHQ2FhNFlyTXNienktWXJuOVJqZU0tUEhYazM5bjFnNjdwaFhVTS1uX0dhenJFVGhlMmYxSGszdjY1OFJHQmJzUk04cHc?oc=5",
+    "at": "2026-11-25T17:34:39.000Z"
    }
   ],
   "inflation": [
+   {
+    "title": "The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/the-fed-says-inflation-hasnt-gotten-any-better-ahead-of-its-key-december-vote-to-raise-rates-65024d33?mod=mw_rss_topstories",
+    "at": "2026-11-25T19:39:00.000Z",
+    "image": "https://images.mktw.net/im-60296598",
+    "desc": "Just ahead of pivotal December vote to raise U.S. interest rates, the Federal Reserve on Wednesday said stubborn inflation remains a thorn in the side of an expanding economy."
+   },
+   {
+    "title": "UK food inflation could hit 5% next year, Bank of England says",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
+    "at": "2026-11-25T19:25:57.000Z",
+    "image": "https://i.guim.co.uk/img/media/6dc206e833865c9dd5429c7d1b0d08abb0b3bfde/79_0_3491_2793/master/3491.jpg?width=700&quality=85&auto=format&fit=max&s=e94fb6f6732d7f6ca6e6f9de80513f05",
+    "desc": "Sharp rise expected as cost pressures mount, with experts factoring in energy price cap hike and potential impact of El Niño Food price inflation in the UK could hit 5% next year, the Bank of England has said, despite ri"
+   },
+   {
+    "title": "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
+    "source": "The New York Times",
+    "link": "https://www.nytimes.com/2026/11/25/business/economy/inflation-pce-interest-rates.html",
+    "at": "2026-11-25T19:13:30.000Z",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25dc-inflation-gvjc/25dc-inflation-gvjc-mediumSquareAt3X.jpg",
+    "desc": "The Federal Reserve is widely expected to raise interest rates next month."
+   },
+   {
+    "title": "Trump administration to issue new tariffs on China, EU and others",
+    "source": "CBS News",
+    "link": "https://www.cbsnews.com/news/trump-administration-tariffs-14-trading-partners/",
+    "at": "2026-11-25T17:26:56.000Z",
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/25/e48e4774-0ff1-4bda-bb51-9c1749ecd1fb/thumbnail/1200x630/efed0bf7a9a47eb0cb1cd55cbc4ebf17/gettyimages-1238576937.jpg",
+    "desc": "The U.S. will increase tariffs on Chinese goods by an additional 20% and raise import taxes on goods from other major economies."
+   },
+   {
+    "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+    "at": "2026-11-25T14:18:45.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108361509-1789075754512-gettyimages-2294573112-l1082579_copy_ud26kegt.jpeg?v=1789075971&w=1920&h=1080",
+    "desc": "The personal consumption expenditures price index was expected to show an annual inflation rate of 3.8% in October, according to the Dow Jones consensus."
+   },
    {
     "title": "Many families are cutting corners at the grocery store to pay their other bills",
     "source": "NPR",
@@ -5435,64 +5481,46 @@
     "desc": "Cash-strapped consumers are changing they way they spend money. As essentials like rent and utility bills gobble up more of their budget, some families are dialing back on groceries or eating out."
    },
    {
-    "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
-    "at": "2026-11-24T18:34:43.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108415078-1792082627963-gettyimages-2297167568-_dsc4023.jpeg?v=1792082682&w=1920&h=1080",
-    "desc": "The Conference Board survey released Tuesday showed improvement across the board, with the headline confidence index jumping to 103.3."
+    "title": "Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/grocery-stores-have-staggering-deals-for-thanksgiving-but-dont-get-used-to-these-lower-prices-just-yet-7adfc7f5?mod=mw_rss_topstories",
+    "at": "2026-11-25T18:52:00.000Z",
+    "image": "https://images.mktw.net/im-61665261",
+    "desc": "Walmart, Target and Amazon are some of the retailers offering meal-basket deals this year."
    },
    {
-    "title": "Treasury yields fall as investors await key inflation signal",
-    "source": "CNBC",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FRFlwZF9FMHIyY3J2Y25STC10T25DTG9zTWFKcVNYOXdtM21rLVNZTXRoTWVqYUVWUEE5RFpURWVUd1kyanJHNWJzaXRmTkJHMFZGTWV0U3RSdVpyc0h5NGEyQkEtS1RlZ2NUQWtHbFBVTUtucjJJ0gF8QVVfeXFMTThoU0xMTXQ1NFpvaUc1WHhNV3ExRTFFV05BWUUtTzk3SzBtUjZxSXJLeXhOZDB6aDJHMzlDQ0gzT0RETnJDRlpEeW1SNFl1MEk1dXhBYllVdWNTOTVzbF9IaHFGNzhJZ0l6WVVDLWxPQjhSMkozQm1JNWxRbw?oc=5",
-    "at": "2026-11-25T07:44:24.000Z"
-   },
-   {
-    "title": "U.S. Treasury Yields Fall Ahead of PCE Inflation Data",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWGhuNzRQQ2Z2ZWMwOFZPOTk4UXFxNWg4R09KdWVyVXItRnRQMnFJYkxvM3Flb1ktS2pJMFFqZXJodXM1ZXhpZ2hiOUoxTmRXMzZXVEtqZUF2emgyb0dfZm9xbVktNGJrSkZCTjdvZkVmQVItODZmZXdkX3lydHV2SUY4NzFWY3V6RnBlREg1RFhXa0hLaGt4MGRRbmhpQVpm?oc=5",
-    "at": "2026-11-25T07:44:00.000Z"
-   },
-   {
-    "title": "South African rand eases, with US inflation data in focus",
-    "source": "Reuters",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWlVVOWFGRmwwd21mNktNbFJuZzVvTGpOYXczbGFaREwzZUZWRmo4WjhPZ2NWc3NxSlJmNFJ2WWlyaWlmTjRVc1NoTjRlelNieFNodjFXb1BWNzF2WkY5d01jOV9wOUFyLUItN1JaU3BQZ0h1Wk12Wk5RLVBJTVNzU1hzOU5GUXB0czFmRFNfVEVXbFpXdExudWRfMEw3aXBMMzBvSQ?oc=5",
-    "at": "2026-11-25T06:13:00.000Z"
-   },
-   {
-    "title": "Further tightening to come from the ECB to prevent inflation persistence",
-    "source": "Financial Times",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jUkE1QngwTG1tRGpaOTdWcFhWMV9sMWFrOFpxWEozLWdLaDZzRlphdERpbFRCM3U1Y1BQcUtXcVM4c1hRYk5aUkd6Y1dSUmg4TFhfZEJLYXNOOGc3OWwzTjVoUnNCS2d2ekt6eTIxNXQ?oc=5",
-    "at": "2026-11-25T05:30:02.000Z"
-   },
-   {
-    "title": "3 Indian Consumer Staples Stocks With Pricing Power as Food Inflation Stays High",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQUs2WTVHaXpYUVVWdjBxVVdZU29vM0p6RmJNbEE1RW9TQm94V0c1UzJYQnpsZ2lrN2xhM0JESXJ3MTNfV09wdWlYR1dZRngyV2dVZ3JZTlc0Tm9Ga2VhNWNTWjJMeF9ncDc0cW5Ra1lFck0weVBZRGNmWTlOVGlwNDBCZmItLTBzU2RuNWxUYXJ4eVdRZlJRdGNNZXRJdw?oc=5",
-    "at": "2026-11-25T05:13:00.000Z"
-   },
-   {
-    "title": "Gold holds steady ahead of U.S. inflation data",
-    "source": "CNBC",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpcXRzdlI2OHBPUHRVRTFuTzVzYzc3N092aERUaG5YcW9BWTAzQUgxUEtaeVRJVlRBM1hVYUoxVEJ4bnVxbjFialMwSFZReUZZSnVlMm9nR0Q5ZjUteXVtMlIwVXpxTjhUSEtFUFYyekgybkhpWXdyZXRUTzRfem_SAYQBQVVfeXFMTjVXb2YzM0szVk81WmZKaTdDZUJhZ2lrUktxbjhFX2lZZGlCODNJLWdicEM3RU5YNDVrWUxNTHFPZlhubVdnUU14N3lZNjh1eEgybTVvSENYaVNveTJfZ2NMUVRjMjdJNXczMzlJWEdpV3pMRlI5OUVXaEg1bnBVZnM3NVdM?oc=5",
-    "at": "2026-11-25T05:08:05.000Z"
+    "title": "US inflation hits highest since May after prices climb 3.8% over the last year",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
+    "at": "2026-11-25T15:46:15.000Z",
+    "image": "https://i.guim.co.uk/img/media/4e5a7cc9ec40010fd1b1fd13ff4e575e0ee71cca/309_0_3091_2473/master/3091.jpg?width=700&quality=85&auto=format&fit=max&s=69f11e4a212f57fb1305845584886a2b",
+    "desc": "Rise occurs amid soaring energy prices, according to last inflation reading before a crucial Fed board meeting The sell-off in the US tech stocks continued Wednesday as investors reacted to continued concern over the AI "
    }
   ],
   "jobs": [
    {
-    "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-    "at": "2026-11-25T00:05:00.000Z",
-    "image": "https://images.mktw.net/im-93318812",
-    "desc": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”"
+    "title": "Treasury raises cost concerns over Milburn plan on youth unemployment",
+    "source": "The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX3pBWExrcUEyWlc3dGMyWlpXYVRMZzNBWVA1NkpIaEZiWXVxaDltSzRDN2VHZ01DQjBjMzNKUGZtNmJfcWJzanU1MFlGbnpCMGY4MnlJel9QUUswblk0dDAySGtFanFRaVFKa3I2aGM1ZGRaSVVYcVJ0NVJ2VlVwcElXbGszbG9lOTM5TG5oZTJTaFJOaS1MWFplRUpJQ2t6eVRaTXJJbE5oWEpYSEZ1Ykl4RHdYczRSa21SQlF3RUdCZmM?oc=5",
+    "at": "2026-11-25T19:40:00.000Z"
    },
    {
-    "title": "Australia’s Jobless Rate Rises to Highest Level Since 2021",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX2hoZ3hxc29ReWFJd0lfRk9Od2xVbFhYMTAwMXZqakkxMkZPcHNVdmFqdmZDV3pWNDZidGt0ckxqdU5VZ2pKM05fblpwMm0tWm01aDhmajk5RGc1blVvR0Y5NWw4S0NhXzhXNk1SLWlvYmo2SjktLWRYZnZtTW9zVzlEcV9JSXdRbVdZMklGWjNHR1NLSWRpanRn?oc=5",
-    "at": "2026-11-24T19:20:33.000Z"
+    "title": "Australia is inching closer to a recession after one RBA rate rise too many | Greg Jericho",
+    "source": "The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUEhhZkVCekg2TlI5REI5ei13dTNkMFNqNUkxa3pqR2hMV1A4R2hnSGE3T2l0anhVQ1RBZU80S2dGbjR5Mk01ZTlQV1VTUnlLQm01RkJPbld3Y1FhOENUN19mREFiWlNydHJpX2NXT1NpSG56NUpzOFQ5QWY1SGw1M2NEWDVvbmFEWHpuYXRTVDVlWmxrYTgtRWJOVHF5UHRkdzgtYlBwcjh4Nk9MUjEwbHJjOTA3bV9zajNWNw?oc=5",
+    "at": "2026-11-25T19:28:00.000Z"
+   },
+   {
+    "title": "Former Tesla engineer says AI will create more 'fake jobs' — not mass unemployment",
+    "source": "Business Insider",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeG5WN0tWUmdjMHZTWHpPeF9ZNWZrVzVhMFE1ZThaNlVYY0p4Ykw4VVRydXMyM190YmotZzhlSTNuV204bVdwNHNibkJreGNjelVwbEh0bVVXNXBzTG16MVoxejRFUE1WaUxfaHFPMkU5U1gyLWpSTlhNUHdfSzNoZ3NvM3RIVWxwcjg4?oc=5",
+    "at": "2026-11-25T17:48:00.000Z"
+   },
+   {
+    "title": "Hundreds of applications and no offers: the young Australians looking for work as economy hits perfect storm",
+    "source": "The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQT0tnc2p6OEstNjFTS3pUWEFDdFpXSzRWZ256R3JMMktaaGYzVzd6c2VwaXNYQUdfR1Q5ZHBvSTRIVDFvTFpLTXFwMDhxVF9kMW1WaHRpRmU1ZjJHcVdIcGdHd05TMWhCYnRBRl9BeWNqNTFuYzU3UEpkVXJ0V2pBQ3dZOFFsM0FFWURuTjNTcjMxdGhJQnI5RzZWTVZaYUx6Z25xMWNkRWdCRnZpMU9ZUWdzNlhxZ0tveTZCWlZ0TlQ5aGhKeVlzNE1PTUFtRDd4ZEtJaUZNa3RaSGFRYnJ3Wk5B?oc=5",
+    "at": "2026-11-25T14:02:00.000Z"
    },
    {
     "title": "Britain's youth unemployment crisis analyzed by panel",
@@ -5501,10 +5529,10 @@
     "at": "2026-11-24T18:45:26.000Z"
    },
    {
-    "title": "South Korea’s Digital Part-Time Job Market Offers Lessons for India’s Growing Gig Economy",
-    "source": "USA Today",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcG83SUxFN0s3V2pDVms5Q0k2dTdhRVB4YS1GaXlYX0lZU2lwR0NxWUdEWUZtVHNBYnVPQmdROHphclREZENWblFnUElNa3FBRVNHUEhkN3ZOc21wSjFNaXhEaU1SZ2p2ZWVPbFJhNkdpVkRKeUNWbUMweDFobEk2Si16SzViNmhRd3Bxd0R3ajlucHJlcE9TbHg3dk5lQS1KRno0Sk5wYUtCeTNlWGRWMUJnM091cVE4bllhazVPQVRKX0FMOGVwR2ZfMW5iOGkxUllsdktR?oc=5",
-    "at": "2026-11-24T17:55:00.000Z"
+    "title": "5 economic trends to be thankful for",
+    "source": "Axios",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTEVHNG9sdVBKV1FwcjhUN3JoT1RxXzBIdkNsT0hoV080emFNajhNcFp1Q0pvU1hUYUF5WmtwMkdQc2ZPQm1PS2N6Smlhclp5T0xyVkhTc1ItNHNMWWJfS1dYa0FMRlJQd0pLU0x2SjhBX212WW9JdnNUZW9MQUNkUVdxSzBOM1hjSGpvNg?oc=5",
+    "at": "2026-11-24T17:01:30.000Z"
    },
    {
     "title": "Oprah And Canva Teach Us How To Conduct Layoffs Humanely",
@@ -5513,52 +5541,48 @@
     "at": "2026-11-24T17:00:00.000Z"
    },
    {
-    "title": "5 economic trends to be thankful for",
-    "source": "Axios",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTEVHNG9sdVBKV1FwcjhUN3JoT1RxXzBIdkNsT0hoV080emFNajhNcFp1Q0pvU1hUYUF5WmtwMkdQc2ZPQm1PS2N6Smlhclp5T0xyVkhTc1ItNHNMWWJfS1dYa0FMRlJQd0pLU0x2SjhBX212WW9JdnNUZW9MQUNkUVdxSzBOM1hjSGpvNg?oc=5",
-    "at": "2026-11-24T16:53:38.000Z"
-   },
-   {
     "title": "Goldman Sachs says an unusual pattern in the job market could hit workers’ pay",
     "source": "Business Insider",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNmlDOHJ2WmIzc2U0R2NhWHBvYk44WlRhVU5fQXVQWkdoc2Uzd1JDTndYcmJNSldzd2lGLUJmTDZPSzNhdHVPQnpVWmZ6cGxPLUVtam9qYUptOHBmbHBWNzVhaU85SXkwZlRLZlh3TFZveGxaTkl2MDZKMFdSUmdIcVQyTEg0QW9jWFRwTjhEaXdWTXlpSUFhTk1IZTc?oc=5",
     "at": "2026-11-24T15:40:00.000Z"
-   },
-   {
-    "title": "Florida unemployment rate jobs, state gains jobs",
-    "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUGV0ZGZWX3lJU1RNLXNjOENCdmJ3eWpmUHktQXMtc2ZKeGd4b0U3R3REbl82eTVHWlhickw1QUIwYlA0QVpadWJSVi1oLXctTTBTWFBJOUk4TVd0RG85T2gyTWQtcGd1bG92TXA0WlhDVm4tc05BWnFHZHlYRUh2VDN0ZVZ5RzlPeVNQZEtuSFNhMGlKaVZZZWxn?oc=5",
-    "at": "2026-11-24T14:00:00.000Z"
    }
   ],
   "debt": [
    {
-    "title": "Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
-    "at": "2026-11-24T23:11:00.000Z",
-    "image": "https://images.mktw.net/im-752810",
-    "desc": "Steeply higher security expenses of $764,748 for Mehrotra were part of a $39.7 million total compensation package in the latest fiscal year."
+    "title": "Treasuries Rise Across Curve as AI Concerns Dent Risk Sentiment",
+    "source": "Bloomberg",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQkMzT2xsNjR4clFHdHM1eG5kb3RVYWhhc0lsRldaNjJIaW1Ba2lOUXF1S2hMRUlSRWFLc25TSXoxc3RVbW15YWxQRTdvalNXWEl6bkdqMUlvN01FVFZvYXFCTDZyWklYaDBKY3dVUXhDOS1Hdi0wdFExbVRYRmd4RmlZNWJHZ0ZPcmJxWURsRWwzdWNqUDVoTkZpZUs2UGtpQjBFY2tXb1FiemNKMHFnSFpPRkw?oc=5",
+    "at": "2026-11-25T18:01:07.000Z"
    },
    {
-    "title": "Transcript: Treasury Secretary Scott Bessent on \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026",
-    "source": "CBS News",
-    "link": "https://www.cbsnews.com/news/transcript-treasury-secretary-scott-bessent-face-the-nation-with-margaret-brennan-nov-22-2026/",
-    "at": "2026-11-22T17:41:03.000Z",
-    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/22/2c31aa9f-7902-4892-b6c4-4edf5e3cee26/thumbnail/1200x630g2/d3e205612f1ab8d2660b363a7a26e72d/1-12-20261122-102939-ftn-segment1-cam3-mxf.png",
-    "desc": "The following is the transcript of the interview with Treasury Secretary Scott Bessent that aired on \"Face the Nation with Margaret Brennan\" on Nov. 22, 2026."
+    "title": "Treasury Yields Rise After Huang Returns as Nvidia CEO; European Bond Yields Slip",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ01XVnNSdmRPYmYxOWNxejJQZ3Zsa3Ywa21rWWNDSi0ydnk5N0RjZ1BNQS1BRnNuSlZDcXpkUkZ4QkQ0V25rLUQ1MjRMa2hsRWlOQy1HOVRadlBZcG5TT3NIZ0duRDJvb0JGVHc4ZFE4dlVQSDBQcDhuMTFsdkRuRGQ4djl3bDE4c3lpMjEzU0dZWHo1dlNRTWo5LThIMHZtVk9iVjhoWGR1azJKUEE?oc=5",
+    "at": "2026-11-25T17:41:35.000Z"
    },
    {
-    "title": "Treasury yields fall as investors await key inflation signal",
+    "title": "Treasury Yields Extend Fall After U.S. Data Flurry",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWGhuNzRQQ2Z2ZWMwOFZPOTk4UXFxNWg4R09KdWVyVXItRnRQMnFJYkxvM3Flb1ktS2pJMFFqZXJodXM1ZXhpZ2hiOUoxTmRXMzZXVEtqZUF2emgyb0dfZm9xbVktNGJrSkZCTjdvZkVmQVItODZmZXdkX3lydHV2SUY4NzFWY3V6RnBlREg1RFhXa0hLaGt4MGRRbmhpQVpm?oc=5",
+    "at": "2026-11-25T16:39:37.000Z"
+   },
+   {
+    "title": "AI Stocks Resume Their Slide",
+    "source": "WSJ",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jMVRGNmM2LXVUalRrSEREd3VLUDl4alRBLTZDaEhhWjdCbXZJQlNxZnBhQWdvS2lrLVRESjg3LUZLRkpEQ0wtUFZVLWcwNllRX190Vm5PcHlEcndfODBubE9HZDVHVkMyYWFiMlo0YkpkVWpCdXhLaGhHZG8?oc=5",
+    "at": "2026-11-25T12:53:10.000Z"
+   },
+   {
+    "title": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
     "source": "CNBC",
     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FRFlwZF9FMHIyY3J2Y25STC10T25DTG9zTWFKcVNYOXdtM21rLVNZTXRoTWVqYUVWUEE5RFpURWVUd1kyanJHNWJzaXRmTkJHMFZGTWV0U3RSdVpyc0h5NGEyQkEtS1RlZ2NUQWtHbFBVTUtucjJJ0gF8QVVfeXFMTThoU0xMTXQ1NFpvaUc1WHhNV3ExRTFFV05BWUUtTzk3SzBtUjZxSXJLeXhOZDB6aDJHMzlDQ0gzT0RETnJDRlpEeW1SNFl1MEk1dXhBYllVdWNTOTVzbF9IaHFGNzhJZ0l6WVVDLWxPQjhSMkozQm1JNWxRbw?oc=5",
     "at": "2026-11-25T07:44:24.000Z"
    },
    {
-    "title": "U.S. Treasury Yields Fall Ahead of PCE Inflation Data",
-    "source": "WSJ",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWGhuNzRQQ2Z2ZWMwOFZPOTk4UXFxNWg4R09KdWVyVXItRnRQMnFJYkxvM3Flb1ktS2pJMFFqZXJodXM1ZXhpZ2hiOUoxTmRXMzZXVEtqZUF2emgyb0dfZm9xbVktNGJrSkZCTjdvZkVmQVItODZmZXdkX3lydHV2SUY4NzFWY3V6RnBlREg1RFhXa0hLaGt4MGRRbmhpQVpm?oc=5",
-    "at": "2026-11-25T07:44:00.000Z"
+    "title": "Trump Says Inflation Could Help Pay Down the National Debt. Here's What That Means for Your Retirement Savings",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVl8xSTB6dVZ1Q0REWDFnZTVra1Ytd3JPeWdJTGFUZlQxeHBET0VuMHd3NXpVUktYbWxsM2ZlLTRRc2JRQzJNeV82X09RamxlSXcxMmlvRm9TN1h6RUVTSjgzaXFncllhaTdIdll2WEdidVl5SDFXdUtzSmxHejZzX1dFSGZXQklCNG9iNGFvMXB1eXc?oc=5",
+    "at": "2026-11-25T01:20:00.000Z"
    },
    {
     "title": "The 10-Year Treasury Yields 4.92%. JPMorgan’s Income ETF Paid 5.7% Over the Past Year, BlackRock’s Paid 6.06%, and Neither Has a Maturity Date",
@@ -5571,18 +5595,6 @@
     "source": "WSJ",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYUxqWVA1Y044cTZjWkE0VlVFR3hrRVh1S0ZsLW5VVDZfNlRsT0dmNElmUG1ocmh5Wi11eGhRZEFTbEJpbjVjM3F4b0t1TGtiYTZ5UFlMdFBZSXBQdlNUQ2gxMklZclRVOG9JSkVBNFRmMmVSckpzeFQyZ1RxN250RjZpWXJUTnBKQmhhRXBCV2FERE50STNlZU5n?oc=5",
     "at": "2026-11-24T23:55:30.000Z"
-   },
-   {
-    "title": "Treasury yields are steady as investors await more economic data",
-    "source": "CNBC",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kVk10NWJKZmMxSHlDRjExaTRUbnMtRmhRTGFta21UaHg4NGNSZndMYTRxczhZSmg5TllvWi1LekdUcGc2c2hfcnVrQnhPR0NTSjI0QU0yZHpFZldCSndPWENKaXNKV0VubXYtTW9ndVllY3hRek1B0gF8QVVfeXFMUGg3N2J0czVpMHZ6dzNPbjdfb2dmYk9NQUw2ZmVQUG00UWlJeDdEaUkzSjJQMU5DOVVXQXg4YzBkYlJldkV0aFRjNXZJM2hKckRRR3lYc2xhemdhMk9rLTk4Q2Uxc3k0Xy1yOE9QZWVpM095amUwdk1BLXlHXw?oc=5",
-    "at": "2026-11-24T10:04:17.000Z"
-   },
-   {
-    "title": "Wall Street soars on Huang's return to Nvidia, Treasury yields rise",
-    "source": "Reuters",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR2c4ZVNmcHBzVFctOTBkRUd2d0VHTklseUhCcEtZT2VHbU1WbWprMUk2aDZSQ2tkZHNYVE9EWUgyaEkxeWtyN0M2V2NzR2ZCTHFmMEhvbHFDeExTNUdTeDF3WkxJZ2RSdmZ2cHBxWlFjTXdoa1hXdlZQRWtyTFFKVlJjMA?oc=5",
-    "at": "2026-11-23T22:05:14.000Z"
    }
   ]
  }
