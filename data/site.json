@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T21:19:04.332Z",
+ "updated": "2026-11-28T07:51:31.655Z",
  "ticker": [
   {
    "name": "Mortgage, 30-yr",
@@ -31,10 +31,10 @@
   },
   {
    "name": "10-yr Treasury",
-   "value": "4.91%",
+   "value": "4.85%",
    "dir": "down",
-   "asOf": "2026-11-24",
-   "when": "Nov 24"
+   "asOf": "2026-11-25",
+   "when": "Nov 25"
   }
  ],
  "videos": [
@@ -4730,114 +4730,114 @@
     },
     {
      "name": "10-year Treasury yield",
-     "value": "4.91%",
-     "when": "Nov 24",
-     "asOf": "2026-11-24",
-     "change": "+0.87 pts vs. a year ago",
+     "value": "4.85%",
+     "when": "Nov 25",
+     "asOf": "2026-11-25",
+     "change": "+0.84 pts vs. a year ago",
      "dir": "up",
      "tone": "bad",
      "spark": [
+      4.27,
+      4.23,
+      4.22,
+      4.4,
+      4.59,
+      4.57,
+      4.68,
+      4.61,
+      4.63,
+      4.58,
+      4.49,
+      4.47,
+      4.4,
+      4.16,
+      4.22,
+      4.31,
+      4.34,
+      4.23,
+      4.15,
+      4.38,
       4.41,
       4.19,
-      4.2,
-      4.39,
-      4.59,
-      4.58,
-      4.67,
-      4.66,
-      4.65,
-      4.52,
-      4.45,
-      4.52,
-      4.42,
-      4.24,
-      4.32,
-      4.31,
-      4.25,
-      4.27,
-      4.01,
+      4.3,
+      4.49,
       4.48,
-      4.42,
-      4.23,
-      4.36,
-      4.45,
-      4.46,
-      4.43,
-      4.46,
       4.47,
-      4.39,
-      4.29,
-      4.3,
-      4.35,
-      4.47,
-      4.43,
       4.37,
+      4.41,
+      4.38,
+      4.26,
+      4.35,
+      4.43,
+      4.44,
+      4.4,
       4.23,
-      4.29,
-      4.33,
-      4.22,
-      4.1,
-      4.06,
-      4.14,
-      4.2,
-      4.13,
-      4.05,
-      4,
-      4.01,
-      4.13,
-      4.13,
-      4.12,
-      4.01,
-      4.06,
-      4.13,
-      4.16,
-      4.15,
-      4.19,
-      4.18,
-      4.24,
-      4.22,
-      4.29,
-      4.22,
-      4.05,
-      4.04,
-      4.06,
-      4.15,
-      4.2,
-      4.39,
-      4.3,
+      4.27,
       4.33,
       4.26,
+      4.23,
+      4.05,
+      4.05,
+      4.15,
+      4.15,
+      4.18,
+      4.03,
+      3.98,
+      3.99,
+      4.1,
+      4.08,
+      4.13,
+      4,
+      4.11,
+      4.14,
+      4.12,
+      4.14,
+      4.17,
+      4.19,
       4.3,
+      4.24,
+      4.28,
+      4.16,
+      4.09,
+      4.05,
+      4.09,
+      4.21,
+      4.26,
+      4.33,
+      4.33,
+      4.29,
+      4.29,
+      4.3,
+      4.42,
       4.36,
-      4.43,
       4.46,
-      4.67,
+      4.57,
+      4.45,
+      4.47,
+      4.45,
+      4.46,
+      4.38,
       4.48,
-      4.49,
-      4.55,
-      4.49,
-      4.4,
-      4.49,
-      4.56,
-      4.55,
-      4.69,
-      4.75,
+      4.62,
+      4.6,
       4.65,
-      4.68,
-      4.74,
-      4.73,
-      4.78,
-      4.97,
+      4.7,
+      4.72,
+      4.72,
+      4.7,
+      4.75,
+      4.8,
+      5,
       4.96,
-      5.24,
-      5.31,
-      5.21,
-      5.12,
-      4.99,
-      4.95,
-      4.98,
-      5.07,
-      4.91
+      5.26,
+      5.27,
+      5.19,
+      5.13,
+      5.05,
+      4.9,
+      5.1,
+      5.04,
+      4.85
      ],
      "source": "Federal Reserve"
     }
@@ -5279,20 +5279,28 @@
  "news": {
   "top": [
    {
-    "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
-    "at": "2026-11-27T17:31:00.000Z",
-    "image": "https://images.mktw.net/im-71398430",
-    "desc": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing."
+    "title": "Saudi Arabia shifts Vision 2030 spending amid economic and security pressure",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/11/28/saudi-arabia-vision-2030-spending.html",
+    "at": "2026-11-28T06:00:01.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108560129-1795788133101-gettyimages-2242624345-GERMANY_BGD2025.jpeg?v=1795788271&w=1920&h=1080",
+    "desc": "The Kingdom is moving from \"spending and delivery at any cost\" to \"spending and delivery at the right cost,\" Economic Minister Faisal Alibrahim told CNBC."
    },
    {
-    "title": "Allstate roiled by tech outage over Thanksgiving week",
+    "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+    "at": "2026-11-27T23:30:00.000Z",
+    "image": "https://images.mktw.net/im-78896707",
+    "desc": "Doing nothing and maintaining an even temperament is often the work of gods."
+   },
+   {
+    "title": "OpenAI countersues Apple over allegations of stealing trade secrets",
     "source": "CBS News",
-    "link": "https://www.cbsnews.com/news/allstate-roiled-tech-outage-thanksgiving-week/",
-    "at": "2026-11-27T15:06:52.000Z",
-    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/27/f99d84ce-f00f-4e72-8a6d-cc0fdef3bfa6/thumbnail/1200x630/a44e8396eee5d63c3bd1013260c38522/gettyimages-2306519918.jpg",
-    "desc": "The insurer's systems are out of commission during the busiest road travel period of the year, leaving customers unable to access roadside assistance."
+    "link": "https://www.cbsnews.com/news/openai-countersues-apple-trade-secrets-lawsuit/",
+    "at": "2026-11-27T22:14:43.000Z",
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/27/645a0ac7-a8af-42d8-946b-15f1187a8ff6/thumbnail/1200x630/523edf328ef7d5f2a2f820e325996829/gettyimages-2289413265.jpg",
+    "desc": "OpenAI alleged in a lawsuit Friday that Apple sets up departing employees to be accused of stealing trade secrets."
    },
    {
     "title": "Record spending expected on Black Friday",
@@ -5301,14 +5309,6 @@
     "at": "2026-11-27T09:45:48.000Z",
     "image": null,
     "desc": "Americans are expected to spend more money on Black Friday than any other day this year. How is inflation and the current economic situation affecting that?"
-   },
-   {
-    "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
-    "at": "2026-11-27T08:47:36.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108558993-1795573681967-gettyimages-2264019212-AFP_99QN8VR.jpeg?v=1795573693&w=1920&h=1080",
-    "desc": "The UAE is optimistic about achieving 7%-8% economic growth next year, banking on a \"different\" economic model."
    },
    {
     "title": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
@@ -5327,20 +5327,28 @@
     "desc": "The Federal Reserve is widely expected to raise interest rates next month."
    },
    {
-    "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-    "at": "2026-11-27T16:00:00.000Z",
-    "image": "https://images.mktw.net/im-83830528",
-    "desc": "“Retirement is a financial status, not an age.”"
+    "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
+    "at": "2026-11-27T21:45:41.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108560331-1795815908700-gettyimages-2306543995-BLACK_FRIDAY_SHOPPING.jpeg?v=1795815925&w=1920&h=1080",
+    "desc": "U.S. consumers face higher food, travel and gift costs in 2026 as inflation and Iran-war energy shocks pressure holiday budgets."
    },
    {
-    "title": "Judge declines to issue long-term ban on tax-funded pro-Trump ads",
+    "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
+    "source": "MarketWatch",
+    "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
+    "at": "2026-11-27T23:15:00.000Z",
+    "image": "https://images.mktw.net/im-71398430",
+    "desc": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing."
+   },
+   {
+    "title": "Allstate roiled by tech outage over Thanksgiving week",
     "source": "CBS News",
-    "link": "https://www.cbsnews.com/news/judge-declines-long-term-ban-pro-trump-ads/",
-    "at": "2026-11-26T01:07:04.000Z",
-    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/26/a731a1da-a089-4e72-ad3d-1200c674f4b1/thumbnail/1200x630/343162f9c2a1e5fbdfc0339ad246a5e6/gettyimages-2306218288.jpg",
-    "desc": "A federal judge has sided against Democrats on the federal government's taxpayer-funded political ads, which critics say were illegal propaganda intended to promote President Trump."
+    "link": "https://www.cbsnews.com/news/allstate-roiled-tech-outage-thanksgiving-week/",
+    "at": "2026-11-27T15:06:52.000Z",
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/27/f99d84ce-f00f-4e72-8a6d-cc0fdef3bfa6/thumbnail/1200x630/a44e8396eee5d63c3bd1013260c38522/gettyimages-2306519918.jpg",
+    "desc": "The insurer's systems are out of commission during the busiest road travel period of the year, leaving customers unable to access roadside assistance."
    },
    {
     "title": "Inflation is still hot, fueled in part by the AI boom",
@@ -5351,14 +5359,6 @@
     "desc": "The U.S. economy grew at a rapid clip during the summer and early fall, due in part to the artificial intelligence boom. That boom is also fueling higher inflation and rattling the stock market."
    },
    {
-    "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
-    "source": "CNBC",
-    "link": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
-    "at": "2026-11-26T12:46:55.000Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108405958-1791937428704-gettyimages-2299263032-AFP_D2XV29Y.jpeg?v=1791937445&w=1920&h=1080",
-    "desc": "The U.S. planned a fresh tariff salvo on 14 trading partners, while offering some countries lower rates if they secure trade deals with Washington."
-   },
-   {
     "title": "UK food inflation could hit 5% next year, Bank of England says",
     "source": "The Guardian",
     "link": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
@@ -5367,12 +5367,12 @@
     "desc": "Sharp rise expected as cost pressures mount, with experts factoring in energy price cap hike and potential impact of El Niño Food price inflation in the UK could hit 5% next year, the Bank of England has said, despite ri"
    },
    {
-    "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-    "source": "MarketWatch",
-    "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-    "at": "2026-11-27T15:30:00.000Z",
-    "image": "https://images.mktw.net/im-93318812",
-    "desc": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”"
+    "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
+    "source": "CNBC",
+    "link": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
+    "at": "2026-11-27T08:47:36.000Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108558993-1795573681967-gettyimages-2264019212-AFP_99QN8VR.jpeg?v=1795573693&w=1920&h=1080",
+    "desc": "The UAE is optimistic about achieving 7%-8% economic growth next year, banking on a \"different\" economic model."
    }
   ],
   "housing": [
@@ -5380,51 +5380,51 @@
     "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
     "source": "MarketWatch",
     "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
-    "at": "2026-11-27T17:31:00.000Z",
+    "at": "2026-11-27T23:15:00.000Z",
     "image": "https://images.mktw.net/im-71398430",
     "desc": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing."
-   },
-   {
-    "title": "Why buying a home is harder today than in the 1980s",
-    "source": "Fox Business",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR2g4bl9wdjFVaUNSVngzM0hTaVZ0MW1vZUJhekdiSTdMZWtTYnEyYUZpSV83SHRwbWFpeDNhSWtMdkxyZ3FOQjlCazJUNGh2Rkd5OWU3VEEtclJyY2hUQzNGSFAzbEx0YmRkWFlLbFFabWtiSlFJcFQ4ZFpPbzJjZ3dHWDBrZ9IBhgFBVV95cUxNR2g4bl9wdjFVaUNSVngzM0hTaVZ0MW1vZUJhekdiSTdMZWtTYnEyYUZpSV83SHRwbWFpeDNhSWtMdkxyZ3FOQjlCazJUNGh2Rkd5OWU3VEEtclJyY2hUQzNGSFAzbEx0YmRkWFlLbFFabWtiSlFJcFQ4ZFpPbzJjZ3dHWDBrZw?oc=5",
-    "at": "2026-11-27T19:20:00.000Z"
-   },
-   {
-    "title": "Mortgage rates dip, but remain near 2026 high",
-    "source": "Los Angeles Times",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNXhOR0dILThaT1B3UWVtV3pZVTFGS3UtLWhPSGdDUWZkR19rNHJ2UkpjZThfS0trNTB2RVByS1k1YWRETTd2TE5NaFZSb0l2Qi1uQ3c1X2hKcEx6ZVRRVTRReHREYWVmM0ZXWEhrV3dQZklnS1ppX2xZSDRrdGp1VkVJOWNveTh3Q1dCQjNWUmUzbVFJVm5rU3FR?oc=5",
-    "at": "2026-11-27T17:24:00.000Z"
    },
    {
     "title": "Today’s Refinance Mortgage Rates | Rates Chart",
     "source": "NerdWallet",
     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fWlF1X1h3N25UOUQ2SXphbHpiZXlHb1l4eWdZOFhvT1FkTkNFNXVtc1pOVWhPRGNoYlJzcU1yZVp6NU83VUtoY3kzODItcDFIRWIta241QVFiNUc3dkdwOV9ydDlHWHhBWnBkeTlMQzlJM3YzY3c?oc=5",
-    "at": "2026-11-27T15:56:09.000Z"
+    "at": "2026-11-28T00:10:31.000Z"
    },
    {
     "title": "Mortgage Rates Today: 27 November 2026",
     "source": "Forbes",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RNjQ3M0x3M1JqQ1BhbVFVRFlhWXpMMHhvVnBjWmdNY1RtdkhJeTBXSlpUOTUydnI2ZU5XMnd1d0RaM3FRX2lGaDV6NkxoX2FvMUtDUnFpRkhWNXFvUTkwSENQZnhxYUU2azFn?oc=5",
-    "at": "2026-11-27T13:16:56.000Z"
+    "at": "2026-11-27T14:24:00.000Z"
    },
    {
     "title": "Mortgage and refinance interest rates today, Friday, November 27, 2026: Mortgage rates mixed leading up to the weekend",
     "source": "Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQQmtweWI5bEZhOWRCeGc1TWhoTi1wWF9SOUFyb3ZQUzVibWZqRExOb1JENHNHUzRrZGFraEREZmpTTloweXBLWmdMZmd0NmZuWHc5cnZMN3pobVdaOVVUeXB5Y0lPZmttQWNtRXRPR0pxSjVuR2N5aTNkUWhCRlJPRTFfaGh1Zno3bjdvTkZ4NVhOZWhXYnFWTDR3T0dINWNDNmsxWXBiYThYbFZVTHBfc3JHRzBFaXBSdTBuTGJ0NXdySlV6ak1aMHhzd1drNDFUV09YNy1aMUJUUWZDNmdKd1RPMU5MRjdabG1hN2JObXBUN2lielRiY3BVcXlCVTNZWDBRZk10d2EzMnRoN3dNU3RGLUVCWUU3YWRKSzl3Z1ZwNW5Mc3JB?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQeEtTSjVXYUhDcTlMdmhESVhSNXlwbjNERW5XOGN2T3dNamFXMjFXTjZWYlc3Y1RvNGNMN25wUnFZN0dKNUp5M1FvWDh0SVY4bklFdGs3b040LS11bWMzbHZubGFxbE5zZzkwaWxseEx0dmFyLXV0bEFiYVJIdmN6dV9icXUwdm1HYlEwRm9pMktIOUUxcG41a1phWF9CaUNfQzE2Y3VNZTdiQmdOcnRSZU05QnRRVjJrQUFYMldrQ0s0bTZGWTVPeDd3ZVVzX1lQMEhQRFVNdWpJVURLano2dThmMHBpMlpRQVVGZDJFeDk0NFc0Uk9fdDU4NzBnT1R2RFVMOXNuV1lvczcxNllMaW5tNHVLY0M3THc?oc=5",
     "at": "2026-11-27T11:00:00.000Z"
    },
    {
-    "title": "Mortgage Rates Today: November 27, 2026 – Rates Fall For 6th Straight Day",
+    "title": "Current Illinois Mortgage And Refinance Rates",
     "source": "Forbes",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tb0UxMW1jb3VKTlJCaF9lUnRFWjEySXhLMF9mTTJMNTJSU05NbkJVZ1EydGIxZE5CT2U4WXdna2JhYlc2MkRSbWMxb252QUJTd0F1dFZyVlJOaEJOR2hzTHZHNW1uU1ZYTlZKYVFZZjlUQ0E?oc=5",
-    "at": "2026-11-27T10:00:13.000Z"
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jMHZHMmhQWmpsX09VZm4wY0RQanFkTHJwYlBYdVBMSXZjUXFXdU9WaWFOSTNGRjFlUDhqMDFEekRiXzJrOEcxWi00N25jcFNKTWs2azZjMkt0T0o4bGJLV0d1aE1HWWFtRVdzcFE1M3lXZw?oc=5",
+    "at": "2026-11-27T10:13:00.000Z"
    },
    {
-    "title": "Why This Winter Could Be a Hidden Opportunity for Homebuyers—Plus a New Rate Discount From Chase",
-    "source": "Realtor.com",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZmZRVTRtdVFScGhkYnhZS19lRU5vcjZYYXFxNzNHX0dSZDRzNzlla2Rycm9JNXRaVTZLeEMzLXM3dDVTLUpGTlhCWVFOY1F3ZEMydTlRajFaMFdZZTJvTERnVTlPcl8xUDJpRno0R2pHNVZ0aVhJd1NkcWxsN3RydG5GM3NhTUVPMVVwdUtNc3k4Rnc?oc=5",
-    "at": "2026-11-27T09:00:00.000Z"
+    "title": "Current Georgia Mortgage And Refinance Rates",
+    "source": "Forbes",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xbGdsUk1DdG0xLXhoNERSSGxMUnVSYlN3SkRtR2VwdWFKWG96eTNJZDhJT0NneHVnNWctUnZLRnVQSHRldTgzR2RYMmUzR1ZjcC1Ma2h6YWs3SEpUR2tkWktlVTFfbWRrek5wdXMzbHY?oc=5",
+    "at": "2026-11-27T10:10:00.000Z"
+   },
+   {
+    "title": "Current Florida Mortgage And Refinance Rates",
+    "source": "Forbes",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZakpManpVZVNkM0JQdlV1T3RPWHdwYkUwVTRMQVh4UkVhajYtcl9SV2NrSkJSOHJZRWlQOHBoU0RCZ0RfMzdRcTNNWWRta2xTWjRyMUM3S1BZY2FwQTVFM2FuT1QtRTdhZkxjTE0tNjU?oc=5",
+    "at": "2026-11-27T10:09:00.000Z"
+   },
+   {
+    "title": "Current Colorado Mortgage And Refinance Rates",
+    "source": "Forbes",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hVWQyUEJxYmcySk1UNWNNMnBRVFlBTGNYWndaYlozUjRFMnItSnVBZDA0UnRucGc1cGtpbS1BX05wWmtPTlpwTVN0UVhpQ01FdGpvSUJXSTB6X2ZFWmR5SVdCZ0xjUE0tYWpXbWI2WnBqdw?oc=5",
+    "at": "2026-11-27T10:07:00.000Z"
    }
   ],
   "inflation": [
@@ -5485,12 +5485,12 @@
     "desc": "Sharp rise expected as cost pressures mount, with experts factoring in energy price cap hike and potential impact of El Niño Food price inflation in the UK could hit 5% next year, the Bank of England has said, despite ri"
    },
    {
-    "title": "Many families are cutting corners at the grocery store to pay their other bills",
-    "source": "NPR",
-    "link": "https://www.npr.org/2026/11/24/nx-s1-6047499/many-families-are-cutting-corners-at-the-grocery-store-to-pay-their-other-bills",
-    "at": "2026-11-24T22:45:01.000Z",
-    "image": null,
-    "desc": "Cash-strapped consumers are changing they way they spend money. As essentials like rent and utility bills gobble up more of their budget, some families are dialing back on groceries or eating out."
+    "title": "US inflation hits highest since May after prices climb 3.8% over the last year",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
+    "at": "2026-11-25T15:46:15.000Z",
+    "image": "https://i.guim.co.uk/img/media/4e5a7cc9ec40010fd1b1fd13ff4e575e0ee71cca/309_0_3091_2473/master/3091.jpg?width=700&quality=85&auto=format&fit=max&s=69f11e4a212f57fb1305845584886a2b",
+    "desc": "Rise occurs amid soaring energy prices, according to last inflation reading before a crucial Fed board meeting The sell-off in US tech stocks continued on Wednesday as investors reacted to continued concern over the AI t"
    }
   ],
   "jobs": [
@@ -5501,6 +5501,12 @@
     "at": "2026-11-27T15:30:00.000Z",
     "image": "https://images.mktw.net/im-93318812",
     "desc": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”"
+   },
+   {
+    "title": "US Jobs Report Could Shift DICK'S Sporting Goods Stock And Other Consumer Winners",
+    "source": "Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORVNpcXVhcXNRcGJmaUJ4NHh6OHVkTE43M09yWjlHQXd0eFg0bmh2SDRrT0lOZGRLNXE5ZUFkZmVQaHU2cGd6S2JBbC1UeXd4UUl5OUxwYWFSU3JGVGFGX2ZNM1p6MVNxTlEwRTQ3UnhVUHE4dlNaV1UydEgyVVlOcTVmV21yN2VJQ0N5aGYxcm9NQ2dfUGc?oc=5",
+    "at": "2026-11-27T21:15:48.000Z"
    },
    {
     "title": "What you should expect from the November jobs report",
@@ -5537,62 +5543,56 @@
     "source": "WSJ",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tRUQ3eGRWZVptRTlGZFB0TlFkS2dtWEZ3Tm4zeDBYeHFOQ1dyUm5nQ2J2TmtNWERob2s5TmlMQVg1aXNFaC1tSk5abVNKOHpsYXQ0bTNRT01ob3Vsb0lqUVNldDJEZWVrMzctdDlhSQ?oc=5",
     "at": "2026-11-26T23:27:40.000Z"
-   },
-   {
-    "title": "Kroger Targeted Over H-1B Visa Filings Amid Mass Layoffs",
-    "source": "Newsweek",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc3dmMU9qcTJ0VXBOeXlOV2E2eFZBc25PV2dBRUVpcHZQNkV5MDBWZG5NNDBnVi1xSFpEMkxnRVIyVWdSLUF3d21wUGpyS3RYWmcyWTRKVzhENzg4ckVFT2ZtNE5wMXktRzFCVUluZGdvY3JzT3FwNjdzQ0cxMTA5VHk5MlI0STJMVW0tOWI3WWszcVdI?oc=5",
-    "at": "2026-11-26T15:51:00.000Z"
    }
   ],
   "debt": [
    {
-    "title": "Nasdaq Leads Market Rebound as Treasury Yields Hit 5.29% at the Long End",
-    "source": "TradingView",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOG00dUVjZFhJM0F4aHEyYVhzRW93V29aWVJnR3BQLXdzRFBDRmdocmg4V2JxeF9TeG9KY012eWo5QlRTUzFlSE9kaDFvbmVEWC1jQWxsb3NnNkZ4VWdtZmJHSnJOZEE1YTNEcmxWMGNGcEt3UmZvV0ZQZl83a1R6dVdMX2w0NHYyZjIwcGtlbFN2Zm5mVkZSX0VEemFTNnc2NkR3dXpBVXkwUkhxWGNIUHJ4WDZERTc1YmhaZ3dvZ0VXeEwtZjR4R3RDTQ?oc=5",
-    "at": "2026-11-27T19:52:42.000Z"
+    "title": "S&P 500 Grasps At Support as Surging Hike Odds, Treasury Yields Threaten Larger Turn",
+    "source": "FOREX.com",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRXFLbDExOW1xc1F1ZllYVGhmdUJJWDI4X21CS3JYOE5zeTQwX2p1VS1kbUwzSFFSUWlaNWY4WHlSSnRaeEJyajFpYmZfRTJ5Umw5VWhBMkFYbHNlT1ZJc05xTlBacktFa1B2OHBMcTJXVnR0dy1lRnBjSG5CREE2RVdCVXhSckluT0tHNlVEanZzM0daZVZOWjl4WWY1eHhJdzdKWlktS25MR0dhYmVjN2Nha1dMMklvOVlWM1RranBQTG9SNS1EZGVWVHU?oc=5",
+    "at": "2026-11-28T06:13:20.000Z"
+   },
+   {
+    "title": "The US dollar moves higher as Treasury yields extend their gains",
+    "source": "investingLive",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaVZRdFczUjZoVzBlWjdJcngwRUNpM1VNcENKVTNTQlBnVVdiWGZrTzBHZFhvT0VyODNzUFN0dW51c1ZWQmM3SmUzUDc1b1MwWXhKQkRTRUpMNE1tTFYzYWExdW02TTJ0dnpUVnlHV2lrd0Y4bGppSlRzMGJxcGFzUmpoSWkyVl9fX2ZPM0Q2d0ZBd1Y5V2VHdGRObWFyZFh6QW5scDVPRWZTNVdMZWsw?oc=5",
+    "at": "2026-11-28T04:30:08.000Z"
+   },
+   {
+    "title": "Japanese Yen weakens as US Treasury yields rise amid calmer equity markets",
+    "source": "www.tmgm.com",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVmEwSVlqOTFqcnMxTVB0Nk5XVXJGM0h4bVpHc0NMWDluUXlSeTNqbG1Idm5QZGM4ZnRlQTdIaDlvenZxd0l5dHJkb0k4MHV1cUpEVkd4NUk4Y1NZdWpqVWdualc1WDhWbkF2TFpiV0xpMjcxb2h4TFVWNGxCWDBYby1PWVJydnBya0E3S1ZxY2otYzVnSndHX19oeEdqdDFlZmswSENtY3FnNENWeTRIZjI0cS1OR2NKdkpaZG1MVlU0Q1ZnanIwaDh2M1FPWVRFWVQ4?oc=5",
+    "at": "2026-11-28T01:43:12.000Z"
+   },
+   {
+    "title": "Japanese Yen weakens as steadier equities push US Treasury yields higher",
+    "source": "www.tmgm.com",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbzJ5LWI0RUxHRXd2VjNFdUFtWXRBWkVHeUZaU19FeUl4WjMybGpmLU83S0l6M21EMGVwZ0tMOWRCamh4TzJpYTExbjVqSHQ4bndNajN0RVpaMXd2X3ZxbTdibkc2djFCR1lneUpPTGw3TFFZUjVKMm1LQUxxQnJmNlZlaHIwSXpvLWphNkpJZWJDLWgtOW9BOW1wREFzUE9pNGttTUliUFAwN0VoeWlXVFN0dElMcXA0clZONjBIeF9sQjlwdEdNMFIwZ1J1Y1pw?oc=5",
+    "at": "2026-11-28T01:29:28.000Z"
    },
    {
     "title": "U.S. Dollar Gains Ground Amid Rising Treasury Yields: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
     "source": "FXEmpire",
     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNkFkUGhqUTRReFFqcE1hd1dsdTd1cVltSlJhd2tmT29VSzRxTGR0cGs2YXFRRDZudUtnSGFFamQzSjE4bmZ1R2ktbXJIQl93aEtpTzVQd1NfRzRyUS16UFBZSFdCNDFENnNORFdwR3ljS2o5SGl3NTEyemdMbDNOU09UdkdTd3hCUnQ2Wl9rNmIzNTFRbnVPRFNxTFlIdC1JeFJ3czF1NlFhMmJnV1VNakVfX0lDQWVzNmVNcm9pMFNKUTF5aXVVckJ4TnJLU0FHSjgxZjk4bjlVekpiSmxPOQ?oc=5",
-    "at": "2026-11-27T18:53:47.000Z"
+    "at": "2026-11-28T00:56:00.000Z"
    },
    {
-    "title": "US Equity Indexes Jump With Treasury Yields as Consumer Discretionary, Technology Top Sector Charts",
-    "source": "marketscreener.com",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRG9kNXhkU05yRllSTjRaMzZoQ003Zks1bUZETnBrbURFSnk1ZWtrM3U5UGNJclBHQXZ4Y2hFYU02U0xsaTJPSDBraUJMcWFvUWRzUjd2aHMtNk1ZZFlrUWlHeS00NWJMMEl2VHZac0xLdkNsV25PeEhmdDg3MzNEaWh2aUVVdTV3OFFtcHhXN0taNkRoSUJIZWlzTFFiN1BfX0hoZ2VpcW1xS0g4NWJqMFlIM2V4ZXhqOFkwLW8ydWJKN3hmZWJFSk96dS1NWEhvWVFuLURTVmJjNHB5Y0xyUDVzQlBhdw?oc=5",
-    "at": "2026-11-27T18:23:14.000Z"
+    "title": "US Dollar rises, Bond treasury yields jump but Thanksgiving holiday fails to cheer Bitcoin",
+    "source": "The Economic Times",
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMTdObVFNbUNrMThCS2otRmRpVFJzandOblNPY3EtXzVuck1zOGcwRS1fd01CT2M2NzdlQ2pWRFFaekJnLUw4bFFKTUEtVHBVbTJuM1JGVXZpUTRfVGtZT3pFRGRic0otanlqNVM5WXd3a2hrNzVxdW9ndEpYOEZxdm1zUV9QWVBuTVJramdHbmdmMEhDX0ZUVXFWZUdjaFQ0SDlQN0JpN0kwZFlHRFRIT3ZqVHVqUU1CMXp3aVFTdTJvZjl1VEg2Qnc2NHQ4UFUwQm1qSnBZNzgxVE5xcFFYYkp2T3JZMkRXMzRURkEwZzN2SHBQYktZaWlZMNIB9AFBVV95cUxNRGQ3Y1pVb2o4dzhJOHpHVUJROExhaXEwMzNWYy16bnhieWthZVVjblJpVXlRQXNwTFlEUW5XVFdlOC1jQlZ5ZWN3QXA0aFhNS0EtNG1QblVNZXhmdGJBdFFQODdaYVpoRFJSTUJ1ZVVTMlhmd0c2Mzh5MS1QV1lNSXRZcFlVUFNkbUo4dW0zZFpJR2l2RjBWdnBLUG9nZGtpc0VzRXJHLXUxSnNDMmtORHE3YlZUSEpDQm15cFA3QTc0bzlteHJ3WEFxSE14cEYzRkJhNUZQTGV0OEZKaDR3VmlLdE5qMnplaWhmbFloOE13M3FU?oc=5",
+    "at": "2026-11-27T22:55:19.000Z"
    },
    {
-    "title": "Gold defies surging US Dollar and Treasury yields as bulls target $3,700",
-    "source": "FXStreet",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTTA5LTNDRTlvTmJpZHZHb3FIMjlGUlpyM0xoWjlZNWREb3lCZ2ZpOVRHUjRVeThzcFRYRVpHalFIV3NUTG91ekFweXVkblA2MUJKUThadVgxSkczRWo2OW5tSWd0Mld1YVFOdHBZUTZ2Z3k3Y0V1d1B2Z3Y3VFduQnhmN0p3OGdhQUotWUFtdjFjeXNDMEtxc3AzZVYxeTMweHM0SUdiT1B4cDE5cG5YYVBLUVk?oc=5",
-    "at": "2026-11-27T18:19:27.000Z"
-   },
-   {
-    "title": "US Dollar Strengthens Against Canada's Loonie Even as Treasury Yields, Gold Prices, Rise",
-    "source": "marketscreener.com",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSWkwUUZCVmJIUFAxN0VlR1dSRzREbmw3N1dOMjFuNDZscHJ0YUFNMVhYa2dKemtfS3poUzVNR2JkYnYzOFMzLXF0SVQ5UktpTEg3ZTRWdS1SNUxCZEdoblFlM2h0RVdvMnNtUVJkVkdUeXNTX044bG54NmhjWlk5ZzF1bDFIWVJmSXpHcmo4Ukxuc1BvNGdUWTlzNVlQR2JQUTRISU15d3ZkWDM5TzB2UUR2blRqaEhTQlNYUzJkS2hVWjBDeTRTXzkxY2VubVdSb0dtay1B?oc=5",
-    "at": "2026-11-27T18:19:21.000Z"
-   },
-   {
-    "title": "US dollar rises above 104 points as Treasury yields rebound",
-    "source": "Economies.com",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX3hVXzFqd2RXMFktcUw4cWhoQjdhb3dOODVNMk1vUzB5NnhvNm4yM0ZNNTl1NGhBRmgxSTRvRFlkTEpXaHpuTWZFQnlUcUhRVTdlYURLUTR0QUlnNTN0TTlsVUhJX3JvRG05WGl3cTd2dFpyTFpjRmpkZkdYRHFUdDc4OVJhckJhbUdWZXoxQ3p0UXJueGFmSUhXRVExNjRpdFlyMGw1NEtMeERZbWZMSXZ4bjYzeEND?oc=5",
-    "at": "2026-11-27T16:36:00.000Z"
-   },
-   {
-    "title": "Why is the Japanese Yen weakening as calmer equity markets push US Treasury yields higher?",
+    "title": "$3,700 target: Gold bulls withstand surging US Dollar and Treasury yields",
     "source": "www.tmgm.com",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYXVxNmMzaGk4elFDVzlIQkQzOWhGcEQwT0NhV2lDMjY4MTU5NFQtVklGTEtRYzdZdzREMEtHSkhJWmhHeUJpR0ZuS2VQQ2tuZE1DWGhPVWdiWFV6RjZzTzNsZ25OTFhNMl80WS15X1hVMHdDR0p4MHVnNTFBNXpLbUxjQXhydk5xYzNLbHNobVJZa2hBS3U4ek1BbVdpcEY0d0hjTzRfV1VWcV9zY0UzSWRjRkRnSEJaVDQ0WXY3UnlrcmpCX2RNbThhYnlkVXFXNzFv?oc=5",
-    "at": "2026-11-27T16:09:41.000Z"
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcVA2TFBHUmxWNTlmUHg4VUxGSzN3Rzk3cFB1eEgzYVpreXY3OWZyamFJZ0FiYVNhdjZGWHFPamJqR2dFYkNCdEFVZWNpeElfVjktb05TbGZjNmVQMTJ5UllEak9IdnpNV3JOQVUwcEFGYndMMUJmYTJpWGl4NnZvbDY1ZE5kai15TFVkbmsyeGhMTDBtV0p2QnlCOE1NN3JrSVhod0E0RE84a2tnMHRpclhFNWZCdGhreGFEVkhiNUxwREx4cmJROGRPTThwcnF6X0Y0eg?oc=5",
+    "at": "2026-11-27T20:16:47.000Z"
    },
    {
-    "title": "Canada’s Federal Deficit Reaches C$5.14 Billion in Four Months",
-    "source": "www.tokenpost.com",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2YXl4UkdJM3JBdDA3dEJuSjRRYTlvTkJFdWxBTm1WaW5YSFpwdUdkUm1vU1FleEsySkZLd2NhQmk0ZF9TbmdYMlVIUDNoR0tGMnJYelFINm1vVFk?oc=5",
-    "at": "2026-11-27T16:08:15.000Z"
+    "title": "Nasdaq Leads Market Rebound as Treasury Yields Hit 5.29% at the Long End",
+    "source": "TradingView",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOG00dUVjZFhJM0F4aHEyYVhzRW93V29aWVJnR3BQLXdzRFBDRmdocmg4V2JxeF9TeG9KY012eWo5QlRTUzFlSE9kaDFvbmVEWC1jQWxsb3NnNkZ4VWdtZmJHSnJOZEE1YTNEcmxWMGNGcEt3UmZvV0ZQZl83a1R6dVdMX2w0NHYyZjIwcGtlbFN2Zm5mVkZSX0VEemFTNnc2NkR3dXpBVXkwUkhxWGNIUHJ4WDZERTc1YmhaZ3dvZ0VXeEwtZjR4R3RDTQ?oc=5",
+    "at": "2026-11-27T19:52:42.000Z"
    }
   ]
  }
